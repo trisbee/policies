@@ -1,0 +1,1 @@
+# Obchodní podmínky Trisbee.com
