@@ -52,7 +52,7 @@ OMEZENÍ VARIANTY (C):
 
 V této variantě smí Uživatel posílat platby do maximální výše 6000 CZK pro jednu platbu a do maximálního celkového limitu 60000 CZK za kalendářní rok a smí Aplikaci využít jen k nákupu zboží nebo služeb (nemusí jít jen o příjemce, kteří jsou Obchodníky podle těchto obchodních podmínek, mohou to být i jiní Uživatelé nebo příjemci mimo systém Trisbee). Pokud chce Uživatel s touto službou zaplatit za něco jiného, než je zboží nebo služba, musí nás napřed kontaktovat, abychom se mohli bavit o zřízení služby (D).  Stejně tak pokud Uživatel limit přesáhne, nabídneme mu službu (D).
 
-**Varianta (D): Vedení platebního účtu s možností platit za cokoliv **
+**Varianta (D): Vedení platebního účtu s možností platit za cokoliv**
 
 Funguje stejně jako (C), ale než začne Uživatel službu používat, musíme ho identifikovat postupem podle článku 5.1. Po tom, co Uživatele identifikujeme, smí Uživatel provádět i jiné platby než jen nákup zboží a služeb. Navíc si smí zůstatek z platebního účtu kdykoliv převést na svůj bankovní účet, který zadá v Aplikaci nebo přes webové rozhraní dostupné z aplikace.
 
@@ -116,7 +116,7 @@ Tato část platí pro každého Uživatele, Obchodníka a Klienta Obchodníka (
 Provozovatel je finanční institucí podle českého zákona č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu, ve znění pozdějších předpisů (AML Zákon). Podle AML Zákona Vás musíme identifikovat, pokud jste naším klientem – uživatelem platebních služeb. Protože poskytujeme platební služby prostřednictvím veřejné mobilní telefonní sítě jinak než s využitím elektronických peněz, nemusíme provádět identifikaci, pokud hodnota jednotlivé transakce nepřesáhne 250 EUR a současně celkový limit plateb realizovaných z jednoho telefonního čísla pro kalendářní rok nepřesahuje 2 500 EUR, pokud jde o platby za zboží nebo služby. Proto rozlišujeme různé varianty našich služeb a je nutné, abyste je jako naši klienti respektovali. Identifikujeme Vás některým z těchto způsobů:
 
 
-1 . Bez fyzické přítomnosti za podmínky, že předložíte elektronické kopie dvou svých identifikačních dokladů a dokladu o vedení bankovního účtu, ze kterého zaplatíte poplatek 1 Kč za aktivaci služby.
+1. Bez fyzické přítomnosti za podmínky, že předložíte elektronické kopie dvou svých identifikačních dokladů a dokladu o vedení bankovního účtu, ze kterého zaplatíte poplatek 1 Kč za aktivaci služby.
 
 2. Za Vaší fyzické přítomnosti klienta s tím, že identifikační údaje zaznamenáme a ověříme je z průkazu totožnosti. Přitom ověříme shodu podoby klienta s vyobrazením v průkazu totožnosti. V tomto případě nemusíte platit poplatek 1 Kč za aktivaci platebního účtu.
 
