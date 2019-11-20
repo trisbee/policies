@@ -42,12 +42,12 @@ OMEZENÍ VARIANTY (A):
 
 V této variantě smí Uživatel posílat platby do maximální výše 6000 CZK pro jednu platbu a do maximálního celkového limitu 60000 CZK za kalendářní rok a smí Aplikaci využít jen k nákupu zboží nebo služeb. Pokud chce Uživatel s touto službou zaplatit za něco jiného, než je zboží nebo služba, musí si k tomu zřídit službu (B). Stejně tak pokud Uživatel limit přesáhne, nabídneme mu službu (B)
 
-**Varianta (B): Platím kartou za cokoliv, ale také Obchodníkům, za cokoliv, bez zřízení platebního účtu**
+**Varianta (B): Platím kartou Uživatelům, ale také Obchodníkům, za cokoliv, bez zřízení platebního účtu**
 
 Funguje stejně jako (A), ale než začne Uživatel službu používat, musíme ho identifikovat postupem podle článku 5.1. Po tom, co Uživatele identifikujeme, smí Uživatel provádět i jiné platby než jen nákup zboží a služeb.
 
 
-**Varianta (C): Platím Uživatelům (mimo Obchodníky) za jejich zboží a služby s vedením platebního účtu (Plátce neplatí Provozovateli žádný poplatek**
+**Varianta (C): Platím Uživatelům (mimo Obchodníky) za jejich zboží a služby s vedením platebního účtu (Plátce neplatí Provozovateli žádný poplatek)**
 
 Pokud někdo pošle peníze na telefonní číslo osoby, která u nás nemá otevřený platební účet, můžeme adresátovi nabídnout otevření platebního účtu. Smlouva o vedení platebního účtu je uzavřena tím, že Uživatel odsouhlasí tyto obchodní podmínky. Uživatel s platebním účtem může přijímat platby od ostatních Uživatelů. A může provádět platby z platebního účtu. Pokud je převáděná částka plus poplatek vyšší než zůstatek na platebním účtu, pak zbývající část strhneme z karty plátce a převedeme ji na platební účet plátce u Provozovatele. Hned potom, co Uživatel zadá v Aplikaci příkaz, odešle Provozovatel na zadané mobilní číslo příjemce SMS (nebo zprávu do Aplikace, pokud ji má příjemce nainstalovanou) s informací o platbě a o tom, jak lze platbu přijmout. Pokud má příjemce platby platební účet Trisbee, považujeme příkaz za přijatý již okamžikem zadání příkazu a připíšeme převáděné prostředky příjemci na jeho na platební účet. Pokud příjemce nemá platební účet, dáme mu možnost otevřít si platební účet nebo si nechat peníze poslat na účet v české bance. Platební příkaz považujeme za přijatý okamžikem, kdy nám příjemce oznámí platné číslo bankovního účtu nebo kdy si příjemce otevře platební účet Trisbee. Nejpozději do konce následujícího pracovního dne peníze poukážeme na takový bankovní nebo platební účet. Pokud příkaz nedokážeme přijmout ani 30 dní po jeho zadání (tedy příjemce si v dané lhůtě neotevře platební účet ani nám neoznámí číslo bankovního účtu), vrátíme peníze, které měly být určené k provedené platebního příkazu, včetně poplatku na platební účet plátce.
 
