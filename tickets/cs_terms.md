@@ -62,12 +62,12 @@
 
 **3.4.** Pokud se Trisbee s Pořadatelem nedohodnou jinak, platí, že se Pořadatel zavazuje zajistit:
 
-    a) aby jím provozovaná internetová stránka, která obsahuje propagaci Akce, obsahovala logo Trisbee alespoň na stránce odkazující na prodej vstupenek na Akci/Akce,
-    b) aby jím provozovaná internetová stránka v rámci nákupu vstupenky na Akci, jejíž prodej zprostředkovává Trisbee, odkazovala na internetovou stránku ticket.trisbee.com a umožňovala tak Kupujícímu přímý přístup do prodejního systému Trisbee,
-    c) aby v případě, že využívá též jiné prostředky k propagaci své Akce než jen internet, bylo na takových prostředcích vždy uvedeno, že vstupenky na Akce je možné zakoupit prostřednictvím Trisbee (tickets.trisbee.com),
-    d) aby bylo logo (nebo název) Trisbee uvedeno na všech sociálních sítích a jiných internetových stránkách provozovaných Pořadatelem za účelem propagace Akce s přímým odkazem na internetovou stránku tickets.trisbee.com, který umožní Kupujícímu přímý přístup k nákupu vstupenek na Akci/Akce Pořadatele,
-    e) pro Trisbee alespoň 4 volné vstupenky na Akci zdarma za účelem propagace,
-    f) aby podmínky prodeje vstupenek prodávaných na Akci jinými prodejci vstupenek, kteří mají za tímto účelem uzavřený smluvní vztah s Pořadatelem, byly srovnatelné jako podmínky prodeje vstupenek prostřednictvím Trisbee a ceny vstupenek nebyly nižší, než ceny vstupenek na Akci prodávaných prostřednictvím Trisbee. Za nedodržení výše uvedených závazků se Pořadatel zavazuje uhradit Trisbee smluvní pokutu ve výši 100.000,- Kč za každé jednotlivé porušení závazku, a to ve lhůtě stanovené v písemné výzvě Trisbee zaslané Pořadateli na jím uvedenou kontaktní adresu. Zaplacením smluvní pokuty podle tohoto ustanovení nezaniká nárok Trisbee na náhradu případně vzniklé škody, která přesahuje výši smluvní pokuty.
+a) aby jím provozovaná internetová stránka, která obsahuje propagaci Akce, obsahovala logo Trisbee alespoň na stránce odkazující na prodej vstupenek na Akci/Akce,
+b) aby jím provozovaná internetová stránka v rámci nákupu vstupenky na Akci, jejíž prodej zprostředkovává Trisbee, odkazovala na internetovou stránku ticket.trisbee.com a umožňovala tak Kupujícímu přímý přístup do prodejního systému Trisbee,
+c) aby v případě, že využívá též jiné prostředky k propagaci své Akce než jen internet, bylo na takových prostředcích vždy uvedeno, že vstupenky na Akce je možné zakoupit prostřednictvím Trisbee (tickets.trisbee.com),
+d) aby bylo logo (nebo název) Trisbee uvedeno na všech sociálních sítích a jiných internetových stránkách provozovaných Pořadatelem za účelem propagace Akce s přímým odkazem na internetovou stránku tickets.trisbee.com, který umožní Kupujícímu přímý přístup k nákupu vstupenek na Akci/Akce Pořadatele,
+e) pro Trisbee alespoň 4 volné vstupenky na Akci zdarma za účelem propagace,
+f) aby podmínky prodeje vstupenek prodávaných na Akci jinými prodejci vstupenek, kteří mají za tímto účelem uzavřený smluvní vztah s Pořadatelem, byly srovnatelné jako podmínky prodeje vstupenek prostřednictvím Trisbee a ceny vstupenek nebyly nižší, než ceny vstupenek na Akci prodávaných prostřednictvím Trisbee. Za nedodržení výše uvedených závazků se Pořadatel zavazuje uhradit Trisbee smluvní pokutu ve výši 100.000,- Kč za každé jednotlivé porušení závazku, a to ve lhůtě stanovené v písemné výzvě Trisbee zaslané Pořadateli na jím uvedenou kontaktní adresu. Zaplacením smluvní pokuty podle tohoto ustanovení nezaniká nárok Trisbee na náhradu případně vzniklé škody, která přesahuje výši smluvní pokuty.
 
 **3.5.** Pokud si smluvní strany nedohodnou jinak, je Trisbee oprávněno umístit na vstupenku na Akci Pořadatele propagační sdělení/reklamu dle svého obchodního uvážení a potřeb.
 
@@ -109,8 +109,8 @@
 
 **4.1.2.** Smluvní strany zpracovávají osobní údaje konkrétně z těchto důvodů:
 
-    a) splnění závazků z uzavřené smlouvy o koupi vstupenky - potvrzení o zaplacení vstupenky, doručení vstupenky, resp. jedinečného identifikátoru vstupenky, informace o případných změnách Akce, kontrola vstupenky u vstupu na Akci, vyřízení reklamace
-    b) oprávněný zájem Trisbee a Pořadatele - vyřízení reklamace Kupujícího, prevence a odhalování možného podvodného jednání, obrana při případném uplatňování nároků Kupujícího souvisejících s prodejem vstupenek c. k zasílání obchodních sdělení a newsletterů od Trisbee či Pořadatele v případě, že k tomu při nákupu vstupenky Kupující udělí výslovný souhlas - tento souhlas může Kupující kdykoliv odvolat postupem sděleným v každém zaslaném obchodním sdělení.
+a) splnění závazků z uzavřené smlouvy o koupi vstupenky - potvrzení o zaplacení vstupenky, doručení vstupenky, resp. jedinečného identifikátoru vstupenky, informace o případných změnách Akce, kontrola vstupenky u vstupu na Akci, vyřízení reklamace
+b) oprávněný zájem Trisbee a Pořadatele - vyřízení reklamace Kupujícího, prevence a odhalování možného podvodného jednání, obrana při případném uplatňování nároků Kupujícího souvisejících s prodejem vstupenek c. k zasílání obchodních sdělení a newsletterů od Trisbee či Pořadatele v případě, že k tomu při nákupu vstupenky Kupující udělí výslovný souhlas - tento souhlas může Kupující kdykoliv odvolat postupem sděleným v každém zaslaném obchodním sdělení.
 
 **4.1.3.** Zpracovávanými osobními údaji jsou osobní údaje Kupujících získané Trisbee při nákupu vstupenek, konkrétně jméno, příjmení, e-mail a telefonní číslo, a případně další údaje vyžadované Pořadatelem, které jsou nezbytné pro uskutečnění Akce nebo které je nezbytné ověřit u Kupujícího z pohledu umožnění jeho účasti na Akci (např. věk).
 
@@ -120,14 +120,14 @@
 
 **4.1.6.** Pořadatel se, stejně jako Trisbee, zavazují dodržovat všechny standardy technického i organizačního zabezpečení ochrany zpracovávaných osobních údajů, a to po celou dobu, po kterou jsou oprávněni osobní údaje Kupujících zpracovávat. Konkrétně se Pořadatel i Trisbee zavazují dodržovat následující pravidla:
 
-    a) zajišťují elektronické zabezpečení a antivirovou ochranu všech zařízení, prostřednictvím kterých jsou zpracovávány osobní údaje Kupujících;
-    b) osobní údaje Kupujících nebudou jednotlivé autorizované osoby za Trisbee ani Pořadatele ukládat na svých zařízeních nebo exportovat z interních systémů, pokud to není nezbytně nutné pro realizaci Akce;
-    c) zpracovávané osobní údaje nesmí být nikdy ukládány na nosiče informací,kterou mohou být přístupné třetím osobám;
-    d) zpracovávané osobní údaje nesmí být poskytnuty ani jinak zpřístupněny třetím osobám;
-    e) všechny osoby, které budou přicházet do kontaktu se zpracovávanými osobními údaji, musí být vždy řádně poučeny a zavázány mlčenlivostí (která trvá i po skončení činnosti vykonávané pro Trisbee nebo Pořadatele);
-    f) přístup k zařízením a úložištím, na kterých dochází ke zpracovávání osobních údajů, musí být chráněn heslem;
-    g) přístupová práva k zařízení a úložišti s osobními údaji Kupujících budou mít vždy pouze pracovníci Trisbee nebo Pořadatele, jejichž pracovní zařazení to vyžaduje a kteří budou proškoleni ohledně zpracování osobních údajů. Tito pracovníci budou mít přístup pouze k osobním údajům odpovídajícím oprávnění těchto osob;
-    h) Trisbee i Pořadatel se řídí vlastními vnitřními předpisy upravujícími organizační a technická opatření a postupy a s nimi spojené povinnosti pracovníků Trisbee i Pořadatele, jejichž účelem je zajištění bezpečnosti zpracovávaných osobních údajů.
+a) zajišťují elektronické zabezpečení a antivirovou ochranu všech zařízení, prostřednictvím kterých jsou zpracovávány osobní údaje Kupujících;
+b) osobní údaje Kupujících nebudou jednotlivé autorizované osoby za Trisbee ani Pořadatele ukládat na svých zařízeních nebo exportovat z interních systémů, pokud to není nezbytně nutné pro realizaci Akce;
+c) zpracovávané osobní údaje nesmí být nikdy ukládány na nosiče informací,kterou mohou být přístupné třetím osobám;
+d) zpracovávané osobní údaje nesmí být poskytnuty ani jinak zpřístupněny třetím osobám;
+e) všechny osoby, které budou přicházet do kontaktu se zpracovávanými osobními údaji, musí být vždy řádně poučeny a zavázány mlčenlivostí (která trvá i po skončení činnosti vykonávané pro Trisbee nebo Pořadatele);
+f) přístup k zařízením a úložištím, na kterých dochází ke zpracovávání osobních údajů, musí být chráněn heslem;
+g) přístupová práva k zařízení a úložišti s osobními údaji Kupujících budou mít vždy pouze pracovníci Trisbee nebo Pořadatele, jejichž pracovní zařazení to vyžaduje a kteří budou proškoleni ohledně zpracování osobních údajů. Tito pracovníci budou mít přístup pouze k osobním údajům odpovídajícím oprávnění těchto osob;
+h) Trisbee i Pořadatel se řídí vlastními vnitřními předpisy upravujícími organizační a technická opatření a postupy a s nimi spojené povinnosti pracovníků Trisbee i Pořadatele, jejichž účelem je zajištění bezpečnosti zpracovávaných osobních údajů.
 
 **4.1.7.** Pořadatel bere na vědomí, že zpracování osobních údajů Kupujících se řídí ustanoveními tohoto oddílu 4.1. obchodních podmínek a potvrzuje, že se s nimi seznámil. Pořadatel se zavazuje dodržovat veškeré povinnosti týkající se ochrany osobních údajů Kupujících vyplývající z těchto obchodních podmínek a zavazuje se nečinit nic, co by ve vztahu ke Kupujícím mohlo mít za následek porušení ochrany jejich osobních údajů.
 
@@ -135,24 +135,24 @@
 
 **4.1.9.** Trisbee i Pořadatel v plném rozsahu respektují práva Kupujícího vyplývající z GDPR:
 
-    ● **Právo na přístup k údajům**
-    - v rozsahu garantovaném právními předpisy na ochranu osobních údajů může Kupující požadovat přístup ke svým osobním údajům
-    - informace o tom, zda s nimi Trisbee či Pořadatel pracuje, s jakými konkrétními údaji a jak s nimi pracuje,
+● **Právo na přístup k údajům**
+- v rozsahu garantovaném právními předpisy na ochranu osobních údajů může Kupující požadovat přístup ke svým osobním údajům
+- informace o tom, zda s nimi Trisbee či Pořadatel pracuje, s jakými konkrétními údaji a jak s nimi pracuje,
 
-    ● **Právo na opravu**
-    - Kupující může požadovat opravu nesprávného údaje nebo doplnění neúplného údaje, případně poskytnutí dodatečného souhlasu,
+● **Právo na opravu**
+- Kupující může požadovat opravu nesprávného údaje nebo doplnění neúplného údaje, případně poskytnutí dodatečného souhlasu,
 
-    ● **Právo na omezení zpracování**
-    - za stanovených zákonných podmínek sice nebudou údaje vymazány, ale Trisbee/Pořadatel je nebude dále zpracovávat (například v situaci zjišťování oprávněného zájmu na zpracování převažujícího nad požadavkem na výmaz osobních údajů),
+● **Právo na omezení zpracování**
+- za stanovených zákonných podmínek sice nebudou údaje vymazány, ale Trisbee/Pořadatel je nebude dále zpracovávat (například v situaci zjišťování oprávněného zájmu na zpracování převažujícího nad požadavkem na výmaz osobních údajů),
 
-    ● **Právo na výmaz**
-    - vždy pokud jsou pro to splněny zákonné podmínky (například při odvolání souhlasu se zpracováním osobních údajů, zpracování osobních údajů již není třeba, oprávněný zájem na zpracování již pominul apod.),
+● **Právo na výmaz**
+- vždy pokud jsou pro to splněny zákonné podmínky (například při odvolání souhlasu se zpracováním osobních údajů, zpracování osobních údajů již není třeba, oprávněný zájem na zpracování již pominul apod.),
 
-    ● **Právo vznést námitku proti zpracování**
-    - právo namítat existenci důvodu pro konkrétní zpracování osobních údajů (námitku je zapotřebí konkretizovat),
+● **Právo vznést námitku proti zpracování**
+- právo namítat existenci důvodu pro konkrétní zpracování osobních údajů (námitku je zapotřebí konkretizovat),
 
-    ● **Právo na přenositelnost údajů**
-    - právo požádat Trisbee nebo Pořadatele jako správce osobních údajů, aby tyto osobní údaje, pokud je to technicky proveditelné, předal jinému správci osobních údajů.
+● **Právo na přenositelnost údajů**
+- právo požádat Trisbee nebo Pořadatele jako správce osobních údajů, aby tyto osobní údaje, pokud je to technicky proveditelné, předal jinému správci osobních údajů.
 
 **4.1.10.** Trisbee i Pořadatel jsou povinni přijmout taková opatření, aby nemohlo dojít k neoprávněnému nebo nahodilému přístupu k osobním údajům Kupujících, k jejich změně, zničení či ztrátě, neoprávněným přenosům, k jejich jinému neoprávněnému zpracování, jakož i k jinému zneužití osobních údajů. Tato povinnost platí i po ukončení zpracování osobních údajů. Veškeré případy náhodného nebo neoprávněného přístupu k osobním údajům Kupujících se smluvní strany zavazují si vzájemně neprodleně oznámit.
 
