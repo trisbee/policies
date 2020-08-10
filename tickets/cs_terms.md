@@ -4,17 +4,17 @@
 
 ## 1.1. Kdo se řídí těmito obchodními podmínkami?
 
-**1.**  **Trisbee s.r.o.** , se sídlem Praha 6, Vokovice, K Červenému vrchu 678/1, PSČ 160 00, IČO: 04775660, vedená v OR u Městského soudu v Praze pod spisovou značkou C 306886 (dále jen jako &quot; **Trisbee**&quot;), jako poskytovatel platebních služeb a zprostředkovatel prodeje vstupenek.
+**1.** **Trisbee s.r.o.** , se sídlem Praha 6, Vokovice, K Červenému vrchu 678/1, PSČ 160 00, IČO: 04775660, vedená v OR u Městského soudu v Praze pod spisovou značkou C 306886 (dále jen jako &quot; **Trisbee**&quot;), jako poskytovatel platebních služeb a zprostředkovatel prodeje vstupenek.
 
-**2.**  **Každý, kdo s Trisbee uzavře smlouvu o zprostředkování prodeje vstupenek** třetím osobám, a to na události jím pořádané (dále jen jako &quot; **Pořadatel**&quot;). Každý Pořadatel je identifikován v popisu události včetně kontaktů.
+**2.** **Každý, kdo s Trisbee uzavře smlouvu o zprostředkování prodeje vstupenek** třetím osobám, a to na události jím pořádané (dále jen jako &quot; **Pořadatel**&quot;). Každý Pořadatel je identifikován v popisu události včetně kontaktů.
 
-**3.**  **Každý, kdo hodlá využít možnosti nákupu vstupenek prostřednictvím Trisbee na událost organizovanou Pořadatelem** a vyjádří za tím účelem svůj souhlas s těmito obchodními podmínkami (dále jen jako &quot; **Kupující**&quot;).
+**3.** **Každý, kdo hodlá využít možnosti nákupu vstupenek prostřednictvím Trisbee na událost organizovanou Pořadatelem** a vyjádří za tím účelem svůj souhlas s těmito obchodními podmínkami (dále jen jako &quot; **Kupující**&quot;).
 
 ### 1.2. Co upravují tyto obchodní podmínky?
 
 **1.2.1.** Tyto obchodní podmínky upravují práva a povinnosti Trisbee, Pořadatele a Kupujícího vznikající v souvislosti se zprostředkováním prodeje vstupenek ze strany Trisbee Kupujícímu, a to na kulturní, sportovní nebo jiné události pořádané Pořadatelem (dále jen jako &quot; **Akce**&quot;).
 
-**1.2.2.** Trisbee nabízí vstupenky na Akce Pořadatelů na svých webových stránkách **tickets.trisbee.com** a zajišťuje jejich výrobu, prodej a doručení Kupujícím, a to jménem Pořadatele (Trisbee je zprostředkovatelem prodeje) a na jeho účet na základě pověření uděleného v souladu se smlouvou uzavřenou mezi Trisbee a Pořadatelem.
+**1.2.2.** Trisbee nabízí vstupenky na Akce Pořadatelů na svých webových stránkách **goforboom.com** a zajišťuje jejich výrobu, prodej a doručení Kupujícím, a to jménem Pořadatele (Trisbee je zprostředkovatelem prodeje) a na jeho účet na základě pověření uděleného v souladu se smlouvou uzavřenou mezi Trisbee a Pořadatelem.
 
 **1.2.3.** Kupující bere nákupem vstupenky na vědomí, že pořadatelem Akce je Pořadatel, nikoli Trisbee. Za konání Akce či její případné změny je odpovědný Pořadatel, stejně tak je odpovědný za oznámení o případném nekonání Akce nebo o změnách Akce Kupujícímu. Pořadatel si vyhrazuje právo na změny týkající se Akce, jejího programu, termínu nebo místa konání. Toto právo Pořadatele bere Kupující též na vědomí. Trisbee žádným způsobem neodpovídá za aktuálnost údajů o Akci organizované Pořadatelem na svých webových stránkách v případě, že Pořadatel případné nekonání Akce nebo její změny Trisbee neoznámí.
 
@@ -28,7 +28,7 @@
 
 ## 2.1. Jak probíhá nákup vstupenky?
 
-**2.1.1.** Kupující zvolí na webových stránkách tickets.trisbee.com Akci, na kterou chce zakoupit vstupenky, tím se přesune do části s detailním popisem Akce a konkrétními podmínkami Akce (termín konání, místo konání, cena vstupenek a další) včetně podmínek týkajících se zakoupených vstupenek na Akci. V této části (detailní popis Akce) je Kupující povinen vyplnit identifikační údaje o své osobě, dále druh a počet vstupenek (počet vstupenek pro jednoho Kupujícího může být Pořadatelem omezen), případně další údaje, které mohou být nezbytné pro umožnění účasti Kupujícího na Akci (např. věk), a tlačítkem &quot;Zakoupit vstupenky&quot; potvrdí svůj zájem o nákup předmětných vstupenek.
+**2.1.1.** Kupující zvolí na webových stránkách goforboom.com Akci, na kterou chce zakoupit vstupenky, tím se přesune do části s detailním popisem Akce a konkrétními podmínkami Akce (termín konání, místo konání, cena vstupenek a další) včetně podmínek týkajících se zakoupených vstupenek na Akci. V této části (detailní popis Akce) je Kupující povinen vyplnit identifikační údaje o své osobě, dále druh a počet vstupenek (počet vstupenek pro jednoho Kupujícího může být Pořadatelem omezen), případně další údaje, které mohou být nezbytné pro umožnění účasti Kupujícího na Akci (např. věk), a tlačítkem &quot;Zakoupit vstupenky&quot; potvrdí svůj zájem o nákup předmětných vstupenek.
 
 **2.1.2.** Potvrzením tlačítka &quot;Zakoupit vstupenky&quot; Kupující potvrzuje, že se seznámil se všemi zveřejněnými podmínkami Akce a těmito obchodními podmínkami, stejně jako se zásadami ochrany osobních údajů, a souhlasí s nimi.
 
@@ -50,7 +50,7 @@
 
 **2.2.4.** V případě, že ze strany Pořadatele dojde ke změně termínu Akce nebo k úplnému zrušení Akce, má Kupující vůči Pořadateli právo na vrácení ceny zaplaceného vstupného, případně získání poukazu na další nákup vstupenek. Toto právo uplatňuje Kupující u Pořadatele Akce, případně prostřednictvím Trisbee, a to bez zbytečného odkladu, nejpozději však ve lhůtě 5 dnů ode dne původního termínu konání Akce za předpokladu, že vstupenka dosud nebyla Kupujícím využita. Nárok Kupujícího na vrácení zaplacené ceny vstupného nebo vystavení poukazu ve výši ceny původního vstupného dle předchozí věty vypořádá Pořadatel, případně Trisbee, to však vždy jen do výše finančních prostředků, které má Trisbee k dispozici od Pořadatele, resp. do výše finančních prostředků z prodeje vstupenek od Kupujících, které Trisbee ještě neodeslalo Pořadateli.
 
-**2.2.5.** Dotazy a nejasnosti týkající se koupě nebo reklamace zakoupených vstupenek může Kupující zaslat Trisbee na emailovou adresu podpora@trisbee.com.
+**2.2.5.** Dotazy a nejasnosti týkající se koupě nebo reklamace zakoupených vstupenek může Kupující zaslat Trisbee na emailovou adresu podpora@goforboom.com.
 
 ## ČÁST 3 - PRÁVA A POVINNOSTI POŘADATELE
 
@@ -62,18 +62,25 @@
 
 **3.4.** Pokud se Trisbee s Pořadatelem nedohodnou jinak, platí, že se Pořadatel zavazuje zajistit:
 
-    a) aby jím provozovaná internetová stránka, která obsahuje propagaci Akce, obsahovala logo Trisbee alespoň na stránce odkazující na prodej vstupenek na Akci/Akce,
-    b) aby jím provozovaná internetová stránka v rámci nákupu vstupenky na Akci, jejíž prodej zprostředkovává Trisbee, odkazovala na internetovou stránku ticket.trisbee.com a umožňovala tak Kupujícímu přímý přístup do prodejního systému Trisbee,
-    c) aby v případě, že využívá též jiné prostředky k propagaci své Akce než jen internet, bylo na takových prostředcích vždy uvedeno, že vstupenky na Akce je možné zakoupit prostřednictvím Trisbee (tickets.trisbee.com),
-    d) aby bylo logo (nebo název) Trisbee uvedeno na všech sociálních sítích a jiných internetových stránkách provozovaných Pořadatelem za účelem propagace Akce s přímým odkazem na internetovou stránku tickets.trisbee.com, který umožní Kupujícímu přímý přístup k nákupu vstupenek na Akci/Akce Pořadatele,
-    e) pro Trisbee alespoň 4 volné vstupenky na Akci zdarma za účelem propagace,
-    f) aby podmínky prodeje vstupenek prodávaných na Akci jinými prodejci vstupenek, kteří mají za tímto účelem uzavřený smluvní vztah s Pořadatelem, byly srovnatelné jako podmínky prodeje vstupenek prostřednictvím Trisbee a ceny vstupenek nebyly nižší, než ceny vstupenek na Akci prodávaných prostřednictvím Trisbee. Za nedodržení výše uvedených závazků se Pořadatel zavazuje uhradit Trisbee smluvní pokutu ve výši 100.000,- Kč za každé jednotlivé porušení závazku, a to ve lhůtě stanovené v písemné výzvě Trisbee zaslané Pořadateli na jím uvedenou kontaktní adresu. Zaplacením smluvní pokuty podle tohoto ustanovení nezaniká nárok Trisbee na náhradu případně vzniklé škody, která přesahuje výši smluvní pokuty.
+a) aby jím provozovaná internetová stránka, která obsahuje propagaci Akce, obsahovala logo Trisbee alespoň na stránce odkazující na prodej vstupenek na Akci/Akce,
+
+b) aby jím provozovaná internetová stránka v rámci nákupu vstupenky na Akci, jejíž prodej zprostředkovává Trisbee, odkazovala na internetovou stránku ticket.trisbee.com a umožňovala tak Kupujícímu přímý přístup do prodejního systému Trisbee,
+
+c) aby v případě, že využívá též jiné prostředky k propagaci své Akce než jen internet, bylo na takových prostředcích vždy uvedeno, že vstupenky na Akce je možné zakoupit prostřednictvím Trisbee (goforboom.com),
+
+d) aby bylo logo (nebo název) Trisbee uvedeno na všech sociálních sítích a jiných internetových stránkách provozovaných Pořadatelem za účelem propagace Akce s přímým odkazem na internetovou stránku goforboom.com, který umožní Kupujícímu přímý přístup k nákupu vstupenek na Akci/Akce Pořadatele,
+
+e) pro Trisbee alespoň 4 volné vstupenky na Akci zdarma za účelem propagace,
+
+f) aby podmínky prodeje vstupenek prodávaných na Akci jinými prodejci vstupenek, kteří mají za tímto účelem uzavřený smluvní vztah s Pořadatelem, byly srovnatelné jako podmínky prodeje vstupenek prostřednictvím Trisbee a ceny vstupenek nebyly nižší, než ceny vstupenek na Akci prodávaných prostřednictvím Trisbee.
+
+Za nedodržení výše uvedených závazků se Pořadatel zavazuje uhradit Trisbee smluvní pokutu ve výši 100.000,- Kč za každé jednotlivé porušení závazku, a to ve lhůtě stanovené v písemné výzvě Trisbee zaslané Pořadateli na jím uvedenou kontaktní adresu. Zaplacením smluvní pokuty podle tohoto ustanovení nezaniká nárok Trisbee na náhradu případně vzniklé škody, která přesahuje výši smluvní pokuty.
 
 **3.5.** Pokud si smluvní strany nedohodnou jinak, je Trisbee oprávněno umístit na vstupenku na Akci Pořadatele propagační sdělení/reklamu dle svého obchodního uvážení a potřeb.
 
 **3.6.** Pokud si strany nedohodnou jinak, platí, že prodej vstupenek je standardně ukončen vyprodáním všech vstupenek určených k prodeji na Akci prostřednictvím Trisbee nebo nejpozději před začátkem Akce. Trisbee se zavazuje bez zbytečného odkladu po ukončení online prodeje vstupenek dodat Pořadateli informace o prodaných vstupenkách na Akci, tj. seznam prodaných vstupenek včetně identifikace Kupujících (v rozsahu nezbytně nutném pro potřeby Pořadatele tak, aby bylo možno u vstupu vpustit Kupujícího i v případě např. technického problému s jedinečným identifikátorem vstupenky). Pokud se tak Trisbee s Pořadatelem dohodnou, dodá Trisbee Pořadateli též mobilní aplikaci k odbavení Kupujících na vstupu na Akci.
 
-**3.7.** Pokud není mezi stranami smluveno jinak, zavazuje se Pořadatel uhradit Trisbee za zprostředkování prodeje vstupenek a propagaci Akce na jeho intenetových stránkách tickets.trisbee.com odměnu ve výši 4 % navýšenou o příslušnou sazbu DPH z ceny každé prodané vstupenky (dále jen jako &quot; **Odměna**&quot;). Odměna Trisbee je splatná úplným zaplacením ceny vstupenky ze strany Kupujícího. Pořadatel tímto výslovně souhlasí s tím, aby si Trisbee odečetlo a ponechalo Odměnu z částky zaplacené Kupujícím za vstupenku a přijaté ve prospěch bankovního účtu Trisbee. Vyúčtování Odměny formou řádného daňového dokladu předloží Trisbee Pořadateli bez zbytečného odkladu poté, co bude mezi stranami provedeno vypořádání finančních nároků (po uskutečnění Akce i v případě její změny, nebo po jejím zrušení).
+**3.7.** Pokud není mezi stranami smluveno jinak, zavazuje se Pořadatel uhradit Trisbee za zprostředkování prodeje vstupenek a propagaci Akce na jeho intenetových stránkách goforboom.com odměnu ve výši 4 % navýšenou o příslušnou sazbu DPH z ceny každé prodané vstupenky (dále jen jako &quot; **Odměna**&quot;). Odměna Trisbee je splatná úplným zaplacením ceny vstupenky ze strany Kupujícího. Pořadatel tímto výslovně souhlasí s tím, aby si Trisbee odečetlo a ponechalo Odměnu z částky zaplacené Kupujícím za vstupenku a přijaté ve prospěch bankovního účtu Trisbee. Vyúčtování Odměny formou řádného daňového dokladu předloží Trisbee Pořadateli bez zbytečného odkladu poté, co bude mezi stranami provedeno vypořádání finančních nároků (po uskutečnění Akce i v případě její změny, nebo po jejím zrušení).
 
 **3.8.** Trisbee předává Pořadateli pravidelné aktualizace stavu prodaných vstupenek na Akci (Akce) Pořadatele, a to v dohodnutých termínech a v dohodnuté formě (např. ve formě sdílené tabulky nebo zasíláním aktualizované tabulky emailovou zprávou).
 
@@ -103,14 +110,17 @@
 
 ## ČÁST 4 - DALŠÍ PRÁVA A POVINNOSTI
 
-### 4.1. Zpracování osobních údajů**
+### 4.1. Zpracování osobních údajů\*\*
 
 **4.1.1.** Trisbee a Pořadatel společně zpracovávají osobní údaje Kupujících, a to za účelem prodeje vstupenek a řádného uskutečnění Akce. Dle nařízení Evropského parlamentu a Rady (EU) 2016/679 ze dne 27. dubna 2016 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení směrnice 95/46/ES (dále jen jako &quot; **GDPR**&quot;) jsou Trisbee a Pořadatel společnými správci a plní svoji povinnost dle čl. 26 GDPR. Trisbee je identifikován v čl. 1.1. odst. 1 těchto obchodních podmínek a identifikace Pořadatele je uvedena v popisu Akce, na kterou Trisbee zprostředkovává prodej vstupenek.
 
 **4.1.2.** Smluvní strany zpracovávají osobní údaje konkrétně z těchto důvodů:
 
-    a) splnění závazků z uzavřené smlouvy o koupi vstupenky - potvrzení o zaplacení vstupenky, doručení vstupenky, resp. jedinečného identifikátoru vstupenky, informace o případných změnách Akce, kontrola vstupenky u vstupu na Akci, vyřízení reklamace
-    b) oprávněný zájem Trisbee a Pořadatele - vyřízení reklamace Kupujícího, prevence a odhalování možného podvodného jednání, obrana při případném uplatňování nároků Kupujícího souvisejících s prodejem vstupenek c. k zasílání obchodních sdělení a newsletterů od Trisbee či Pořadatele v případě, že k tomu při nákupu vstupenky Kupující udělí výslovný souhlas - tento souhlas může Kupující kdykoliv odvolat postupem sděleným v každém zaslaném obchodním sdělení.
+a) splnění závazků z uzavřené smlouvy o koupi vstupenky - potvrzení o zaplacení vstupenky, doručení vstupenky, resp. jedinečného identifikátoru vstupenky, informace o případných změnách Akce, kontrola vstupenky u vstupu na Akci, vyřízení reklamace
+
+b) oprávněný zájem Trisbee a Pořadatele - vyřízení reklamace Kupujícího, prevence a odhalování možného podvodného jednání, obrana při případném uplatňování nároků Kupujícího souvisejících s prodejem vstupenek
+
+c) k zasílání obchodních sdělení a newsletterů od Trisbee či Pořadatele v případě, že k tomu při nákupu vstupenky Kupující udělí výslovný souhlas - tento souhlas může Kupující kdykoliv odvolat postupem sděleným v každém zaslaném obchodním sdělení.
 
 **4.1.3.** Zpracovávanými osobními údaji jsou osobní údaje Kupujících získané Trisbee při nákupu vstupenek, konkrétně jméno, příjmení, e-mail a telefonní číslo, a případně další údaje vyžadované Pořadatelem, které jsou nezbytné pro uskutečnění Akce nebo které je nezbytné ověřit u Kupujícího z pohledu umožnění jeho účasti na Akci (např. věk).
 
@@ -120,14 +130,21 @@
 
 **4.1.6.** Pořadatel se, stejně jako Trisbee, zavazují dodržovat všechny standardy technického i organizačního zabezpečení ochrany zpracovávaných osobních údajů, a to po celou dobu, po kterou jsou oprávněni osobní údaje Kupujících zpracovávat. Konkrétně se Pořadatel i Trisbee zavazují dodržovat následující pravidla:
 
-    a) zajišťují elektronické zabezpečení a antivirovou ochranu všech zařízení, prostřednictvím kterých jsou zpracovávány osobní údaje Kupujících;
-    b) osobní údaje Kupujících nebudou jednotlivé autorizované osoby za Trisbee ani Pořadatele ukládat na svých zařízeních nebo exportovat z interních systémů, pokud to není nezbytně nutné pro realizaci Akce;
-    c) zpracovávané osobní údaje nesmí být nikdy ukládány na nosiče informací,kterou mohou být přístupné třetím osobám;
-    d) zpracovávané osobní údaje nesmí být poskytnuty ani jinak zpřístupněny třetím osobám;
-    e) všechny osoby, které budou přicházet do kontaktu se zpracovávanými osobními údaji, musí být vždy řádně poučeny a zavázány mlčenlivostí (která trvá i po skončení činnosti vykonávané pro Trisbee nebo Pořadatele);
-    f) přístup k zařízením a úložištím, na kterých dochází ke zpracovávání osobních údajů, musí být chráněn heslem;
-    g) přístupová práva k zařízení a úložišti s osobními údaji Kupujících budou mít vždy pouze pracovníci Trisbee nebo Pořadatele, jejichž pracovní zařazení to vyžaduje a kteří budou proškoleni ohledně zpracování osobních údajů. Tito pracovníci budou mít přístup pouze k osobním údajům odpovídajícím oprávnění těchto osob;
-    h) Trisbee i Pořadatel se řídí vlastními vnitřními předpisy upravujícími organizační a technická opatření a postupy a s nimi spojené povinnosti pracovníků Trisbee i Pořadatele, jejichž účelem je zajištění bezpečnosti zpracovávaných osobních údajů.
+a) zajišťují elektronické zabezpečení a antivirovou ochranu všech zařízení, prostřednictvím kterých jsou zpracovávány osobní údaje Kupujících;
+
+b) osobní údaje Kupujících nebudou jednotlivé autorizované osoby za Trisbee ani Pořadatele ukládat na svých zařízeních nebo exportovat z interních systémů, pokud to není nezbytně nutné pro realizaci Akce;
+
+c) zpracovávané osobní údaje nesmí být nikdy ukládány na nosiče informací,kterou mohou být přístupné třetím osobám;
+
+d) zpracovávané osobní údaje nesmí být poskytnuty ani jinak zpřístupněny třetím osobám;
+
+e) všechny osoby, které budou přicházet do kontaktu se zpracovávanými osobními údaji, musí být vždy řádně poučeny a zavázány mlčenlivostí (která trvá i po skončení činnosti vykonávané pro Trisbee nebo Pořadatele);
+
+f) přístup k zařízením a úložištím, na kterých dochází ke zpracovávání osobních údajů, musí být chráněn heslem;
+
+g) přístupová práva k zařízení a úložišti s osobními údaji Kupujících budou mít vždy pouze pracovníci Trisbee nebo Pořadatele, jejichž pracovní zařazení to vyžaduje a kteří budou proškoleni ohledně zpracování osobních údajů. Tito pracovníci budou mít přístup pouze k osobním údajům odpovídajícím oprávnění těchto osob;
+
+h) Trisbee i Pořadatel se řídí vlastními vnitřními předpisy upravujícími organizační a technická opatření a postupy a s nimi spojené povinnosti pracovníků Trisbee i Pořadatele, jejichž účelem je zajištění bezpečnosti zpracovávaných osobních údajů.
 
 **4.1.7.** Pořadatel bere na vědomí, že zpracování osobních údajů Kupujících se řídí ustanoveními tohoto oddílu 4.1. obchodních podmínek a potvrzuje, že se s nimi seznámil. Pořadatel se zavazuje dodržovat veškeré povinnosti týkající se ochrany osobních údajů Kupujících vyplývající z těchto obchodních podmínek a zavazuje se nečinit nic, co by ve vztahu ke Kupujícím mohlo mít za následek porušení ochrany jejich osobních údajů.
 
@@ -135,24 +152,30 @@
 
 **4.1.9.** Trisbee i Pořadatel v plném rozsahu respektují práva Kupujícího vyplývající z GDPR:
 
-    ● **Právo na přístup k údajům**
-    - v rozsahu garantovaném právními předpisy na ochranu osobních údajů může Kupující požadovat přístup ke svým osobním údajům
-    - informace o tom, zda s nimi Trisbee či Pořadatel pracuje, s jakými konkrétními údaji a jak s nimi pracuje,
+● **Právo na přístup k údajům**
 
-    ● **Právo na opravu**
-    - Kupující může požadovat opravu nesprávného údaje nebo doplnění neúplného údaje, případně poskytnutí dodatečného souhlasu,
+- v rozsahu garantovaném právními předpisy na ochranu osobních údajů může Kupující požadovat přístup ke svým osobním údajům
+- informace o tom, zda s nimi Trisbee či Pořadatel pracuje, s jakými konkrétními údaji a jak s nimi pracuje,
 
-    ● **Právo na omezení zpracování**
-    - za stanovených zákonných podmínek sice nebudou údaje vymazány, ale Trisbee/Pořadatel je nebude dále zpracovávat (například v situaci zjišťování oprávněného zájmu na zpracování převažujícího nad požadavkem na výmaz osobních údajů),
+● **Právo na opravu**
 
-    ● **Právo na výmaz**
-    - vždy pokud jsou pro to splněny zákonné podmínky (například při odvolání souhlasu se zpracováním osobních údajů, zpracování osobních údajů již není třeba, oprávněný zájem na zpracování již pominul apod.),
+- Kupující může požadovat opravu nesprávného údaje nebo doplnění neúplného údaje, případně poskytnutí dodatečného souhlasu,
 
-    ● **Právo vznést námitku proti zpracování**
-    - právo namítat existenci důvodu pro konkrétní zpracování osobních údajů (námitku je zapotřebí konkretizovat),
+● **Právo na omezení zpracování**
 
-    ● **Právo na přenositelnost údajů**
-    - právo požádat Trisbee nebo Pořadatele jako správce osobních údajů, aby tyto osobní údaje, pokud je to technicky proveditelné, předal jinému správci osobních údajů.
+- za stanovených zákonných podmínek sice nebudou údaje vymazány, ale Trisbee/Pořadatel je nebude dále zpracovávat (například v situaci zjišťování oprávněného zájmu na zpracování převažujícího nad požadavkem na výmaz osobních údajů),
+
+● **Právo na výmaz**
+
+- vždy pokud jsou pro to splněny zákonné podmínky (například při odvolání souhlasu se zpracováním osobních údajů, zpracování osobních údajů již není třeba, oprávněný zájem na zpracování již pominul apod.),
+
+● **Právo vznést námitku proti zpracování**
+
+- právo namítat existenci důvodu pro konkrétní zpracování osobních údajů (námitku je zapotřebí konkretizovat),
+
+● **Právo na přenositelnost údajů**
+
+- právo požádat Trisbee nebo Pořadatele jako správce osobních údajů, aby tyto osobní údaje, pokud je to technicky proveditelné, předal jinému správci osobních údajů.
 
 **4.1.10.** Trisbee i Pořadatel jsou povinni přijmout taková opatření, aby nemohlo dojít k neoprávněnému nebo nahodilému přístupu k osobním údajům Kupujících, k jejich změně, zničení či ztrátě, neoprávněným přenosům, k jejich jinému neoprávněnému zpracování, jakož i k jinému zneužití osobních údajů. Tato povinnost platí i po ukončení zpracování osobních údajů. Veškeré případy náhodného nebo neoprávněného přístupu k osobním údajům Kupujících se smluvní strany zavazují si vzájemně neprodleně oznámit.
 
@@ -162,7 +185,7 @@
 
 **4.1.13.** Pořadatel je po ukončení spolupráce s Trisbee povinen ukončit zpracovávání veškerých osobních údajů Kupujících, které převzal od Trisbee v souvislosti se zprostředkováním prodeje vstupenek a řádnou realizací Akce a již je pro tento účel nepotřebuje.
 
-**4.1.14.** Kupující může pro uplatnění jakéhokoliv z práv stanovených příslušnými právními předpisy kontaktovat Trisbee telefonicky na tel. +420 774 140 044 nebo písemně emailem na podpora@trisbee.com či na adrese kanceláře Kamenická 33, 170 00 Praha 7. Pokud byste se domnívali, že zpracováním Vašich osobních údajů dochází k porušování právních předpisů, máte právo podat stížnost u národního dozorového úřadu (Pro ČR - Úřad pro ochranu osobních údajů, Pplk. Sochora 27, 170 00 Praha 7, www.uoou.cz).
+**4.1.14.** Kupující může pro uplatnění jakéhokoliv z práv stanovených příslušnými právními předpisy kontaktovat Trisbee telefonicky na tel. +420 774 140 044 nebo písemně emailem na podpora@goforboom.com či na adrese kanceláře Kamenická 33, 170 00 Praha 7. Pokud byste se domnívali, že zpracováním Vašich osobních údajů dochází k porušování právních předpisů, máte právo podat stížnost u národního dozorového úřadu (Pro ČR - Úřad pro ochranu osobních údajů, Pplk. Sochora 27, 170 00 Praha 7, www.uoou.cz).
 
 **4.1.15.** Právní vztahy smluvních stran týkající se zpracování osobních údajů, které nejsou upraveny v tomto oddíle obchodních podmínek, se řídí příslušnými ustanoveními GDPR a dalšími příslušnými právními předpisy České republiky.
 
