@@ -686,3 +686,4 @@ The collected cookies are processed by the following data processors:
 The above data processors process cookies in accordance with their terms and conditions providing for handling of personal data.
 
 These policies for the use of cookies come into force and take effect from 1 August 2020.
+
