@@ -24,6 +24,7 @@
 
 **1.2.6** Aceste termene și condiții fac parte integrantă din contractul încheiat între Organizator și Cumpărător, ca persoană care cumpără bilete la Eveniment prin intermediul Trisbee. Aceste termene și condiții fac parte integrantă din acordul de ticketing încheiat între Organizator și Trisbee.
 
+
 ## **PARTEA 2 –** **DREPTURILE ȘI OBLIGAȚIILE CUMPĂRĂTORULUI**
 
 ## 2.1. Cum se face achiziția biletelor?

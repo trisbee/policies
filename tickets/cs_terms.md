@@ -207,6 +207,7 @@ Se spory, které mohou vzniknout mezi Pořadatelem a Kupujícím, jakožto spot�
 
 Tyto obchodní podmínky vstupují v platnost a jsou účinné od 1. července 2020.
 
+
 ## Cookies
 
 ### (1) Co jsou cookies?

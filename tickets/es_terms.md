@@ -173,6 +173,7 @@ Las controversias que puedan surgir entre el Organizador y el Comprador, como co
 
 Estas condiciones comerciales entran en vigor y son eficaces a partir del día 1 de agosto de 2020.
 
+
 ## Cookies
 
 ### (1) ¿Qué son las cookies?
@@ -206,6 +207,7 @@ Sin embargo, si se opone al procesamiento de cookies técnicas indispensables pa
 **Nunca utilizamos las cookies para identificar a usted personalmente y nunca colocamos datos sensibles o personales en las mismas.**
 
 ### (3) ¿Por qué procesamos las cookies?
+
 
 1. **Para mantener una plena funcionalidad del uso de nuestro sitio web** – las cookies necesarias para garantizar la plena funcionalidad del uso de nuestro sitio web (las denominadas cookies técnicas).
 2. **Para facilitar la navegación por nuestro sitio web -** las cookies que no son indispensablemente necesarias para el pleno funcionamiento del sitio web, sin embargo, su uso mejora la impresión y experiencia del usuario.

@@ -618,6 +618,7 @@ entrepreneur), § 1805 para. 2 and § 1936 para. 1.
 
 These Terms and Conditions enter into force and take effect on 1 August 2020.
 
+
 ## Cookies
 
 ### (1) What are cookies?
@@ -636,6 +637,7 @@ Cookies can be divided into two categories **depending on who creates and proces
 
 **Third party cookies** are most often those of advertising systems, social network widgets or embedded videos.
 
+
 ### (2) What cookies do we use?
 
 **We mainly use technical cookies\*\*** (first party and session cookies)\*\* that are necessary to ensure basic functionalities of the websites, applications, or other services, such as saving of the selected language version.
@@ -650,7 +652,9 @@ However, in case you object to the processing of technical cookies needed for th
 
 **We never use cookies to identify you personally and we never place sensitive or personal data therein.**
 
+
 ### (3) Why do we process cookies?
+
 
 1. **To ensure full functionality and usability of our website** - cookies required to ensure the full functionality and usability of our website (so-called technical cookies).
 2. **To facilitate browsing of our website** – cookies that are not absolutely necessary for the full functioning of the website, nevertheless improving the users&#39; experience.
@@ -660,6 +664,7 @@ However, in case you object to the processing of technical cookies needed for th
 In order to prevent unauthorized access to our cookies and similar technologies, we have security measures in place wherever necessary. The unique identifier ensures that the access to the cookies data is available only to us and/or to the authorized service provider.
 
 All personal data that we collect and store using these technologies for purposes in the categories 2 to 4 above depend on your consent, asked for in the form of an explicit message displayed on our website on your first visit. The consent may be revoked in your browser settings anytime.
+
 
 ### 4) How to adjust the use of cookies?
 
@@ -682,3 +687,4 @@ The collected cookies are processed by the following data processors:
 The above data processors process cookies in accordance with their terms and conditions providing for handling of personal data.
 
 These policies for the use of cookies come into force and take effect from 1 August 2020.
+
