@@ -207,11 +207,10 @@ Se spory, které mohou vzniknout mezi Pořadatelem a Kupujícím, jakožto spot�
 
 Tyto obchodní podmínky vstupují v platnost a jsou účinné od 1. července 2020.
 
-#
 
-## **Cookies**
+## Cookies
 
-## **(1) Co jsou cookies?**
+### (1) Co jsou cookies?
 
 Soubory cookies jsou malé datové soubory umísťované do paměti vašeho prohlížeče nebo zařízení při prohlížení webové stránky. Ve vašem prohlížeči jsou ukládány webovými stránkami, které navštěvujete. Jsou nezbytné pro některé funkce webových stránek, jako je třeba přihlašování. Díky cookies si stránky nebo aplikace mohou také zapamatovat různá nastavení, jako je jazyk, font a další možnosti, které jste si pro zobrazení stránek sami zvolili. To je důvod, proč cookies umisťujeme na vaše zařízení.
 
@@ -227,7 +226,7 @@ Podle toho, **kdo cookies vytváří a zpracovává** lze rozdělit cookies na d
 
 **Cookies třetích stran (third party cookies)** jsou nejčastěji cookies reklamních systémů, widgetu sociálních sítí nebo vložených videí.
 
-## **(2) Jaké cookies využíváme?**
+### 2) Jaké cookies využíváme?
 
 **Využíváme především technické cookies (první strany, krátkodobé)**, které jsou nezbytné pro zajištění elementární funkce webových stránek, aplikací, případně dalších služeb, tj. např. pro uložení zvolené jazykové verze.
 
@@ -241,7 +240,7 @@ Vznesete-li námitku proti zpracování technických cookies nezbytných pro fun
 
 **Cookies nikdy nepoužíváme k tomu, abychom vás osobně identifikovali, a nikdy do nich neumisťujeme citlivá nebo osobní data.**
 
-## **(3) Proč cookies zpracováváme?**
+### (3) Proč cookies zpracováváme?
 
 1. **Plná funkčnost využívání našich webových stránek** - soubory cookies vyžadované pro zajištění plné funkčnosti využívání našich webových stránek (tzv. technické cookies).
 2. **Usnadnění prohlížení našich webových stránek** - soubory cookies, které nejsou zcela nezbytné k plnému fungování webových stránek, nicméně jejich používání zlepšuje uživatelský dojem.
@@ -252,17 +251,15 @@ Abychom zabránili neoprávněnému přístupu k našim souborům cookies a podo
 
 Veškeré osobní údaje, které pomocí těchto technologií shromažďujeme a uchováváme pro výše uvedené kategorie 2 až 4 závisí na vašem souhlasu, získaném formou jednoznačného sdělení zobrazeného na našich webových stránkách při vaší první návštěvě. Tento souhlas můžete odvolat v nastavení vašeho prohlížeče.
 
-## **(4) Jak lze upravit využívání cookies?**
+### 4) Jak lze upravit využívání cookies?
 
 Všechny cookies, které už na vašem zařízení jsou, můžete vymazat. Většina prohlížečů také nabízí možnost blokace umisťování cookies na vaše zařízení, v takovém případě ale mějte na paměti, že blokace nebo deaktivace souborů cookies za tímto účelem bude mít za následek, že funkce nástroje kontroly již nebude efektivní a může to mít nepříznivý dopad na váš celkový zážitek při prohlížení. Detailní informace o nastavení ukládání souborů cookies ve vašem prohlížeči nebo zařízení najdete na stránkách poskytovatele konkrétního prohlížeče. Informace o tom, jak si nastavit svůj prohlížeč a omezit nebo povolit zpracování cookies, najdete například [zde](https://www.whatismybrowser.com/guides/how-to-enable-cookies/).
 
-## **(5) Jak dlouho budeme údaje zpracovávat?**
+### (5) Jak dlouho budeme údaje zpracovávat?
 
 Data z cookies pro měření návštěvnosti a fungování webu nebo aplikace jsou uchovány pouze na dobu nezbytně nutnou pro fungování webu a dále pro statistiku. Jednotlivé doby uchovávání a zpracování cookies (včetně marketingových) se řídí obchodními podmínkami konkrétně využité služby (viz bod 6. níže). Souhlas s užitím cookies můžete vzít kdykoliv zpět, stačí, když změníte nastavení svého webového prohlížeče, nebo se nám ozvete na **podpora@trisbee.com**.
 
-##
-
-## **(6) Kdo může mít k údajům z cookies přístup?**
+### (6) Kdo může mít k údajům z cookies přístup?
 
 Shromážděné cookies soubory jsou zpracovány dalšími zpracovateli:
 

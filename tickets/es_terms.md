@@ -173,11 +173,10 @@ Las controversias que puedan surgir entre el Organizador y el Comprador, como co
 
 Estas condiciones comerciales entran en vigor y son eficaces a partir del día 1 de agosto de 2020.
 
-#
 
-## **Cookies**
+## Cookies
 
-## **(1) ¿Qué son las cookies?**
+### (1) ¿Qué son las cookies?
 
 Las cookies son unos pequeños archivos de datos que se almacenan en la memoria de su navegador o dispositivo al navegar en un sitio web. Se almacenan en su navegador por los sitios web que visita. Son necesarias para algunas funciones del sitio web, tales como iniciar la sesión. Gracias a las cookies, los sitio o las aplicaciones también pueden recordar varias configuraciones, como el idioma, la fuente y otras opciones que usted mismo ha elegido para mostrar los sitios. Es por eso que colocamos las cookies en su dispositivo.
 
@@ -193,7 +192,7 @@ Dependiendo **de quién crea y procesa las cookies** , las cookies se pueden div
 
 **Las cookies de terceros (third party cookies)** suelen ser cookies de sistemas publicitarios, widgets de redes sociales o videos insertados.
 
-## **(2) ¿Cuáles son las cookies que utilizamos?**
+### (2) ¿Cuáles son las cookies que utilizamos?
 
 **Utilizamos principalmente las cookies técnicas (de primera parte, a corto plazo)**, que son indispensables para garantizar el funcionamiento básico de sitios web, aplicaciones u otros servicios, es decir, p.ej. para almacenar la versión del idioma elegida.
 
@@ -207,7 +206,8 @@ Sin embargo, si se opone al procesamiento de cookies técnicas indispensables pa
 
 **Nunca utilizamos las cookies para identificar a usted personalmente y nunca colocamos datos sensibles o personales en las mismas.**
 
-## **(3) ¿Por qué procesamos las cookies?**
+### (3) ¿Por qué procesamos las cookies?
+
 
 1. **Para mantener una plena funcionalidad del uso de nuestro sitio web** – las cookies necesarias para garantizar la plena funcionalidad del uso de nuestro sitio web (las denominadas cookies técnicas).
 2. **Para facilitar la navegación por nuestro sitio web -** las cookies que no son indispensablemente necesarias para el pleno funcionamiento del sitio web, sin embargo, su uso mejora la impresión y experiencia del usuario.
@@ -218,17 +218,15 @@ Para evitar el acceso no autorizado a nuestras cookies y tecnologías parecidas,
 
 Toda la información personal que recopilamos y almacenamos para las arriba indicadas categorías de 2 a 4, está sujeta a su consentimiento obtenido en forma de un mensaje claro que aparece en nuestras páginas web con vuestra primera visita. Este consentimiento usted puede revocarlo en la configuración de vuestro navegador.
 
-## **(4) ¿Cómo se puede regular el uso de las cookies?**
+### (4) ¿Cómo se puede regular el uso de las cookies?
 
 Puede borrar todas las cookies que ya están en vuestro dispositivo. La mayoría de los navegadores también ofrece la opción de bloquear la ubicación de cookies en su dispositivo, pero tenga en cuenta que bloquear o desactivar las cookies para este propósito dará como resultado que la función de la herramienta de control ya no será efectiva, lo que puede afectar negativamente en total vuestra experiencia de navegación. La información detallada sobre la configuración para almacenar las cookies en su navegador o dispositivo se encuentra en las páginas web del proveedor del respectivo navegador. La información de cómo configurar vuestro navegador y restringir o aceptar el procesamiento de las cookies, se encuentra p.ej. [aquí](https://www.whatismybrowser.com/guides/how-to-enable-cookies/).
 
-## **(5) ¿Cuánto tiempo vamos procesar los datos?**
+### (5) ¿Cuánto tiempo vamos procesar los datos?
 
 Los datos de las cookies, utilizados para medir el tráfico y el funcionamiento del sitio web o la aplicación, se almacenan solo durante el tiempo estrictamente necesario para el funcionamiento del sitio web y también para las estadísticas. Los tiempos de almacenamiento y procesamiento individuales de las cookies (incluido el marketing) se rigen por las condiciones comerciales del respectivo servicio utilizado (ver el punto 6 a continuación). El consentimiento para el uso de las cookies usted puede retirarlo en cualquier momento, cambiando simplemente la configuración de su navegador web, o póngase en contacto con nosotros en [**ayuda@goforboom.com**](mailto:ayuda@goforboom.com).
 
-##
-
-## **(6) ¿Quién puede acceder a los datos de las cookies?**
+### (6) ¿Quién puede acceder a los datos de las cookies?
 
 Las cookies recopiladas son procesadas por algunos otros procesadores:
 

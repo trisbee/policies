@@ -618,11 +618,10 @@ entrepreneur), § 1805 para. 2 and § 1936 para. 1.
 
 These Terms and Conditions enter into force and take effect on 1 August 2020.
 
-#
 
-## **Cookies**
+## Cookies
 
-## **(1) What are cookies?**
+### (1) What are cookies?
 
 Cookies are small data files stored in the memory of your browser or device while browsing a website. They are stored in your browser by the visited websites. They are necessary for certain website features, such as logging in. Thanks to cookies, the sites or applications also remember various settings, such as language, fonts and other options you have chosen for the site display. That is the reason why we place cookies on your device.
 
@@ -638,7 +637,8 @@ Cookies can be divided into two categories **depending on who creates and proces
 
 **Third party cookies** are most often those of advertising systems, social network widgets or embedded videos.
 
-## **(2) What cookies do we use?**
+
+### (2) What cookies do we use?
 
 **We mainly use technical cookies\*\*** (first party and session cookies)\*\* that are necessary to ensure basic functionalities of the websites, applications, or other services, such as saving of the selected language version.
 
@@ -652,7 +652,9 @@ However, in case you object to the processing of technical cookies needed for th
 
 **We never use cookies to identify you personally and we never place sensitive or personal data therein.**
 
-## **(3) Why do we process cookies?**
+
+### (3) Why do we process cookies?
+
 
 1. **To ensure full functionality and usability of our website** - cookies required to ensure the full functionality and usability of our website (so-called technical cookies).
 2. **To facilitate browsing of our website** – cookies that are not absolutely necessary for the full functioning of the website, nevertheless improving the users&#39; experience.
@@ -663,17 +665,16 @@ In order to prevent unauthorized access to our cookies and similar technologies,
 
 All personal data that we collect and store using these technologies for purposes in the categories 2 to 4 above depend on your consent, asked for in the form of an explicit message displayed on our website on your first visit. The consent may be revoked in your browser settings anytime.
 
-## **(4) How to adjust the use of cookies?**
+
+### 4) How to adjust the use of cookies?
 
 You can delete all cookies previously stored in your device. Most browsers also offer the option of blocking the placement of cookies into your device – however, keep in mind that such blocking or deactivating of cookies results in the loss of the monitoring tool feature, which may adversely affect your overall viewing experience. Detailed information on the settings for storing of cookies in your browser or device can be found on the website of the specific browser provider. Information on how to set up your browser and restrict or enable processing of cookies can be for instance found [here](https://www.whatismybrowser.com/guides/how-to-enable-cookies/).
 
-## **(5) How long will we process the data?**
+### (5) How long will we process the data?
 
 Data from cookies intended for the traffic measuring and for operation of the website or application are stored only for the time strictly necessary for the operation of the website and for the statistical purposes. The individual cookies storage and processing periods (including for marketing purposes) are governed by the terms and conditions of the service specifically used (see point 6 below). You can withdraw your consent to the use of cookies at any time by simply changing the settings of your web browser, or by contacting us at **support@trisbee.com**.
 
-##
-
-## **(6) Who is authorized to access cookies data?**
+### (6) Who is authorized to access cookies data?
 
 The collected cookies are processed by the following data processors:
 
