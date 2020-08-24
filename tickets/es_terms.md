@@ -140,14 +140,19 @@ En caso del incumplimiento de las obligaciones arriba indicadas, el Organizador 
 
 - **Derecho de acceso a los datos**
   - en el alcance garantizado por las normas legales de protección de datos personales, el Comprador puede solicitar el acceso a sus datos personales - puede solicitar una información acerca del hecho si Trisbee o el Organizador están tratando éstos datos, el tipo de los datos en particular y la manera de cómo los están tratando,
+
 - **Derecho de corrección**
   - El Comprador puede solicitar la corrección de un dato incorrecto, o la complementación de un dato incompleto, u otorgar adicionalmente el consentimiento,
+  
 - **Derecho a limitar el procesamiento**
   - bajo las condiciones legales establecidas, los datos no serán borrados, pero Trisbee / Organizador no seguirán tratándolos más (por ejemplo, en la situación de determinar el interés legítimo de procesar los datos que pueda prevalecer sobre la solicitud de borrar los datos personales),
+
 - **Derecho a borrar**
   - siempre que se cumplan las condiciones legales para tal efecto (por ejemplo, cuando se revoca el consentimiento para el tratamiento de datos personales, cuando el tratamiento de datos personales ya no es necesario, o el interés legítimo del tratamiento ha pasado, etc.),
+
 - **Derecho a oponerse al procesamiento**
   - el derecho a oponerse a la existencia de la razón relacionada con el procesamiento concreto de datos personales (hay que precisar detalladamente la objeción),
+
 - **Derecho a la portabilidad de datos**
   - derecho a solicitar a Trisbee o al Organizador, como administrador de datos personales, que transfiera estos datos personales, si es técnicamente posible, a otro administrador de datos personales.
 

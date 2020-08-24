@@ -480,8 +480,7 @@ rights arising from the GDPR:
 
 - **Right of access to data**
 
-  - to the extent guaranteed by legislation on personal data protection, the Buyers may request
-    access to their personal data - information on whether Trisbee or the Promoter works therewith, what specific data they process and how,
+  - to the extent guaranteed by legislation on personal data protection, the Buyers may request access to their personal data - information on whether Trisbee or the Promoter works therewith, what specific data they process and how,
 
 - **Right of rectification**
 

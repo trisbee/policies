@@ -151,23 +151,18 @@ h) atât Trisbee, cât și Organizatorul respectă propriile lor reglementări i
 **4.1.9.** Atât Trisbee, cât și Organizatorul respectă pe deplin drepturile Cumpărătorului care decurg din GDPR (Regulamentul general privind protecția datelor):
 
 - **Dreptul de acces la date**
-
   - în măsura garantată de reglementările legale privind protecția datelor cu caracter personal, Cumpărătorul poate solicita accesul la datele sale personale - dacă Trisbee sau Organizatorul lucrează cu ele, cu ce date specifice și cum lucrează cu ele,
 
 - **Dreptul la corectare**
-
   - Cumpărătorul poate solicita corectarea datelor incorecte sau adăugarea de date incomplete, după caz, acordarea consimțământului suplimentar,
 
 - **Dreptul de a restricționa procesarea**
-
   - în condițiile legale stabilite, datele nu vor fi șterse, dar Trisbee / Organizatorul nu le vor putea prelucra în continuare (de exemplu, în situația în care a fost stabilit un interes legitim pentru prelucrare care depășește cerința de ștergere a datelor cu caracter personal),
 
 - **Dreptul la ștergere**
-
   - ori de câte ori sunt îndeplinite condițiile legale (de exemplu, atunci când se revocă consimțământul pentru prelucrarea datelor cu caracter personal, prelucrarea datelor cu caracter personal nu mai este necesară, interesul legitim pentru procesare a trecut deja etc.),
 
 - **Dreptul de a se opune prelucrării**
-
   - dreptul de ridica obiecții cu privire la existența unui motiv pentru prelucrarea specifică a datelor cu caracter personal (obiecția trebuie specificată),
 
 - **Dreptul la portabilitatea datelor**
