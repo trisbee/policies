@@ -24,7 +24,6 @@
 
 **1.2.6** Aceste termene și condiții fac parte integrantă din contractul încheiat între Organizator și Cumpărător, ca persoană care cumpără bilete la Eveniment prin intermediul Trisbee. Aceste termene și condiții fac parte integrantă din acordul de ticketing încheiat între Organizator și Trisbee.
 
-
 ## **PARTEA 2 –** **DREPTURILE ȘI OBLIGAȚIILE CUMPĂRĂTORULUI**
 
 ## 2.1. Cum se face achiziția biletelor?
@@ -200,9 +199,9 @@ Cookie-urile pot fi împărțite în două categorii **în funcție de termenul 
 
 În funcție de **cine creează și procesează cookie-urile** , cookie-urile pot fi împărțite în două categorii:
 
-**Cookie-uri\*\*** le din domeniul-gazdă \***\* (first party cookies)** creează pagini web sau scripturi direct pe același domeniu. Sunt cel mai adesea utilizate pentru a asigura funcționalitatea de bază a site-ului sau aplicației.
+**Cookie-urile** din domeniul-gazdă \***\* (first party cookies)** creează pagini web sau scripturi direct pe același domeniu. Sunt cel mai adesea utilizate pentru a asigura funcționalitatea de bază a site-ului sau aplicației.
 
-**Cookie-urile** **de la terți** **(third party cookies)** sunt cel mai adesea cookie-uri ale sistemelor de publicitate, widget-urilor de rețea socială sau videoclipuri încorporate.
+**Cookie-urile** de la terți **(third party cookies)** sunt cel mai adesea cookie-uri ale sistemelor de publicitate, widget-urilor de rețea socială sau videoclipuri încorporate.
 
 ### (2) Ce cookie-uri folosim?
 
