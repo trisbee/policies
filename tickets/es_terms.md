@@ -5,7 +5,9 @@
 ### **1.1. ¿Quién está sujeto a estas condiciones comerciales?**
 
 1. **Trisbee s.r.o.** (Trisbee, sociedad con responsabilidad limitada)con sede social en Praga 6, Vokovice, K Červenému vrchu 678/1, Código postal 160 00, NIF: 04775660, llevada a cabo en el Registro Mercantil del Tribunal Municipal de Praga con el número de expediente C 306886 (en adelante denominada &quot; **Trisbee**&quot;), como proveedor de servicios de pago e intermediario de venta de billetes.
+
 2. **Cualquiera que celebre un acuerdo con Trisbee sobre la intermediación de la venta de entradas a terceros, para eventos organizados por el mismo** (en adelante solo **&quot;Organizador&quot;).** Cada Organizador está identificado en la descripción del evento, incluidos los datos de contacto.
+
 3. **Cualquiera que pretenda aprovechar la posibilidad de comprar las entradas a través de Trisbee para un evento organizado por el Organizador,** y que para ello exprese su consentimiento a estas condiciones comerciales(en adelante solo **&quot;Comprador&quot;** ).
 
 ### **1.2. ¿Qué rigen estas condiciones comerciales?**

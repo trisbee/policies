@@ -254,15 +254,11 @@ Datele de pe cookie-uri, pentru măsurarea traficului și funcționarea site-ulu
 
 Cookie-urile colectate sunt procesate de către alţi procesatori:
 
-● serviciul Google Analytics, operat de comp. Google Inc., cu sediul în 1600 Amphitheater Parkway, Mountain View, CA 94043, SUA
-
-● serviciul Google Adwords, operat de Google Inc., cu sediul în 1600 Amphitheater Parkway, Mountain View, CA 94043, SUA
-
-● serviciul Google Tag Manager, operat de Google Inc., cu sediul în 1600 Amphitheater Parkway, Mountain View, CA 94043, SUA
-
-● serviciul Sklik, operat de Seznam.cz, a.s., ID: 26168685, cu sediul social la Praga 5 - Smíchov, str. Radlická 3294/10, cod poștal 150 00
-
-● Facebook, companie cu sediul în 1 Hacker Way, Menlo Park, CA 94025, SUA
+- serviciul Google Analytics, operat de comp. Google Inc., cu sediul în 1600 Amphitheater Parkway, Mountain View, CA 94043, SUA
+- serviciul Google Adwords, operat de Google Inc., cu sediul în 1600 Amphitheater Parkway, Mountain View, CA 94043, SUA
+- serviciul Google Tag Manager, operat de Google Inc., cu sediul în 1600 Amphitheater Parkway, Mountain View, CA 94043, SUA
+- serviciul Sklik, operat de Seznam.cz, a.s., ID: 26168685, cu sediul social la Praga 5 - Smíchov, str. Radlická 3294/10, cod poștal 150 00
+- Facebook, companie cu sediul în 1 Hacker Way, Menlo Park, CA 94025, SUA
 
 Cookie-urile sunt prelucrate de către procesator în conformitate cu condițiile lor pentru manipulare a datelor cu caracter personal.
 
