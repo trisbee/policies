@@ -136,12 +136,19 @@ En caso del incumplimiento de las obligaciones arriba indicadas, el Organizador 
 
 **4.1.9.** Tanto Trisbee como el Organizador respetan plenamente los derechos del Comprador, resultantes del RGPD:
 
-- **Derecho de acceso a los datos** – en el alcance garantizado por las normas legales de protección de datos personales, el Comprador puede solicitar el acceso a sus datos personales – puede solicitar una información acerca del hecho si Trisbee o el Organizador están tratando éstos datos, el tipo de los datos en particular y la manera de cómo los están tratando,
-- **Derecho de corrección** – El Comprador puede solicitar la corrección de un dato incorrecto, o la complementación de un dato incompleto, u otorgar adicionalmente el consentimiento,
-- **Derecho a limitar el procesamiento** – bajo las condiciones legales establecidas, los datos no serán borrados, pero Trisbee / Organizador no seguirán tratándolos más (por ejemplo, en la situación de determinar el interés legítimo de procesar los datos que pueda prevalecer sobre la solicitud de borrar los datos personales),
-- **Derecho a borrar** – siempre que se cumplan las condiciones legales para tal efecto (por ejemplo, cuando se revoca el consentimiento para el tratamiento de datos personales, cuando el tratamiento de datos personales ya no es necesario, o el interés legítimo del tratamiento ha pasado, etc.),
-- **Derecho a oponerse al procesamiento** – el derecho a oponerse a la existencia de la razón relacionada con el procesamiento concreto de datos personales (hay que precisar detalladamente la objeción),
-- **Derecho a la portabilidad de datos** – derecho a solicitar a Trisbee o al Organizador, como administrador de datos personales, que transfiera estos datos personales, si es técnicamente posible, a otro administrador de datos personales.
+- **Derecho de acceso a los datos**
+  - en el alcance garantizado por las normas legales de protección de datos personales, el Comprador puede solicitar el acceso a sus datos personales
+  - puede solicitar una información acerca del hecho si Trisbee o el Organizador están tratando éstos datos, el tipo de los datos en particular y la manera de cómo los están tratando,
+- **Derecho de corrección**
+  - El Comprador puede solicitar la corrección de un dato incorrecto, o la complementación de un dato incompleto, u otorgar adicionalmente el consentimiento,
+- **Derecho a limitar el procesamiento**
+  - bajo las condiciones legales establecidas, los datos no serán borrados, pero Trisbee / Organizador no seguirán tratándolos más (por ejemplo, en la situación de determinar el interés legítimo de procesar los datos que pueda prevalecer sobre la solicitud de borrar los datos personales),
+- **Derecho a borrar**
+  - siempre que se cumplan las condiciones legales para tal efecto (por ejemplo, cuando se revoca el consentimiento para el tratamiento de datos personales, cuando el tratamiento de datos personales ya no es necesario, o el interés legítimo del tratamiento ha pasado, etc.),
+- **Derecho a oponerse al procesamiento**
+  - el derecho a oponerse a la existencia de la razón relacionada con el procesamiento concreto de datos personales (hay que precisar detalladamente la objeción),
+- **Derecho a la portabilidad de datos**
+  - derecho a solicitar a Trisbee o al Organizador, como administrador de datos personales, que transfiera estos datos personales, si es técnicamente posible, a otro administrador de datos personales.
 
 **4.1.10.** Tanto Trisbee como el Organizador están obligados a tomar tales medidas, que eviten el acceso no autorizado o accidental a los datos personales de los Compradores, cambio, destrucción o pérdida de los mismos, transferencias no autorizadas, tratamiento no autorizado, así como un otro tipo de uso indebido de estos datos personales. Esta obligación se aplica incluso después de que el procesamiento de datos personales haya terminado. Todos los casos del acceso accidental o no autorizado a los datos personales de los Compradores, las partes contratantes se comprometen a informarse mutuamente sin demora.
 
@@ -172,7 +179,6 @@ Las controversias que puedan surgir entre el Organizador y el Comprador, como co
 **4.3.5.** Por la presente, las partes contratantes excluyen la aplicación de las siguientes disposiciones de la Ley No. 89/2012 de BOE, Código Civil: § 557, § 1799 y § 1800 (en el caso de que se trate de una relación contractual entre Trisbee y un empresario), § 1805 párr. 2 y § 1936 párr. 1.
 
 Estas condiciones comerciales entran en vigor y son eficaces a partir del día 1 de agosto de 2020.
-
 
 ## Cookies
 
@@ -207,7 +213,6 @@ Sin embargo, si se opone al procesamiento de cookies técnicas indispensables pa
 **Nunca utilizamos las cookies para identificar a usted personalmente y nunca colocamos datos sensibles o personales en las mismas.**
 
 ### (3) ¿Por qué procesamos las cookies?
-
 
 1. **Para mantener una plena funcionalidad del uso de nuestro sitio web** – las cookies necesarias para garantizar la plena funcionalidad del uso de nuestro sitio web (las denominadas cookies técnicas).
 2. **Para facilitar la navegación por nuestro sitio web -** las cookies que no son indispensablemente necesarias para el pleno funcionamiento del sitio web, sin embargo, su uso mejora la impresión y experiencia del usuario.

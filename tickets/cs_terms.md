@@ -24,7 +24,7 @@
 
 **1.2.6.** Tyto obchodní podmínky tvoří nedílnou součást smlouvy uzavřené mezi Pořadatelem a Kupujícím jakožto osobou nakupující vstupenky na Akci prostřednictvím Trisbee. Tyto obchodní podmínky tvoří též nedílnou součást smlouvy o zprostředkování prodeje vstupenek uzavřené mezi Pořadatelem a Trisbee.
 
-### ČÁST 2 - PRÁVA A POVINNOSTI KUPUJÍCÍHO
+## ČÁST 2 - PRÁVA A POVINNOSTI KUPUJÍCÍHO
 
 ## 2.1. Jak probíhá nákup vstupenky?
 
@@ -34,11 +34,11 @@
 
 **2.1.3.** V případě, že jsou vyplněny všechny nezbytné identifikační údaje a současně je zadán druh a počet vstupenek, je Kupující na další stránce vyzván k výběru platební metody a provedení platby za vstupenky. Pokud je platba následně v pořádku připsána na bankovní účet Trisbee, je vstupenka tímto zcela uhrazena.
 
-**2.1.4.** Kupujícímu je po provedené úhradě vstupenky zasláno (emailovou zprávou, případně i formou sms) potvrzení o nákupu vstupenky a jedinečný identifikátor zakoupené vstupenky. Identifikátor vstupenky se stává aktivním provedenou úhradou vstupenky dle čl. 2.1.3. těchto obchodních podmínek a následně slouží jako vstupenka na Akci. Identifikátorem se Kupující prokazuje při vstupu na Akci.
+**2.1.4.** Kupujícímu je po provedené úhradě vstupenky zasláno (e-mailovou zprávou, případně i formou sms) potvrzení o nákupu vstupenky a jedinečný identifikátor zakoupené vstupenky. Identifikátor vstupenky se stává aktivním provedenou úhradou vstupenky dle čl. 2.1.3. těchto obchodních podmínek a následně slouží jako vstupenka na Akci. Identifikátorem se Kupující prokazuje při vstupu na Akci.
 
-**2.1.5.** Kupní smlouva (v tomto případě se jedná o tzv. smlouvu o využití volného času) zprostředkovaná Trisbee je mezi Pořadatelem a Kupujícím uzavřena okamžikem zaplacení ceny vstupenky, za předpokladu, že je Kupujícímu odesláno potvrzení o nákupu vstupenky ze strany Trisbee dle čl. 2.1.4. těchto obchodních podmínek, a to způsobem zvoleným Kupujícím (emailová zpráva, sms) a na jím uvedený kontakt.
+**2.1.5.** Kupní smlouva (v tomto případě se jedná o tzv. smlouvu o využití volného času) zprostředkovaná Trisbee je mezi Pořadatelem a Kupujícím uzavřena okamžikem zaplacení ceny vstupenky, za předpokladu, že je Kupujícímu odesláno potvrzení o nákupu vstupenky ze strany Trisbee dle čl. 2.1.4. těchto obchodních podmínek, a to způsobem zvoleným Kupujícím (e-mailová zpráva, sms) a na jím uvedený kontakt.
 
-**2.1.6.** Nákupem vstupenky, tj. uzavřením smlouvy, se Kupující zavazuje dodržovat veškerá pravidla a pokyny Pořadatele vztahující se k příslušné Akci. Pořadatel může před konáním Akce aktualizovat, upřesnit či změnit podmínky konání Akce, případně zrušit Akci. O tom je Kupující informován prostřednictvím zaslané emailové zprávy. Trisbee (jakožto zprostředkovatel prodeje vstupenek) žádným způsobem neodpovídá za majetkovou nebo nemajetkovou újmu, která by případně vznikla Kupujícímu v souvislosti s účastí nebo neúčastí na Akci nebo i v souvislosti s nekonáním Akce.
+**2.1.6.** Nákupem vstupenky, tj. uzavřením smlouvy, se Kupující zavazuje dodržovat veškerá pravidla a pokyny Pořadatele vztahující se k příslušné Akci. Pořadatel může před konáním Akce aktualizovat, upřesnit či změnit podmínky konání Akce, případně zrušit Akci. O tom je Kupující informován prostřednictvím zaslané e-mailové zprávy. Trisbee (jakožto zprostředkovatel prodeje vstupenek) žádným způsobem neodpovídá za majetkovou nebo nemajetkovou újmu, která by případně vznikla Kupujícímu v souvislosti s účastí nebo neúčastí na Akci nebo i v souvislosti s nekonáním Akce.
 
 ### 2.2. Reklamace
 
@@ -46,17 +46,17 @@
 
 **2.2.2.** Zakoupenou vstupenku není možné vrátit ani vyměnit, Kupující nemá právo na vrácení ceny vstupného, pokud se nemůže vybrané Akce zúčastnit, ať už z jakéhokoli důvodu. Toto ustanovení platí, pokud není Pořadatelem uvedeno u konkrétní Akce jinak.
 
-**2.2.3.** Trisbee nenese žádnou odpovědnost za nedoručení vstupenky (jedinečného identifikátoru vstupenky) na Akci do emailové schránky určené Kupujícím z důvodů spočívajících na straně Kupujícího jako je přeplněná emailová schránka, spam filtr, nesprávně zadaná emailová adresa apod. V případě, že Kupující bez svého zavinění neobdržel uhrazenou vstupenku (jedinečný identifikátor vstupenky) do emailové schránky ani do 24 hodin od nákupu vstupenky dle čl. 2.1.4. těchto obchodních podmínek, kontaktuje Kupující Trisbee a postupuje podle pokynů sdělených Trisbee, které se budou lišit v závislosti na konkrétní situaci. Pokud tímto způsobem nedojde k úspěšnému doručení vstupenky Kupujícímu, případně v mezidobí již Akce proběhla, vrátí Trisbee Kupujícímu uhrazenou cenu vstupenky.
+**2.2.3.** Trisbee nenese žádnou odpovědnost za nedoručení vstupenky (jedinečného identifikátoru vstupenky) na Akci do e-mailové schránky určené Kupujícím z důvodů spočívajících na straně Kupujícího jako je přeplněná e-mailová schránka, spam filtr, nesprávně zadaná e-mailová adresa apod. V případě, že Kupující bez svého zavinění neobdržel uhrazenou vstupenku (jedinečný identifikátor vstupenky) do e-mailové schránky ani do 24 hodin od nákupu vstupenky dle čl. 2.1.4. těchto obchodních podmínek, kontaktuje Kupující Trisbee a postupuje podle pokynů sdělených Trisbee, které se budou lišit v závislosti na konkrétní situaci. Pokud tímto způsobem nedojde k úspěšnému doručení vstupenky Kupujícímu, případně v mezidobí již Akce proběhla, vrátí Trisbee Kupujícímu uhrazenou cenu vstupenky.
 
 **2.2.4.** V případě, že ze strany Pořadatele dojde ke změně termínu Akce nebo k úplnému zrušení Akce, má Kupující vůči Pořadateli právo na vrácení ceny zaplaceného vstupného, případně získání poukazu na další nákup vstupenek. Toto právo uplatňuje Kupující u Pořadatele Akce, případně prostřednictvím Trisbee, a to bez zbytečného odkladu, nejpozději však ve lhůtě 5 dnů ode dne původního termínu konání Akce za předpokladu, že vstupenka dosud nebyla Kupujícím využita. Nárok Kupujícího na vrácení zaplacené ceny vstupného nebo vystavení poukazu ve výši ceny původního vstupného dle předchozí věty vypořádá Pořadatel, případně Trisbee, to však vždy jen do výše finančních prostředků, které má Trisbee k dispozici od Pořadatele, resp. do výše finančních prostředků z prodeje vstupenek od Kupujících, které Trisbee ještě neodeslalo Pořadateli.
 
-**2.2.5.** Dotazy a nejasnosti týkající se koupě nebo reklamace zakoupených vstupenek může Kupující zaslat Trisbee na emailovou adresu podpora@goforboom.com.
+**2.2.5.** Dotazy a nejasnosti týkající se koupě nebo reklamace zakoupených vstupenek může Kupující zaslat Trisbee na e-mailovou adresu podpora@goforboom.com.
 
 ## ČÁST 3 - PRÁVA A POVINNOSTI POŘADATELE
 
 **3.1.** Tato část obchodních podmínek upravuje smluvní vztah Pořadatele jako organizátora Akce a Trisbee jako zprostředkovatele prodeje vstupenek na Akce Pořadatele a platí, pokud nebylo mezi Trisbee a Pořadatelem výslovně dohodnuto něco jiného. Předmětem dohody mezi Trisbee a Pořadatelem je závazek Trisbee zprostředkovat prodej vstupenek na Akci Pořadatele, za což se Pořadatel zavazuje Trisbee uhradit smluvenou odměnu.
 
-**3.2.** Trisbee a Pořadatel si vždy individuálně dohodnou konkrétní požadavky Pořadatele týkající se zprostředkování prodeje vstupenek na Akci a propagaci Akce Pořadatele, taktéž si dohodnou předmět a rozsah spolupráce - veškeré podmínky Akce jako je termín a místo konání apod., objem vstupenek nabízených k prodeji přes Trisbee, termín zahájení a ukončení online prodeje vstupenek, jednotlivé druhy a ceny vstupenek, podmínky zveřejnění Akce na internetových stránkách Trisbee k tomu určených a další podmínky. Tato dohoda může být učiněna formou ústní či písemnou anebo vzájemně potvrzenými emailovými zprávami, společně s těmito obchodními podmínkami pak bude taková dohoda představovat smlouvu uzavřenou mezi stranami. Pokud se Trisbee s Pořadatelem nedohodne ohledně propagace Akce jinak, platí, že Trisbee může Akci Pořadatele samostatně propagovat a současně může též propagovat svou participaci na této Akci.
+**3.2.** Trisbee a Pořadatel si vždy individuálně dohodnou konkrétní požadavky Pořadatele týkající se zprostředkování prodeje vstupenek na Akci a propagaci Akce Pořadatele, taktéž si dohodnou předmět a rozsah spolupráce - veškeré podmínky Akce jako je termín a místo konání apod., objem vstupenek nabízených k prodeji přes Trisbee, termín zahájení a ukončení online prodeje vstupenek, jednotlivé druhy a ceny vstupenek, podmínky zveřejnění Akce na internetových stránkách Trisbee k tomu určených a další podmínky. Tato dohoda může být učiněna formou ústní či písemnou anebo vzájemně potvrzenými e-mailovými zprávami, společně s těmito obchodními podmínkami pak bude taková dohoda představovat smlouvu uzavřenou mezi stranami. Pokud se Trisbee s Pořadatelem nedohodne ohledně propagace Akce jinak, platí, že Trisbee může Akci Pořadatele samostatně propagovat a současně může též propagovat svou participaci na této Akci.
 
 **3.3.** Trisbee je oprávněno odmítnout zprostředkování prodeje vstupenek, pokud se týká Akce, jejíž obsah se neslučuje s obchodními záměry nebo s obecnými postoji a zájmy společnosti. Ze stejného důvodu může být zprostředkování již probíhajícího prodeje vstupenek na Akci ukončeno za předpokladu, že neslučitelnost zájmů nebylo objektivně možné zjistit z informací předaných Pořadatelem při uzavření smlouvy.
 
@@ -82,7 +82,7 @@ Za nedodržení výše uvedených závazků se Pořadatel zavazuje uhradit Trisb
 
 **3.7.** Pokud není mezi stranami smluveno jinak, zavazuje se Pořadatel uhradit Trisbee za zprostředkování prodeje vstupenek a propagaci Akce na jeho intenetových stránkách goforboom.com odměnu ve výši 4 % navýšenou o příslušnou sazbu DPH z ceny každé prodané vstupenky (dále jen jako &quot; **Odměna**&quot;). Odměna Trisbee je splatná úplným zaplacením ceny vstupenky ze strany Kupujícího. Pořadatel tímto výslovně souhlasí s tím, aby si Trisbee odečetlo a ponechalo Odměnu z částky zaplacené Kupujícím za vstupenku a přijaté ve prospěch bankovního účtu Trisbee. Vyúčtování Odměny formou řádného daňového dokladu předloží Trisbee Pořadateli bez zbytečného odkladu poté, co bude mezi stranami provedeno vypořádání finančních nároků (po uskutečnění Akce i v případě její změny, nebo po jejím zrušení).
 
-**3.8.** Trisbee předává Pořadateli pravidelné aktualizace stavu prodaných vstupenek na Akci (Akce) Pořadatele, a to v dohodnutých termínech a v dohodnuté formě (např. ve formě sdílené tabulky nebo zasíláním aktualizované tabulky emailovou zprávou).
+**3.8.** Trisbee předává Pořadateli pravidelné aktualizace stavu prodaných vstupenek na Akci (Akce) Pořadatele, a to v dohodnutých termínech a v dohodnuté formě (např. ve formě sdílené tabulky nebo zasíláním aktualizované tabulky e-mailovou zprávou).
 
 **3.9.** Trisbee a Pořadatel se uzavřením této smlouvy dohodli na tom, že částka odpovídající platbám Kupujících za vstupenky přijatá Trisbee, po odečtení Odměny, bude zaslána Pořadateli po uskutečnění Akce, a to do 10 pracovních dnů na bankovní účet, který Pořadatel pro tento účel Trisbee včas označí a případně určí i variabilní symbol, kterým má být platba označena. V případě, že je Pořadatel plátcem DPH a uvede bankovní účet, který není registrován pro účely evidence plátců DPH, je Trisbee oprávněno odepřít výplatu finančních prostředků dle předchozí věty až do doby, než Pořadatel potvrdí Trisbee číslo bankovního účtu, který je registrován pro účely plateb DPH a na tento účet Trisbee provede výplatu finančních prostředků určených Pořadateli. V případě, že nastanou události tzv. vyšší moci, je Trisbee oprávněno prodloužit lhůtu uvedenou v první větě tohoto ustanovení až na 30 pracovních dnů. Dohodou obou smluvních stran je možné se od tohoto ustanovení odchýlit.
 
@@ -100,7 +100,7 @@ Za nedodržení výše uvedených závazků se Pořadatel zavazuje uhradit Trisb
 
 **3.16.** Ukončením smluvního vztahu mezi Trisbee a Pořadatelem nezanikají závazky smluvních stran, které vznikly do doby ukončení smluvního vztahu. Zejména tedy nezaniká nárok Trisbee na Odměnu, případně nárok na úhradu administrativního poplatku dle ust. 3.14. těchto obchodních podmínek, za vstupenky na Akci, jejichž prodej zprostředkovalo Trisbee do dne ukončení smlouvy.
 
-**3.17.** Pokud se strany při ukončení smluvního vztahu nedohodnou jinak, platí, že vstupenky dosud prodané prostřednictvím Trisbee zůstávají v platnosti i po ukončení smlouvy. Pro případ, že strany dospějí k tomu, že vstupenky prodané do dne ukončení smluvního vztahu prostřednictvím Trisbee budou zneplatněny, jsou strany povinny tuto skutečnost oznámit všem dotčeným Kupujícím emailovou zprávou (a případně i sms zprávou) na emailovou adresu určenou Kupujícím při koupi vstupenky a současně sdělit, jak a v jakém termínu bude vypořádán jejich nárok na vrácení zaplacené ceny vstupenky. Strany jsou povinny se pro tento případ při ukončení smlouvy dohodnout, jakým konkrétním způsobem bude vypořádán nárok Kupujících na vrácení ceny vstupenky. Pokud tak neučiní, platí, že vůči Kupujícím je za splnění veškerých nároků plně odpovědný Pořadatel.
+**3.17.** Pokud se strany při ukončení smluvního vztahu nedohodnou jinak, platí, že vstupenky dosud prodané prostřednictvím Trisbee zůstávají v platnosti i po ukončení smlouvy. Pro případ, že strany dospějí k tomu, že vstupenky prodané do dne ukončení smluvního vztahu prostřednictvím Trisbee budou zneplatněny, jsou strany povinny tuto skutečnost oznámit všem dotčeným Kupujícím e-mailovou zprávou (a případně i sms zprávou) na e-mailovou adresu určenou Kupujícím při koupi vstupenky a současně sdělit, jak a v jakém termínu bude vypořádán jejich nárok na vrácení zaplacené ceny vstupenky. Strany jsou povinny se pro tento případ při ukončení smlouvy dohodnout, jakým konkrétním způsobem bude vypořádán nárok Kupujících na vrácení ceny vstupenky. Pokud tak neučiní, platí, že vůči Kupujícím je za splnění veškerých nároků plně odpovědný Pořadatel.
 
 **3.18.** Pro vyloučení pochybností smluvní strany potvrzují, že žádný závazek není fixním závazkem ve smyslu ustanovení § 1980 zák. č. 89/2012 Sb., občanského zákoníku.
 
@@ -152,30 +152,29 @@ h) Trisbee i Pořadatel se řídí vlastními vnitřními předpisy upravující
 
 **4.1.9.** Trisbee i Pořadatel v plném rozsahu respektují práva Kupujícího vyplývající z GDPR:
 
-● **Právo na přístup k údajům**
+- **Právo na přístup k údajům**
 
-- v rozsahu garantovaném právními předpisy na ochranu osobních údajů může Kupující požadovat přístup ke svým osobním údajům
-- informace o tom, zda s nimi Trisbee či Pořadatel pracuje, s jakými konkrétními údaji a jak s nimi pracuje,
+  - v rozsahu garantovaném právními předpisy na ochranu osobních údajů může Kupující požadovat přístup ke svým osobním údajům,
+  - informace o tom, zda s nimi Trisbee či Pořadatel pracuje, s jakými konkrétními údaji a jak s nimi pracuje,
 
-● **Právo na opravu**
+- **Právo na opravu**
 
-- Kupující může požadovat opravu nesprávného údaje nebo doplnění neúplného údaje, případně poskytnutí dodatečného souhlasu,
+  - Kupující může požadovat opravu nesprávného údaje nebo doplnění neúplného údaje, případně poskytnutí dodatečného souhlasu,
 
-● **Právo na omezení zpracování**
+- **Právo na omezení zpracování**
 
-- za stanovených zákonných podmínek sice nebudou údaje vymazány, ale Trisbee/Pořadatel je nebude dále zpracovávat (například v situaci zjišťování oprávněného zájmu na zpracování převažujícího nad požadavkem na výmaz osobních údajů),
+  - za stanovených zákonných podmínek sice nebudou údaje vymazány, ale Trisbee/Pořadatel je nebude dále zpracovávat (například v situaci zjišťování oprávněného zájmu na zpracování převažujícího nad požadavkem na výmaz osobních údajů),
 
-● **Právo na výmaz**
+- **Právo na výmaz**
 
-- vždy pokud jsou pro to splněny zákonné podmínky (například při odvolání souhlasu se zpracováním osobních údajů, zpracování osobních údajů již není třeba, oprávněný zájem na zpracování již pominul apod.),
+  - vždy pokud jsou pro to splněny zákonné podmínky (například při odvolání souhlasu se zpracováním osobních údajů, zpracování osobních údajů již není třeba, oprávněný zájem na zpracování již pominul apod.),
 
-● **Právo vznést námitku proti zpracování**
+- **Právo vznést námitku proti zpracování**
 
-- právo namítat existenci důvodu pro konkrétní zpracování osobních údajů (námitku je zapotřebí konkretizovat),
+  - právo namítat existenci důvodu pro konkrétní zpracování osobních údajů (námitku je zapotřebí konkretizovat),
 
-● **Právo na přenositelnost údajů**
-
-- právo požádat Trisbee nebo Pořadatele jako správce osobních údajů, aby tyto osobní údaje, pokud je to technicky proveditelné, předal jinému správci osobních údajů.
+- **Právo na přenositelnost údajů**
+  - právo požádat Trisbee nebo Pořadatele jako správce osobních údajů, aby tyto osobní údaje, pokud je to technicky proveditelné, předal jinému správci osobních údajů.
 
 **4.1.10.** Trisbee i Pořadatel jsou povinni přijmout taková opatření, aby nemohlo dojít k neoprávněnému nebo nahodilému přístupu k osobním údajům Kupujících, k jejich změně, zničení či ztrátě, neoprávněným přenosům, k jejich jinému neoprávněnému zpracování, jakož i k jinému zneužití osobních údajů. Tato povinnost platí i po ukončení zpracování osobních údajů. Veškeré případy náhodného nebo neoprávněného přístupu k osobním údajům Kupujících se smluvní strany zavazují si vzájemně neprodleně oznámit.
 
@@ -185,7 +184,7 @@ h) Trisbee i Pořadatel se řídí vlastními vnitřními předpisy upravující
 
 **4.1.13.** Pořadatel je po ukončení spolupráce s Trisbee povinen ukončit zpracovávání veškerých osobních údajů Kupujících, které převzal od Trisbee v souvislosti se zprostředkováním prodeje vstupenek a řádnou realizací Akce a již je pro tento účel nepotřebuje.
 
-**4.1.14.** Kupující může pro uplatnění jakéhokoliv z práv stanovených příslušnými právními předpisy kontaktovat Trisbee telefonicky na tel. +420 774 140 044 nebo písemně emailem na podpora@goforboom.com či na adrese kanceláře Kamenická 33, 170 00 Praha 7. Pokud byste se domnívali, že zpracováním Vašich osobních údajů dochází k porušování právních předpisů, máte právo podat stížnost u národního dozorového úřadu (Pro ČR - Úřad pro ochranu osobních údajů, Pplk. Sochora 27, 170 00 Praha 7, www.uoou.cz).
+**4.1.14.** Kupující může pro uplatnění jakéhokoliv z práv stanovených příslušnými právními předpisy kontaktovat Trisbee telefonicky na tel. +420 774 140 044 nebo písemně e-mailem na podpora@goforboom.com či na adrese kanceláře Kamenická 33, 170 00 Praha 7. Pokud byste se domnívali, že zpracováním Vašich osobních údajů dochází k porušování právních předpisů, máte právo podat stížnost u národního dozorového úřadu (Pro ČR - Úřad pro ochranu osobních údajů, Pplk. Sochora 27, 170 00 Praha 7, www.uoou.cz).
 
 **4.1.15.** Právní vztahy smluvních stran týkající se zpracování osobních údajů, které nejsou upraveny v tomto oddíle obchodních podmínek, se řídí příslušnými ustanoveními GDPR a dalšími příslušnými právními předpisy České republiky.
 
@@ -195,18 +194,17 @@ Se spory, které mohou vzniknout mezi Pořadatelem a Kupujícím, jakožto spot�
 
 ### 4.3. Závěrečná ustanovení
 
-**4.3.1.** Trisbee může kdykoliv, a to i jednostranně, změnit tyto obchodní podmínky, přičemž informaci o změně a účinnosti změny oznámí Trisbee Kupujícím i Pořadatelům přímo na internetové stránce Trisbee pro prodej vstupenek, případně emailovou zprávou. Změna je účinná uplynutím dvou měsíců ode dne oznámení změny, neurčí-li Trisbee v oznámení pozdější účinnost. Změna se nevztahuje na již zakoupené vstupenky na Akci.
+**4.3.1.** Trisbee může kdykoliv, a to i jednostranně, změnit tyto obchodní podmínky, přičemž informaci o změně a účinnosti změny oznámí Trisbee Kupujícím i Pořadatelům přímo na internetové stránce Trisbee pro prodej vstupenek, případně e-mailovou zprávou. Změna je účinná uplynutím dvou měsíců ode dne oznámení změny, neurčí-li Trisbee v oznámení pozdější účinnost. Změna se nevztahuje na již zakoupené vstupenky na Akci.
 
 **4.3.2.** Veškeré právní vztahy vzniklé na základě nebo v souvislosti s těmito obchodními podmínkami se řídí právním řádem České republiky, a to bez ohledu na to, odkud byl nákup vstupenek Kupujícím realizován nebo kde má Pořadatel své sídlo.
 
 **4.3.3.** Je-li nebo stane-li se některé z ustanovení obchodních podmínek neplatným nebo neúčinným, namísto těchto neplatných ustanovení nastoupí takové ustanovení, jehož smysl se co nejvíce přibližuje hospodářskému účelu neplatného či neúčinného ustanovení. Neplatností nebo neúčinností některého ustanovení není dotčena platnost a účinnost ostatních ustanovení. Neplatností nebo neúčinností některého ustanovení pouze ve vztahu k určitému subjektu nebo k určité skupině subjektů není dotčena platnost a účinnost těchto ustanovení vůči jiným subjektům.
 
-**4.3.4.** Veškerá oznámení mezi stranami probíhají prostřednictvím emailové zprávy, telefonicky (dle kontaktních údajů sdělených druhé smluvní straně) či případně oznámením v aplikaci Trisbee.
+**4.3.4.** Veškerá oznámení mezi stranami probíhají prostřednictvím e-mailové zprávy, telefonicky (dle kontaktních údajů sdělených druhé smluvní straně) či případně oznámením v aplikaci Trisbee.
 
 **4.3.5.** Tímto smluvní strany vylučují aplikaci následujících ustanovení zák. č. 89/2012 Sb., občanský zákoník: § 557, § 1799 a § 1800 (pokud se jedná o smluvní vztah Trisbee a podnikatele), § 1805 odst. 2 a § 1936 odst. 1.
 
 Tyto obchodní podmínky vstupují v platnost a jsou účinné od 1. července 2020.
-
 
 ## Cookies
 
@@ -232,7 +230,7 @@ Podle toho, **kdo cookies vytváří a zpracovává** lze rozdělit cookies na d
 
 **Dále využíváme zejména nástroje společnosti Google, jako např. Google Analytics, Google Adwords, Google Tag Manager (první strany, dlouhodobé)** - tyto nástroje používáme pro získávání dat a vytváření statistik o chování uživatelů, abychom vám mohli naše služby lépe přizpůsobit. Data se posuzují v podobě hromadného celku a tím pádem v anonymní podobě, která neumožňuje vaši identifikaci.
 
-Webové stránky můžete používat i v režimu, který neumožňuje sbírání údajů o vašem chování – stačí si tak nastavit váš prohlížeč, nebo je možné vznést proti sběru na základě našeho oprávněného zájmu námitku, a to emailem na **podpora@trisbee.com**.
+Webové stránky můžete používat i v režimu, který neumožňuje sbírání údajů o vašem chování – stačí si tak nastavit váš prohlížeč, nebo je možné vznést proti sběru na základě našeho oprávněného zájmu námitku, a to e-mailem na **podpora@trisbee.com**.
 
 Vaši námitku vyřídíme bez zbytečného odkladu, maximálně však do jednoho měsíce. Ve výjimečných případech, zejména z důvodu složitosti Vašeho požadavku, jsme oprávněni tuto lhůtu prodloužit o další dva měsíce. O takovém případném prodloužení a jeho zdůvodnění bychom Vás informovali.
 
