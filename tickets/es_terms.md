@@ -26,7 +26,7 @@
 
 ## **PARTE 2 – DERECHOS Y OBLIGACIONES DEL COMPRADOR**
 
-### **2.1. ¿Cómo comprar una entrada?**
+## **2.1. ¿Cómo comprar una entrada?**
 
 **2.1.1.** El Comprador elije el Evento en las páginas web tickets.trisbee.com al cual quiere comprar los billetes, pasando así a la sección con una descripción detallada del respectivo Evento y condiciones específicas del Evento (fecha, lugar, precio de la entrada, etc.), incluidas las condiciones relativas a las respectivas entradas compradas. En esta parte (la descripción detallada del Evento) está el Comprador obligado a introducir sus datos de identificación, tipo y cantidad de los billetes (el Organizador puede limitar la cantidad de billetes para el Comprador), u otros datos eventualmente necesarios para que el Comprador tenga el permiso de participar en el Evento (edad por. ej.), y pulsando luego el botón &quot;Comprar entradas&quot;, el Comprador confirma su interés en comprar las respectivas entradas.
 
@@ -139,8 +139,7 @@ En caso del incumplimiento de las obligaciones arriba indicadas, el Organizador 
 **4.1.9.** Tanto Trisbee como el Organizador respetan plenamente los derechos del Comprador, resultantes del RGPD:
 
 - **Derecho de acceso a los datos**
-  - en el alcance garantizado por las normas legales de protección de datos personales, el Comprador puede solicitar el acceso a sus datos personales
-  - puede solicitar una información acerca del hecho si Trisbee o el Organizador están tratando éstos datos, el tipo de los datos en particular y la manera de cómo los están tratando,
+  - en el alcance garantizado por las normas legales de protección de datos personales, el Comprador puede solicitar el acceso a sus datos personales - puede solicitar una información acerca del hecho si Trisbee o el Organizador están tratando éstos datos, el tipo de los datos en particular y la manera de cómo los están tratando,
 - **Derecho de corrección**
   - El Comprador puede solicitar la corrección de un dato incorrecto, o la complementación de un dato incompleto, u otorgar adicionalmente el consentimiento,
 - **Derecho a limitar el procesamiento**

@@ -110,7 +110,7 @@ Za nedodržení výše uvedených závazků se Pořadatel zavazuje uhradit Trisb
 
 ## ČÁST 4 - DALŠÍ PRÁVA A POVINNOSTI
 
-### 4.1. Zpracování osobních údajů\*\*
+### 4.1. Zpracování osobních údajů
 
 **4.1.1.** Trisbee a Pořadatel společně zpracovávají osobní údaje Kupujících, a to za účelem prodeje vstupenek a řádného uskutečnění Akce. Dle nařízení Evropského parlamentu a Rady (EU) 2016/679 ze dne 27. dubna 2016 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení směrnice 95/46/ES (dále jen jako &quot; **GDPR**&quot;) jsou Trisbee a Pořadatel společnými správci a plní svoji povinnost dle čl. 26 GDPR. Trisbee je identifikován v čl. 1.1. odst. 1 těchto obchodních podmínek a identifikace Pořadatele je uvedena v popisu Akce, na kterou Trisbee zprostředkovává prodej vstupenek.
 
@@ -154,8 +154,7 @@ h) Trisbee i Pořadatel se řídí vlastními vnitřními předpisy upravující
 
 - **Právo na přístup k údajům**
 
-  - v rozsahu garantovaném právními předpisy na ochranu osobních údajů může Kupující požadovat přístup ke svým osobním údajům,
-  - informace o tom, zda s nimi Trisbee či Pořadatel pracuje, s jakými konkrétními údaji a jak s nimi pracuje,
+  - v rozsahu garantovaném právními předpisy na ochranu osobních údajů může Kupující požadovat přístup ke svým osobním údajům - informace o tom, zda s nimi Trisbee či Pořadatel pracuje, s jakými konkrétními údaji a jak s nimi pracuje,
 
 - **Právo na opravu**
 
