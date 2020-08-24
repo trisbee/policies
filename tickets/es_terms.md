@@ -5,7 +5,9 @@
 ### **1.1. ¿Quién está sujeto a estas condiciones comerciales?**
 
 1. **Trisbee s.r.o.** (Trisbee, sociedad con responsabilidad limitada)con sede social en Praga 6, Vokovice, K Červenému vrchu 678/1, Código postal 160 00, NIF: 04775660, llevada a cabo en el Registro Mercantil del Tribunal Municipal de Praga con el número de expediente C 306886 (en adelante denominada &quot; **Trisbee**&quot;), como proveedor de servicios de pago e intermediario de venta de billetes.
+
 2. **Cualquiera que celebre un acuerdo con Trisbee sobre la intermediación de la venta de entradas a terceros, para eventos organizados por el mismo** (en adelante solo **&quot;Organizador&quot;).** Cada Organizador está identificado en la descripción del evento, incluidos los datos de contacto.
+
 3. **Cualquiera que pretenda aprovechar la posibilidad de comprar las entradas a través de Trisbee para un evento organizado por el Organizador,** y que para ello exprese su consentimiento a estas condiciones comerciales(en adelante solo **&quot;Comprador&quot;** ).
 
 ### **1.2. ¿Qué rigen estas condiciones comerciales?**
@@ -24,7 +26,7 @@
 
 ## **PARTE 2 – DERECHOS Y OBLIGACIONES DEL COMPRADOR**
 
-### **2.1. ¿Cómo comprar una entrada?**
+## **2.1. ¿Cómo comprar una entrada?**
 
 **2.1.1.** El Comprador elije el Evento en las páginas web tickets.trisbee.com al cual quiere comprar los billetes, pasando así a la sección con una descripción detallada del respectivo Evento y condiciones específicas del Evento (fecha, lugar, precio de la entrada, etc.), incluidas las condiciones relativas a las respectivas entradas compradas. En esta parte (la descripción detallada del Evento) está el Comprador obligado a introducir sus datos de identificación, tipo y cantidad de los billetes (el Organizador puede limitar la cantidad de billetes para el Comprador), u otros datos eventualmente necesarios para que el Comprador tenga el permiso de participar en el Evento (edad por. ej.), y pulsando luego el botón &quot;Comprar entradas&quot;, el Comprador confirma su interés en comprar las respectivas entradas.
 
@@ -137,16 +139,20 @@ En caso del incumplimiento de las obligaciones arriba indicadas, el Organizador 
 **4.1.9.** Tanto Trisbee como el Organizador respetan plenamente los derechos del Comprador, resultantes del RGPD:
 
 - **Derecho de acceso a los datos**
-  - en el alcance garantizado por las normas legales de protección de datos personales, el Comprador puede solicitar el acceso a sus datos personales
-  - puede solicitar una información acerca del hecho si Trisbee o el Organizador están tratando éstos datos, el tipo de los datos en particular y la manera de cómo los están tratando,
+  - en el alcance garantizado por las normas legales de protección de datos personales, el Comprador puede solicitar el acceso a sus datos personales - puede solicitar una información acerca del hecho si Trisbee o el Organizador están tratando éstos datos, el tipo de los datos en particular y la manera de cómo los están tratando,
+
 - **Derecho de corrección**
   - El Comprador puede solicitar la corrección de un dato incorrecto, o la complementación de un dato incompleto, u otorgar adicionalmente el consentimiento,
+  
 - **Derecho a limitar el procesamiento**
   - bajo las condiciones legales establecidas, los datos no serán borrados, pero Trisbee / Organizador no seguirán tratándolos más (por ejemplo, en la situación de determinar el interés legítimo de procesar los datos que pueda prevalecer sobre la solicitud de borrar los datos personales),
+
 - **Derecho a borrar**
   - siempre que se cumplan las condiciones legales para tal efecto (por ejemplo, cuando se revoca el consentimiento para el tratamiento de datos personales, cuando el tratamiento de datos personales ya no es necesario, o el interés legítimo del tratamiento ha pasado, etc.),
+
 - **Derecho a oponerse al procesamiento**
   - el derecho a oponerse a la existencia de la razón relacionada con el procesamiento concreto de datos personales (hay que precisar detalladamente la objeción),
+
 - **Derecho a la portabilidad de datos**
   - derecho a solicitar a Trisbee o al Organizador, como administrador de datos personales, que transfiera estos datos personales, si es técnicamente posible, a otro administrador de datos personales.
 

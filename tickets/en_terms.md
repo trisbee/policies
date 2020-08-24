@@ -1,6 +1,6 @@
 # **Terms and Conditions Trisbee.com - Sale of Tickets**
 
-## **SECTION 1 -- INTRODUCTION AND BASIC TERMS**
+## **SECTION 1 - INTRODUCTION AND BASIC TERMS**
 
 ### **1.1. Who shall comply with these Terms and Conditions?**
 
@@ -43,7 +43,7 @@ or of changes thereto.
 **1.2.4.** Trisbee does not provide payment services to the Provider when
 mediating the sale of tickets.
 
-**1.2.5.** The Buyers\' payments for purchased tickets to the Promoter\'s
+**1.2.5.** The Buyers\' payments for purchased tickets to the Promoter's
 Event shall be credited to the Trisbee's bank account. The settlement
 of the received transactions between Trisbee and the Promoter shall be
 subsequently carried out in accordance with the agreement of the
@@ -55,7 +55,7 @@ purchasing tickets to an Event through Trisbee. These Terms and
 Conditions also form an integral part of the Ticket Agency Agreement
 concluded between the Promoter and Trisbee.
 
-### SECTION 2 - RIGHTS AND OBLIGATIONS OF THE BUYER
+## SECTION 2 - RIGHTS AND OBLIGATIONS OF THE BUYER
 
 ## 2.1. How to buy a ticket?
 
@@ -67,7 +67,7 @@ including conditions relating to the purchased ticket(s). In this
 section (detailed description of the Event), the Buyer shall fill in
 their identification data, type and number of tickets to be bought
 (number of tickets per one Buyer may be limited by the Promoter) and/or
-other data that may be necessary to enable the Buyer\'s participation in
+other data that may be necessary to enable the Buyer's participation in
 the Event (e.g. age), and using the "Buy tickets" (Zakoupit vstupenky)
 button shall confirm their interest in buying the ticket(s) in question.
 
@@ -140,7 +140,7 @@ voucher for future purchase of ticket(s). This right shall be exercised
 by the Buyer either directly with the Event Promoter or through Trisbee
 without undue delay, no later than within 5 days from the original date
 of the Event, provided that the ticket(s) has/have not been used by the
-Buyer yet. The Buyer\'s right to a refund of the paid ticket price or to
+Buyer yet. The Buyer's right to a refund of the paid ticket price or to
 an issuance of a voucher for the amount of the original ticket price
 according to the previous sentence shall be settled by the Promoter or
 by Trisbee (in case of Trisbee, always only up to the amount of funds
@@ -156,16 +156,16 @@ or claims thereof the Buyers may address Trisbee at
 
 **3.1.** This part of the Terms and Conditions governs the contractual
 relationship between the Promoter as the organizer of the Event and
-Trisbee as the ticket agent for the Promoter\'s Events, and applies at
+Trisbee as the ticket agent for the Promoter's Events, and applies at
 all times, unless otherwise expressly agreed between Trisbee and the
 Promoter. The subject of the agreement between Trisbee and the Promoter
-is Trisbee\'s obligation to mediate the sale of tickets for the
-Promoter\'s Event, for which the Promoter undertakes to pay an agreed
+is Trisbee's obligation to mediate the sale of tickets for the
+Promoter's Event, for which the Promoter undertakes to pay an agreed
 fee to Trisbee.
 
 **3.2.** Trisbee and the Promoter shall always agree on the specific
 requirements of the Promoter regarding mediation of the tickets sale for
-an Event and promotion of a Promoter\'s Event. They shall also agree on
+an Event and promotion of a Promoter's Event. They shall also agree on
 the subject and scope of their cooperation - all the Event conditions
 such as the date and venue, etc., quantity of tickets offered for sale
 through Trisbee, the date of commencement and termination of online
@@ -176,7 +176,7 @@ written or upon mutually confirmed email messages; together with these
 Terms and Conditions such an agreement shall constitute a contract
 concluded between the Parties. Unless Trisbee and the Promoter agree
 otherwise regarding the promotion of an Event, it is understood that
-Trisbee may promote the Promoter\'s Event independently and, at the same
+Trisbee may promote the Promoter's Event independently and, at the same
 time, that Trisbee may promote its participation in the Event too.
 
 **3.3.** Trisbee is entitled to refuse mediation of ticket sales in
@@ -207,13 +207,13 @@ to pay to Trisbee a contractual penalty in the amount of CZK 100,000 for
 each individual breach of obligation, thus within the period specified
 in the Trisbee's written call sent to the Promoter's contact address
 specified thereby. Payment of the contractual penalty pursuant to this
-provision shall not affect Trisbee\'s right to compensation for any
+provision shall not affect Trisbee's right to compensation for any
 damage incurred thereto in excess of the amount of the contractual
 penalty.
 
 **3.5.** Unless otherwise agreed between the Parties, Trisbee is
 entitled to place a marketing communication/advertisement on the tickets
-for the Promoter\'s Event, thus at Trisbee's own discretion and
+for the Promoter's Event, thus at Trisbee's own discretion and
 according to its needs.
 
 **3.6.** Unless otherwise agreed between the Parties, the sale of
@@ -243,7 +243,7 @@ financial claims between the Parties (after the Event takes place,
 including if changed or cancelled).
 
 **3.8.** Trisbee shall provide the Promoter with regular updates on the
-status of tickets for the Promoter\'s Event(s) sold, thus on the agreed
+status of tickets for the Promoter's Event(s) sold, thus on the agreed
 dates and in the agreed form (e.g. in the form of a shared spreadsheet
 or an updated table sent by e-mail).
 
@@ -283,7 +283,7 @@ settle any claims by the Buyers and, depending on the settlement, no
 later than 2 months after the initially scheduled date of the Event, the
 Parties shall settle payments from the tickets sale and Trisbee
 Remuneration. Both Parties agree that this provision is in particular
-justified by the Promoter\'s right to change conditions of an Event at
+justified by the Promoter's right to change conditions of an Event at
 any time or to cancel an Event, which is subsequently associated with
 the Buyers' claims for refund of the ticket price or any other Buyers'
 claims, including those exercised through Trisbee.
@@ -291,8 +291,8 @@ claims, including those exercised through Trisbee.
 **3.12.** If a Buyer's justified claim for refund of the repaid ticket
 price for a specific Promoter's Event according to the previous
 provision hereof (Article 3.11.) is exercised by the Buyer with Trisbee,
-Trisbee shall be entitled, though not obliged, to settle the Buyer\'s
-claim itself, and shall notify the Promoter of the Buyer\'s claim
+Trisbee shall be entitled, though not obliged, to settle the Buyer's
+claim itself, and shall notify the Promoter of the Buyer's claim
 processing without undue delay. To settle such a claim, Trisbee is
 entitled to use all the Buyers\' payments received for the specific
 Promoter's Event after deducting the Remuneration or, if the payments
@@ -308,27 +308,27 @@ hereof in the amount of the refunded tickets to the Buyers (or up to the
 amount of issued vouchers for the purchase of tickets).
 
 **3.13.** In the event that the Buyer complains about a payment
-transaction - purchase of a ticket for the Promoter\'s Event made
+transaction - purchase of a ticket for the Promoter's Event made
 through Trisbee - with the Buyer's bank, which finds the complaint
 justified (e.g. due to theft of the payment card or misuse thereof) and
 cancels the payment transaction, as a result of which the bank deducts
-the amount corresponding to the ticket price for the Promoter\'s Event
-from Trisbee\'s bank account, Trisbee shall be entitled to demand from
+the amount corresponding to the ticket price for the Promoter's Event
+from Trisbee's bank account, Trisbee shall be entitled to demand from
 the Promoter compensation for the amount thus deducted, including any
 costs associated with cancellation of the payment transaction. For these
 purposes, Trisbee may use the funds paid by Buyers for tickets to the
-Promoter\'s Event(s), if they have not already been sent to the
+Promoter's Event(s), if they have not already been sent to the
 Promoter. Otherwise, or if these funds are not sufficient, the Promoter
 is obliged to transfer the amount in question to the Trisbee's bank
 account without undue delay upon the Trisbee's call for payment.
 
 **3.14.** If an Event organized by the Promoter does not take place or
-is changed, this does not affect Trisbee\'s right to the agreed
+is changed, this does not affect Trisbee's right to the agreed
 Remuneration for arranging of the ticket sales in the amount determined
 by the actual number of tickets sold through Trisbee, except when events
 beyond control occurred. In case that the cancellation of an Event or
 change of the date thereof occurs as a result of events beyond the
-Promoter\'s control (so-called force majeure) and, as a result of such
+Promoter's control (so-called force majeure) and, as a result of such
 events, the Buyer becomes entitled to a refund, the Promoter shall not
 be obliged to pay to Trisbee the Remuneration related to the refunded
 tickets for arranging of their sale, but instead is obliged to pay to
@@ -351,7 +351,7 @@ termination of the ticket sales mediation on the part of Trisbee.
 **3.16.** The termination of the contractual relationship between
 Trisbee and the Promoter does not terminate the obligations of the
 Parties arisen until the termination of the contractual relationship. In
-particular, Trisbee\'s right to the Remuneration and/or the right to
+particular, Trisbee's right to the Remuneration and/or the right to
 repayment of the administrative fee pursuant to Article 3.14 herein for
 tickets to the Event, the sale of which was mediated by Trisbee until
 the date of the contract termination, does not expire.
@@ -391,7 +391,7 @@ obligation.
 
 ## **SECTION 4 - FURTHER RIGHTS AND OBLIGATIONS**
 
-**4.1. Personal Data Processing**
+### **4.1. Personal Data Processing**
 
 **4.1.1.** Trisbee and the Promoter shall jointly process personal data
 of the Buyers for the purpose of selling tickets and in order to ensure
@@ -410,7 +410,7 @@ specific purposes:
 
 a. fulfillment of obligations from the concluded Contract on Ticket Purchase - the ticket payment receipt, the ticket delivery and/or the unique ticket identifier, information on changes to the Event (if applicable), checking of the ticket at the entrance to the Event, settlement of a complaint (if applicable);
 
-b. legitimate interests of Trisbee and the Promoter - settlement of a Buyer\'s complaint, prevention and detection of possible fraud, defense against potential exercise of a Buyer\'s claim related to the sale of tickets;
+b. legitimate interests of Trisbee and the Promoter - settlement of a Buyer's complaint, prevention and detection of possible fraud, defense against potential exercise of a Buyer's claim related to the sale of tickets;
 
 c. sending commercial communications and newsletters from Trisbee or the Promoter if the Buyer gives explicit consent thereto when purchasing ticket(s) - the Buyer may revoke this consent at any time in accordance with the procedure set out in each sent commercial communication.
 
@@ -424,7 +424,7 @@ Event (e.g. age).
 **4.1.4.** Trisbee is entitled to provide the Buyers' personal data to
 the Promoter, for the purposes of fulfilling the ticket sale contract
 and for the purposes of processing due to the Promoter's legitimate
-interest or, with the Buyer\'s consent, for the purpose of sending news.
+interest or, with the Buyer's consent, for the purpose of sending news.
 Trisbee is also entitled to provide the Buyers' personal data to
 entities legally entitled to request such data.
 
@@ -464,25 +464,23 @@ protection of the Buyers' personal data arising from these Terms and
 Conditions and undertakes not to act in breach of the protection of
 personal data relating to the Buyers.
 
-**4.1.8.** The Promoter is not entitled to process the Buyer\'s personal
+**4.1.8.** The Promoter is not entitled to process the Buyer's personal
 data for purposes other than the sale of tickets, proper holding of the
-Event, possible settlement of a Buyer\'s complaint or exercise of the
-Promoter\'s legitimate interests. In the case of a Buyer\'s express
-consent, the Promoter is entitled to process the Buyer\'s personal data
+Event, possible settlement of a Buyer's complaint or exercise of the
+Promoter's legitimate interests. In the case of a Buyer's express
+consent, the Promoter is entitled to process the Buyer's personal data
 for the purpose of sending commercial communications and newsletters.
 For the purposes of sending commercial offers, Trisbee and the Promoter
 shall not act as joint administrators within the meaning of Article 26
 of the GDPR and the processing of the Buyers' personal data shall take
-place at the Promoter\'s own responsibility.
+place at the Promoter's own responsibility.
 
 **4.1.9.** Both Trisbee and the Promoter fully respect the Buyers'
 rights arising from the GDPR:
 
 - **Right of access to data**
 
-  - to the extent guaranteed by legislation on personal data protection, the Buyers may request
-    access to their personal data,
-  - information on whether Trisbee or the Promoter works therewith, what specific data they process and how,
+  - to the extent guaranteed by legislation on personal data protection, the Buyers may request access to their personal data - information on whether Trisbee or the Promoter works therewith, what specific data they process and how,
 
 - **Right of rectification**
 
@@ -520,11 +518,11 @@ data processing obligations. The liability for administrative offences
 in the processing of personal data of Trisbee and the Promoter towards
 the Office for Personal Data Protection is governed by the relevant
 provisions of the GDPR. The Promoter is fully liable to Trisbee for any
-damage suffered thereby due to a breach of the Promoter\'s obligations
+damage suffered thereby due to a breach of the Promoter's obligations
 related to the processing of the Buyers\' personal data set by the GDPR.
 
 **4.1.12.** The Buyers' personal data shall be kept by Trisbee and the
-Promoter only until the Event is held, or until a Buyer\'s claims
+Promoter only until the Event is held, or until a Buyer's claims
 arising from participation in the Event are settled, or for a longer
 period of time if required so by law or necessary due to Trisbee's or
 the Promoter's legitimate interest, e.g. for the purpose of settling or
