@@ -478,41 +478,32 @@ place at the Promoter\'s own responsibility.
 **4.1.9.** Both Trisbee and the Promoter fully respect the Buyers'
 rights arising from the GDPR:
 
-- **Right of access to data** - to the extent guaranteed by
+- **Right of access to data**
 
-  legislation on personal data protection, the Buyers may request
-  access to their personal data - information on whether Trisbee or
-  the Promoter works therewith, what specific data they process and
-  how,
+  - to the extent guaranteed by legislation on personal data protection, the Buyers may request
+    access to their personal data,
+  - information on whether Trisbee or the Promoter works therewith, what specific data they process and how,
 
-- **Right of rectification** - the Buyers may request rectification of
+- **Right of rectification**
 
-  incorrect data or completion of incomplete data or provision of
-  additional consent,
+  - the Buyers may request rectification of incorrect data or completion of incomplete data or provision of
+    additional consent,
 
-- **Right to restriction of processing** - under established statutory
+- **Right to restriction of processing**
 
-  conditions, the data shall not be deleted, but Trisbee/Promoter
-  shall not further process them (for example, under circumstances
-  of determining legitimate interest in processing prevailing over
-  the request to delete personal data),
+  - under established statutory conditions, the data shall not be deleted, but Trisbee/Promoter shall not further process them (for example, under circumstances of determining legitimate interest in processing prevailing over the request to delete personal data),
 
-- **Right of erasure** - whenever relevant statutory conditions are
+- **Right of erasure**
 
-  met (for example, when the consent to the personal data processing
-  has been revoked, when the personal data processing is no longer
-  necessary, when the legitimate interest in the processing has
-  passed, etc.),
+  - whenever relevant statutory conditions are met (for example, when the consent to the personal data processing
+    has been revoked, when the personal data processing is no longer necessary, when the legitimate interest in the processing has passed, etc.),
 
-- **Right to object against processing** - the right to object to the
+- **Right to object against processing**
 
-  existence of a reason for the specific processing of personal data
-  (the objection needs to be specified),
+  - the right to object to the existence of a reason for the specific processing of personal data (the objection needs to be specified),
 
-- **Right to data portability** - the right to request Trisbee or the
-  Promoter as the personal data controllers to transfer the personal
-  data, if technically feasible, to another personal data
-  controller.
+- **Right to data portability**
+  - the right to request Trisbee or the Promoter as the personal data controllers to transfer the personal data, if technically feasible, to another personal data controller.
 
 **4.1.10.** Both Trisbee and the Promoter are obliged to take such
 measures as to prevent unauthorized or accidental access to the Buyers\'
@@ -618,7 +609,6 @@ entrepreneur), § 1805 para. 2 and § 1936 para. 1.
 
 These Terms and Conditions enter into force and take effect on 1 August 2020.
 
-
 ## Cookies
 
 ### (1) What are cookies?
@@ -637,7 +627,6 @@ Cookies can be divided into two categories **depending on who creates and proces
 
 **Third party cookies** are most often those of advertising systems, social network widgets or embedded videos.
 
-
 ### (2) What cookies do we use?
 
 **We mainly use technical cookies\*\*** (first party and session cookies)\*\* that are necessary to ensure basic functionalities of the websites, applications, or other services, such as saving of the selected language version.
@@ -652,9 +641,7 @@ However, in case you object to the processing of technical cookies needed for th
 
 **We never use cookies to identify you personally and we never place sensitive or personal data therein.**
 
-
 ### (3) Why do we process cookies?
-
 
 1. **To ensure full functionality and usability of our website** - cookies required to ensure the full functionality and usability of our website (so-called technical cookies).
 2. **To facilitate browsing of our website** – cookies that are not absolutely necessary for the full functioning of the website, nevertheless improving the users&#39; experience.
@@ -664,7 +651,6 @@ However, in case you object to the processing of technical cookies needed for th
 In order to prevent unauthorized access to our cookies and similar technologies, we have security measures in place wherever necessary. The unique identifier ensures that the access to the cookies data is available only to us and/or to the authorized service provider.
 
 All personal data that we collect and store using these technologies for purposes in the categories 2 to 4 above depend on your consent, asked for in the form of an explicit message displayed on our website on your first visit. The consent may be revoked in your browser settings anytime.
-
 
 ### 4) How to adjust the use of cookies?
 
@@ -687,4 +673,3 @@ The collected cookies are processed by the following data processors:
 The above data processors process cookies in accordance with their terms and conditions providing for handling of personal data.
 
 These policies for the use of cookies come into force and take effect from 1 August 2020.
-

@@ -24,7 +24,6 @@
 
 **1.2.6** Aceste termene și condiții fac parte integrantă din contractul încheiat între Organizator și Cumpărător, ca persoană care cumpără bilete la Eveniment prin intermediul Trisbee. Aceste termene și condiții fac parte integrantă din acordul de ticketing încheiat între Organizator și Trisbee.
 
-
 ## **PARTEA 2 –** **DREPTURILE ȘI OBLIGAȚIILE CUMPĂRĂTORULUI**
 
 ## 2.1. Cum se face achiziția biletelor?
@@ -144,17 +143,29 @@ Pentru nerespectarea obligațiilor de mai sus, Organizatorul îşi asumă să pl
 
 **4.1.9.** Atât Trisbee, cât și Organizatorul respectă pe deplin drepturile Cumpărătorului care decurg din GDPR (Regulamentul general privind protecția datelor):
 
-● **Dreptul de acces la date** - în măsura garantată de reglementările legale privind protecția datelor cu caracter personal, Cumpărătorul poate solicita accesul la datele sale personale - dacă Trisbee sau Organizatorul lucrează cu ele, cu ce date specifice și cum lucrează cu ele,
+- **Dreptul de acces la date**
 
-● **Dreptul la corectare** - Cumpărătorul poate solicita corectarea datelor incorecte sau adăugarea de date incomplete, după caz, acordarea consimțământului suplimentar,
+  - în măsura garantată de reglementările legale privind protecția datelor cu caracter personal, Cumpărătorul poate solicita accesul la datele sale personale
+  - dacă Trisbee sau Organizatorul lucrează cu ele, cu ce date specifice și cum lucrează cu ele,
 
-● **Dreptul de a restricționa procesarea** - în condițiile legale stabilite, datele nu vor fi șterse, dar Trisbee / Organizatorul nu le vor putea prelucra în continuare (de exemplu, în situația în care a fost stabilit un interes legitim pentru prelucrare care depășește cerința de ștergere a datelor cu caracter personal),
+- **Dreptul la corectare**
 
-● **Dreptul la ștergere** - ori de câte ori sunt îndeplinite condițiile legale (de exemplu, atunci când se revocă consimțământul pentru prelucrarea datelor cu caracter personal, prelucrarea datelor cu caracter personal nu mai este necesară, interesul legitim pentru procesare a trecut deja etc.),
+  - Cumpărătorul poate solicita corectarea datelor incorecte sau adăugarea de date incomplete, după caz, acordarea consimțământului suplimentar,
 
-● **Dreptul de a se opune prelucrării** – dreptul de ridica obiecții cu privire la existența unui motiv pentru prelucrarea specifică a datelor cu caracter personal (obiecția trebuie specificată),
+- **Dreptul de a restricționa procesarea**
 
-● **Dreptul la portabilitatea datelor** - dreptul de a solicita Trisbee sau Organizatorul, în calitate de operator de date cu caracter personal, să transfere aceste date cu caracter personal, dacă este posibil din punct de vedere tehnic, către un alt operator de date cu caracter personal.
+  - în condițiile legale stabilite, datele nu vor fi șterse, dar Trisbee / Organizatorul nu le vor putea prelucra în continuare (de exemplu, în situația în care a fost stabilit un interes legitim pentru prelucrare care depășește cerința de ștergere a datelor cu caracter personal),
+
+- **Dreptul la ștergere**
+
+  - ori de câte ori sunt îndeplinite condițiile legale (de exemplu, atunci când se revocă consimțământul pentru prelucrarea datelor cu caracter personal, prelucrarea datelor cu caracter personal nu mai este necesară, interesul legitim pentru procesare a trecut deja etc.),
+
+- **Dreptul de a se opune prelucrării**
+
+  - dreptul de ridica obiecții cu privire la existența unui motiv pentru prelucrarea specifică a datelor cu caracter personal (obiecția trebuie specificată),
+
+- **Dreptul la portabilitatea datelor**
+  - dreptul de a solicita Trisbee sau Organizatorul, în calitate de operator de date cu caracter personal, să transfere aceste date cu caracter personal, dacă este posibil din punct de vedere tehnic, către un alt operator de date cu caracter personal.
 
 **4.1.10.** Atât Trisbee, cât și Organizatorul sunt obligați să ia măsuri pentru a preveni accesul neautorizat sau accidental la datele cu caracter personal ale Cumpărătorului, schimbarea, distrugerea sau pierderea acestora, transferurile neautorizate, celelalte prelucrări neautorizate, precum și alte utilizări greșite ale datelor cu caracter personal. Această obligație se aplică chiar și după terminarea procesării datelor cu caracter personal. Părțile contractante se angajează să se notifice reciproc fără întârziere toate cazurile de acces accidental sau neautorizat la datele cu caracter personal ale Cumpărătorilor.
 
@@ -200,9 +211,9 @@ Cookie-urile pot fi împărțite în două categorii **în funcție de termenul 
 
 În funcție de **cine creează și procesează cookie-urile** , cookie-urile pot fi împărțite în două categorii:
 
-**Cookie-uri\*\*** le din domeniul-gazdă \***\* (first party cookies)** creează pagini web sau scripturi direct pe același domeniu. Sunt cel mai adesea utilizate pentru a asigura funcționalitatea de bază a site-ului sau aplicației.
+**Cookie-urile** din domeniul-gazdă \***\* (first party cookies)** creează pagini web sau scripturi direct pe același domeniu. Sunt cel mai adesea utilizate pentru a asigura funcționalitatea de bază a site-ului sau aplicației.
 
-**Cookie-urile** **de la terți** **(third party cookies)** sunt cel mai adesea cookie-uri ale sistemelor de publicitate, widget-urilor de rețea socială sau videoclipuri încorporate.
+**Cookie-urile** de la terți **(third party cookies)** sunt cel mai adesea cookie-uri ale sistemelor de publicitate, widget-urilor de rețea socială sau videoclipuri încorporate.
 
 ### (2) Ce cookie-uri folosim?
 
