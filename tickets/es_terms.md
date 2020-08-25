@@ -42,7 +42,7 @@
 
 ### **2.2. Reclamación**
 
-**2.2.1.** El Comprador no tiene derecho a rescindir el contrato de compra de billetes, de acuerdo con lo establecido en el § 1837 letra j) de la Ley No. 89/20212 del Código Civil, puesto que se trata de un contrato de aprovechamiento del tiempo libre.
+**2.2.1.** El Comprador no tiene derecho a rescindir el contrato de compra de billetes, de acuerdo con lo establecido en el § 1837 letra j) de la Ley No. 89/2012 del Código Civil, puesto que se trata de un contrato de aprovechamiento del tiempo libre.
 
 _ **2.2.2.** _ _El billete una vez comprado, no se puede devolver ni cambiar,_ y el Comprador no tiene derecho a un reembolso del precio de la entrada, caso de que no puede por cualquier motivo participar en el Evento respectivo. Esta disposición es válida, a menos que el Organizador especifique otra cosa para tal Evento.
 

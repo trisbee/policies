@@ -42,7 +42,7 @@
 
 ### 2.2. Reklamace
 
-**2.2.1.** Kupující není oprávněn od smlouvy o koupi vstupenek odstoupit, a to v souladu s ust. § 1837 písm. j) zák. č. 89/20212 Sb. (občanský zákoník), neboť se jedná o smlouvu o využití volného času.
+**2.2.1.** Kupující není oprávněn od smlouvy o koupi vstupenek odstoupit, a to v souladu s ust. § 1837 písm. j) zák. č. 89/2012 Sb. (občanský zákoník), neboť se jedná o smlouvu o využití volného času.
 
 **2.2.2.** Zakoupenou vstupenku není možné vrátit ani vyměnit, Kupující nemá právo na vrácení ceny vstupného, pokud se nemůže vybrané Akce zúčastnit, ať už z jakéhokoli důvodu. Toto ustanovení platí, pokud není Pořadatelem uvedeno u konkrétní Akce jinak.
 
@@ -223,7 +223,7 @@ Podle toho, **kdo cookies vytváří a zpracovává** lze rozdělit cookies na d
 
 **Cookies třetích stran (third party cookies)** jsou nejčastěji cookies reklamních systémů, widgetu sociálních sítí nebo vložených videí.
 
-### 2) Jaké cookies využíváme?
+### (2) Jaké cookies využíváme?
 
 **Využíváme především technické cookies (první strany, krátkodobé)**, které jsou nezbytné pro zajištění elementární funkce webových stránek, aplikací, případně dalších služeb, tj. např. pro uložení zvolené jazykové verze.
 
@@ -248,7 +248,7 @@ Abychom zabránili neoprávněnému přístupu k našim souborům cookies a podo
 
 Veškeré osobní údaje, které pomocí těchto technologií shromažďujeme a uchováváme pro výše uvedené kategorie 2 až 4 závisí na vašem souhlasu, získaném formou jednoznačného sdělení zobrazeného na našich webových stránkách při vaší první návštěvě. Tento souhlas můžete odvolat v nastavení vašeho prohlížeče.
 
-### 4) Jak lze upravit využívání cookies?
+### (4) Jak lze upravit využívání cookies?
 
 Všechny cookies, které už na vašem zařízení jsou, můžete vymazat. Většina prohlížečů také nabízí možnost blokace umisťování cookies na vaše zařízení, v takovém případě ale mějte na paměti, že blokace nebo deaktivace souborů cookies za tímto účelem bude mít za následek, že funkce nástroje kontroly již nebude efektivní a může to mít nepříznivý dopad na váš celkový zážitek při prohlížení. Detailní informace o nastavení ukládání souborů cookies ve vašem prohlížeči nebo zařízení najdete na stránkách poskytovatele konkrétního prohlížeče. Informace o tom, jak si nastavit svůj prohlížeč a omezit nebo povolit zpracování cookies, najdete například [zde](https://www.whatismybrowser.com/guides/how-to-enable-cookies/).
 

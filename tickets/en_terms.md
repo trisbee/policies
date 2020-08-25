@@ -110,7 +110,7 @@ in connection with the failure to hold the Event.
 ### 2.2. Claims
 
 **2.2.1.** In accordance with the provisions of § 1837 letter j) Act.
-No. 89/20212 Coll. (Civil Code), the Buyer is not entitled to withdraw
+No. 89/2012 Coll. (Civil Code), the Buyer is not entitled to withdraw
 from the contract for the purchase of tickets, as it is a leisure-time
 activity contract.
 
@@ -522,7 +522,6 @@ provisions of the GDPR. The Promoter is fully liable to Trisbee for any
 damage suffered thereby due to a breach of the Promoter's obligations
 related to the processing of the Buyer's personal data set by the GDPR.
 
-
 **4.1.12.** The Buyers' personal data shall be kept by Trisbee and the
 Promoter only until the Event is held, or until a Buyer's claims
 arising from participation in the Event are settled, or for a longer
@@ -652,7 +651,7 @@ In order to prevent unauthorized access to our cookies and similar technologies,
 
 All personal data that we collect and store using these technologies for purposes in the categories 2 to 4 above depend on your consent, asked for in the form of an explicit message displayed on our website on your first visit. The consent may be revoked in your browser settings anytime.
 
-### 4) How to adjust the use of cookies?
+### (4) How to adjust the use of cookies?
 
 You can delete all cookies previously stored in your device. Most browsers also offer the option of blocking the placement of cookies into your device – however, keep in mind that such blocking or deactivating of cookies results in the loss of the monitoring tool feature, which may adversely affect your overall viewing experience. Detailed information on the settings for storing of cookies in your browser or device can be found on the website of the specific browser provider. Information on how to set up your browser and restrict or enable processing of cookies can be for instance found [here](https://www.whatismybrowser.com/guides/how-to-enable-cookies/).
 
