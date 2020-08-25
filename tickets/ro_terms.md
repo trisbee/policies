@@ -140,6 +140,7 @@ e) toate persoanele care intră în contact cu datele cu caracter personal prelu
 
 f) accesul la facilitățile și depozitele în care datele cu caracter personal sunt prelucrate trebuie protejate prin parolă;
 
+
 g) numai angajații Trisbee sau Organizatorul/Organizatorii, a căror clasificare a postului o solicită și care vor fi instruiți în prelucrarea datelor cu caracter personal, vor avea întotdeauna drepturi de acces la echipamentele și depozitele cu date personale ale Cumpărătorilor. Acești operatori vor avea acces doar la datele cu caracter personal corespunzătoare drepturilor acestor persoane;
 
 h) atât Trisbee, cât și Organizatorul respectă propriile lor reglementări interne care guvernează măsurile și procedurile organizatorice și tehnice și îndatoririle aferente angajaților Trisbee și Organizatorului, al căror scop este de a asigura securitatea datelor cu caracter personal prelucrate.
@@ -151,18 +152,23 @@ h) atât Trisbee, cât și Organizatorul respectă propriile lor reglementări i
 **4.1.9.** Atât Trisbee, cât și Organizatorul respectă pe deplin drepturile Cumpărătorului care decurg din GDPR (Regulamentul general privind protecția datelor):
 
 - **Dreptul de acces la date**
+
   - în măsura garantată de reglementările legale privind protecția datelor cu caracter personal, Cumpărătorul poate solicita accesul la datele sale personale - dacă Trisbee sau Organizatorul lucrează cu ele, cu ce date specifice și cum lucrează cu ele,
 
 - **Dreptul la corectare**
+
   - Cumpărătorul poate solicita corectarea datelor incorecte sau adăugarea de date incomplete, după caz, acordarea consimțământului suplimentar,
 
 - **Dreptul de a restricționa procesarea**
+
   - în condițiile legale stabilite, datele nu vor fi șterse, dar Trisbee / Organizatorul nu le vor putea prelucra în continuare (de exemplu, în situația în care a fost stabilit un interes legitim pentru prelucrare care depășește cerința de ștergere a datelor cu caracter personal),
 
 - **Dreptul la ștergere**
+
   - ori de câte ori sunt îndeplinite condițiile legale (de exemplu, atunci când se revocă consimțământul pentru prelucrarea datelor cu caracter personal, prelucrarea datelor cu caracter personal nu mai este necesară, interesul legitim pentru procesare a trecut deja etc.),
 
 - **Dreptul de a se opune prelucrării**
+
   - dreptul de ridica obiecții cu privire la existența unui motiv pentru prelucrarea specifică a datelor cu caracter personal (obiecția trebuie specificată),
 
 - **Dreptul la portabilitatea datelor**
@@ -212,7 +218,7 @@ Cookie-urile pot fi împărțite în două categorii **în funcție de termenul 
 
 În funcție de **cine creează și procesează cookie-urile** , cookie-urile pot fi împărțite în două categorii:
 
-**Cookie-urile** din domeniul-gazdă \***\* (first party cookies)** creează pagini web sau scripturi direct pe același domeniu. Sunt cel mai adesea utilizate pentru a asigura funcționalitatea de bază a site-ului sau aplicației.
+**Cookie-urile** din domeniul-gazdă **(first party cookies)** creează pagini web sau scripturi direct pe același domeniu. Sunt cel mai adesea utilizate pentru a asigura funcționalitatea de bază a site-ului sau aplicației.
 
 **Cookie-urile** de la terți **(third party cookies)** sunt cel mai adesea cookie-uri ale sistemelor de publicitate, widget-urilor de rețea socială sau videoclipuri încorporate.
 
