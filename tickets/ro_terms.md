@@ -217,7 +217,7 @@ Cookie-urile pot fi împărțite în două categorii **în funcție de termenul 
 
 În funcție de **cine creează și procesează cookie-urile** , cookie-urile pot fi împărțite în două categorii:
 
-**Cookie-urile** din domeniul-gazdă \***\* (first party cookies)** creează pagini web sau scripturi direct pe același domeniu. Sunt cel mai adesea utilizate pentru a asigura funcționalitatea de bază a site-ului sau aplicației.
+**Cookie-urile** din domeniul-gazdă **(first party cookies)** creează pagini web sau scripturi direct pe același domeniu. Sunt cel mai adesea utilizate pentru a asigura funcționalitatea de bază a site-ului sau aplicației.
 
 **Cookie-urile** de la terți **(third party cookies)** sunt cel mai adesea cookie-uri ale sistemelor de publicitate, widget-urilor de rețea socială sau videoclipuri încorporate.
 

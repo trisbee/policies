@@ -21,7 +21,7 @@ mediation of ticket sales by Trisbee to the Buyer, for cultural,
 sporting or other events organized by the Promoter (hereinafter
 referred to as "**Event(s)**").
 
-**1.2.2.** Trisbee offers tickets for the Promoters\' Events on its
+**1.2.2.** Trisbee offers tickets for the Promoter's Events on its
 website **goforboom.com** and arranges for their production,
 sale and delivery to the Buyers, thus on behalf of the Promoter
 (Trisbee acts as the sales agent) and for the account thereof, under a
@@ -43,7 +43,7 @@ or of changes thereto.
 **1.2.4.** Trisbee does not provide payment services to the Provider when
 mediating the sale of tickets.
 
-**1.2.5.** The Buyers\' payments for purchased tickets to the Promoter's
+**1.2.5.** The Buyer's payments for purchased tickets to the Promoter's
 Event shall be credited to the Trisbee's bank account. The settlement
 of the received transactions between Trisbee and the Promoter shall be
 subsequently carried out in accordance with the agreement of the
@@ -150,7 +150,7 @@ to the Promoter yet.
 
 **2.2.5.** In case of any questions regarding the purchase of ticket(s)
 or claims thereof the Buyers may address Trisbee at
-[[support\@goforboom.com]](mailto:support@goforboom.com).
+[[support@goforboom.com]](mailto:support@goforboom.com).
 
 ## **SECTION 3 - RIGHTS AND OBLIGATIONS OF THE PROMOTER**
 
@@ -192,7 +192,7 @@ undertakes to ensure:
 
 a) that the website operated thereby and containing the promotion of the Event, contains the Trisbee logo, thus at least on the page referring to the sale of tickets for the Event(s),
 
-b) that, as part of the purchase of a ticket for an Event, the sale of which is mediated by Trisbee, the website operated thereby provides link to the website goforboom.com/and thus allows to the Buyer direct access to the Trisbee sales system,
+b) that, as part of the purchase of a ticket for an Event, the sale of which is mediated by Trisbee, the website operated thereby provides link to the website goforboom.com and thus allows to the Buyer direct access to the Trisbee sales system,
 
 c) that, in the event that the Promoter uses means of an Event promotion other than just the Internet, it is always stated in such other means of promotion that the tickets for the Event can be purchased via Trisbee (goforboom.com),
 
@@ -248,7 +248,7 @@ dates and in the agreed form (e.g. in the form of a shared spreadsheet
 or an updated table sent by e-mail).
 
 **3.9.** By concluding this contract, Trisbee and the Promoter have
-agreed that the amount corresponding to the Buyers\' payments for
+agreed that the amount corresponding to the Buyer's payments for
 tickets received by Trisbee, after deducting the Remuneration, shall be
 sent to the Promoter within 10 working days upon conclusion of the Event
 to the bank account notified thereby to Trisbee for this purpose,
@@ -294,7 +294,7 @@ provision hereof (Article 3.11.) is exercised by the Buyer with Trisbee,
 Trisbee shall be entitled, though not obliged, to settle the Buyer's
 claim itself, and shall notify the Promoter of the Buyer's claim
 processing without undue delay. To settle such a claim, Trisbee is
-entitled to use all the Buyers\' payments received for the specific
+entitled to use all the Buyer's payments received for the specific
 Promoter's Event after deducting the Remuneration or, if the payments
 would not be enough to settle the claim, Trisbee is entitled to use
 funds from payments received in connection with another Event of the
@@ -366,7 +366,7 @@ specified by the Buyers when purchasing the tickets and, at the same
 time, shall inform the Buyers on how and on which date their right to a
 refund of the paid ticket price is to be settled. In this case, the
 parties are obliged to agree at the termination of the contract on the
-specific manner in which the Buyers\' right to a refund of the ticket
+specific manner in which the Buyer's right to a refund of the ticket
 price will be settled. If the Parties fail to do so, the Promoter shall
 be fully responsible to the Buyers for settlement of all claims.
 
@@ -429,7 +429,7 @@ Trisbee is also entitled to provide the Buyers' personal data to
 entities legally entitled to request such data.
 
 **4.1.5.** Trisbee consistently ensures technical and organizational
-security of all the Buyers\' personal data obtained in internal systems,
+security of all the Buyer's personal data obtained in internal systems,
 doing so through electronic security tools, granting of access rights,
 anti-virus protection, security backups and granting of access to data
 to authorized persons only.
@@ -442,7 +442,7 @@ Promoter and Trisbee undertake to adhere to the following rules:
 
 a. to ensure electronic security and anti-virus protection of all devices through which the Buyers' personal data are processed;
 
-b. the Buyers\' personal data shall not be stored by the authorized persons of Trisbee or the Promoter on such person's devices or exported from internal systems thereof, unless this is strictly indispensable for implementation of the Event;
+b. the Buyer's personal data shall not be stored by the authorized persons of Trisbee or the Promoter on such person's devices or exported from internal systems thereof, unless this is strictly indispensable for implementation of the Event;
 
 c. the personal data processed must never be stored on information media that could be accessed by third parties;
 
@@ -505,13 +505,13 @@ rights arising from the GDPR:
   - the right to request Trisbee or the Promoter as the personal data controllers to transfer the personal data, if technically feasible, to another personal data controller.
 
 **4.1.10.** Both Trisbee and the Promoter are obliged to take such
-measures as to prevent unauthorized or accidental access to the Buyers\'
+measures as to prevent unauthorized or accidental access to the Buyer's
 personal data, their change, destruction or loss, unauthorized
 transfers, their other unauthorized processing, as well as other misuse
 of personal data. This obligation applies even after the processing of
 the personal data has been completed. The Parties undertake to notify
 each other without delay about all and any cases of accidental or
-unauthorized access to the Buyers\' personal data.
+unauthorized access to the Buyer's personal data.
 
 **4.1.11.** Trisbee and the Promoter are jointly and severally liable to
 the data subjects concerned for all and any breaches of the personal
@@ -520,7 +520,7 @@ in the processing of personal data of Trisbee and the Promoter towards
 the Office for Personal Data Protection is governed by the relevant
 provisions of the GDPR. The Promoter is fully liable to Trisbee for any
 damage suffered thereby due to a breach of the Promoter's obligations
-related to the processing of the Buyers\' personal data set by the GDPR.
+related to the processing of the Buyer's personal data set by the GDPR.
 
 **4.1.12.** The Buyers' personal data shall be kept by Trisbee and the
 Promoter only until the Event is held, or until a Buyer's claims
@@ -544,7 +544,7 @@ this purpose.
 **4.1.14.** To exercise any of the rights provided by applicable law,
 the Buyer may contact Trisbee by phone at +420 774 140 044, or in
 writing by email at
-[[support\@goforboom.com]](mailto:support@goforboom.com), or in person
+[[support@goforboom.com]](mailto:support@goforboom.com), or in person
 at Trisbee premises: Kamenická 33, 170 00 Prague 7. If you believe that
 the processing Your personal data is violating the law, you have the
 right to file a complaint with the national supervisory authority (in
@@ -628,9 +628,9 @@ Cookies can be divided into two categories **depending on who creates and proces
 
 ### (2) What cookies do we use?
 
-**We mainly use technical cookies\*\*** (first party and session cookies)\*\* that are necessary to ensure basic functionalities of the websites, applications, or other services, such as saving of the selected language version.
+**We mainly use technical cookies (first party and session cookies)** that are necessary to ensure basic functionalities of the websites, applications, or other services, such as saving of the selected language version.
 
-**We also use\*\*** Google tools, such as Google Analytics, Google Adwords, Google Tag Manager (first party and persistent cookies)\*\* in order to gather data and generate statistics on users&#39; behavior so that we can better tailor our services. The data are assessed in the bulk and therefore anonymous form preventing personal identification.
+**We also use Google tools, such as Google Analytics, Google Adwords, Google Tag Manager (first party and persistent cookies)** in order to gather data and generate statistics on users&#39; behavior so that we can better tailor our services. The data are assessed in the bulk and therefore anonymous form preventing personal identification.
 
 You can also use the websites in a mode disallowing collection of data about your behavior - just set up your browser, or raise an objection to the data collection based on the legitimate interest, doing so by email sent to **support@trisbee.com**.
 
