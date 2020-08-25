@@ -42,7 +42,7 @@
 
 ## 2.2. Reclamaţii
 
-**2.2.1.** Cumpărătorul nu are dreptul să se retragă din contractul de cumpărare a biletelor, în conformitate cu dispozițiile § 1837 litera j) din Legea nr. 89/20212 Coll. (Codul Civil), deoarece este un contract pentru utilizarea timpului liber.
+**2.2.1.** Cumpărătorul nu are dreptul să se retragă din contractul de cumpărare a biletelor, în conformitate cu dispozițiile § 1837 litera j) din Legea nr. 89/2012 Coll. (Codul Civil), deoarece este un contract pentru utilizarea timpului liber.
 
 **2.2.2.** Nu este posibil să returnați sau să schimbați biletul cumpărat, Cumpărătorul nu are dreptul la o rambursare a taxei de intrare dacă nu poate participa la Evenimentul selectat, din oricare motiv. Această dispoziție se aplică, cu excepția cazului în care Organizatorul nu prevede altfel pentru un anumit Eveniment.
 
@@ -139,7 +139,6 @@ d) datele cu caracter personal prelucrate nu pot fi furnizate sau puse la dispoz
 e) toate persoanele care intră în contact cu datele cu caracter personal prelucrate trebuie să fie întotdeauna instruite în mod corespunzător privind obligațiile de păstrare a secretului profesional (obligațiile care continuă după încheierea activității desfășurate pentru Trisbee sau Organizator);
 
 f) accesul la facilitățile și depozitele în care datele cu caracter personal sunt prelucrate trebuie protejate prin parolă;
-
 
 g) numai angajații Trisbee sau Organizatorul/Organizatorii, a căror clasificare a postului o solicită și care vor fi instruiți în prelucrarea datelor cu caracter personal, vor avea întotdeauna drepturi de acces la echipamentele și depozitele cu date personale ale Cumpărătorilor. Acești operatori vor avea acces doar la datele cu caracter personal corespunzătoare drepturilor acestor persoane;
 
