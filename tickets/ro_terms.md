@@ -140,6 +140,7 @@ e) toate persoanele care intră în contact cu datele cu caracter personal prelu
 
 f) accesul la facilitățile și depozitele în care datele cu caracter personal sunt prelucrate trebuie protejate prin parolă;
 
+
 g) numai angajații Trisbee sau Organizatorul/Organizatorii, a căror clasificare a postului o solicită și care vor fi instruiți în prelucrarea datelor cu caracter personal, vor avea întotdeauna drepturi de acces la echipamentele și depozitele cu date personale ale Cumpărătorilor. Acești operatori vor avea acces doar la datele cu caracter personal corespunzătoare drepturilor acestor persoane;
 
 h) atât Trisbee, cât și Organizatorul respectă propriile lor reglementări interne care guvernează măsurile și procedurile organizatorice și tehnice și îndatoririle aferente angajaților Trisbee și Organizatorului, al căror scop este de a asigura securitatea datelor cu caracter personal prelucrate.

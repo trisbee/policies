@@ -522,6 +522,7 @@ provisions of the GDPR. The Promoter is fully liable to Trisbee for any
 damage suffered thereby due to a breach of the Promoter's obligations
 related to the processing of the Buyer's personal data set by the GDPR.
 
+
 **4.1.12.** The Buyers' personal data shall be kept by Trisbee and the
 Promoter only until the Event is held, or until a Buyer's claims
 arising from participation in the Event are settled, or for a longer
