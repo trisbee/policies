@@ -33,7 +33,7 @@ These terms and conditions constitute basic agreement on the provision of paymen
 
 (hereinafter referred to as the **&quot;Business Payment Methods&quot;** ).
 
-### **1.3.2.** Payments entered in favor of the Merchant are remitted by Trisbee to the Merchant&#39;s bank account on the next working day after the payment order from the Merchant&#39;s Customer or the User is successfully accepted. Trisbee does not keep a payment account for the Merchant.
+**1.3.2.** Payments entered in favor of the Merchant are remitted by Trisbee to the Merchant&#39;s bank account on the next working day after the payment order from the Merchant&#39;s Customer or the User is successfully accepted. Trisbee does not keep a payment account for the Merchant.
 
 **1.3.3.** Subject to the Merchant&#39;s meeting of specified conditions, Trisbee may establish thereto an access into a web application where the Merchant may monitor payments entered in their favor, provided that the service is available at the moment (hereinafter referred to as the &quot; **Dashboard Business**&quot;). The current terms of use of this service are published on the website [www.trisbee.com](http://www.trisbee.com/).
 
