@@ -24,7 +24,7 @@ Pilot Merchant Terms and Conditions
 
 **1.2.4. &quot;User&quot;** means **any person who uses the payment services provided by Trisbee** and who, in order to enter into a contractual relationship therewith, has provided Trisbee with their identification data and has agreed to the User&#39;s Terms and Conditions, and/or has met other conditions stipulated by law for the provision of the selected payment service.
 
-**1.2.5.****&quot;Pilot&quot;** means a phase of the provision of payment services by Trisbee for a limited period of time as stipulated by Trisbee. The purpose of the Pilot is to evaluate the effectiveness of Trisbee payment services and Trisbee products provided to the Merchant.
+**1.2.5. &quot;Pilot&quot;** means a phase of the provision of payment services by Trisbee for a limited period of time as stipulated by Trisbee. The purpose of the Pilot is to evaluate the effectiveness of Trisbee payment services and Trisbee products provided to the Merchant.
 
 ### **1.3. Trisbee Payment Service Designed for Merchants**
 

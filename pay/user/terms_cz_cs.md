@@ -132,7 +132,7 @@ V obou případech je Uživatel přímo v Aplikaci proveden všemi kroky dobití
 
 **2.4.7.** Po úspěšném přijetí příkazu k úhradě provede Trisbee vždy prověření transakce z pohledu příslušných ustanovení AML zákona, tj. prověří, zda se nejedná o podezřelou platební transakci, a dále ověří, na základě dostupných informací o Uživateli a příjemci platby, případně dalších informací, zda se nejedná o rizikovou transakci z pohledu možného spáchání podvodu. Pokud je platební transakce ověřena, přičemž lze dospět k závěru, že nejde o podezřelou nebo rizikovou platbu, zpracuje Trisbee příkaz k úhradě Uživatele, a to tak, že odečte z Platebního účtu Uživatele zadanou částku a tuto částku odesílá ve prospěch zvoleného Obchodníka dle čl. 2.4.8. Obchodních podmínek. V opačném případě, tj. v případě, že platební transakci je na základě ověření nutné považovat za podezřelou nebo rizikovou, postupuje Trisbee dle čl. 2.5. těchto Obchodních podmínek.
 
-**2.4.8.**** Příjemcem platby je:**
+**2.4.8.** **Příjemcem platby je:**
 
 **(i) Obchodník**, kterému Uživatel prostřednictvím Aplikace platí za nabízené zboží nebo služby.
 
@@ -146,7 +146,7 @@ V tomto případě je Obchodníkovi formou notifikace v aplikaci pro přijímán
 
 a současně
 
-(ii) **Trisbee bez prodlení kontaktuje Uživatele a/nebo zvoleného příjemce platby**** s žádostí o sdělení dalších skutečností k zadanému platebnímu příkazu a doložení dokumentů vztahujících se k transakci**. Trisbee kontaktuje uvedené osoby telefonicky a/nebo formou SMS a/nebo e-mailovou zprávou s tím, že může zvolit kterýkoliv nebo všechny způsoby tak, aby učinilo vše pro to, aby kontaktovanou osobu co nejrychleji zastihlo.
+(ii) **Trisbee bez prodlení kontaktuje Uživatele a/nebo zvoleného příjemce platby** **s žádostí o sdělení dalších skutečností k zadanému platebnímu příkazu a doložení dokumentů vztahujících se k transakci**. Trisbee kontaktuje uvedené osoby telefonicky a/nebo formou SMS a/nebo e-mailovou zprávou s tím, že může zvolit kterýkoliv nebo všechny způsoby tak, aby učinilo vše pro to, aby kontaktovanou osobu co nejrychleji zastihlo.
 
 **Důvodem** prověřování zadaného příkazu k úhradě je především plnění zákonných povinností vztahujících se na Trisbee (jako na povinnou platební instituci) dle AML zákona a dále také ochrana vlastních oprávněných zájmů společnosti jakožto podnikatele před pácháním podvodného jednání, ať už je toto pácháno vůči Trisbee nebo prostřednictvím Trisbee. **Účelem** prověřování je získání dodatečných informací a podkladů, na základě kterých může Trisbee učinit rozhodnutí o dalším zpracování zadaného platebního příkazu či odmítnutí platebního příkazu.
 

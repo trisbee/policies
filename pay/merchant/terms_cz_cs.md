@@ -21,7 +21,7 @@ Tyto obchodní podmínky představují základní obsah smlouvy o poskytování 
 
 **1.2.3.**&quot; **Klientem Obchodníka**&quot; se rozumí **každý, kdo prostřednictvím platebního systému Trisbee** , a to pomocí mobilní nebo webové aplikace Trisbee (dále jen jako &quot; **Aplikace**&quot;) nebo s využitím přístupu k serveru provozovatele přes rozhraní pro programování (dále jen jako &quot; **API**&quot;), **platí Obchodníkovi** za zboží a služby **,** ale jinak aktivně nevyužívá další platební služby poskytované Trisbee (Aplikace zde slouží jako platební terminál pro Obchodníka).
 
-**1.2.4.****&quot;Uživatelem&quot; **se rozumí** každý, kdo využívá platební služby poskytované Trisbee** a za účelem uzavření smluvního vztahu poskytl Trisbee své identifikační údaje a vyjádřil souhlas s obchodními podmínkami pro Uživatele, případně splnil další podmínky stanovené zákonem pro poskytování zvolené platební služby.
+**1.2.4.**&quot;Uživatelem&quot; se rozumí každý, kdo využívá platební služby poskytované Trisbee** a za účelem uzavření smluvního vztahu poskytl Trisbee své identifikační údaje a vyjádřil souhlas s obchodními podmínkami pro Uživatele, případně splnil další podmínky stanovené zákonem pro poskytování zvolené platební služby.
 
 ### **1.3. Platební služba Trisbee pro Obchodníka**
 
@@ -143,7 +143,7 @@ Důvody neschválení Obchodníka, ukončení poskytování platebních služeb,
 
 a současně
 
-(ii) **Trisbee bez prodlení kontaktuje plátce a/nebo Obchodníka**** s žádostí o sdělení dalších skutečností k zadanému platebnímu příkazu a doložení dokumentů vztahujících se k transakci**. Trisbee kontaktuje uvedené osoby telefonicky a/nebo formou SMS a/nebo e-mailovou zprávou s tím, že může zvolit kterýkoliv nebo všechny způsoby tak, aby učinilo vše pro to, aby kontaktovanou osobu co nejrychleji zastihlo.
+(ii) **Trisbee bez prodlení kontaktuje plátce a/nebo Obchodníka** **s žádostí o sdělení dalších skutečností k zadanému platebnímu příkazu a doložení dokumentů vztahujících se k transakci**. Trisbee kontaktuje uvedené osoby telefonicky a/nebo formou SMS a/nebo e-mailovou zprávou s tím, že může zvolit kterýkoliv nebo všechny způsoby tak, aby učinilo vše pro to, aby kontaktovanou osobu co nejrychleji zastihlo.
 
 **Důvodem** prověřování zadaného příkazu k úhradě je především plnění zákonných povinností vztahujících se na Trisbee (jako na povinnou platební instituci) dle AML zákona a dále také ochrana vlastních oprávněných zájmů společnosti jakožto podnikatele před pácháním podvodného jednání, ať už je toto pácháno vůči Trisbee nebo prostřednictvím Trisbee. **Účelem** prověřování je získání dodatečných informací a podkladů, na základě kterých může Trisbee učinit rozhodnutí o dalším zpracování zadaného platebního příkazu či odmítnutí platebního příkazu.
 

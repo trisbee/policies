@@ -19,7 +19,7 @@ These terms and conditions constitute basic agreement on the provision of paymen
 
 **1.2.3. &quot;Merchant&quot;** means **an entity that has entered into an agreement with Trisbee on the provision of payment services consisting in acceptance of non-cash payments** from third parties - the merchant&#39;s customers (hereinafter referred to as the **&quot;Merchant&quot;** ) and has met all contractual and statutory conditions for the provision of the service of non-cash payment acceptance.
 
-**1.2.4.****&quot;Merchant&#39;s Customer&quot; **means** any person using the Trisbee payment system**, either by means of the Trisbee mobile or web application (hereinafter referred to as the**&quot;Application&quot;**) or, using the access to the Operator&#39;s server via a programming interface (hereinafter referred to as the &quot;**API**&quot;),**paying to the Merchant** for goods and services while otherwise not using actively other payment services provided by Trisbee (in such cases the Application serves to the Merchant as a payment terminal).
+**1.2.4.**&quot;Merchant&#39;s Customer&quot; **means** any person using the Trisbee payment system**, either by means of the Trisbee mobile or web application (hereinafter referred to as the**&quot;Application&quot;**) or, using the access to the Operator&#39;s server via a programming interface (hereinafter referred to as the &quot;**API**&quot;),**paying to the Merchant** for goods and services while otherwise not using actively other payment services provided by Trisbee (in such cases the Application serves to the Merchant as a payment terminal).
 
 ### **1.3. Trisbee Payment Services**
 
