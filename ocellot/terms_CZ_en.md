@@ -1,7 +1,8 @@
-# Ocellot by Trisbee
+Ocellot by Trisbee
 
-# Terms and Conditions of Ocellot
+Ocellot Terms and Conditions
 
-## todo
+PART 1 - INTRODUCTION AND BASIC TERMS
 
-### todo2
+1.1. Conclusion of a contract with the Merchant
+These Terms and Conditions constitute the basic agreement of the Ocellot Software License Agreement, the provision of other services related to the use of the software and the provision of other services offered. The Agreement is concluded between Trisbee s.r.o., with registered office at Prague 6, Vokovice, K Červenému vrchu 678/1, postal code 160 00, Czech Republic, ID No.: 04775660, registered in the Commercial Register maintained by the Municipal Court in Prague, file number C 306886 (hereinafter referred to as "Trisbee") and the Merchant. The Agreement is concluded by the Merchant, as an entity interested in the Ocellot software license and other services (hereinafter referred to as the "Merchant"), who provides Trisbee with its identification and billing data, or other necessary data, selects the method of payment for the license and other services, submits the specified documents, and at the same time agrees to these Terms and Conditions governing the rights and obligations of Trisbee and the Merchant in the provision of services (hereinafter referred to as the "Terms and Conditions''). The price list that constitutes the price of the license and the price of the services (hereinafter referred to as the "Price List") is an integral part of the Terms and Conditions to which Merchant agrees. On the basis of the concluded agreement, Trisbee will provide the Merchant with a license to the Ocellot software in the agreed scope and other agreed services.
