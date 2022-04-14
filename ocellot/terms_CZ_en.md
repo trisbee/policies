@@ -97,58 +97,90 @@ or
 
 **2.3.5.**	Trisbee and Merchant hereby agree that if a claim is found to be justified, Merchant may not claim a reduction in the license fee or the price of the service if Trisbee is able and prepared to (a) remedy the claimed issues without undue delay or promptly provide the service again without issues, and at the same time (b) promptly commence activities to remedy the issue. However, the Merchant always has the right to terminate the Agreement - for more information see Article 3.7.3 of the Terms and Conditions.
  
-2.7.	Fees
-2.7.1.	Trisbee shall charge Merchant license fees for the Ocellot License in the amount of the applicable Price list. The Price list may also include prices for other services that Merchant may purchase in conjunction with the Ocellot License.
-2.7.2.	Trisbee shall not charge the Merchant any license fees for the use of the software during the trial period. Information about the terms of the trial period is provided at www.ocellot.eu. The trial period is granted to each Merchant only once, even if they register as a new user to use the software repeatedly.
-2.7.3.	The Merchant acknowledges that Trisbee is entitled to unilaterally change the Price list at any time. However, if a Merchant has paid for a license for an agreed period of time, Trisbee will not charge such Merchant additional fees even if the fees are increased during that period by a change of the Price list. Should there be a decrease in fees during the period for which Merchant has paid license fees, Trisbee will provide Merchant with adequate compensation upon Merchant's request.
-2.7.4.	In accordance with Section 26(3) of Act No. 235/2004 Coll., on Value Added Tax, as amended, the Merchant agrees that Trisbee shall issue the tax document - invoice electronically. The Merchant agrees that Trisbee may issue a proforma invoice first, with the understanding that only after payment of the invoiced amount will a proper invoice - tax document be sent to the Merchant. The Merchant also agrees that both proforma invoices and regular invoices (tax documents) may be sent to him by email.
-2.7.5.	The License fee and the prices of other services according to the Price list are due within 14 days of the issue and delivery of the (proforma) invoice (for delivery of both proforma and regular invoices, see Article 2.7.4. and Article 3.2.2. of these Terms and Conditions), unless a different due date is indicated on the invoice, primarily by transfer to Trisbee's account or by another currently available payment method.
-2.7.6.	In the event of delay in payment of the invoiced amount, the Merchant is also obliged to pay the statutory interest on late payment in accordance with the relevant legislation. If the Merchant fails to pay an invoiced amount for more than 30 days it may be ground for termination of the Agreement by Trisbee.
+### **2.4.	Fees**
+
+**2.7.1.**	Trisbee shall charge Merchant license fees for the Ocellot License in the amount of the applicable Price list. The Price list may also include prices for other services that Merchant may purchase in conjunction with the Ocellot License.
+
+**2.7.2.**	Trisbee shall not charge the Merchant any license fees for the use of the software during the trial period. Information about the terms of the trial period is provided at [https://www.ocellot.eu/en](https://www.ocellot.com/en). The trial period is granted to each Merchant only once, even if they register as a new user to use the software repeatedly.
+
+**2.7.3.**	The Merchant acknowledges that Trisbee is entitled to unilaterally change the Price list at any time. However, if a Merchant has paid for a license for an agreed period of time, Trisbee will not charge such Merchant additional fees even if the fees are increased during that period by a change of the Price list. Should there be a decrease in fees during the period for which Merchant has paid license fees, Trisbee will provide Merchant with adequate compensation upon Merchant's request.
+
+**2.7.4.**	In accordance with Section 26(3) of Act No. 235/2004 Coll., on Value Added Tax, as amended, the Merchant agrees that Trisbee shall issue the tax document - invoice electronically. The Merchant agrees that Trisbee may issue a proforma invoice first, with the understanding that only after payment of the invoiced amount will a proper invoice - tax document be sent to the Merchant. The Merchant also agrees that both proforma invoices and regular invoices (tax documents) may be sent to him by email.
+
+**2.7.5.**	The License fee and the prices of other services according to the Price list are due within 14 days of the issue and delivery of the (proforma) invoice (for delivery of both proforma and regular invoices, see Article 2.7.4. and Article 3.2.2. of these Terms and Conditions), unless a different due date is indicated on the invoice, primarily by transfer to Trisbee's account or by another currently available payment method.
+
+**2.7.6.**	In the event of delay in payment of the invoiced amount, the Merchant is also obliged to pay the statutory interest on late payment in accordance with the relevant legislation. If the Merchant fails to pay an invoiced amount for more than 30 days it may be ground for termination of the Agreement by Trisbee.
  
  
-PART 3 - OTHER RIGHTS AND OBLIGATIONS
-3.1.	Liability
-3.1.1.	The Merchant shall be fully liable for any damage (material or non-material) caused by its actions to Trisbee, to persons related to Trisbee that are involved in providing services to the Merchant, if such damage is caused by the Merchant as a result of an
+## **PART 3 - OTHER RIGHTS AND OBLIGATIONS**
+
+### **3.1.	Liability**
+
+**3.1.1.**	The Merchant shall be fully liable for any damage (material or non-material) caused by its actions to Trisbee, to persons related to Trisbee that are involved in providing services to the Merchant, if such damage is caused by the Merchant as a result of an
+
 (i)	intentional fraudulent conduct,
+
 (ii)	negligent conduct, such as failing to secure the device on which the Ocellot application is used adequately or failing to secure the Ocellot software adequately so that a third party can use the software without the permission granted by Trisbee.
-3.1.2.	Trisbee shall be fully liable to the Merchant for the proper and timely provision of the Service purchased by the Merchant. Trisbee is fully responsible for the flawless functionality of the current versions of Ocellot, not for flawless of older versions of Ocellot, for the duration of the Agreement concluded with the Merchant, provided that the license fee has been duly paid by the Merchant and there is no breach of obligations on the part of the Merchant. 
-3.1.3.	However, Trisbee shall not be liable for damages incurred 
+
+**3.1.2.**	Trisbee shall be fully liable to the Merchant for the proper and timely provision of the Service purchased by the Merchant. Trisbee is fully responsible for the flawless functionality of the current versions of Ocellot, not for flawless of older versions of Ocellot, for the duration of the Agreement concluded with the Merchant, provided that the license fee has been duly paid by the Merchant and there is no breach of obligations on the part of the Merchant. 
+
+**3.1.3.	However, Trisbee shall not be liable** for damages incurred 
+
 (i)	as a result of circumstances beyond Trisbee's reasonable foresight or control (i.e. force majeure),
+
 (ii)	by the performance of legal obligations imposed on Trisbee,
+
 (iii)	by the performance of an entity other than Trisbee that Trisbee could not foresee or control even with due diligence and therefore is not attributable to Trisbee (e.g., performance of the energy provider responsible for supplying electricity to Trisbee or Merchant, performance of a telephone and internet service provider),
+
 (iv)	performance of Trisbee which constitutes a normal practice in the provision of the purchased services of which the Merchant must be aware by virtue of having read the contents of these Terms and Conditions.
-3.1.4.	Trisbee is not responsible in any way for the safety, legality, quality or other characteristics of the goods that are the subject of registration in the Ocellot software or the services that are provided by the Merchant using the Ocellot software. Similarly, Trisbee is not responsible in any way for the content and accuracy of data entered into the Ocellot system by Merchant or persons authorized by Merchant and its compliance with the facts. Merchant acknowledges that the outputs from the Ocellot system are not intended to fulfill Merchant's tax, accounting or similar obligations, and Trisbee shall not be liable for the accuracy or precision of the outputs should Merchant use them so.
+
+**3.1.4.**	Trisbee is not responsible in any way for the safety, legality, quality or other characteristics of the goods that are the subject of registration in the Ocellot software or the services that are provided by the Merchant using the Ocellot software. Similarly, Trisbee is not responsible in any way for the content and accuracy of data entered into the Ocellot system by Merchant or persons authorized by Merchant and its compliance with the facts. Merchant acknowledges that the outputs from the Ocellot system are not intended to fulfill Merchant's tax, accounting or similar obligations, and Trisbee shall not be liable for the accuracy or precision of the outputs should Merchant use them so.
  
-3.2.	Delivery
-3.2.1.	Trisbee delivers communications, notices or documents to the Merchant primarily to the email address provided by the Merchant when registering for Ocellot, or to the email address later provided by the Merchant The communication shall be deemed to have been delivered on the day following the day on which it is sent to the Merchant at the latest.
-3.2.2.	Invoices and proforma invoices are delivered by Trisbee to the Merchant by email. The invoice and proforma invoice shall be deemed to have been delivered on the day following the day on which it is sent to the Merchant at the latest.
-3.2.3.	In the event that the matter cannot be postponed (e.g. notification of a sudden service outage) or it is common and appropriate given the situation, the Merchant acknowledges that Trisbee may also contact him/her by telephone, by SMS to the telephone number used during the Merchant's registration or to another contact telephone number provided by the Merchant, via Facebook, or by any other appropriate means.
-3.2.4.	The Merchant may contact Trisbee through all available channels that Trisbee lists on its website, social media profiles or other communication channels managed by Trisbee, unless a specific method of communication and delivery of requests, notices or other documents (e.g. filing a claim pursuant to Article 2.3.2. of these Terms and Conditions) is specified in these Terms and Conditions.
+### **3.2.	Delivery**
+
+**3.2.1.**	Trisbee delivers communications, notices or documents to the Merchant primarily to the email address provided by the Merchant when registering for Ocellot, or to the email address later provided by the Merchant The communication shall be deemed to have been delivered on the day following the day on which it is sent to the Merchant at the latest.
+
+**3.2.2.**	Invoices and proforma invoices are delivered by Trisbee to the Merchant by email. The invoice and proforma invoice shall be deemed to have been delivered on the day following the day on which it is sent to the Merchant at the latest.
+
+**3.2.3.**	In the event that the matter cannot be postponed (e.g. notification of a sudden service outage) or it is common and appropriate given the situation, the Merchant acknowledges that Trisbee may also contact him/her by telephone, by SMS to the telephone number used during the Merchant's registration or to another contact telephone number provided by the Merchant, via Facebook, or by any other appropriate means.
+
+**3.2.4.**	The Merchant may contact Trisbee through all available channels that Trisbee lists on its website, social media profiles or other communication channels managed by Trisbee, unless a specific method of communication and delivery of requests, notices or other documents (e.g. filing a claim pursuant to Article 2.3.2. of these Terms and Conditions) is specified in these Terms and Conditions.
  
-3.3.	Changes to Merchant data
-3.3.1.	The Merchant is obliged to notify Trisbee of any change in its identification, contact or billing data (change of name, surname, business address, telephone number, e-mail address, etc.).
-3.3.2.	The Merchant shall notify and document the change(s) of data to Trisbee within 10 working days from the date of the change of the facts in question.
+### **3.3.	Changes to Merchant data**
+
+**3.3.1.**	The Merchant is obliged to notify Trisbee of any change in its identification, contact or billing data (change of name, surname, business address, telephone number, e-mail address, etc.).
+
+**3.3.2.**	The Merchant shall notify and document the change(s) of data to Trisbee within 10 working days from the date of the change of the facts in question.
 
 
-3.4.	Language
+### **3.4.	Language**
  
-3.4.1.	The Merchant hereby acknowledges that the primary language of communication between the Merchant and Trisbee (or entities acting on behalf of Trisbee) is the language in which the Merchant has registered or in which the Merchant uses the Ocellot application, if this is the language in which Trisbee provides its services. If the language of the Merchant is another language, the language of communication between Trisbee and the Merchant shall be English or Czech. By agreeing to these Terms and Conditions, Merchant expressly confirms that it understands the language in which it has registered and in which it uses the Ocellot App and in which Trisbee communicates with it.
-3.4.2.	Notwithstanding Article 3.4.1. of these Terms and Conditions, the Merchant may find the full text of these Terms and Conditions in other languages on the website www.ocellot.eu. However, by agreeing to these Terms and Conditions, the Merchant confirms that he/she understands without reservation all the terms and conditions of the services and all his/her rights and obligations arising from entering into a contractual relationship with Trisbee.
-3.4.3.	The Terms and Conditions are drawn up in Czech and English. All other language versions of these Terms and Conditions are always only translations of the Czech or English version. In the event of inconsistencies or discrepancies between the Czech or English version and other language versions, the Czech or English version shall prevail.
+**3.4.1.**	The Merchant hereby acknowledges that the primary language of communication between the Merchant and Trisbee (or entities acting on behalf of Trisbee) is the language in which the Merchant has registered or in which the Merchant uses the Ocellot application, if this is the language in which Trisbee provides its services. If the language of the Merchant is another language, the language of communication between Trisbee and the Merchant shall be English or Czech. By agreeing to these Terms and Conditions, Merchant expressly confirms that it understands the language in which it has registered and in which it uses the Ocellot App and in which Trisbee communicates with it.
+
+**3.4.2.**	Notwithstanding Article 3.4.1. of these Terms and Conditions, the Merchant may find the full text of these Terms and Conditions in other languages on the website [https://www.ocellot.eu/en](https://www.ocellot.com/en). However, by agreeing to these Terms and Conditions, the Merchant confirms that he/she understands without reservation all the terms and conditions of the services and all his/her rights and obligations arising from entering into a contractual relationship with Trisbee.
+
+**3.4.3.**	The Terms and Conditions are drawn up in Czech and English. All other language versions of these Terms and Conditions are always only translations of the Czech or English version. In the event of inconsistencies or discrepancies between the Czech or English version and other language versions, the Czech or English version shall prevail.
  
-3.5.	Availability of services
-3.5.1.	The Merchant acknowledges that the content, functionality and availability of Ocellot may change over time. The Merchant may always find information about the current content, features and availability of the Ocellot software on the website www.ocellot.eu. In the same way, Trisbee informs Merchants about other services provided, their scope and availability. 
-3.5.2.	Trisbee hereby expressly warns that it is not responsible for any specific content, scope or availability of its free of charge services. The content, scope and availability of the free of charge services or any change thereto shall not be grounds for withdrawal from the Agreement. 
-3.5.3.	Trisbee shall be entitled to limit or interrupt the operation of Ocellot, its individual elements or other related services in the context of regular maintenance of the software and its individual functions, such as in the event of technological changes, technical problems, cyber-attacks on the system, a significant increase in the number of unauthorized accesses detected or a significant decrease in demand for a service. The Merchant shall not be entitled to compensation for any damage that may be caused by the limitation or interruption of operations as a result of the described facts. However, in the aforementioned case, the Merchant shall be entitled to a refund or partial refund of the License fee paid for the License that is not used as a result of the restriction or interruption of the service provided, provided that such restriction or interruption of the licensed product lasts at least 7 consecutive calendar days.
-3.5.4.	Trisbee will always do its best to notify Merchant in a timely and appropriate manner of any limitation or interruption of Ocellot or any feature or service. In the event of planned updates to Ocellot, Trisbee shall inform the Merchant in advance, in particular by email. In the event of unexpected events limiting the operation of Ocellot or any other service, this provision shall not apply. However, Trisbee undertakes to use its best efforts to promptly resolve any unexpected system limitations that arise, and at the same time undertakes to keep the Merchant informed of such unexpected limitations in an appropriate manner, as far as this is possible in the particular case.
+### **3.5.	Availability of services**
+
+**3.5.1.**	The Merchant acknowledges that the content, functionality and availability of Ocellot may change over time. The Merchant may always find information about the current content, features and availability of the Ocellot software on the website www.ocellot.eu. In the same way, Trisbee informs Merchants about other services provided, their scope and availability. 
+
+**3.5.2.**	Trisbee hereby expressly warns that it is not responsible for any specific content, scope or availability of its free of charge services. The content, scope and availability of the free of charge services or any change thereto shall not be grounds for withdrawal from the Agreement. 
+
+**3.5.3.**	Trisbee shall be entitled to limit or interrupt the operation of Ocellot, its individual elements or other related services in the context of regular maintenance of the software and its individual functions, such as in the event of technological changes, technical problems, cyber-attacks on the system, a significant increase in the number of unauthorized accesses detected or a significant decrease in demand for a service. The Merchant shall not be entitled to compensation for any damage that may be caused by the limitation or interruption of operations as a result of the described facts. However, in the aforementioned case, the Merchant shall be entitled to a refund or partial refund of the License fee paid for the License that is not used as a result of the restriction or interruption of the service provided, provided that such restriction or interruption of the licensed product lasts at least 7 consecutive calendar days.
+
+**3.5.4.**	Trisbee will always do its best to notify Merchant in a timely and appropriate manner of any limitation or interruption of Ocellot or any feature or service. In the event of planned updates to Ocellot, Trisbee shall inform the Merchant in advance, in particular by email. In the event of unexpected events limiting the operation of Ocellot or any other service, this provision shall not apply. However, Trisbee undertakes to use its best efforts to promptly resolve any unexpected system limitations that arise, and at the same time undertakes to keep the Merchant informed of such unexpected limitations in an appropriate manner, as far as this is possible in the particular case.
  
-3.6.	Complaint
-3.6.1.	In the event that the Merchant is not satisfied with the services provided by Trisbee in any respect, he/she is entitled to address his/her complaint directly to Trisbee, in particular by email to support@trisbee.com. 
-3.6.2.	In order for Trisbee to address the Merchant's complaint, the complaint must include at least:
-identification data of the Merchant (in particular the name and surname or company name of the Merchant, its business ID number, its email address and telephone number)
-a description of the facts and reasons that are the subject of the complaint and for which the Merchant is filing the complaint, 
-the Merchant's proposal to resolve the situation that is the reason for the complaint.
-3.6.3.	Trisbee shall confirm receipt of the complaint to the Merchant, stating that it will promptly investigate the complaint, if necessary request from the Merchant further additional information or documentation regarding the complaint and notify the Merchant of the outcome of the investigation within 15 days of receipt of the complaint. The due time for the investigation of the complaint shall be adequately extended by the time Trisbee waits for the delivery of additional information and/or documents from the Merchant that are necessary for the investigation and resolution of the complaint in question. If Merchant is not satisfied with Trisbee's decision on the complaint, Merchant shall always be entitled to resolve the matter by other available means in accordance with applicable law.
+### **3.6.	Complaint**
+
+**3.6.1.**	In the event that the Merchant is not satisfied with the services provided by Trisbee in any respect, he/she is entitled to address his/her complaint directly to Trisbee, in particular by email to support@trisbee.com. 
+
+**3.6.2.**	In order for Trisbee to address the Merchant's complaint, the complaint must include at least:
+- identification data of the Merchant (in particular the name and surname or company name of the Merchant, its business ID number, its email address and telephone number)
+- a description of the facts and reasons that are the subject of the complaint and for which the Merchant is filing the complaint, 
+- the Merchant's proposal to resolve the situation that is the reason for the complaint.
+
+**3.6.3.**	Trisbee shall confirm receipt of the complaint to the Merchant, stating that it will promptly investigate the complaint, if necessary request from the Merchant further additional information or documentation regarding the complaint and notify the Merchant of the outcome of the investigation within 15 days of receipt of the complaint. The due time for the investigation of the complaint shall be adequately extended by the time Trisbee waits for the delivery of additional information and/or documents from the Merchant that are necessary for the investigation and resolution of the complaint in question. If Merchant is not satisfied with Trisbee's decision on the complaint, Merchant shall always be entitled to resolve the matter by other available means in accordance with applicable law.
  
 3.7.	Duration of the Agreement and Amendments to the Terms and Conditions
 3.7.1. By concluding the Agreement according to Article 1.1. of these Terms and Conditions, the Merchant confirms that he has been provided with all necessary information relevant to its decision to enter into an agreement with Trisbee prior to the conclusion of the Agreement, furthermore the Merchant confirms to have read these Terms and Conditions and the Price list prior to the conclusion of the Agreement, to understand the entire content of the Agreement and these Terms and Conditions, to perceive them to be specific and comprehensible, and that the individual rights and obligations arising from the contractual relationship with Trisbee are entirely clear thereto.
