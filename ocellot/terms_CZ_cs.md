@@ -117,70 +117,97 @@ nebo
 **2.4.6.** V případě prodlení s úhradou fakturované částky je Obchodník povinen uhradit rovněž zákonný úrok z prodlení dle příslušných právních předpisů. Prodlení s úhradou faktury trvající více než 30 dnů může být důvodem k ukončení Smlouvy ze strany Trisbee.
  
  
-ČÁST 3 – DALŠÍ PRÁVA A POVINNOSTI
-3.1.	Odpovědnost
-3.1.1.	Obchodník je plně odpovědný za jakoukoliv újmu (majetkovou i nemajetkovou) způsobenou jeho jednáním Trisbee, osobám spřízněným s Trisbee podílejících se na poskytování služeb Obchodníkovi, pokud tuto újmu způsobí Obchodník
+## ČÁST 3 – DALŠÍ PRÁVA A POVINNOSTI
+
+### 3.1. Odpovědnost
+
+**3.1.1.** Obchodník je plně odpovědný za jakoukoliv újmu (majetkovou i nemajetkovou) způsobenou jeho jednáním Trisbee, osobám spřízněným s Trisbee podílejících se na poskytování služeb Obchodníkovi, pokud tuto újmu způsobí Obchodník
+
 (i)	úmyslným podvodným jednáním,
+
 (ii)	nedbalostním jednáním spočívajícím např. v nedostatečném zabezpečení zařízení, v němž je používaná aplikace Ocellot nebo v nedostatečném zabezpečení Ocellotu tak, že třetí osoba může využívat software bez oprávnění uděleného Trisbee.
-3.1.2.	Trisbee plně odpovídá Obchodníkovi za řádné a včasné poskytnutí Obchodníkem zakoupené služby. Trisbee plně odpovídá za bezvadnou funkčnost aktuálních verzí Ocellotu, nikoli za vady starších verzí Ocellotu, a to po dobu trvání Smlouvy uzavřené s Obchodníkem, jestliže byl Obchodníkem řádně uhrazen licenční poplatek a nedošlo k porušení povinností na straně Obchodníka. 
-3.1.3.	Trisbee však neodpovídá za újmu, která vznikla 
-(i)	v důsledku okolností, které Trisbee nemohlo ani s náležitou péčí předvídat ani je ovlivnit (tzn. vyšší moc),
-(ii)	plněním právních povinností uložených Trisbee,
-(iii)	jednáním subjektu odlišného od Trisbee, které Trisbee nemohlo ani s náležitou péčí nijak předvídat ani ovlivnit, a proto ho nelze přičítat Trisbee (např. jednáním poskytovatele energií odpovědného za dodávku elektřiny Trisbee nebo Obchodníkovi, jednáním telefonního operátora poskytujícího telefonické a internetové připojení),
-(iv)	jednáním Trisbee, které představuje běžný postup při poskytování zakoupených služeb, kterého si musí být Obchodník vědom na základě seznámení se s obsahem těchto Obchodních podmínek.
-3.1.4.	Trisbee není žádným způsobem odpovědno za bezpečnost, zákonnost, kvalitu nebo jiné vlastnosti zboží, které je předmětem evidence v softwaru Ocellot, nebo služeb, které jsou poskytovány Obchodníkem za pomoci softwaru Ocellot. Stejně tak není Trisbee žádným způsobem odpovědno za obsah a správnost dat zadaných do systému Ocellot Obchodníkem nebo osobami pověřenými Obchodníkem a jejich souladu se skutečností. Obchodník bere na vědomí, že výstupy ze systému Ocellot nejsou určeny k plnění daňových, účetních či obdobných povinností Obchodníka, Trisbee proto neručí za správnost a přesnost výstupů, pokud by je Obchodník takto použil.
- 
-3.2.	Doručování
-3.2.1.	Trisbee doručuje Obchodníkovi sdělení, oznámení či písemnosti především na e-mailovou adresu zadanou Obchodníkem při registraci do Ocellotu, případně na Obchodníkem později sdělenou e-mailovou adresu. Písemnost se považuje za doručenou nejpozději dnem následujícím po jejím odeslání Obchodníkovi.
-3.2.2.	Daňové doklady - faktury a zálohové faktury doručuje Trisbee Obchodníkovi e-mailem. Faktura a zálohová faktura se považuje za doručenou nejpozději dnem následujícím po jejím odeslání Obchodníkovi.
-3.2.3.	V případě, že záležitost nesnese odkladu (např. oznámení o náhlém výpadku služby) nebo je to vzhledem k situaci běžné a vhodné, bere Obchodník na vědomí, že ho Trisbee může kontaktovat také telefonicky, prostřednictvím SMS zprávy na telefonní číslo použité při registraci Obchodníka či na jiném Obchodníkem sděleném kontaktním telefonním čísle, prostřednictvím sociální sítě Facebook, nebo případně i jiným vhodným způsobem.
-3.2.4.	Obchodník může kontaktovat Trisbee prostřednictvím všech dostupných kanálů, které Trisbee uvádí na svých webových stránkách, profilech na sociálních sítích či na jiných komunikačních kanálech spravovaných Trisbee, pokud není pro konkrétní řešení situace v těchto Obchodních podmínkách stanovený konkrétní způsob komunikace a doručování žádostí, sdělení nebo jiných písemností (např. podání reklamace dle čl. 2.3.2. těchto Obchodních podmínek).
- 
-3.3.	Změny údajů Obchodníka
-3.3.1.	Obchodník je povinen oznámit Trisbee každou změnu svých identifikačních, kontaktních nebo fakturačních údajů (změnu jména, příjmení, sídla podnikání, tel. čísla, e-mailové adresy atd.).
-3.3.2.	Změnu(y) údajů je Obchodník povinen oznámit a doložit Trisbee nejpozději do 10 pracovních dnů ode dne, kdy došlo ke změně předmětných skutečností.
 
+**3.1.2.** Trisbee plně odpovídá Obchodníkovi za řádné a včasné poskytnutí Obchodníkem zakoupené služby. Trisbee plně odpovídá za bezvadnou funkčnost aktuálních verzí Ocellotu, nikoli za vady starších verzí Ocellotu, a to po dobu trvání Smlouvy uzavřené s Obchodníkem, jestliže byl Obchodníkem řádně uhrazen licenční poplatek a nedošlo k porušení povinností na straně Obchodníka. 
 
-3.4.	Jazyk
+**3.1.3. Trisbee však neodpovídá** za újmu, která vznikla 
+
+(i) v důsledku okolností, které Trisbee nemohlo ani s náležitou péčí předvídat ani je ovlivnit (tzn. vyšší moc),
+
+(ii) plněním právních povinností uložených Trisbee,
+
+(iii) jednáním subjektu odlišného od Trisbee, které Trisbee nemohlo ani s náležitou péčí nijak předvídat ani ovlivnit, a proto ho nelze přičítat Trisbee (např. jednáním poskytovatele energií odpovědného za dodávku elektřiny Trisbee nebo Obchodníkovi, jednáním telefonního operátora poskytujícího telefonické a internetové připojení),
+
+(iv) jednáním Trisbee, které představuje běžný postup při poskytování zakoupených služeb, kterého si musí být Obchodník vědom na základě seznámení se s obsahem těchto Obchodních podmínek.
+
+**3.1.4.** Trisbee není žádným způsobem odpovědno za bezpečnost, zákonnost, kvalitu nebo jiné vlastnosti zboží, které je předmětem evidence v softwaru Ocellot, nebo služeb, které jsou poskytovány Obchodníkem za pomoci softwaru Ocellot. Stejně tak není Trisbee žádným způsobem odpovědno za obsah a správnost dat zadaných do systému Ocellot Obchodníkem nebo osobami pověřenými Obchodníkem a jejich souladu se skutečností. Obchodník bere na vědomí, že výstupy ze systému Ocellot nejsou určeny k plnění daňových, účetních či obdobných povinností Obchodníka, Trisbee proto neručí za správnost a přesnost výstupů, pokud by je Obchodník takto použil.
  
-3.4.1.	Obchodník tímto bere na vědomí, že komunikačním jazykem mezi ním a Trisbee (případně subjekty jednajícími v zastoupení Trisbee) je primárně jazyk, ve kterém Obchodník provedl registraci nebo v němž používá aplikaci Ocellot, pokud se jedná o jazyk, ve kterém Trisbee poskytuje své služby. Pokud je jazykem Obchodníka jiný jazyk, je komunikačním jazykem mezi Trisbee a Obchodníkem čeština nebo angličtina. Obchodník odsouhlasením těchto Obchodních podmínek výslovně potvrzuje, že rozumí jazyku, ve kterém provedl registraci a ve kterém používá aplikaci Ocellot, a ve kterém s ním Trisbee komunikuje.
-3.4.2.	Obchodník si bez ohledu na čl. 3.4.1. těchto Obchodních podmínek může na webových stránkách www.ocellot.eu najít plné znění těchto Obchodních podmínek i v dalších jazycích. Odsouhlasením těchto Obchodních podmínek však Obchodník potvrzuje, že bez výhrad rozumí všem podmínkám poskytování služeb a veškerým svým právům a povinnostem, které Obchodníkovi vyplývají z uzavření smluvního vztahu s Trisbee.
-3.4.3.	Obchodní podmínky jsou vyhotoveny v českém a anglickém jazyce. Všechny ostatní jazykové verze těchto Obchodních podmínek jsou vždy pouze překlady české nebo anglické verze. V případě rozporů nebo nesrovnalostí mezi českou, případně anglickou verzí a jinými jazykovými verzemi, má přednost česká, resp. anglická verze.
+### 3.2. Doručování
+
+**3.2.1.** Trisbee doručuje Obchodníkovi sdělení, oznámení či písemnosti především na e-mailovou adresu zadanou Obchodníkem při registraci do Ocellotu, případně na Obchodníkem později sdělenou e-mailovou adresu. Písemnost se považuje za doručenou nejpozději dnem následujícím po jejím odeslání Obchodníkovi.
+
+**3.2.2.** Daňové doklady - faktury a zálohové faktury doručuje Trisbee Obchodníkovi e-mailem. Faktura a zálohová faktura se považuje za doručenou nejpozději dnem následujícím po jejím odeslání Obchodníkovi.
+
+**3.2.3.** V případě, že záležitost nesnese odkladu (např. oznámení o náhlém výpadku služby) nebo je to vzhledem k situaci běžné a vhodné, bere Obchodník na vědomí, že ho Trisbee může kontaktovat také telefonicky, prostřednictvím SMS zprávy na telefonní číslo použité při registraci Obchodníka či na jiném Obchodníkem sděleném kontaktním telefonním čísle, prostřednictvím sociální sítě Facebook, nebo případně i jiným vhodným způsobem.
+
+**3.2.4.** Obchodník může kontaktovat Trisbee prostřednictvím všech dostupných kanálů, které Trisbee uvádí na svých webových stránkách, profilech na sociálních sítích či na jiných komunikačních kanálech spravovaných Trisbee, pokud není pro konkrétní řešení situace v těchto Obchodních podmínkách stanovený konkrétní způsob komunikace a doručování žádostí, sdělení nebo jiných písemností (např. podání reklamace dle čl. 2.3.2. těchto Obchodních podmínek).
  
-3.5.	Dostupnost poskytovaných služeb
-3.5.1.	Obchodník bere na vědomí, že obsah, funkce i dostupnost Ocellotu se mohou v průběhu času měnit. Informace o aktuálním obsahu, funkcích a dostupnosti softwaru Ocellot nalezne Obchodník vždy na webových stránkách www.ocellot.eu. Stejným způsobem Trisbee informuje Obchodníky o dalších poskytovaných službách, jejich rozsahu a dostupnosti. 
-3.5.2.	Trisbee tímto výslovně upozorňuje, že neručí za žádný konkrétní obsah, rozsah ani dostupnost svých bezplatných služeb. Obsah, rozsah a dostupnost bezplatných služeb nebo jejich změna nemůže být důvodem pro odstoupení od Smlouvy. 
-3.5.3.	Trisbee je v rámci pravidelné údržby softwaru a jeho jednotlivých funkcí, jako například při technologických změnách, technických potížích, při napadení systému kybernetickým útokem, v případě významného nárůstu zjištěných neautorizovaných přístupů nebo významného poklesu poptávky po některé službě oprávněno omezit, případně přerušit provoz Ocellotu, jeho jednotlivých prvků nebo dalších souvisejících služeb. Obchodník nemá právo na náhradu újmy, která by mu mohla vzniknout omezením či přerušením provozu v důsledku popsaných skutečností. Obchodník má však v uvedeném případě právo na vrácení či částečné vrácení zaplaceného licenčního poplatku za Licenci, jež v důsledku omezení nebo přerušení poskytované služby nevyužije, pokud se toto omezení nebo přerušení licencovaného produktu týká alespoň 7 po sobě jdoucích kalendářních dnů.
-3.5.4.	Trisbee vždy učiní vše pro to, aby Obchodníka o omezení nebo přerušení provozu Ocellotu nebo některého prvku či služby včas a vhodným způsobem informovalo. V případě plánovaných aktualizací Ocellotu informuje Trisbee Obchodníka v dostatečném časovém předstihu zejména prostřednictvím e-mailové zprávy. V případě neočekávaných událostí omezujících provoz Ocellotu nebo některé služby se toto ustanovení neuplatní. Trisbee se však zavazuje vynaložit veškeré úsilí na neprodlené řešení vzniklých neočekávaných omezení systému a současně se zavazuje o nich průběžně vhodným způsobem informovat Obchodníka, pokud je to v daném případě možné.
+### 3.3. Změny údajů Obchodníka
+
+**3.3.1.** Obchodník je povinen oznámit Trisbee každou změnu svých identifikačních, kontaktních nebo fakturačních údajů (změnu jména, příjmení, sídla podnikání, tel. čísla, e-mailové adresy atd.).
+
+**3.3.2.** Změnu(y) údajů je Obchodník povinen oznámit a doložit Trisbee nejpozději do 10 pracovních dnů ode dne, kdy došlo ke změně předmětných skutečností.
+
+### 3.4. Jazyk
  
-3.6. Stížnost
-3.6.1.	V případě, že Obchodník není spokojený se službami poskytovanými Trisbee v jakémkoliv ohledu, je oprávněn obrátit se se svou stížností přímo na Trisbee, a to zejména e-mailem na support@trisbee.com. 
-3.6.2.	Aby se Trisbee mohlo stížností Obchodníka zabývat, musí stížnost obsahovat alespoň:
-identifikační údaje Obchodníka (zejména jméno a příjmení nebo název společnosti Obchodníka, jeho IČO, jeho e-mailovou adresu a telefonní číslo)
-popis skutečností a důvodů, které jsou předmětem stížnosti a pro které Obchodník stížnost podává, 
-návrh Obchodníka na řešení situace, která je důvodem podané stížnosti.
-3.6.3.	Trisbee potvrdí Obchodníkovi přijetí stížnosti s tím, že tuto obratem prošetří, případně si vyžádá od Obchodníka další doplňující informace nebo podklady týkající se podané stížnosti a nejpozději do 15 dnů ode dne doručení stížnosti sdělí Obchodníkovi výsledek prošetření. Lhůta pro prošetření stížnosti se adekvátně prodlužuje o dobu, po kterou Trisbee vyčkává dodání doplňujících informací a/nebo podkladů od Obchodníka, které jsou nezbytné pro prošetření a rozhodnutí předmětné stížnosti. Pokud Obchodník není spokojený s rozhodnutím Trisbee o stížnosti, je vždy oprávněn řešit záležitost i jiným dostupným způsobem v souladu s platnými právními předpisy.
+**3.4.1.** Obchodník tímto bere na vědomí, že komunikačním jazykem mezi ním a Trisbee (případně subjekty jednajícími v zastoupení Trisbee) je primárně jazyk, ve kterém Obchodník provedl registraci nebo v němž používá aplikaci Ocellot, pokud se jedná o jazyk, ve kterém Trisbee poskytuje své služby. Pokud je jazykem Obchodníka jiný jazyk, je komunikačním jazykem mezi Trisbee a Obchodníkem čeština nebo angličtina. Obchodník odsouhlasením těchto Obchodních podmínek výslovně potvrzuje, že rozumí jazyku, ve kterém provedl registraci a ve kterém používá aplikaci Ocellot, a ve kterém s ním Trisbee komunikuje.
+
+**3.4.2.** Obchodník si bez ohledu na čl. 3.4.1. těchto Obchodních podmínek může na webových stránkách [https://www.ocellot.eu](https://www.trisbee.eu/cs/CZ) najít plné znění těchto Obchodních podmínek i v dalších jazycích. Odsouhlasením těchto Obchodních podmínek však Obchodník potvrzuje, že bez výhrad rozumí všem podmínkám poskytování služeb a veškerým svým právům a povinnostem, které Obchodníkovi vyplývají z uzavření smluvního vztahu s Trisbee.
+
+**3.4.3.** Obchodní podmínky jsou vyhotoveny v českém a anglickém jazyce. Všechny ostatní jazykové verze těchto Obchodních podmínek jsou vždy pouze překlady české nebo anglické verze. V případě rozporů nebo nesrovnalostí mezi českou, případně anglickou verzí a jinými jazykovými verzemi, má přednost česká, resp. anglická verze.
  
-3.7. Trvání Smlouvy a změny Obchodních podmínek
-3.7.1. Uzavřením Smlouvy dle čl. 1.1. těchto Obchodních podmínek Obchodník potvrzuje, že mu byly před uzavřením smlouvy poskytnuty veškeré potřebné informace důležité pro jeho rozhodnutí uzavřít s Trisbee smlouvu, dále potvrzuje, že se s těmito Obchodními podmínkami a Ceníkem před uzavřením smlouvy seznámil, že rozumí veškerému obsahu Smlouvy a těchto Obchodních podmínek, považuje ho za určitý a srozumitelný, a že jsou mu jednotlivá práva a povinnosti plynoucí ze smluvního vztahu s Trisbee zcela zřejmá.
+### 3.5. Dostupnost poskytovaných služeb
+
+**3.5.1.** Obchodník bere na vědomí, že obsah, funkce i dostupnost Ocellotu se mohou v průběhu času měnit. Informace o aktuálním obsahu, funkcích a dostupnosti softwaru Ocellot nalezne Obchodník vždy na webových stránkách [https://www.ocellot.eu](https://www.trisbee.eu/cs/CZ). Stejným způsobem Trisbee informuje Obchodníky o dalších poskytovaných službách, jejich rozsahu a dostupnosti. 
+
+**3.5.2.** Trisbee tímto výslovně upozorňuje, že neručí za žádný konkrétní obsah, rozsah ani dostupnost svých bezplatných služeb. Obsah, rozsah a dostupnost bezplatných služeb nebo jejich změna nemůže být důvodem pro odstoupení od Smlouvy. 
+
+**3.5.3.** Trisbee je v rámci pravidelné údržby softwaru a jeho jednotlivých funkcí, jako například při technologických změnách, technických potížích, při napadení systému kybernetickým útokem, v případě významného nárůstu zjištěných neautorizovaných přístupů nebo významného poklesu poptávky po některé službě oprávněno omezit, případně přerušit provoz Ocellotu, jeho jednotlivých prvků nebo dalších souvisejících služeb. Obchodník nemá právo na náhradu újmy, která by mu mohla vzniknout omezením či přerušením provozu v důsledku popsaných skutečností. Obchodník má však v uvedeném případě právo na vrácení či částečné vrácení zaplaceného licenčního poplatku za Licenci, jež v důsledku omezení nebo přerušení poskytované služby nevyužije, pokud se toto omezení nebo přerušení licencovaného produktu týká alespoň 7 po sobě jdoucích kalendářních dnů.
+
+**3.5.4.** Trisbee vždy učiní vše pro to, aby Obchodníka o omezení nebo přerušení provozu Ocellotu nebo některého prvku či služby včas a vhodným způsobem informovalo. V případě plánovaných aktualizací Ocellotu informuje Trisbee Obchodníka v dostatečném časovém předstihu zejména prostřednictvím e-mailové zprávy. V případě neočekávaných událostí omezujících provoz Ocellotu nebo některé služby se toto ustanovení neuplatní. Trisbee se však zavazuje vynaložit veškeré úsilí na neprodlené řešení vzniklých neočekávaných omezení systému a současně se zavazuje o nich průběžně vhodným způsobem informovat Obchodníka, pokud je to v daném případě možné.
  
-3.7.2.	Pro vyloučení případných pochybností Trisbee a Obchodník shodně prohlašují, že Smlouvu uzavírají při svém podnikání jako podnikatelé.
+### 3.6. Stížnost
+
+**3.6.1.** V případě, že Obchodník není spokojený se službami poskytovanými Trisbee v jakémkoliv ohledu, je oprávněn obrátit se se svou stížností přímo na Trisbee, a to zejména e-mailem na **support@trisbee.com**.
+
+**3.6.2.** Aby se Trisbee mohlo stížností Obchodníka zabývat, musí stížnost obsahovat alespoň:
+
+- identifikační údaje Obchodníka (zejména jméno a příjmení nebo název společnosti Obchodníka, jeho IČO, jeho e-mailovou adresu a telefonní číslo)
+- popis skutečností a důvodů, které jsou předmětem stížnosti a pro které Obchodník stížnost podává, 
+- návrh Obchodníka na řešení situace, která je důvodem podané stížnosti.
+
+**3.6.3.** Trisbee potvrdí Obchodníkovi přijetí stížnosti s tím, že tuto obratem prošetří, případně si vyžádá od Obchodníka další doplňující informace nebo podklady týkající se podané stížnosti a nejpozději do 15 dnů ode dne doručení stížnosti sdělí Obchodníkovi výsledek prošetření. Lhůta pro prošetření stížnosti se adekvátně prodlužuje o dobu, po kterou Trisbee vyčkává dodání doplňujících informací a/nebo podkladů od Obchodníka, které jsou nezbytné pro prošetření a rozhodnutí předmětné stížnosti. Pokud Obchodník není spokojený s rozhodnutím Trisbee o stížnosti, je vždy oprávněn řešit záležitost i jiným dostupným způsobem v souladu s platnými právními předpisy.
  
-3.7.3.	Smlouva mezi Obchodníkem a Trisbee je uzavřena na dobu neurčitou. Trisbee i Obchodník jsou oprávněni Smlouvu kdykoliv vypovědět oznámením druhé smluvní straně. Za výpověď Smlouvy se považuje též Obchodníkovi oznámené ukončení provozu systému Ocellot. 
+### 3.7. Trvání Smlouvy a změny Obchodních podmínek
+
+**3.7.1.** Uzavřením Smlouvy dle čl. 1.1. těchto Obchodních podmínek Obchodník potvrzuje, že mu byly před uzavřením smlouvy poskytnuty veškeré potřebné informace důležité pro jeho rozhodnutí uzavřít s Trisbee smlouvu, dále potvrzuje, že se s těmito Obchodními podmínkami a Ceníkem před uzavřením smlouvy seznámil, že rozumí veškerému obsahu Smlouvy a těchto Obchodních podmínek, považuje ho za určitý a srozumitelný, a že jsou mu jednotlivá práva a povinnosti plynoucí ze smluvního vztahu s Trisbee zcela zřejmá.
  
-3.7.4.	Smlouva je ukončena k poslednímu dni v měsíci, ve kterém byla doručena výpověď druhé smluvní straně. V případě, že Obchodník nebo Trisbee mají vůči sobě jakékoliv splatné a neuhrazené závazky, tyto závazky jsou smluvní strany povinny vypořádat nejpozději do 1 měsíce ode dne ukončení Smlouvy. 
+**3.7.2.** Pro vyloučení případných pochybností Trisbee a Obchodník shodně prohlašují, že Smlouvu uzavírají při svém podnikání jako podnikatelé.
  
-3.7.5.	Trisbee je oprávněno kdykoliv jednostranně měnit tyto Obchodní podmínky. Vyslovením souhlasu s návrhem změn obchodní podmínek či mlčky tím, že Obchodník nesdělí v předem stanovené lhůtě Trisbee svůj nesouhlas s navrhovaným zněním obchodních podmínek, jsou dohodou stran změněna práva a povinnosti stran tak, jak vyplývá z nových obchodních podmínek. Změna obchodních podmínek bude vůči Obchodníkovi účinná za předpokladu, že tato  změna byla ze strany Trisbee s dostatečným předstihem oznámena tak, že se Obchodník měl možnost s touto změnou seznámit, s výjimkou popsanou níže v ust. čl. 3.7.6. těchto Obchodních podmínek. Za oznámení změny obsahu obchodních podmínek se považuje oznámení zveřejněné na webových stránkách www.ocellot.eu včetně zveřejněného obsahu nových obchodních podmínek za současného upozornění na nové obchodní podmínky oznámením o změně obchodních podmínek zaslaným Obchodníkovi do jeho e-mailové schránky včetně obsahu nových obchodních podmínek. Změna obchodních podmínek je účinná uplynutím 1 měsíce ode dne oznámení změny, neurčí-li Trisbee v oznámení pozdější účinnost nebo nejedná-li se o situaci dle čl. 3.7.6. těchto Obchodních podmínek. Pokud Obchodník se změnou obchodních podmínek nesouhlasí, může kdykoliv po oznámení takové změny vypovědět smlouvu, a to nejpozději ke dni předcházejícím dni účinnosti změn obchodních podmínek. Ukončení smlouvy z tohoto důvodu nemá vliv na povinnost Obchodníka i Trisbee vypořádat nejpozději do 1 měsíce ode dne ukončení smlouvy do té doby vzniklé splatné a neuhrazené závazky vůči druhé smluvní straně. 
+**3.7.3.** Smlouva mezi Obchodníkem a Trisbee je uzavřena na dobu neurčitou. Trisbee i Obchodník jsou oprávněni Smlouvu kdykoliv vypovědět oznámením druhé smluvní straně. Za výpověď Smlouvy se považuje též Obchodníkovi oznámené ukončení provozu systému Ocellot. 
  
-3.7.6.	Obchodník bere na vědomí a souhlasí, že změny Obchodních podmínek provedené ve prospěch Obchodníka je Trisbee oprávněno oznámit způsobem uvedeným v ustanovení čl. 3.7.5. i ve lhůtě kratší, než která je v uvedeném čl. 3.7.5. stanovena, a že změny, které nejsou v neprospěch Obchodníka, nezakládají právo k výpovědi Smlouvy.
+**3.7.4.** Smlouva je ukončena k poslednímu dni v měsíci, ve kterém byla doručena výpověď druhé smluvní straně. V případě, že Obchodník nebo Trisbee mají vůči sobě jakékoliv splatné a neuhrazené závazky, tyto závazky jsou smluvní strany povinny vypořádat nejpozději do 1 měsíce ode dne ukončení Smlouvy. 
  
-3.7.7.	Veškerá práva a povinnosti vzniklé na základě nebo v souvislosti se smluvním vztahem uzavřeným mezi Obchodníkem a Trisbee, jehož obsah se řídí těmito Obchodními podmínkami, se řídí právním řádem České republiky, a to bez ohledu na to, odkud byl přístup k Ocellotu realizován. Případné spory vzniklé mezi Obchodníkem a Trisbee budou řešeny před příslušnými soudy České republiky.
+**3.7.5.** Trisbee je oprávněno kdykoliv jednostranně měnit tyto Obchodní podmínky. Vyslovením souhlasu s návrhem změn obchodní podmínek či mlčky tím, že Obchodník nesdělí v předem stanovené lhůtě Trisbee svůj nesouhlas s navrhovaným zněním obchodních podmínek, jsou dohodou stran změněna práva a povinnosti stran tak, jak vyplývá z nových obchodních podmínek. Změna obchodních podmínek bude vůči Obchodníkovi účinná za předpokladu, že tato  změna byla ze strany Trisbee s dostatečným předstihem oznámena tak, že se Obchodník měl možnost s touto změnou seznámit, s výjimkou popsanou níže v ust. čl. 3.7.6. těchto Obchodních podmínek. Za oznámení změny obsahu obchodních podmínek se považuje oznámení zveřejněné na webových stránkách [https://www.ocellot.eu](https://www.trisbee.eu/cs/CZ) včetně zveřejněného obsahu nových obchodních podmínek za současného upozornění na nové obchodní podmínky oznámením o změně obchodních podmínek zaslaným Obchodníkovi do jeho e-mailové schránky včetně obsahu nových obchodních podmínek. Změna obchodních podmínek je účinná uplynutím 1 měsíce ode dne oznámení změny, neurčí-li Trisbee v oznámení pozdější účinnost nebo nejedná-li se o situaci dle čl. 3.7.6. těchto Obchodních podmínek. Pokud Obchodník se změnou obchodních podmínek nesouhlasí, může kdykoliv po oznámení takové změny vypovědět smlouvu, a to nejpozději ke dni předcházejícím dni účinnosti změn obchodních podmínek. Ukončení smlouvy z tohoto důvodu nemá vliv na povinnost Obchodníka i Trisbee vypořádat nejpozději do 1 měsíce ode dne ukončení smlouvy do té doby vzniklé splatné a neuhrazené závazky vůči druhé smluvní straně. 
  
-3.7.8.	Je-li nebo stane-li se některé z ustanovení těchto Obchodních podmínek neplatným nebo neúčinným, namísto těchto neplatných ustanovení nastoupí takové ustanovení, jehož smysl se co nejvíce přibližuje účelu neplatného či neúčinného ustanovení. Neplatností nebo neúčinností některého ustanovení není dotčena platnost a účinnost ostatních ustanovení Obchodních podmínek. Neplatností nebo neúčinností některého ustanovení pouze ve vztahu k určitému subjektu nebo k určité skupině subjektů není dotčena platnost a účinnost těchto ustanovení vůči jiným subjektům.
+**3.7.6.** Obchodník bere na vědomí a souhlasí, že změny Obchodních podmínek provedené ve prospěch Obchodníka je Trisbee oprávněno oznámit způsobem uvedeným v ustanovení čl. 3.7.5. i ve lhůtě kratší, než která je v uvedeném čl. 3.7.5. stanovena, a že změny, které nejsou v neprospěch Obchodníka, nezakládají právo k výpovědi Smlouvy.
  
-3.7.9.	Obchodník je srozuměn s tím, že Trisbee je oprávněno kdykoli převést svá práva a povinnosti vyplývající ze smluvního vztahu s Obchodníkem na jiný subjekt. V takovém případě je Trisbee povinno tuto skutečnost oznámit Obchodníkovi předem, přičemž platí, že Obchodníkovi zůstanou i vůči novému subjektu plně zachována všechna jeho práva a povinnosti. Obchodník má v této souvislosti právo smlouvu vypovědět, a to až do dne účinnosti přechodu práv a povinností na nový subjekt.
+**3.7.7.** Veškerá práva a povinnosti vzniklé na základě nebo v souvislosti se smluvním vztahem uzavřeným mezi Obchodníkem a Trisbee, jehož obsah se řídí těmito Obchodními podmínkami, se řídí právním řádem České republiky, a to bez ohledu na to, odkud byl přístup k Ocellotu realizován. Případné spory vzniklé mezi Obchodníkem a Trisbee budou řešeny před příslušnými soudy České republiky.
  
-3.7.10.Obchodník nemá právo převést svá práva a povinnosti vyplývající ze smluvního vztahu s Trisbee na jiný subjekt.
+**3.7.8.** Je-li nebo stane-li se některé z ustanovení těchto Obchodních podmínek neplatným nebo neúčinným, namísto těchto neplatných ustanovení nastoupí takové ustanovení, jehož smysl se co nejvíce přibližuje účelu neplatného či neúčinného ustanovení. Neplatností nebo neúčinností některého ustanovení není dotčena platnost a účinnost ostatních ustanovení Obchodních podmínek. Neplatností nebo neúčinností některého ustanovení pouze ve vztahu k určitému subjektu nebo k určité skupině subjektů není dotčena platnost a účinnost těchto ustanovení vůči jiným subjektům.
+ 
+**3.7.9.** Obchodník je srozuměn s tím, že Trisbee je oprávněno kdykoli převést svá práva a povinnosti vyplývající ze smluvního vztahu s Obchodníkem na jiný subjekt. V takovém případě je Trisbee povinno tuto skutečnost oznámit Obchodníkovi předem, přičemž platí, že Obchodníkovi zůstanou i vůči novému subjektu plně zachována všechna jeho práva a povinnosti. Obchodník má v této souvislosti právo smlouvu vypovědět, a to až do dne účinnosti přechodu práv a povinností na nový subjekt.
+ 
+**3.7.10.** Obchodník nemá právo převést svá práva a povinnosti vyplývající ze smluvního vztahu s Trisbee na jiný subjekt.
  
  
 Tyto obchodní podmínky vstupují v platnost a jsou účinné od 1. dubna 2022.
