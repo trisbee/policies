@@ -12,90 +12,109 @@ dokumenty a zároveň vysloví souhlas s těmito obchodními podmínkami, které
 
 ### 1.2. Základní pojmy
 
-**1.2.1.**	&quot;**Trisbee**&quot; se rozumí společnost Trisbee s.r.o., IČO: 04775660, se sídlem Praha 6, Vokovice, K Červenému vrchu 678/1, PSČ 160 00, Česká republika, která je oprávněna k výkonu všech majetkových práv souvisejících se softwarem Ocellot, zejména je **oprávněná k poskytování Licence k užívání softwaru Ocellot**. Trisbee zajišťuje správu softwaru, související zákaznickou podporu Obchodníkovi a poskytuje další služby dle aktuální nabídky služeb.
+**1.2.1.** &quot;**Trisbee**&quot; se rozumí společnost Trisbee s.r.o., IČO: 04775660, se sídlem Praha 6, Vokovice, K Červenému vrchu 678/1, PSČ 160 00, Česká republika, která je oprávněna k výkonu všech majetkových práv souvisejících se softwarem Ocellot, zejména je **oprávněná k poskytování Licence k užívání softwaru Ocellot**. Trisbee zajišťuje správu softwaru, související zákaznickou podporu Obchodníkovi a poskytuje další služby dle aktuální nabídky služeb.
  
-**1.2.2.**	&quot;**Obchodníkem**&quot; se rozumí **subjekt, který s Trisbee uzavřel smlouvu o pronájmu Licence k softwaru Ocellot** a plní veškeré smluvní podmínky pro využívání Licence, případně dalších poskytovaných služeb. Obchodníkem může být jakákoliv obchodní korporace nebo podnikající fyzická osoba, která si zakoupila Licenci k softwaru Ocellot. Pro vyloučení pochybností se stanovuje, že každý subjekt identifikující se vůči Trisbee pod svým IČO se považuje za podnikatele ve smyslu ust. § 420 Občanského zákoníku.
+**1.2.2.** &quot;**Obchodníkem**&quot; se rozumí **subjekt, který s Trisbee uzavřel smlouvu o pronájmu Licence k softwaru Ocellot** a plní veškeré smluvní podmínky pro využívání Licence, případně dalších poskytovaných služeb. Obchodníkem může být jakákoliv obchodní korporace nebo podnikající fyzická osoba, která si zakoupila Licenci k softwaru Ocellot. Pro vyloučení pochybností se stanovuje, že každý subjekt identifikující se vůči Trisbee pod svým IČO se považuje za podnikatele ve smyslu ust. § 420 Občanského zákoníku.
  
-**1.2.3.**	&quot;**Ocellotem**&quot; se rozumí software určený pro správu různých provozů, např. barů, restaurací, výčepů, ale i jiných provozů, v nichž je třeba evidence tržeb, řízení a správa naskladněných zásob, výdej objednávek zákazníkům a řízení jednotlivých účtů zákazníků.
+**1.2.3.** &quot;**Ocellotem**&quot; se rozumí software určený pro správu různých provozů, např. barů, restaurací, výčepů, ale i jiných provozů, v nichž je třeba evidence tržeb, řízení a správa naskladněných zásob, výdej objednávek zákazníkům a řízení jednotlivých účtů zákazníků.
  
 **1.2.4.** &quot;**Licencí**&quot; se rozumí právo k užívání softwarového produktu Ocellot poskytované Trisbee Obchodníkovi.
  
-**1.2.5.**	&quot;**Smlouvou**&quot; se rozumí smlouva o pronájmu Licence k softwaru Ocellot, případně i jakákoliv další smlouva uzavřená mezi Trisbee a Obchodníkem v souvislosti s pronájmem Licence k softwaru Ocellot.
+**1.2.5.** &quot;**Smlouvou**&quot; se rozumí smlouva o pronájmu Licence k softwaru Ocellot, případně i jakákoliv další smlouva uzavřená mezi Trisbee a Obchodníkem v souvislosti s pronájmem Licence k softwaru Ocellot.
  
-**1.2.6.**	&quot;**Ceníkem**&quot; se rozumí přehled cen pronájmu Licence softwaru Ocellot a dále přehled cen dalších služeb poskytovaných ze strany Trisbee. Ceník je umístěný na webových stránkách [https://www.ocellot.eu/cs/CZ](https://www.trisbee.eu).  
+**1.2.6.** &quot;**Ceníkem**&quot; se rozumí přehled cen pronájmu Licence softwaru Ocellot a dále přehled cen dalších služeb poskytovaných ze strany Trisbee. Ceník je umístěný na webových stránkách [https://www.ocellot.eu](https://www.trisbee.eu/cs/CZ).  
 
-**1.2.7.** &quot;**Obchodními podmínkami**&quot; se rozumí tyto obchodní podmínky, které upravují vzájemná práva a povinnosti Trisbee a Obchodníka a které jsou v aktuálním znění zveřejněny na stránkách [https://www.ocellot.eu/cs/CZ](https://www.trisbee.eu). 
+**1.2.7.** &quot;**Obchodními podmínkami**&quot; se rozumí tyto obchodní podmínky, které upravují vzájemná práva a povinnosti Trisbee a Obchodníka a které jsou v aktuálním znění zveřejněny na stránkách [https://www.ocellot.eu](https://www.trisbee.eu/cs/CZ). 
 
-**1.2.8.**	&quot;**Občanským zákoníkem**&quot; se rozumí zákon č. 89/2012 Sb., občanský zákoník, v platném znění.
+**1.2.8.** &quot;**Občanským zákoníkem**&quot; se rozumí zákon č. 89/2012 Sb., občanský zákoník, v platném znění.
  
 
 
 ## ČÁST 2 – PRÁVA A POVINNOSTI OBCHODNÍKA
 
-### 2.1.	Podmínky používání Ocellotu Obchodníkem
+### 2.1. Podmínky používání Ocellotu Obchodníkem
 
-**2.1.1.**	Trisbee vyvíjí a provozuje software Ocellot, pomocí kterého může Obchodník v rámci svého provozu, např. baru, restaurace apod., provádět evidenci tržeb, správu naskladněných zásob, výdej objednávek zákazníkům a spravovat jednotlivé účty zákazníků. 
+**2.1.1.** Trisbee vyvíjí a provozuje software Ocellot, pomocí kterého může Obchodník v rámci svého provozu, např. baru, restaurace apod., provádět evidenci tržeb, správu naskladněných zásob, výdej objednávek zákazníkům a spravovat jednotlivé účty zákazníků. 
  
-**2.1.2.**	Trisbee uděluje uzavřením Smlouvy Obchodníkovi nevýhradní, nepřevoditelnou a úplatnou Licenci, tj. právo k užívání Ocellotu, po dohodnutou dobu, a to v souladu s těmito Obchodními podmínkami. Licence se vztahuje také na všechny pozdější verze Ocellotu, které jsou poskytnuty Obchodníkovi, pokud není současně s novou verzí Ocellotu poskytována nová Licence k užití. 
+**2.1.2.** Trisbee uděluje uzavřením Smlouvy Obchodníkovi nevýhradní, nepřevoditelnou a úplatnou Licenci, tj. právo k užívání Ocellotu, po dohodnutou dobu, a to v souladu s těmito Obchodními podmínkami. Licence se vztahuje také na všechny pozdější verze Ocellotu, které jsou poskytnuty Obchodníkovi, pokud není současně s novou verzí Ocellotu poskytována nová Licence k užití. 
 
-**2.1.3.**	Obchodník nesmí samostatně rozšiřovat, vydávat nebo jinak předávat Ocellot dalším osobám. Obchodník není oprávněn poskytovat podlicenci k systému Ocellot. Obchodník je srozuměn s tím, že Ocellot nebyl vytvořen pro individuální potřeby konkrétního Obchodníka, ale že byl vytvořen pro univerzální využití. 
+**2.1.3.** Obchodník nesmí samostatně rozšiřovat, vydávat nebo jinak předávat Ocellot dalším osobám. Obchodník není oprávněn poskytovat podlicenci k systému Ocellot. Obchodník je srozuměn s tím, že Ocellot nebyl vytvořen pro individuální potřeby konkrétního Obchodníka, ale že byl vytvořen pro univerzální využití. 
 
-**2.1.4.**	Obchodník je plně odpovědný za obsah dat, která jsou zpracovávána v rámci poskytování služeb. V případě ukončení Smlouvy umožní Trisbee Obchodníkovi přístup k těmto datům po dobu 12 měsíců od ukončení Smlouvy.
+**2.1.4.** Obchodník je plně odpovědný za obsah dat, která jsou zpracovávána v rámci poskytování služeb. V případě ukončení Smlouvy umožní Trisbee Obchodníkovi přístup k těmto datům po dobu 12 měsíců od ukončení Smlouvy.
 
-**2.1.5.**	Využitím Ocellotu bere Obchodník na vědomí, že Trisbee tím získává přístup k některým informacím zařízení, na kterém má Obchodník Ocellot nainstalovaný (nebo na kterém Ocellot používá). Jedná se zejména o informace jako je IP adresa, jméno zařízení, verze operačního systému a geolokace. V některých případech má Trisbee přístup k informacím zařízení jen za předpokladu, že tuto funkci Obchodník v zařízení povolí.
+**2.1.5.** Využitím Ocellotu bere Obchodník na vědomí, že Trisbee tím získává přístup k některým informacím zařízení, na kterém má Obchodník Ocellot nainstalovaný (nebo na kterém Ocellot používá). Jedná se zejména o informace jako je IP adresa, jméno zařízení, verze operačního systému a geolokace. V některých případech má Trisbee přístup k informacím zařízení jen za předpokladu, že tuto funkci Obchodník v zařízení povolí.
 
-**2.1.6.**	Obchodník bere na vědomí, že počítačový program, grafika, fotografie, texty a případně další prvky Ocellotu jsou jednotlivě nebo jako celek chráněny autorským právem jako autorská díla. Nakládání Obchodníka s těmito autorskými díly je tudíž omezeno Smlouvou a těmito Obchodními podmínkami.
+**2.1.6.** Obchodník bere na vědomí, že počítačový program, grafika, fotografie, texty a případně další prvky Ocellotu jsou jednotlivě nebo jako celek chráněny autorským právem jako autorská díla. Nakládání Obchodníka s těmito autorskými díly je tudíž omezeno Smlouvou a těmito Obchodními podmínkami.
 
 **2.1.7.** Používáním Ocellotu Obchodník souhlasí s tím, že nebude:
+
 - provádět operace spočívající v jeho překladu, úpravách, modifikacích, obcházení, zpětném inženýrství, rozkládání, rozebírání, vytváření derivátů nebo jiných zásazích do jakéhokoliv jeho prvku, nebo asistovat jiné osobě ve výše popsaných jednáních,
 - používat Ocellot nezákonným způsobem, k nelegálním účelům, způsobem, který je v rozporu s těmito Obchodními podmínkami nebo zacházet s Ocellotem podvodným nebo lstivým způsobem jako je hacking, vkládání poškozujících kódů nebo škodlivých dat do programu nebo operačního systému,
 - pokoušet se instalovat nebo používat Ocellot na jakémkoliv zařízení, na kterém byla protiprávním způsobem prolomena možnost instalace nedovoleného softwaru nebo v němž je možnost instalace kontrolovaně omezena,
 - shromažďovat nebo sbírat informace a/nebo data z Ocellotu nebo ze systému Trisbee anebo se pokoušet o dešifrování jakéhokoliv přenosu na nebo ze serverů provozujících službu,
 - nahrávat jakýkoliv obsah, který je nebo může být shledán násilným, výhružným, schopným vyvolat rasovou nenávist, porušením důvěrnosti nebo soukromí, diskriminujícím, pomlouvačným, zneužívajícím, nezákonným, pornografickým, obscénním, nešlušným, znesvěcujícím nebo pokud může jinému způsobit obtíže nebo nepohodlí.
 
-**2.1.8.**	Poskytování služeb Obchodníkovi není nárokovatelné, Trisbee je oprávněno poskytování služby Obchodníkovi neumožnit nebo ji ukončit, a to i v případě, že Obchodník splnil všechny stanovené podmínky.
+**2.1.8.** Poskytování služeb Obchodníkovi není nárokovatelné, Trisbee je oprávněno poskytování služby Obchodníkovi neumožnit nebo ji ukončit, a to i v případě, že Obchodník splnil všechny stanovené podmínky.
 
-**2.1.9.**	Trisbee je oprávněno znemožnit Obchodníkovi využívání služeb (ukončit poskytování služeb), pokud je Ocellot Obchodníkem používán nezákonným nebo nemorálním způsobem, pokud Obchodník používá útočné, obscénní, vulgární, neuctivé nebo pomlouvačné výrazy vůči Trisbee nebo vůči jakýmkoli pracovníkům nebo představitelům jednajícím v zastoupení Trisbee, anebo v případě, že Obchodník zásadním způsobem poruší tyto Obchodní podmínky. Trisbee je dále oprávněno znemožnit Obchodníkovi využívání služeb, pokud je prohlášen úpadek Obchodníka, je vůči němu vedeno insolvenční nebo exekuční řízení. K ukončení využívání služeb přistoupí Trisbee také v případě, že Obchodník jako fyzická osoba zemře nebo je prohlášen za mrtvého příslušným orgánem státu Obchodníka, anebo v případě, že Obchodník jako právnická osoba zanikne bez právního nástupce.
+**2.1.9.** Trisbee je oprávněno znemožnit Obchodníkovi využívání služeb (ukončit poskytování služeb), pokud je Ocellot Obchodníkem používán nezákonným nebo nemorálním způsobem, pokud Obchodník používá útočné, obscénní, vulgární, neuctivé nebo pomlouvačné výrazy vůči Trisbee nebo vůči jakýmkoli pracovníkům nebo představitelům jednajícím v zastoupení Trisbee, anebo v případě, že Obchodník zásadním způsobem poruší tyto Obchodní podmínky. Trisbee je dále oprávněno znemožnit Obchodníkovi využívání služeb, pokud je prohlášen úpadek Obchodníka, je vůči němu vedeno insolvenční nebo exekuční řízení. K ukončení využívání služeb přistoupí Trisbee také v případě, že Obchodník jako fyzická osoba zemře nebo je prohlášen za mrtvého příslušným orgánem státu Obchodníka, anebo v případě, že Obchodník jako právnická osoba zanikne bez právního nástupce.
 
 **2.1.10.** V případě ukončení smluvního vztahu mezi Obchodníkem a Trisbee doporučuje Trisbee Obchodníkovi z důvodu bezpečnosti a ochrany odstranit Ocellot ze všech zařízení Obchodníka.
 
 **2.1.11.** Zabezpečení Ocellotu je provedeno primárně na základě uživatelského jména a hesla. Heslo pro vstup do aplikace Ocellot si volí sám Obchodník v rámci procesu aktivace Ocellotu dle čl. 2.2. Obchodních podmínek. Obchodník je zodpovědný za zabezpečení svého zařízení a za aktivaci všech bezpečnostních prvků pro vstup do zařízení a Ocellotu tak, aby nikdo třetí nemohl bez souhlasu Obchodníka získat přístup do Ocellotu. Porušení těchto pokynů může mít významný vliv na vyřízení případné reklamace Obchodníka.
  
-### 2.2.	Registrace Obchodníka a podmínky využívání aplikace
+### 2.2. Registrace Obchodníka a podmínky využívání aplikace
 
-**2.2.1.**	Trisbee poskytuje Obchodníkovi software Ocellot, jak ke stažení, tak i bez něj, pro Windows, macOS, Linux, Android, iOS. Ocellot je Obchodníkovi dostupný po provedení registrace. Registrovat se může fyzická i právnická osoba, které bylo přiděleno IČO a která provozuje podnikatelskou činnost, případně i činnost, jejímž cílem není tvorba zisku, a to na webových stránkách www.ocellot.eu.  
+**2.2.1.** Trisbee poskytuje Obchodníkovi software Ocellot, jak ke stažení, tak i bez něj, pro Windows, macOS, Linux, Android, iOS. Ocellot je Obchodníkovi dostupný po provedení registrace. Registrovat se může fyzická i právnická osoba, které bylo přiděleno IČO a která provozuje podnikatelskou činnost, případně i činnost, jejímž cílem není tvorba zisku, a to na webových stránkách [https://www.ocellot.eu](https://www.trisbee.eu/cs/CZ).  
 
-**2.2.2.**	V rámci registrace je každá osoba povinna zadat základní identifikační údaje jako je její jméno, příjmení (fyzická osoba), název společnosti (právnická osoba), IČO, telefonní číslo a e-mailová adresa. Dále si zvolí heslo pro přístup do následně zřízeného účtu Obchodníka. V dalším kroku je třeba zadat údaje o organizaci, a to zejména, zda se jedná o fyzickou nebo právnickou osobu, adresu sídla registrovaného v obchodním, živnostenském či případně obdobném rejstříku, dále je třeba zadat, zda je nebo není osoba plátcem DPH, a pokud ano, je třeba zadat DIČ osoby. 
+**2.2.2.** V rámci registrace je každá osoba povinna zadat základní identifikační údaje jako je její jméno, příjmení (fyzická osoba), název společnosti (právnická osoba), IČO, telefonní číslo a e-mailová adresa. Dále si zvolí heslo pro přístup do následně zřízeného účtu Obchodníka. V dalším kroku je třeba zadat údaje o organizaci, a to zejména, zda se jedná o fyzickou nebo právnickou osobu, adresu sídla registrovaného v obchodním, živnostenském či případně obdobném rejstříku, dále je třeba zadat, zda je nebo není osoba plátcem DPH, a pokud ano, je třeba zadat DIČ osoby. 
 
-**2.2.3.**	Nezbytné je výslovné potvrzení Obchodníka, že se seznámil s těmito Obchodními podmínkami a souhlasí s nimi. Obchodník také potvrzuje, že se seznámil se Zásadami ochrany osobních údajů. Na volbě Obchodníka pak je, zda souhlasí, aby mu Trisbee zasílalo obchodní sdělení a své newslettery. 
+**2.2.3.** Nezbytné je výslovné potvrzení Obchodníka, že se seznámil s těmito Obchodními podmínkami a souhlasí s nimi. Obchodník také potvrzuje, že se seznámil se Zásadami ochrany osobních údajů. Na volbě Obchodníka pak je, zda souhlasí, aby mu Trisbee zasílalo obchodní sdělení a své newslettery. 
 
-**2.2.4.**	Pokud jsou vyplněny všechny povinné údaje, vč. souhlasu s těmito Obchodními podmínkami, a registrace je správně vyplněna, na zadanou e-mailovou adresu je následně zaslán ověřovací e-mail. Doručený e-mail je potvrzením úspěšně provedené registrace, na základě které je možné přihlásit se pomocí odkazu v e-mailu do nově vytvořeného účtu Obchodníka. V něm je pak možné provést veškeré nastavení pro podnik Obchodníka. 
+**2.2.4.** Pokud jsou vyplněny všechny povinné údaje, vč. souhlasu s těmito Obchodními podmínkami, a registrace je správně vyplněna, na zadanou e-mailovou adresu je následně zaslán ověřovací e-mail. Doručený e-mail je potvrzením úspěšně provedené registrace, na základě které je možné přihlásit se pomocí odkazu v e-mailu do nově vytvořeného účtu Obchodníka. V něm je pak možné provést veškeré nastavení pro podnik Obchodníka. 
 
-**2.2.5.**	Nastavení podniku Obchodníka zahrnuje nastavení veškeré struktury podniku (např. pobočky, bary, výčepy, sklady, pokladny) a veškerých služeb dostupných danému Obchodníkovi podle jím zvoleného balíčku služeb. Celou registraci včetně nastavení může Obchodník provést sám anebo může využít služby Trisbee. 
+**2.2.5.** Nastavení podniku Obchodníka zahrnuje nastavení veškeré struktury podniku (např. pobočky, bary, výčepy, sklady, pokladny) a veškerých služeb dostupných danému Obchodníkovi podle jím zvoleného balíčku služeb. Celou registraci včetně nastavení může Obchodník provést sám anebo může využít služby Trisbee. 
  
-2.3.	Reklamace poskytovaných služeb
-2.3.1.	Reklamaci konkrétních funkcí či funkčnosti aplikace Ocellot, stejně jako reklamaci dalších poskytovaných služeb je Obchodník oprávněn u Trisbee uplatnit bez zbytečného odkladu poté, co se o důvodu reklamace dozvěděl, nejpozději však ve lhůtě do 3 měsíců ode dne, kdy se o důvodu reklamace při náležitém používání aplikace měl a mohl dozvědět. 
-2.3.2.	Trisbee může vyžadovat vyplnění formuláře sloužícího pro reklamaci aplikace či dalších služeb. Pokud není tento formulář k dispozici, pak je Obchodník povinen uvést v reklamaci alespoň tyto údaje: 
-identifikační údaje (jméno, příjmení, název společnosti, telefonní číslo a e-mail Obchodníka), 
-označení funkce Ocellotu nebo služby, které se reklamace týká a popis reklamovaného stavu aplikace nebo služby, ideálně včetně pořízení fotografií a/nebo videí obsahujících názorný příklad reklamovaného stavu
-jaké nápravy se Obchodník domáhá.
-Reklamaci podává Obchodník elektronicky e-mailem na support@trisbee.com nebo listinně na adrese: Trisbee s.r.o., Kamenická 33, Praha 7 - Holešovice, PSČ 170 00, případně také elektronicky datovou schránkou - ID DS Trisbee s.r.o.: ghwkp68.
-2.3.3.	Pokud reklamace podaná Obchodníkem obsahuje všechny údaje nezbytné k tomu, aby mohla být ze strany Trisbee prověřena (čl. 2.3.2. Obchodních podmínek), je Trisbee povinno vyřídit reklamaci do 1 měsíce ode dne, kdy byla reklamace Obchodníkem prokazatelně doručena Trisbee. Trisbee vždy informuje Obchodníka o tom, že jeho reklamace byla Trisbee doručena a kdy se tak stalo, že byla zaevidována a bude vyřízena ve lhůtě 1 měsíce. V případě, že v reklamaci podané Obchodníkem chybí údaje, bez nichž není možné reklamaci vyřídit, případně je potřeba, aby Obchodník některé skutečnosti vyjasnil, kontaktuje Trisbee Obchodníka za účelem doplnění takových skutečností. V tom případě může být lhůta pro vyřízení reklamace adekvátně prodloužena o dobu, po kterou Trisbee vyčkává sdělení dalších skutečností, případně doložení podkladů nezbytných pro vyřízení reklamace od Obchodníka. Pokud Obchodník k výzvě Trisbee nesdělí další skutečnosti a/nebo nedoloží případné další nezbytné dokumenty ani ve lhůtě 1 měsíce od výzvy doručené ze strany Trisbee, aniž by uvedl důvod prodlení a případně požádal o náhradní termín ke sdělení a doložení dalších skutečností, Trisbee řízení o předmětné reklamaci zastaví a toto Obchodníkovi oznámí. Pro případ, že z podané reklamace nebude zřejmé, kdo ji podává a dotyčný neuvedl ani své kontaktní údaje, není Trisbee povinno se předmětnou reklamací zabývat. 
-2.3.4.	Po prošetření všech skutečností a prověření dokumentů dodaných Obchodníkem k podané reklamaci, případně skutečností a dokumentů z interní evidence Trisbee, rozhodne Trisbee o vyřízení reklamace tak, že reklamaci shledá
-	(i) oprávněnou a reklamaci proto vyhoví, tj. sdělí Obchodníkovi, že jeho reklamace je oprávněná a učiní bez prodlení veškeré nezbytné kroky vedoucí k odstranění reklamovaného stavu, přičemž tyto kroky se mohou lišit v závislosti na povaze reklamace
+### 2.3. Reklamace poskytovaných služeb
+
+**2.3.1.** Reklamaci konkrétních funkcí či funkčnosti aplikace Ocellot, stejně jako reklamaci dalších poskytovaných služeb je Obchodník oprávněn u Trisbee uplatnit bez zbytečného odkladu poté, co se o důvodu reklamace dozvěděl, nejpozději však ve lhůtě do 3 měsíců ode dne, kdy se o důvodu reklamace při náležitém používání aplikace měl a mohl dozvědět. 
+
+**2.3.2.** Trisbee může vyžadovat vyplnění formuláře sloužícího pro reklamaci aplikace či dalších služeb. Pokud není tento formulář k dispozici, pak je Obchodník povinen uvést v reklamaci alespoň tyto údaje: 
+
+- **identifikační údaje** (jméno, příjmení, název společnosti, telefonní číslo a e-mail Obchodníka), 
+- **označení funkce Ocellotu nebo služby**, které se reklamace týká a popis reklamovaného stavu aplikace nebo služby, ideálně **včetně pořízení fotografií a/nebo videí** obsahujících názorný příklad reklamovaného stavu
+- **jaké nápravy se Obchodník domáhá**.
+
+Reklamaci podává Obchodník elektronicky e-mailem na **support@trisbee.com** nebo listinně na adrese: **Trisbee s.r.o., Kamenická 33, Praha 7 - Holešovice, PSČ 170 00**, případně také elektronicky datovou schránkou - ID DS Trisbee s.r.o.: **ghwkp68**.
+
+**2.3.3.** Pokud reklamace podaná Obchodníkem obsahuje všechny údaje nezbytné k tomu, aby mohla být ze strany Trisbee prověřena (čl. 2.3.2. Obchodních podmínek), je Trisbee povinno vyřídit reklamaci **do 1 měsíce ode dne, kdy byla reklamace Obchodníkem prokazatelně doručena Trisbee**. Trisbee vždy informuje Obchodníka o tom, že jeho reklamace byla Trisbee doručena a kdy se tak stalo, že byla zaevidována a bude vyřízena ve lhůtě 1 měsíce. V případě, že v reklamaci podané Obchodníkem chybí údaje, bez nichž není možné reklamaci vyřídit, případně je potřeba, aby Obchodník některé skutečnosti vyjasnil, kontaktuje Trisbee Obchodníka za účelem doplnění takových skutečností. V tom případě může být lhůta pro vyřízení reklamace adekvátně prodloužena o dobu, po kterou Trisbee vyčkává sdělení dalších skutečností, případně doložení podkladů nezbytných pro vyřízení reklamace od Obchodníka. Pokud Obchodník k výzvě Trisbee nesdělí další skutečnosti a/nebo nedoloží případné další nezbytné dokumenty ani ve lhůtě 1 měsíce od výzvy doručené ze strany Trisbee, aniž by uvedl důvod prodlení a případně požádal o náhradní termín ke sdělení a doložení dalších skutečností, Trisbee řízení o předmětné reklamaci zastaví a toto Obchodníkovi oznámí. Pro případ, že z podané reklamace nebude zřejmé, kdo ji podává a dotyčný neuvedl ani své kontaktní údaje, není Trisbee povinno se předmětnou reklamací zabývat. 
+
+**2.3.4.** Po prošetření všech skutečností a prověření dokumentů dodaných Obchodníkem k podané reklamaci, případně skutečností a dokumentů z interní evidence Trisbee, rozhodne Trisbee o vyřízení reklamace tak, že reklamaci shledá
+
+(i) **oprávněnou** a reklamaci proto vyhoví, tj. sdělí Obchodníkovi, že jeho reklamace je oprávněná a učiní bez prodlení veškeré nezbytné kroky vedoucí k odstranění reklamovaného stavu, přičemž tyto kroky se mohou lišit v závislosti na povaze reklamace
+
 nebo
-	(ii) neoprávněnou a reklamaci proto zamítne, tj. sdělí Obchodníkovi, že jeho reklamace byla shledána neoprávněnou a uvede podstatné důvody vedoucí k učiněnému rozhodnutí o neoprávněnosti reklamace
-	nebo
-	(iii) oprávněnou pouze částečně a reklamaci proto vyhoví pouze částečně, tj. sdělí Obchodníkovi, že jeho reklamace je oprávněná pouze částečně, uvede v které části a bez prodlení učiní veškeré nezbytné kroky vedoucí k odstranění důvodně reklamovaného stavu (konkrétní kroky se mohou lišit v závislosti na povaze reklamace). Trisbee dále sdělí, že ve zbytku byla reklamace shledána neoprávněnou, přičemž současně uvede podstatné důvody vedoucí k učiněnému rozhodnutí o částečné neoprávněnosti reklamace.
-2.3.5.	Trisbee a Obchodník tímto sjednávají, že pokud bude reklamace shledána oprávněnou, nemůže Obchodník požadovat slevu z licenčního poplatku nebo z ceny služby, pokud je Trisbee schopno a připraveno: (a) reklamovanou vadu bez zbytečného odkladu odstranit či bezodkladně poskytnout službu znovu a bez vad, a současně (b) bez zbytečného odkladu začne vyvíjet činnost směřující k odstranění vady. Obchodník však má vždy právo Smlouvu ukončit - více viz čl. 3.7.3. Obchodních podmínek.
+
+(ii) **neoprávněnou** a reklamaci proto zamítne, tj. sdělí Obchodníkovi, že jeho reklamace byla shledána neoprávněnou a uvede podstatné důvody vedoucí k učiněnému rozhodnutí o neoprávněnosti reklamace
+
+nebo
+	
+(iii) **oprávněnou pouze částečně** a reklamaci proto vyhoví pouze částečně, tj. sdělí Obchodníkovi, že jeho reklamace je oprávněná pouze částečně, uvede v které části a bez prodlení učiní veškeré nezbytné kroky vedoucí k odstranění důvodně reklamovaného stavu (konkrétní kroky se mohou lišit v závislosti na povaze reklamace). Trisbee dále sdělí, že ve zbytku byla reklamace shledána neoprávněnou, přičemž současně uvede podstatné důvody vedoucí k učiněnému rozhodnutí o částečné neoprávněnosti reklamace.
+
+**2.3.5.** Trisbee a Obchodník tímto sjednávají, že pokud bude reklamace shledána oprávněnou, nemůže Obchodník požadovat slevu z licenčního poplatku nebo z ceny služby, pokud je Trisbee schopno a připraveno: (a) reklamovanou vadu bez zbytečného odkladu odstranit či bezodkladně poskytnout službu znovu a bez vad, a současně (b) bez zbytečného odkladu začne vyvíjet činnost směřující k odstranění vady. Obchodník však má vždy právo Smlouvu ukončit - více viz čl. 3.7.3. Obchodních podmínek.
  
-2.4.	Poplatky
-2.4.1.	Trisbee účtuje Obchodníkovi licenční poplatky za pronájem Licence Ocellotu ve výši dle platného Ceníku. V Ceníku mohou být dále uvedeny také ceny ostatních poskytovaných služeb, které může Obchodník zakoupit společně s pronájmem Licence k systému Ocellot.
-2.4.2.	Trisbee neúčtuje Obchodníkovi žádné licenční poplatky za využívání software po dobu trvání zkušebního období. Informace o podmínkách zkušebního období jsou uvedeny na www.ocellot.eu. Zkušební období je každému Obchodníkovi poskytnuto pouze jednou, to platí i v případě, že by se jako nový uživatel registroval k využívání software opakovaně.
-2.4.3.	Obchodník bere na vědomí, že Trisbee je oprávněno kdykoliv jednostranně měnit Ceník. Pokud má však Obchodník zaplacenou licenci k využívání Ocellotu na dohodnutou dobu, nebude Trisbee takovému Obchodníkovi účtovat další poplatky ani tehdy, pokud by v průběhu této doby došlo ke zvýšení poplatků změnou Ceníku. Pokud by došlo ke snížení poplatků v průběhu doby, na kterou má Obchodník licenční poplatky zaplaceny, poskytne Trisbee Obchodníkovi k jeho žádosti adekvátní vyrovnání.
-2.4.4.	Obchodník v souladu s § 26 odst. 3 zák. č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů, souhlasí s tím, aby Trisbee vyhotovilo daňový doklad – fakturu elektronicky. Obchodník souhlasí s tím, že Trisbee může vystavit nejprve zálohovou fakturu s tím, že teprve po zaplacení vyúčtované částky bude Obchodníkovi zaslána řádná faktura - daňový doklad. Obchodník souhlasí také s tím, aby mu zálohové faktury i řádné faktury (daňové doklady) byly zasílány e-mailem.
-2.4.5.	Licenční poplatek a ceny dalších služeb dle Ceníku jsou splatné do 14 dnů od vystavení a doručení (zálohové) faktury (doručení zálohové i řádné faktury viz čl. 2.4.4. a čl. 3.2.2. těchto Obchodních podmínek), není-li na faktuře uvedeno jiné datum splatnosti, a to primárně převodem na účet Trisbee, případně jinou aktuálně dostupnou platební metodou.
-2.4.6.	V případě prodlení s úhradou fakturované částky je Obchodník povinen uhradit rovněž zákonný úrok z prodlení dle příslušných právních předpisů. Prodlení s úhradou faktury trvající více než 30 dnů může být důvodem k ukončení Smlouvy ze strany Trisbee.
+### 2.4. Poplatky
+
+**2.4.1.** Trisbee účtuje Obchodníkovi licenční poplatky za pronájem Licence Ocellotu ve výši dle platného Ceníku. V Ceníku mohou být dále uvedeny také ceny ostatních poskytovaných služeb, které může Obchodník zakoupit společně s pronájmem Licence k systému Ocellot.
+
+**2.4.2.** Trisbee neúčtuje Obchodníkovi žádné licenční poplatky za využívání software po dobu trvání zkušebního období. Informace o podmínkách zkušebního období jsou uvedeny na [https://www.ocellot.eu](https://www.trisbee.eu/cs/CZ). Zkušební období je každému Obchodníkovi poskytnuto pouze jednou, to platí i v případě, že by se jako nový uživatel registroval k využívání software opakovaně.
+
+**2.4.3.** Obchodník bere na vědomí, že Trisbee je oprávněno kdykoliv jednostranně měnit Ceník. Pokud má však Obchodník zaplacenou licenci k využívání Ocellotu na dohodnutou dobu, nebude Trisbee takovému Obchodníkovi účtovat další poplatky ani tehdy, pokud by v průběhu této doby došlo ke zvýšení poplatků změnou Ceníku. Pokud by došlo ke snížení poplatků v průběhu doby, na kterou má Obchodník licenční poplatky zaplaceny, poskytne Trisbee Obchodníkovi k jeho žádosti adekvátní vyrovnání.
+
+**2.4.4.** Obchodník v souladu s § 26 odst. 3 zák. č. 235/2004 Sb., o dani z přidané hodnoty, ve znění pozdějších předpisů, souhlasí s tím, aby Trisbee vyhotovilo daňový doklad – fakturu elektronicky. Obchodník souhlasí s tím, že Trisbee může vystavit nejprve zálohovou fakturu s tím, že teprve po zaplacení vyúčtované částky bude Obchodníkovi zaslána řádná faktura - daňový doklad. Obchodník souhlasí také s tím, aby mu zálohové faktury i řádné faktury (daňové doklady) byly zasílány e-mailem.
+
+**2.4.5.** Licenční poplatek a ceny dalších služeb dle Ceníku jsou splatné do 14 dnů od vystavení a doručení (zálohové) faktury (doručení zálohové i řádné faktury viz čl. 2.4.4. a čl. 3.2.2. těchto Obchodních podmínek), není-li na faktuře uvedeno jiné datum splatnosti, a to primárně převodem na účet Trisbee, případně jinou aktuálně dostupnou platební metodou.
+
+**2.4.6.** V případě prodlení s úhradou fakturované částky je Obchodník povinen uhradit rovněž zákonný úrok z prodlení dle příslušných právních předpisů. Prodlení s úhradou faktury trvající více než 30 dnů může být důvodem k ukončení Smlouvy ze strany Trisbee.
  
  
 ČÁST 3 – DALŠÍ PRÁVA A POVINNOSTI
