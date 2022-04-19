@@ -47,13 +47,13 @@ Jednotlivé doby uchovávání a zpracování cookies se řídí obchodními pod
 ### (6) Kdo může mít k údajům z cookies přístup?
 
 Shromážděné cookies soubory jsou zpracovány dalšími zpracovateli: 
-<br> - službou Google Analytics, provozovanou společností Google Inc., se sídlem 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA 
-<br> - službou Google Adwords, provozovanou společností Google Inc., se sídlem 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA 
-<br> - Google Tag Manager, provozovanou společností Google Inc., se sídlem 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA 
-<br> - službou DoubleClick, provozovanou společností Google Inc., se sídlem 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA 
-<br> - Hotjar Ltd., se sídlem DRAGONARA BUSINESS CENTRE, 5TH FLOOR, DRAGONARA ROAD, PACEVILLE St.Julians, STJ3141 Malta
-<br> - Smartlook.com, s.r.o., IČO: 09508830, se sídlem Šumavská 524/31, Veveří, 602 00 Brno, Czech Republic
-<br> - Facebook, společnost se sídlem 1 Hacker Way, Menlo Park, CA 94025, United States
+<br> ● službou Google Analytics, provozovanou společností Google Inc., se sídlem 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA 
+<br> ● službou Google Adwords, provozovanou společností Google Inc., se sídlem 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA 
+<br> ● Google Tag Manager, provozovanou společností Google Inc., se sídlem 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA 
+<br> ● službou DoubleClick, provozovanou společností Google Inc., se sídlem 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA 
+<br> ● Hotjar Ltd., se sídlem DRAGONARA BUSINESS CENTRE, 5TH FLOOR, DRAGONARA ROAD, PACEVILLE St.Julians, STJ3141 Malta
+<br> ● Smartlook.com, s.r.o., IČO: 09508830, se sídlem Šumavská 524/31, Veveří, 602 00 Brno, Czech Republic
+<br> ● Facebook, společnost se sídlem 1 Hacker Way, Menlo Park, CA 94025, United States
 
 Cookies soubory jsou zpracovateli zpracovány v souladu s jejich podmínkami nakládání s osobními údaji.
 
