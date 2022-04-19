@@ -56,5 +56,5 @@ Shromážděné cookies soubory jsou zpracovány dalšími zpracovateli:
 <br> - Facebook, společnost se sídlem 1 Hacker Way, Menlo Park, CA 94025, United States
 
 Cookies soubory jsou zpracovateli zpracovány v souladu s jejich podmínkami nakládání s osobními údaji.
- 
-Tyto zásady využívání cookies vstupují v platnost a jsou účinné od 1. dubna 2022.
+
+<br> Tyto zásady využívání cookies vstupují v platnost a jsou účinné od 1. dubna 2022.
