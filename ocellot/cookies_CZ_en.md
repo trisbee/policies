@@ -45,23 +45,14 @@ The individual storage and processing periods of cookies are governed by the ter
 ## (6) Who can access the cookie data?
 
 The collected cookies are processed by the following data processors:
-
-●	Google Analytics, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
-
-●	Google Adwords, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
-
-●	Google Tag Manager, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
-
-● DoubleClick, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
-
-● Hotjar Ltd., having its registered office at DRAGONARA BUSINESS CENTRE, 5TH FLOOR, DRAGONARA ROAD, PACEVILLE St.Julians, STJ3141 Malta
-
-●	Smartlook.com, s.r.o., ID No.: 09508830, with registered office at Šumavská 524/31, Veveří, 602 00 Brno, Czech Republic
-
-● Facebook, registered offices at 1 Hacker Way, Menlo Park, CA 94025, United States
-
+<br> ●	Google Analytics, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+<br> ●	Google Adwords, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+<br> ●	Google Tag Manager, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+<br> ● DoubleClick, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+<br> ● Hotjar Ltd., having its registered office at DRAGONARA BUSINESS CENTRE, 5TH FLOOR, DRAGONARA ROAD, PACEVILLE St.Julians, STJ3141 Malta
+<br> ●	Smartlook.com, s.r.o., ID No.: 09508830, with registered office at Šumavská 524/31, Veveří, 602 00 Brno, Czech Republic
+<br> ● Facebook, registered offices at 1 Hacker Way, Menlo Park, CA 94025, United States
 
 Cookies are processed by processors in accordance with their terms and conditions for handling personal data.
- 
 
-This Cookie Policy comes into force and takes effect from 1 April 2022.
+<br> This Cookie Policy comes into force and takes effect from 1 April 2022.
