@@ -206,5 +206,4 @@ or
  
 **3.7.10.** The Merchant is not entitled to transfer its rights and obligations arising from the contractual relationship with Trisbee to another entity.
  
- 
-These Terms and Conditions enter into force and take effect on 1 April 2022.
+<br> These Terms and Conditions enter into force and take effect on April 1, 2022.
