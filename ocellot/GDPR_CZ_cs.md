@@ -20,14 +20,14 @@ V případě jakýchkoliv dotazů nebo nejasností můžete Trisbee kontaktovat 
 **&quot;Osobním údajem&quot;** je jakákoliv informace týkající se identifikované nebo identifikovatelné osoby.
  
 Trisbee shromažďuje následující kategorie osobních údajů:
-<br> Identifikační údaje jako je jméno a příjmení Obchodníka, adresa bydliště nebo sídla Obchodníka, IČO a DIČ Obchodníka, uživatelské jméno, heslo.
-<br> Kontaktní údaje jako je telefonní číslo nebo e-mailová adresa Obchodníka.
-<br> Technické údaje jako je IP adresa Obchodníka, typ zařízení nebo nastavení používaných funkcí systému Ocellot.
-<br> Data - ta, která zadáváte do našich systémů.
-<br> Údaje o využívání webových stránek, zařízení a mobilních aplikací a podobné údaje shromážděné pomocí automatizovaných prostředků, jako jsou soubory cookies a podobné technologie (shromažďování některých údajů je podmíněno vaším předchozím výslovným souhlasem).
+<br> ● Identifikační údaje jako je jméno a příjmení Obchodníka, adresa bydliště nebo sídla Obchodníka, IČO a DIČ Obchodníka, uživatelské jméno, heslo.
+<br> ● Kontaktní údaje jako je telefonní číslo nebo e-mailová adresa Obchodníka.
+<br> ● Technické údaje jako je IP adresa Obchodníka, typ zařízení nebo nastavení používaných funkcí systému Ocellot.
+<br> ● Data - ta, která zadáváte do našich systémů.
+<br> ● Údaje o využívání webových stránek, zařízení a mobilních aplikací a podobné údaje shromážděné pomocí automatizovaných prostředků, jako jsou soubory cookies a podobné technologie (shromažďování některých údajů je podmíněno vaším předchozím výslovným souhlasem).
 
-Informace k heslům:
-Jakákoli hesla jsou uložena pouze v šifrované podobě bez možnosti dešifrování (tzv. jednosměrná šifra), nemůžeme vám tedy sdělit, jaké máte heslo. Pokud heslo zapomenete, jediná možnost je vytvořit nové.
+**Informace k heslům:**
+<br> ● Jakákoli hesla jsou uložena pouze v šifrované podobě bez možnosti dešifrování (tzv. jednosměrná šifra), nemůžeme vám tedy sdělit, jaké máte heslo. Pokud heslo zapomenete, jediná možnost je vytvořit nové.
  
 ## (2) Kdo s vašimi údaji pracuje?
 S vašimi údaji pracuje především Trisbee jako poskytovatel Služby a správce těchto osobních údajů, a to výhradně v elektronické podobě. Zpracování a ukládání dat se uskutečňuje prostřednictvím cloudových služeb, které se fyzicky nachází na území Evropské Unie.
@@ -55,14 +55,14 @@ Prosím vezměte na vědomí následující. V USA z pohledu práva Evropské un
  
 ## (6) Vaše práva
 Právní předpisy na ochranu osobních údajů (zejména zák. č. 101/2000 Sb., o ochraně osobních údajů, v platném znění a dále Nařízení Evropského parlamentu a Rady (EU) 2016/679 ze dne 27. dubna 2016 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení směrnice 95/46/ES - GDPR) vám zaručují různá práva v oblasti ochrany osobních údajů.
-<br> **Právo na přístup k údajům** - v rozsahu garantovaném právními předpisy na ochranu osobních údajů můžete od Trisbee požadovat přístup k vašim osobním údajům - informace o tom, zda s vašimi osobními údaji pracujeme, s jakými konkrétními vašimi údaji pracujeme a jak s nimi pracujeme.
-<br> **Právo na opravu** - můžete od Trisbee požadovat opravu nesprávného údaje nebo doplnění neúplného údaje, případně poskytnutí dodatečného souhlasu.
-<br> **Právo na omezení zpracování** - za stanovených zákonných podmínek údaje sice prozatím nevymažeme, ale nebudeme je dále zpracovávat (například v situaci zjišťování oprávněného zájmu na zpracování převažujícího nad požadavkem na výmaz osobních údajů). 
-<br> **Právo na výmaz** - vždy pokud jsou pro to splněny zákonné podmínky (například při odvolání souhlasu se zpracováním osobních údajů, zpracování osobních údajů již není třeba, oprávněný zájem na zpracování již pominul apod.). 
-<br> **Právo vznést námitku proti zpracování** - právo namítat existenci důvodu pro konkrétní zpracování osobních údajů (námitku je zapotřebí konkretizovat).
-<br> **Právo na přenositelnost údajů** - právo požádat Trisbee jako správce vašich osobních údajů, aby tyto osobní údaje, pokud je to technicky proveditelné, předal jinému správci osobních údajů.
+<br> ● **Právo na přístup k údajům** - v rozsahu garantovaném právními předpisy na ochranu osobních údajů můžete od Trisbee požadovat přístup k vašim osobním údajům - informace o tom, zda s vašimi osobními údaji pracujeme, s jakými konkrétními vašimi údaji pracujeme a jak s nimi pracujeme.
+<br> ● **Právo na opravu** - můžete od Trisbee požadovat opravu nesprávného údaje nebo doplnění neúplného údaje, případně poskytnutí dodatečného souhlasu.
+<br> ● **Právo na omezení zpracování** - za stanovených zákonných podmínek údaje sice prozatím nevymažeme, ale nebudeme je dále zpracovávat (například v situaci zjišťování oprávněného zájmu na zpracování převažujícího nad požadavkem na výmaz osobních údajů). 
+<br> ● **Právo na výmaz** - vždy pokud jsou pro to splněny zákonné podmínky (například při odvolání souhlasu se zpracováním osobních údajů, zpracování osobních údajů již není třeba, oprávněný zájem na zpracování již pominul apod.). 
+<br> ● **Právo vznést námitku proti zpracování** - právo namítat existenci důvodu pro konkrétní zpracování osobních údajů (námitku je zapotřebí konkretizovat).
+<br> ● **Právo na přenositelnost údajů** - právo požádat Trisbee jako správce vašich osobních údajů, aby tyto osobní údaje, pokud je to technicky proveditelné, předal jinému správci osobních údajů.
 
-Pro uplatnění jakéhokoliv z práv stanovených příslušnými právními předpisy nás můžete kontaktovat prostřednictvím výše uvedených kontaktních údajů – nejjednodušší je poslat nám e-mail na support@trisbee.com a my vám rádi poradíme a pomůžeme s uplatněním vašich práv. Pokud byste se domnívali, že zpracováním vašich osobních údajů porušujeme právní předpisy, máte právo podat stížnost u národního dozorového úřadu (Pro ČR - Úřad pro ochranu osobních údajů, Pplk. Sochora 27, 170 00 Praha 7, Česká republika, [https://www.uoou.cz](https://www.uoou.cz/cs).
+Pro uplatnění jakéhokoliv z práv stanovených příslušnými právními předpisy nás můžete kontaktovat prostřednictvím výše uvedených kontaktních údajů – nejjednodušší je poslat nám e-mail na support@trisbee.com a my vám rádi poradíme a pomůžeme s uplatněním vašich práv. Pokud byste se domnívali, že zpracováním vašich osobních údajů porušujeme právní předpisy, máte právo podat stížnost u národního dozorového úřadu (Pro ČR - Úřad pro ochranu osobních údajů, Pplk. Sochora 27, 170 00 Praha 7, Česká republika, [https://www.uoou.cz](https://www.uoou.cz/cs)).
 
 Pokud nesouhlasíte s tím, abychom vaše údaje používali k zasílání newsletterů, je nejjednodušší využít odkaz “odhlášení”, který je v každém newsletteru, případně nám námitku můžete zaslat e-mailem nebo dopisem. Můžete odmítnout i jiná zpracování založená na oprávněném zájmu a My je omezíme, pokud neprokážeme závažné a kvalifikované oprávněné důvody pro zpracování.
  
