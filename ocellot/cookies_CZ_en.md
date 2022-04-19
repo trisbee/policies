@@ -55,4 +55,4 @@ The collected cookies are processed by the following data processors:
 
 Cookies are processed by processors in accordance with their terms and conditions for handling personal data.
 
-<br> This Cookie Policy comes into force and takes effect from 1 April 2022.
+<br> This Cookie Policy comes into force and takes effect from April 1, 2022.
