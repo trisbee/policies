@@ -60,6 +60,7 @@ Trisbee processing the following categories of personal data:
 -   Information concerning the Merchant's Clients to such an extent
     > which allows Us to process the transaction and send the payment to
     > the Merchant.
+
 <a name="who"></a>
 
 [**(2) Who processes your personal data?**](#who)
