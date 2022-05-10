@@ -1,4 +1,4 @@
-**Mění se něco???**
+**Trisbee Privacy Policy**
 ==========================
 
 This document is directly related to the Trisbee Terms and Conditions -
@@ -61,7 +61,7 @@ Trisbee processing the following categories of personal data:
     > which allows Us to process the transaction and send the payment to
     > the Merchant.
 
-**(2) Who processes your personal data?**
+[**(2) Who processes your personal data?**](#who)
 -----------------------------------------
 
 Your personal data are primarily processed by Us as a Service provider
