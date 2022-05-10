@@ -60,7 +60,7 @@ Trisbee processing the following categories of personal data:
 -   Information concerning the Merchant's Clients to such an extent
     > which allows Us to process the transaction and send the payment to
     > the Merchant.
-
+<a name="who"></a>
 [**(2) Who processes your personal data?**](#who)
 -----------------------------------------
 
@@ -75,7 +75,7 @@ fraudulent payment transactions.
 
 **(3) Why do We process your data?**
 ------------------------------------
-### <a name="why"></a>
+<a name="why"></a>
 
 A.  To provide you with the Services you have ordered. For example, when
 We maintain a payment account for you, We work with data regarding
