@@ -62,7 +62,7 @@ Trisbee processing the following categories of personal data:
     > the Merchant.
 <a name="who"></a>
 
-**(2) Who processes your personal data?**
+[**(2) Who processes your personal data?**](#who)
 -----------------------------------------
 
 Your personal data are primarily processed by Us as a Service provider
