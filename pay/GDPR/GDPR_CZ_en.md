@@ -1,4 +1,4 @@
-**Trisbee Privacy Policy**
+**Mění se něco???**
 ==========================
 
 This document is directly related to the Trisbee Terms and Conditions -
