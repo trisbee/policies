@@ -61,6 +61,7 @@ Trisbee processing the following categories of personal data:
     > which allows Us to process the transaction and send the payment to
     > the Merchant.
 <a name="who"></a>
+
 **(2) Who processes your personal data?**
 -----------------------------------------
 
