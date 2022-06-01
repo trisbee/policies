@@ -61,7 +61,9 @@ Trisbee processing the following categories of personal data:
     > which allows Us to process the transaction and send the payment to
     > the Merchant.
 
-**(2) Who processes your personal data?**
+<a name="who"></a>
+
+[**(2) Who processes your personal data?**](#who)
 -----------------------------------------
 
 Your personal data are primarily processed by Us as a Service provider
@@ -73,7 +75,9 @@ obligations towards you, official authorities and other entities arising
 out of the Trisbee activities or as a prevention and protection against
 fraudulent payment transactions.
 
-**(3) Why do We process your data?**
+<a name="why"></a>
+
+[**(3) Why do We process your data?**](#why)
 ------------------------------------
 
 A.  To provide you with the Services you have ordered. For example, when
