@@ -209,4 +209,4 @@ nebo
  
 **3.7.10.** Obchodník nemá právo převést svá práva a povinnosti vyplývající ze smluvního vztahu s Trisbee na jiný subjekt.
  
-<br> Tyto obchodní podmínky vstupují v platnost a jsou účinné od 1. dubna 2022.
+<br /> Tyto obchodní podmínky vstupují v platnost a jsou účinné od 1. dubna 2022.

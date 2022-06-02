@@ -7,12 +7,12 @@ Cookies are small data files placed in the memory of your browser or device whil
 Our website uses different types of cookies. Some cookies that appear on our site are placed by third party services.
 
 Cookies can be divided into two categories **according to their durability**:
-<br> **Short-term (session cookies)** remain on your browser or device until you close your browser or app, after which they are deleted.
-<br> **Persistent cookies** remain stored in your browser or device for a long time (depending on your browser settings and the settings of the cookies themselves) or until you delete them manually. These cookies can be used to identify the user's device when the web browser or application is restarted. In any case, cookies do not affect the technical use of your device and do not contain viruses.
+<br /> **Short-term (session cookies)** remain on your browser or device until you close your browser or app, after which they are deleted.
+<br /> **Persistent cookies** remain stored in your browser or device for a long time (depending on your browser settings and the settings of the cookies themselves) or until you delete them manually. These cookies can be used to identify the user's device when the web browser or application is restarted. In any case, cookies do not affect the technical use of your device and do not contain viruses.
 
 Cookies can be divided into two categories depending on **who creates and processes them**:
-<br> **First party cookies** are created directly by a website or scripts on the same domain. These most often serve to ensure the basic functionalities of a website or application.
-<br> **Third party cookies** are most often those of advertising systems, social network widgets or embedded videos.
+<br /> **First party cookies** are created directly by a website or scripts on the same domain. These most often serve to ensure the basic functionalities of a website or application.
+<br /> **Third party cookies** are most often those of advertising systems, social network widgets or embedded videos.
 
 ## (2) What cookies do we use?
 
@@ -45,14 +45,14 @@ The individual storage and processing periods of cookies are governed by the ter
 ## (6) Who can access the cookie data?
 
 The collected cookies are processed by the following data processors:
-<br> ●	Google Analytics, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
-<br> ●	Google Adwords, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
-<br> ●	Google Tag Manager, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
-<br> ● DoubleClick, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
-<br> ● Hotjar Ltd., having its registered office at DRAGONARA BUSINESS CENTRE, 5TH FLOOR, DRAGONARA ROAD, PACEVILLE St.Julians, STJ3141 Malta
-<br> ●	Smartlook.com, s.r.o., ID No.: 09508830, with registered office at Šumavská 524/31, Veveří, 602 00 Brno, Czech Republic
-<br> ● Facebook, registered offices at 1 Hacker Way, Menlo Park, CA 94025, United States
+<br /> ●	Google Analytics, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+<br /> ●	Google Adwords, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+<br /> ●	Google Tag Manager, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+<br /> ● DoubleClick, operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+<br /> ● Hotjar Ltd., having its registered office at DRAGONARA BUSINESS CENTRE, 5TH FLOOR, DRAGONARA ROAD, PACEVILLE St.Julians, STJ3141 Malta
+<br /> ●	Smartlook.com, s.r.o., ID No.: 09508830, with registered office at Šumavská 524/31, Veveří, 602 00 Brno, Czech Republic
+<br /> ● Facebook, registered offices at 1 Hacker Way, Menlo Park, CA 94025, United States
 
 Cookies are processed by processors in accordance with their terms and conditions for handling personal data.
 
-<br> This Cookie Policy comes into force and takes effect from April 1, 2022.
+<br /> This Cookie Policy comes into force and takes effect from April 1, 2022.

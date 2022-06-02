@@ -7,12 +7,12 @@ Soubory cookies jsou malé datové soubory umísťované do paměti vašeho proh
 Naše webové stránky používají různé typy cookies. Některé cookies, které se objevují na našich stránkách, jsou umístěny službami třetích stran.
 
 Cookies lze rozdělit **podle jejich trvanlivosti** na dvě kategorie:
-<br> **Krátkodobé (session cookies)** zůstávají ve vašem prohlížeči či zařízení do zavření vašeho prohlížeče nebo aplikace, poté se vymažou.
-<br> **Dlouhodobé (persistent cookies)** zůstávají uloženy v prohlížeči či zařízení dlouhou dobu (záleží na nastavení vašeho prohlížeče a nastavení samotných cookies) nebo dokud je ručně neodstraníte. Podle těchto cookies lze identifikovat zařízení uživatele při opětovném spuštění webového prohlížeče či aplikace. V žádném případě soubory cookies neovlivní technické používání vašeho zařízení a neobsahují viry.
+<br /> **Krátkodobé (session cookies)** zůstávají ve vašem prohlížeči či zařízení do zavření vašeho prohlížeče nebo aplikace, poté se vymažou.
+<br /> **Dlouhodobé (persistent cookies)** zůstávají uloženy v prohlížeči či zařízení dlouhou dobu (záleží na nastavení vašeho prohlížeče a nastavení samotných cookies) nebo dokud je ručně neodstraníte. Podle těchto cookies lze identifikovat zařízení uživatele při opětovném spuštění webového prohlížeče či aplikace. V žádném případě soubory cookies neovlivní technické používání vašeho zařízení a neobsahují viry.
  
 Podle toho, **kdo cookies vytváří a zpracovává** lze rozdělit cookies na dvě kategorie:
-<br> **Cookies první strany (first party cookies)** vytváří přímo webová stránka nebo skripty na stejné doméně. Nejčastěji slouží k zajištění základní funkčnosti webu či webové aplikace.
-<br> **Cookies třetích stran (third party cookies)** jsou nejčastěji cookies reklamních systémů, widgetu sociálních sítí nebo vložených videí.
+<br /> **Cookies první strany (first party cookies)** vytváří přímo webová stránka nebo skripty na stejné doméně. Nejčastěji slouží k zajištění základní funkčnosti webu či webové aplikace.
+<br /> **Cookies třetích stran (third party cookies)** jsou nejčastěji cookies reklamních systémů, widgetu sociálních sítí nebo vložených videí.
 
 ### (2) Jaké cookies využíváme?
 
@@ -47,14 +47,14 @@ Jednotlivé doby uchovávání a zpracování cookies se řídí obchodními pod
 ### (6) Kdo může mít k údajům z cookies přístup?
 
 Shromážděné cookies soubory jsou zpracovány dalšími zpracovateli: 
-<br> ● službou Google Analytics, provozovanou společností Google Inc., se sídlem 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA 
-<br> ● službou Google Adwords, provozovanou společností Google Inc., se sídlem 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA 
-<br> ● Google Tag Manager, provozovanou společností Google Inc., se sídlem 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA 
-<br> ● službou DoubleClick, provozovanou společností Google Inc., se sídlem 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA 
-<br> ● Hotjar Ltd., se sídlem DRAGONARA BUSINESS CENTRE, 5TH FLOOR, DRAGONARA ROAD, PACEVILLE St.Julians, STJ3141 Malta
-<br> ● Smartlook.com, s.r.o., IČO: 09508830, se sídlem Šumavská 524/31, Veveří, 602 00 Brno, Czech Republic
-<br> ● Facebook, společnost se sídlem 1 Hacker Way, Menlo Park, CA 94025, United States
+<br /> ● službou Google Analytics, provozovanou společností Google Inc., se sídlem 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA 
+<br /> ● službou Google Adwords, provozovanou společností Google Inc., se sídlem 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA 
+<br /> ● Google Tag Manager, provozovanou společností Google Inc., se sídlem 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA 
+<br /> ● službou DoubleClick, provozovanou společností Google Inc., se sídlem 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA 
+<br /> ● Hotjar Ltd., se sídlem DRAGONARA BUSINESS CENTRE, 5TH FLOOR, DRAGONARA ROAD, PACEVILLE St.Julians, STJ3141 Malta
+<br /> ● Smartlook.com, s.r.o., IČO: 09508830, se sídlem Šumavská 524/31, Veveří, 602 00 Brno, Czech Republic
+<br /> ● Facebook, společnost se sídlem 1 Hacker Way, Menlo Park, CA 94025, United States
 
 Cookies soubory jsou zpracovateli zpracovány v souladu s jejich podmínkami nakládání s osobními údaji.
 
-<br> Tyto zásady využívání cookies vstupují v platnost a jsou účinné od 1. dubna 2022.
+<br /> Tyto zásady využívání cookies vstupují v platnost a jsou účinné od 1. dubna 2022.

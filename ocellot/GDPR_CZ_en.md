@@ -5,8 +5,8 @@
 This document is directly related to the Ocellot Terms and Conditions issued by the company
  
 **Trisbee s.r.o.**
-<br> ID No.: 04775660
-<br> with registered office: K Červenému vrchu 678/1, Prague - Vokovice, postal code 160 00, Czech Republic.
+<br /> ID No.: 04775660
+<br /> with registered office: K Červenému vrchu 678/1, Prague - Vokovice, postal code 160 00, Czech Republic.
  
 Terms used in the Ocellot Terms and Conditions shall apply.
  
@@ -19,14 +19,14 @@ In case of any questions, you can contact Trisbee by phone at +420 774 140 044, 
 **&quot;Personal data&quot;** means any information relating to an identified or identifiable individual.
  
 Trisbee processes the following categories of personal data:
-<br> ● Identification data such as the name and surname of the Merchant, the address of the Merchant's residence or registered office, the Merchant's business ID number and VAT number, username, password.
-<br> ● Contact details such as telephone number or email address of the Merchant.
-<br> ● Technical data such as the Merchant's IP address, the type of device or the settings of the Ocellot system features used.
-<br> ● Data - the data you enter into our systems.
-<br> ● Website, device and mobile application usage data and similar data collected by automated means such as cookies and similar technologies (some data collection is subject to your prior express consent).
+<br /> ● Identification data such as the name and surname of the Merchant, the address of the Merchant's residence or registered office, the Merchant's business ID number and VAT number, username, password.
+<br /> ● Contact details such as telephone number or email address of the Merchant.
+<br /> ● Technical data such as the Merchant's IP address, the type of device or the settings of the Ocellot system features used.
+<br /> ● Data - the data you enter into our systems.
+<br /> ● Website, device and mobile application usage data and similar data collected by automated means such as cookies and similar technologies (some data collection is subject to your prior express consent).
 
 **Password information:**
-<br> ● All passwords are stored only in encrypted form without the possibility of decryption (so-called one-way encryption), so we cannot tell you what your password is. If you forget your password, your only option is to create a new one.
+<br /> ● All passwords are stored only in encrypted form without the possibility of decryption (so-called one-way encryption), so we cannot tell you what your password is. If you forget your password, your only option is to create a new one.
  
 ## (2) Who processes your personal data?
 
@@ -61,11 +61,11 @@ Please note the following. In the U.S., an "adequate level of protection" for th
 Laws regarding the protection of personal data (in particular Act No. 101/2000 Coll., on the protection of personal data, as amended, and Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC - GDPR) guarantee you rights in the field of personal data protection.
 
  ● **Right of access to data** - to the extent guaranteed by data protection legislation, you can request access to your personal data from Trisbee - information about whether we are processing your personal data, what specific data we are processing and how we are processing it.
-<br> ● **Right of rectification** - you may request Trisbee to rectify incorrect data or completion of incomplete data or provide additional consent.
-<br> ● **The right to restriction of processing** - under established statutory conditions, the data shall not be deleted, but We shall not process them (for example, under circumstances of determining legitimate interest in processing prevailing over the request to delete personal data). 
-<br> ● **The right of erasure** - whenever relevant statutory conditions are met (for example, when the consent to the personal data processing has been revoked, when the personal data processing is no longer necessary, when the legitimate interest in the processing has passed, etc). 
-<br> ● **Right to object against processing** - the right to object to the existence of a reason for the specific processing of personal data (the objection needs to be specified).
-<br> ● **The right to data portability** - the right to request Trisbee as the personal data controller to transfer personal data to another data controller if technically feasible.
+<br /> ● **Right of rectification** - you may request Trisbee to rectify incorrect data or completion of incomplete data or provide additional consent.
+<br /> ● **The right to restriction of processing** - under established statutory conditions, the data shall not be deleted, but We shall not process them (for example, under circumstances of determining legitimate interest in processing prevailing over the request to delete personal data). 
+<br /> ● **The right of erasure** - whenever relevant statutory conditions are met (for example, when the consent to the personal data processing has been revoked, when the personal data processing is no longer necessary, when the legitimate interest in the processing has passed, etc). 
+<br /> ● **Right to object against processing** - the right to object to the existence of a reason for the specific processing of personal data (the objection needs to be specified).
+<br /> ● **The right to data portability** - the right to request Trisbee as the personal data controller to transfer personal data to another data controller if technically feasible.
 
 To exercise any of the rights provided by applicable laws, you can contact Us via the contact details above - the easiest way is to send Us an email to support@trisbee.com and We will be happy to advise and assist you in exercising your rights. If you believe that We violate the law by processing your personal data, you are authorized to file a complaint with the national supervisory authority (for the Czech Republic - The Office for Personal Data Protection, Pplk. Sochora 27, 170 00 Prague 7, Czech Republic, [https://www.uoou.cz](https://www.uoou.cz/en)).
 
@@ -73,4 +73,4 @@ If you do not agree to use your data to send you newsletters, the easiest way to
  
 Trisbee may amend this Ocellot Privacy Policy at any time, doing so unilaterally by notifying you at [https://www.ocellot.eu](https://www.ocellot.eu/en) or otherwise on the Ocellot system. The amendment shall take effect in one month after the date of notification of the amendment, unless Trisbee specifies a later effective date in the notification or unless the amendment is made in your favor. Trisbee is entitled to give shorter notice (notice shorter than the period set out in the preceding sentence) of amendments made in your favor. If you do not agree to the amendment, you may terminate the Agreement at any time after notification of the amendment as of the effective date of the amendment to the Privacy Policy.
 
-<br> These Ocellot Privacy Policy enter into force and take effect on April 1, 2022.
+<br /> These Ocellot Privacy Policy enter into force and take effect on April 1, 2022.
