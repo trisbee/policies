@@ -15,7 +15,7 @@ Los presentes Términos y Condiciones constituyen parte integrante del contrato 
 
 1.2.2.
 
-**USUARIO:** cualquier personanaturalque usa los servicios de pago de **TRISBEE** y que, con el objetivo de entrar en una relación contractual, ha otorgado a **TRISBEE** información sobre su identificación y que ha aceptado los Términos y Condiciones del Usuario y/o ha cumplido con otras condiciones estipuladas por ley con respecto a los servicios de pago correspondientes.
+**USUARIO:** cualquier persona natural que usa los servicios de pago de **TRISBEE** y que, con el objetivo de entrar en una relación contractual, ha otorgado a **TRISBEE** información sobre su identificación y que ha aceptado los Términos y Condiciones del Usuario y/o ha cumplido con otras condiciones estipuladas por ley con respecto a los servicios de pago correspondientes.
 
 1.2.3.
 
