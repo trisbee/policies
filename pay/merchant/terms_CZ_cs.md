@@ -7,8 +7,6 @@ Obchodní podmínky pro Obchodníky
 **ČÁST 1 – ÚVOD A ZÁKLADNÍ POJMY**
 ----------------------------------
 
-### 
-
 ### **1.1. Uzavření smlouvy s Obchodníkem**
 
 Tyto obchodní podmínky představují základní obsah smlouvy o poskytování platebních služeb mezi Trisbee s.r.o., se sídlem Praha 6, Vokovice, K Červenému vrchu 678/1, PSČ 160 00, IČO: 04775660, zapsané v Obchodním rejstříku vedeném u Městského soudu v Praze pod spisovou značkou C 306886 (dále jen jako &quot; **Trisbee**&quot;) a obchodníkem. Smlouva je uzavřena tím, že obchodník, jako zájemce o využití služby příjímání bezhotovostních plateb (dále jen jako &quot; **Obchodník**&quot;) poskytne Trisbee své identifikační údaje, případně další nezbytné údaje, a doloží stanovené dokumenty a zároveň vysloví souhlas s těmito obchodními podmínkami, které upravují práva a povinnosti Trisbee a Obchodníka při poskytování platebních služeb (dále jen jako &quot; **Obchodní podmínky Business**&quot;), jejichž nedílnou součástí je též ceník služeb (dále jen jako &quot; **Ceník**&quot;) zveřejněný na [www.trisbee.com/cs/CZ/cenik](http://www.trisbee.com/cs/CZ/cenik).
