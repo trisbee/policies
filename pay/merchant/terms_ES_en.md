@@ -6,8 +6,6 @@ Pilot Merchant Terms and Conditions
 **SECTION 1 – INTRODUCTION AND BASIC TERMS**
 --------------------------------------------
 
-### 
-
 ### **1.1. Agreement with the Merchant**
 
 **1.1.1.** These pilot terms and conditions constitute basic agreement on the provision of payment services between Trisbee s.r.o, with its registered office at Prague 6, Vokovice, K Červeném vrchu 678/1, postal code 160 00, Commercial Registration No.: 04775660, registered in the Commercial Register maintained by the Municipal Court in Prague, file number C 306886 (hereinafter &quot; **Trisbee**&quot;) and a merchant. The agreement is deemed concluded when the merchant, as an entity interested in using of the service of cashless payment acceptance (hereinafter referred to as the &quot; **Merchant**&quot;), provides Trisbee with its identification data and/or other indispensable data and required documents and, at the same time, agrees to these pilot terms and conditions governing the rights and obligations of Trisbee and the Merchant in providing of the payment services (hereinafter referred to as the &quot; **Business Terms and Conditions**&quot;).
