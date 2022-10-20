@@ -49,7 +49,7 @@ Sección 1 – Introducción y Definiciones
 
 (En adelante referidas como los **“Métodos de Pago del Negocio”**).
 
-1.3.2. Los pagos realizados a favor del **NEGOCIO** son remitidos por **TRISBEE** a la cuenta bancaria del **NEGOCIO** el día hábil siguiente a la aceptación de la orden del pago del **USUARIO** o **CLIENTE** del **NEGOCIO. TRISBEE** no abrirá ninguna cuenta de pago para el **NEGOCIO**.
+1.3.2. Los pagos realizados a favor del **NEGOCIO** son remitidos por **TRISBEE** a la cuenta bancaria del **NEGOCIO** (el día/ from 1 to 7 work days) hábil siguiente a la aceptación de la orden del pago del **USUARIO** o **CLIENTE** del **NEGOCIO. TRISBEE** no abrirá ninguna cuenta de pago para el **NEGOCIO**.
 
 1.3.3. En caso el **NEGOCIO** cumpla ciertas condiciones establecidas por **TRISBEE**, se le podrá dar acceso a una aplicación web a través de la cual podrá monitorear los pagos realizados a su favor, si es que el servicio se encuentra disponible (“**Panel del Negocio**”). Las condiciones de acceso al Panel del Negocio y los términos de uso de dicho servicio se encuentran publicados en [www.trisbee.pe](http://www.trisbee.pe)
 
@@ -71,7 +71,7 @@ Sección 1 – Introducción y Definiciones
 
 *   Realizar operaciones vinculadas a la utilización de ingeniería inversa u otras intervenciones en las funciones de los Métodos de Pago del Negocio, así como de asistir a otra u otras personas en las intervenciones mencionadas.
 *   Usar los Métodos de Pago del Negocio violando los Términos y Condiciones del Negocio, insertando información fraudulenta en el Método de Pago del Negocio o su sistema operativo.
-*   Cualquier intento de instalar o usar los Métodos de Pago del Negocio en cualquier dispositivo en el cual la imposibilidad de instalar softwares ilegales haya sido maliciosamente manipulada.
+*   Cualquier intento de instalar o usar los Métodos de Pago del Negocio en cualquier dispositivo en el cual la imposibilidad de instalar softwares legales haya sido maliciosamente manipulada.
 *   Recopilar información y/o data de los Métodos de Pago del Negocio o del Sistema de **TRISBEE** o intentar desencriptar cualquier transmisión de o para los sistemas operativos de los Métodos de Pago del Negocio.
 *   Subir cualquier contenido que sea o pueda ser considerado violento, amenazante, racista, que viole la confidencialidad o privacidad, discriminatorio, difamatorio, abusivo, ilegal, pornográfico, obsceno, indecente, profano o que pueda causar problemas o molestias a terceros.
 
