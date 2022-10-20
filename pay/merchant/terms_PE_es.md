@@ -388,7 +388,7 @@ No obstante lo dispuesto en el numeral 3.4.1, el **NEGOCIO** elegirá entre las 
 
 Los Términos y Condiciones del Negocio están redactados en castellano.
 
-3.5. **Confirmación de no ser una “Persona Expuesta Políticamente**
+3.5. **Confirmación de no ser una Persona Expuesta Políticamente**
 --------------------------------------------------------------------
 
 3.5.1.
