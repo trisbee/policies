@@ -158,13 +158,13 @@ El **NEGOCIO** reconoce que, tras la notificación del registro de pago a su fav
 
 2.4.6.
 
-Si se verifica la transacción de pago y se puede concluir que no es una transacción sospechosa o riesgosa, **TRISBEE** procesa la orden de pago del **CLIENTE** o del **USUARIO** y envía el monto correspondiente a favor de la cuenta bancaria (verificada) del **NEGOCIO** a más tardar el siguiente día hábil de conformidad con el numeral 2.7. De lo contrario, es decir, si la verificación sugiere que la transacción de pago podría ser sospechosa o riesgosa, **TRISBEE** procederá de acuerdo con el numeral 2.5.
+Si se verifica la transacción de pago y se puede concluir que no es una transacción sospechosa o riesgosa, **TRISBEE** procesa la orden de pago del **CLIENTE** o del **USUARIO** y envía el monto correspondiente a favor de la cuenta bancaria (verificada) del **NEGOCIO** a más tardar (el siguiente día hábil/from 1 to 7 work days) de conformidad con el numeral 2.7. De lo contrario, es decir, si la verificación sugiere que la transacción de pago podría ser sospechosa o riesgosa, **TRISBEE** procederá de acuerdo con el numeral 2.5.
 
 **TRISBEE** realizará los esfuerzos razonables para asegurar el cumplimiento del plazo antes indicado. No obstante, el **NEGOCIO** entiende y acepta que, por determinados factores, en su mayoría externos a **TRISBEE**, se pueden originar retrasos, motivo por el cual el **NEGOCIO** exime a **TRISBEE** de toda responsabilidad por los inconvenientes o perjuicios derivados, salvo en casos de dolo o culpa grave de **TRISBEE**.
 
 2.4.7
 
-**El CLIENTE** y/o **USUARIO** es el exclusivo responsable por las órdenes de pago y sus consecuencias. **TRISBEE** no verificará la causa u obligación que originó la instrucción de pago, ni las demás circunstancias relativas a la instrucción de pago.
+**El CLIENTE** y/o **USUARIO** es el exclusivo responsable por las órdenes de pago y sus consecuencias. **TRISBEE** no verificará la causa u obligación que originó la instrucción de pago, ni las demás circunstancias relativas a la instrucción de pago (unless there is a reasonble suspicion that the payment may be fraudulent and/or risky).
 
 En ese orden de ideas, **TRISBEE** no será responsable ni garantizará el cumplimiento de las obligaciones que hubiesen asumido los **CLIENTES** y/o **USUARIOS** con los **NEGOCIOS** en relación con los pagos a recibir a través de los Métodos de Pago del Negocio. El **CLIENTE** y/o **USUARIO** reconoce y acepta que al realizar transacciones con los **NEGOCIOS** lo hace por su propia voluntad, prestando su consentimiento libremente y bajo su propio riesgo y responsabilidad.
 
@@ -259,16 +259,16 @@ Una solicitud de cancelación de una transacción de pago solo puede presentarse
 
 2.7.1.
 
-**TRISBEE** podrá cobrar una comisión por las transacciones que el **NEGOCIO** realice a cambio de proveerle los  Servicios.
+**TRISBEE** podrá cobrar una comisión por las transacciones que el **NEGOCIO** realice a cambio de proveerle los Servicios. (You can find more information regarding our fees on this link.)
 
-2.7.2.
+(please remove this followign provision 2.7.2. from here and create new page on our website with Price list
 
 Las comisiones funcionarán de la siguiente manera:
 
 *   Por transacciones inferiores a S/ 15.00, el **NEGOCIO** no pagará comisión alguna.
 *   Por transacciones superiores a S/ 15.00, el **NEGOCIO** pagará una comisión fija (_flat fee_) de S/ 1.00 (+IGV).
 
-Esto significa que el **NEGOCIO** pagará la misma comisión por una transacción de S/ 15.00, que por una de S/ 250.00.
+Esto significa que el **NEGOCIO** pagará la misma comisión por una transacción de S/ 15.00, que por una de S/ 250.00.)
 
 2.8.Otras obligaciones del NEGOCIO
 ----------------------------------
@@ -319,7 +319,7 @@ Por fraude intencional.
 
 (ii)
 
-Por conducta negligente, que incluye, entre otros, la seguridad insuficiente del dispositivo en el que está instalada la Aplicación del **NEGOCIO** para que un tercero no pueda acceder a información sobre transacciones de pago registradas en la Aplicación del **NEGOCIO** sin la autorización otorgada por el **NEGOCIO**.
+Por conducta negligente, que incluye, entre otros, la seguridad insuficiente del dispositivo en el que está instalada la Aplicación del **NEGOCIO** para que un tercero pueda acceder a información sobre transacciones de pago registradas en la Aplicación del **NEGOCIO** sin la autorización otorgada por el **NEGOCIO**.
 
 (iii)
 
@@ -388,12 +388,12 @@ No obstante lo dispuesto en el numeral 3.4.1, el **NEGOCIO** elegirá entre las 
 
 Los Términos y Condiciones del Negocio están redactados en castellano.
 
-3.5. **Confirmación de no ser una “persona políticamente expuesta”**
+3.5. **Confirmación de no ser una “Persona Expuesta Políticamente**
 --------------------------------------------------------------------
 
 3.5.1.
 
-Al aceptar estos Términos y Condiciones del Negocio, el **NEGOCIO** confirma que no es una “persona políticamente expuesta”, entendida como una persona natural que ocupa u ocupó un cargo público significativo de importancia nacional o regional, así como las personas estrechamente relacionadas o relacionadas con dicha persona.
+Al aceptar estos Términos y Condiciones del Negocio, el **NEGOCIO** confirma que no es una “Persona Expuesta Políticamente", entendida como persona natural, nacional o extranjera, que cumple o que en los últimos cinco (5) años ha cumplido funciones públicas destacadas o funciones prominentes en una organización internacional, sea en el territorio nacional o extranjero y cuya circunstancias financieras puedan ser objeto de un interés. Asimismo, se considera como PEP al colaborador directo de la máxima autoridad de la institución.
 
 3.5.2.
 
