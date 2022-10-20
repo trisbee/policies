@@ -24,25 +24,22 @@ Los presentes Términos y Condiciones constituyen parte integrante del contrato 
 
 1.3.1. **TRISBEE** brinda al **USUARIO** los siguientes servicios:
 
-      **a) Remisión de pagos**
+**a) Remisión de pagos**
 
-        *   Utilizando la Aplicación móvil o web (a través de la red móvil pública); o
+     *   Utilizando la Aplicación móvil o web (a través de la red móvil pública); o
 
-        *   Accediendo al servidor de **TRISBEE** a través de un Interfaz de programación (“**API”**)
+     *   Accediendo al servidor de **TRISBEE** a través de un Interfaz de programación (“**API”**)
 
+El **USUARIO** puede remitir pagos al **NEGOCIO** por la compra de bienes y servicios a través de **TRISBEE**. La remisión de pagos solo es posible dentro del         sistema de pago **TRISBEE**, por ejemplo, el pago no se puede enviar a menos que sea un pago a favor de un **NEGOCIO** registrado.
 
-      El **USUARIO** puede remitir pagos al **NEGOCIO** por la compra de bienes y servicios a través de **TRISBEE**. La remisión de pagos solo es posible dentro del         sistema de pago **TRISBEE**, por ejemplo, el pago no se puede enviar a menos que sea un pago a favor de un **NEGOCIO** registrado.
+**b) Gestión de la Cuenta de pago**: El **USUARIO** puede transferir fondos a la Cuenta de Pago (by making cash top-up at a designated cash agent), desde su cuenta bancaria de una institución bancaria de confianza mediante transferencia bancaria, transferencia desde billetera de dinero electrónico, o mediante una tarjeta (débito o crédito)). Los fondos guardados en la Cuenta de Pago pueden ser utilizados por el **USUARIO** para remitir pagos de bienes o servicios a los **NEGOCIOS**.
 
-      **b) Gestión de la cuenta de pago**: El **USUARIO** puede transferir fondos a la Cuenta de Pago desde su cuenta bancaria de una institución bancaria de confianza       mediante transferencia bancaria, transferencia desde billetera de dinero electrónico, o mediante una tarjeta (débito o crédito). Los fondos guardados en la             Cuenta de Pago pueden ser utilizados por el **USUARIO** para remitir pagos de bienes o servicios a los **NEGOCIOS**.1.3.2.
-
-1.3.2. En el supuesto que el **USUARIO** —con una Cuenta de Pago con **TRISBEE**— y/o el **CLIENTE** del **NEGOCIO** realicen su pago al **NEGOCIO** a través de la Aplicación o la API, **TRISBEE** no les proporcionará ningún servicio de pago. En este caso, la Aplicación o la API sirven solo como terminal de pago del **NEGOCIO** y, por lo tanto, no se constituye un servicio de pago para el **CLIENTE** y/o el **USUARIO** del **NEGOCIO**.
+1.3.2. En el supuesto que el **USUARIO** —con una Cuenta de Pago con **TRISBEE**— y/o el **CLIENTE** del **NEGOCIO** realicen su pago al **NEGOCIO** a través de la Aplicación o la API, la Aplicación o la API sirven solo como terminal de pago del **NEGOCIO**.
 
 Sección 2 – Derechos y Obligaciones 
 ------------------------------------
 
-2.1. **Condiciones de uso de la Aplicación por el USUARIO**
-
-
+2.1. Condiciones de uso de la Aplicación por el USUARIO
 --------------------------------------------------------------
 
 2.1.1. **TRISBEE** desarrolla y opera la Aplicación, a través de la cual el **USUARIO** puede realizar transacciones de pago en un **NEGOCIO** registrado, pagar a otros contactos registrados en **TRISBEE** o pagar cualquier otro servicio ofrecido en las plataformas de **TRISBEE**. En el caso de pagos a otros usuarios, dichas órdenes no constituyen transferencias sino pagos que resultan de la contraprestación por la provisión de bienes y/o servicios.
@@ -69,10 +66,10 @@ Sección 2 – Derechos y Obligaciones 
 
 2.1.9. La Aplicación está protegida principalmente por un código PIN. El código PIN utilizado para abrir la Aplicación es seleccionado por el **USUARIO** durante la activación de la Aplicación de acuerdo con el numeral 2.2 de estos Términos y Condiciones del Usuario. De igual manera, se recomienda al **USUARIO** que active la función de verificación biométrica en su dispositivo para abrir la Aplicación (Touch ID, Face ID). El **USUARIO** es responsable de proteger su dispositivo móvil y de activar todas las funciones de seguridad para el acceso al dispositivo y a la Aplicación, de modo de que ningún tercero pueda acceder a la Aplicación sin el consentimiento del **USUARIO**. El incumplimiento de estas instrucciones impactará significativamente la resolución de cualquier queja relacionada a algún servicio de pago o transacción específica que podría presentar el **USUARIO**.
 
-2.2.**Instalación de la Aplicación y Condiciones para el uso del servicio de pago de TRISBEE**
+2.2. Instalación de la Aplicación y Condiciones para el uso del servicio de pago de TRISBEE
 ----------------------------------------------------------------------------------------------
 
-2.2.1. **TRISBEE** permite la descarga de la Aplicación a través de Google Play (para Android) y App Store (para iOS). La instalación de la Aplicación está condicionada a la posesión de un dispositivo móvil con un sistema operativo compatible, una tarjeta SIM de un operador de telefonía móvil que preste servicios dentro del Perú y conexión a Internet. El **USUARIO** deberá tener al menos 18 años y deberá tener una cuenta bancaria abierta a su nombre en una entidad financiera de confianza.
+2.2.1. **TRISBEE** permite la descarga de la Aplicación a través de Google Play (para Android) y App Store (para iOS). La instalación de la Aplicación está condicionada a la posesión de un dispositivo móvil con un sistema operativo compatible, una tarjeta SIM de un operador de telefonía móvil que preste servicios dentro del Perú y conexión a Internet. El **USUARIO** deberá tener al menos 18 años.
 
 2.2.2. Al instalar la Aplicación por primera vez, el **USUARIO** está obligado a ingresar los datos de identificación básicos requeridos, (por ejemplo, el país donde el **USUARIO** pretende usar la Aplicación o la moneda de los pagos a efectuar). Para completar la instalación de la Aplicación, el **USUARIO** deberá confirmar explícitamente que ha leído y está de acuerdo con estos Términos y Condiciones del Usuario. El **USUARIO** también deberá confirmar que ha leído la Política de Privacidad. El **USUARIO** puede decidir si da su consentimiento para enviarle comunicaciones comerciales y boletines informativos de **TRISBEE**. Al realizar los pasos previamente señalados, la Aplicación se activa para la prestación de los servicios en favor de los Usuarios.
 
@@ -80,7 +77,7 @@ Sección 2 – Derechos y Obligaciones 
 
 2.2.4. El **USUARIO** está obligado a recargar su Cuenta de Pago con al menos una cantidad que permita la realización de la siguiente transacción que tenga prevista realizar o con fondos en cualquier monto superior. La Aplicación no permite ingresar una orden de pago por un monto que exceda el saldo de la Cuenta de Pago. La recarga de una Cuenta de pago se describe en el numeral 2.4. 
 
-2.2.5. **TRISBEE** podrá ofrecer “cashback” (devolución de dinero) al **USUARIO** por el pago que realice en los **NEGOCIOS** registrados. Este cashback está sujeto a cambios y/o modificaciones. En cualquier caso, **TRISBEE** ofrecerá un 5% de cashback al **USUARIO** durante los diez (10) primeros meses de operaciones desde el lanzamiento al mercado de **TRISBEE.** Para el **USUARIO** que se registre en **TRISBEE** e invite a dos (2) contactos (estos también registrándose completamente), se le dará un cashback del 10% en todos sus pagos a **NEGOCIOS** registrados con **TRISBEE** durante los primeros tres (3) meses. Los seis (6) meses restantes volverían al cashback del 5%. 
+2.2.5. **TRISBEE** podrá ofrecer “cashback” (devolución de dinero) al **USUARIO** por el pago que realice en los **NEGOCIOS** registrados. Este cashback está sujeto a cambios y/o modificaciones. (Current conditions regarding cashback are published on our website.)
 
 2.2.6. El **USUARIO** debidamenteregistrado y con la Aplicación operativa, recibirá cashback en todos sus pagos realizados a **NEGOCIOS**. Dicho cashback se irá acumulando durante el mes sin que el **USUARIO** pueda usarlo, aunque sí podrá ver la cantidad de cashback acumulado en su Cuenta de Pago **TRISBEE**. El día 5 de cada mes, el **USUARIO** recibirá el total del cashback acumulado del mes anterior y tendrá plena disponibilidad de este importe. Por ejemplo, el 5 de julio de 2021, el **USUARIO** recibiría el total del cashback acumulado durante todo el mes de junio y podrá disponer de estos flujos libremente.
 
@@ -88,18 +85,14 @@ Sección 2 – Derechos y Obligaciones 
 
 2.2.8. En caso de olvido o pérdida de la contraseña vinculada con la Aplicación, el **USUARIO** podrá recuperar su contraseña reiniciando el proceso de validación, en el cual se enviará al **USUARIO** un código seguro a través de SMS para que pueda iniciar sesión nuevamente y cambiar su contraseña.
 
-2.3. **Identificación del USUARIO**
+2.3. Identificación del USUARIO
 ----------------------------------
 
 2.3.1. **TRISBEE** requiere información sobre el **USUARIO** y sobre las transacciones que realizaría a través de **TRISBEE**, la cual es procesada para cumplir con las obligaciones contractuales y legales existentes. Para dichos efectos, el **USUARIO** deberá proporcionar a **TRISBEE** datos e información válida, exacta, precisa y verdadera. Para más información sobre el tratamiento de los datos personales del **USUARIO**, consultar nuestra Política de Privacidad. El **USUARIO** garantiza y responde, en cualquier caso, por la veracidad, exactitud, integridad, vigencia y autenticidad de los datos e información proporcionada a **TRISBEE**.
 
 2.3.2. La prestación del servicio de pago al **USUARIO** está sujeta a la condición legal de identificación de este. Por lo tanto, **TRISBEE** no puede proporcionar los servicios de pago requeridos al **USUARIO** sin la previa verificación de su identidad y de otros datos legales relacionados.
 
-2.3.3. La identificación realizada por **TRISBEE** consiste en:
-
-(i) Verificar la identidad del **USUARIO**, en base a los datos comunicados por el **USUARIO** en los documentos de identidad presentados. La verificación de identidad     se realiza en base a los datos comunicados por el **USUARIO** en los documentos de identidad presentados y, al mismo tiempo, en base a la información pública           disponible sobre dicho **USUARIO**.
-
-(ii) Verificar la existencia de una cuenta bancaria a nombre del **USUARIO**.
+2.3.3. La identificación realizada por **TRISBEE** consiste en verificar la identidad del **USUARIO**, en base a los datos comunicados por el **USUARIO** en los documentos de identidad presentados. La verificación de identidad se realiza en base a los datos comunicados por el **USUARIO** en los documentos de identidad presentados y, al mismo tiempo, en base a la información pública disponible sobre dicho **USUARIO**.
 
 2.3.4. **TRISBEE** guiará al **USUARIO** a través de todo el procedimiento de identificación, ya sea mediante la Aplicación o mediante mensajes de correo electrónico que contengan instrucciones y pautas relevantes. En caso de cualquier confusión con respecto al procedimiento de identificación o al suministro de más información y/o materiales, el **USUARIO** puede utilizar el servicio de atención al cliente de **TRISBEE**; los contactos se enumeran en la Aplicación y en www.trisbee.pe.
 
@@ -121,7 +114,7 @@ Sección 2 – Derechos y Obligaciones 
 
 **TRISBEE** notificará al **USUARIO** los motivos de su desaprobación, la terminación de los servicios de pago, el bloqueo temporal o la restricción de la prestación de los servicios de pago, o la negativa a realizar una transacción de pago específica de tal manera y en la medida que proteja el contenido del procedimiento de verificación de **TRISBEE** y con el fin de garantizar su eficacia.
 
-2.4.**Recarga de la Cuenta de Pago y ejecución de transacciones en la Aplicación**
+2.4. Recarga de la Cuenta de Pago y ejecución de transacciones en la Aplicación
 ----------------------------------------------------------------------------------
 
 2.4.1. Para recargar la Cuenta de Pago utilizada para los pagos ingresados por el **USUARIO** en la Aplicación, el **USUARIO** primero debe configurar el método de recarga en la Aplicación. El **USUARIO** puede recargar la Cuenta de Pago de la siguiente manera:
@@ -144,13 +137,13 @@ En todos los casos, el **USUARIO** realiza todos los pasos de recarga de la Cuen
 
 2.4.6. Después de que el **USUARIO** ingresa una orden para realizar un pago en la Aplicación de Usuario, la transacción se registra en el sistema **TRISBEE**. La aceptación exitosa de la orden de pago se confirma al **USUARIO** en la Aplicación y se le entrega un código de transacción único asignado.
 
-2.4.7. Tras la aceptación de una orden de pago a su favor, **TRISBEE** siempre verificará si se trata de una transacción de pago sospechosa y verificará, en base a la información disponible sobre el **USUARIO** y el **NEGOCIO,** si se trata de una transacción de riesgo en términos de posible fraude. Si se verifica la transacción de pago y se puede concluir que no es una transacción sospechosa o riesgosa, **TRISBEE** procesa la orden de pago del **USUARIO** y envía el monto correspondiente a favor de la cuenta bancaria (verificada) del **NEGOCIO** a más tardar el siguiente día hábil de conformidad con el numeral 2.4.8. De lo contrario, es decir, si la verificación sugiere que la transacción de pago podría ser sospechosa o riesgosa, **TRISBEE** procederá de acuerdo con el numeral 2.5. **TRISBEE** realizará los esfuerzos razonables para asegurar el cumplimiento del plazo antes indicado. No obstante, el **USUARIO** entiende y acepta que, por determinados factores, en su mayoría externos a **TRISBEE**, se pueden originar retrasos, motivo por el cual el **USUARIO** exime a **TRISBEE** de toda responsabilidad por los inconvenientes o perjuicios derivados, salvo en casos de dolo o culpa grave de **TRISBEE**.
+2.4.7. Tras la aceptación de una orden de pago a su favor, **TRISBEE** siempre verificará si se trata de una transacción de pago sospechosa y verificará, en base a la información disponible sobre el **USUARIO** y el **NEGOCIO,** si se trata de una transacción de riesgo en términos de posible fraude. Si se verifica la transacción de pago y se puede concluir que no es una transacción sospechosa o riesgosa, **TRISBEE** procesa la orden de pago del **USUARIO** y envía el monto correspondiente a favor de la cuenta bancaria (verificada) del **NEGOCIO** a más tardar (el siguiente día hábil/ from 1 to 7 working days) de conformidad con el numeral 2.4.8. De lo contrario, es decir, si la verificación sugiere que la transacción de pago podría ser sospechosa o riesgosa, **TRISBEE** procederá de acuerdo con el numeral 2.5. **TRISBEE** realizará los esfuerzos razonables para asegurar el cumplimiento del plazo antes indicado. No obstante, el **USUARIO** entiende y acepta que, por determinados factores, en su mayoría externos a **TRISBEE**, se pueden originar retrasos, motivo por el cual el **USUARIO** exime a **TRISBEE** de toda responsabilidad por los inconvenientes o perjuicios derivados, salvo en casos de dolo o culpa grave de **TRISBEE**.
 
-2.4.8. El **NEGOCIO** siempre será el beneficiario a quien el **USUARIO** paga a través de la Aplicación por los bienes o servicios ofrecidos. Una vez que el **USUARIO** ingresa con éxito una orden de pago en la Aplicación, el **NEGOCIO** es notificado mediante la Aplicación de Aceptación de Pago de **TRISBEE** (la "Aplicación del Negocio") del pago registrado en el monto ingresado. El **NEGOCIO** recibe el mismo código de transacción único que identifica la orden de pago en la aplicación del **USUARIO**. **TRISBEE** envía el pago al **NEGOCIO** a más tardar el siguiente día hábil después de que el **USUARIO** haya ingresado correctamente la orden de pago.
+2.4.8. El **NEGOCIO** siempre será el beneficiario a quien el **USUARIO** paga a través de la Aplicación por los bienes o servicios ofrecidos. Una vez que el **USUARIO** ingresa con éxito una orden de pago en la Aplicación, el **NEGOCIO** es notificado mediante la Aplicación de Aceptación de Pago de **TRISBEE** (la "Aplicación del Negocio") del pago registrado en el monto ingresado. El **NEGOCIO** recibe el mismo código de transacción único que identifica la orden de pago en la aplicación del **USUARIO**. **TRISBEE** envía el pago al **NEGOCIO** a más tardar (el siguiente día hábil / from 1 to 7 working days) después de que el **USUARIO** haya ingresado correctamente la orden de pago.
 
-2.4.9. El **USUARIO** es el exclusivo responsable por las órdenes de pago y sus consecuencias. **TRISBEE** no verificará la causa u obligación que originó la instrucción de pago, ni las demás circunstancias relativas a la instrucción de pago. En ese orden de ideas, **TRISBEE** no será responsable ni garantizará el cumplimiento de las obligaciones que hubiesen asumido los **USUARIOS** con los **NEGOCIOS** en relación con los pagos a efectuar a través de **TRISBEE**. El **USUARIO** reconoce y acepta que al realizar transacciones con los **NEGOCIOS** lo hace por su propia voluntad, prestando su consentimiento libremente y bajo su propio riesgo y responsabilidad.
+2.4.9. El **USUARIO** es el exclusivo responsable por las órdenes de pago y sus consecuencias. **TRISBEE** no verificará la causa u obligación que originó la instrucción de pago, ni las demás circunstancias relativas a la instrucción de pago (unless there is reasonable suspicion that the transaction is fraudulent and/or risky). En ese orden de ideas, **TRISBEE** no será responsable ni garantizará el cumplimiento de las obligaciones que hubiesen asumido los **USUARIOS** con los **NEGOCIOS** en relación con los pagos a efectuar a través de **TRISBEE**. El **USUARIO** reconoce y acepta que al realizar transacciones con los **NEGOCIOS** lo hace por su propia voluntad, prestando su consentimiento libremente y bajo su propio riesgo y responsabilidad.
 
-2.5.Transacciones sospechosas y riesgosas
+2.5. Transacciones sospechosas y riesgosas
 -----------------------------------------
 
 2.5.1. En el caso de que **TRISBEE**, en base en la verificación de una transacción de pago realizada por el **USUARIO** a través de la Aplicación de conformidad con el numeral 2.4.7., concluye que la transacción de pago es sospechosa y/ o riesgosa (si existe una sospecha justificada de fraude):
@@ -169,7 +162,7 @@ En todos los casos, el **USUARIO** realiza todos los pasos de recarga de la Cuen
 
 (ii) rechazar la instrucción de pago en cuestión si, con base en la información y los documentos de respaldo proporcionados, **TRISBEE** concluye que la transacción de pago es sospechosa y/o riesgosa. El rechazo de la transacción por parte de **TRISBEE** se notificará sin demora al **USUARIO** y/o al **NEGOCIO**, siendo que el pago no se remitirá a este último.
 
-2.6. **Quejas sobre órdenes de pago ingresadas o pagos recibidos, cancelaciones y reembolsos**
+2.6. Quejas sobre órdenes de pago ingresadas o pagos recibidos, cancelaciones y reembolsos
 ---------------------------------------------------------------------------------------------
 
 2.6.1. **TRISBEE** considera todas las órdenes de pago ingresadas en la Aplicación como las órdenes ingresadas por el **USUARIO** o una persona autorizada por este, a menos que el **USUARIO** notifique específicamente a **TRISBEE** que este no sea el caso. En efecto, el **USUARIO** se compromete a notificar a **TRISBEE** en forma inmediata y por medio idóneo, de cualquier uso no autorizado de su Cuenta de Pago, así como del ingreso o de intentos de ingreso por terceros no autorizados a la misma.
