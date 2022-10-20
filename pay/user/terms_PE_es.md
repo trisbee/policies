@@ -261,10 +261,10 @@ SECCIÓN 3 – OTROS ACUERDOS
 
 3.4.3. Los Términos y Condiciones del Usuario están redactados en castellano.
 
-3.5. Confirmación de no ser una “persona políticamente expuesta”
+3.5. Confirmación de no ser una “persona expuesta políticamente”
 ---------------------------------------------------------------
 
-3.5.1. Al aceptar estos Términos y Condiciones del Usuario, el **USUARIO** confirma que no es una “persona políticamente expuesta”, entendida como una persona natural que ocupa u ocupó un cargo público significativo de importancia nacional o regional, así como las personas estrechamente relacionadas o relacionadas con dicha persona.
+3.5.1. Al aceptar estos Términos y Condiciones del Usuario, el **USUARIO** confirma que no es una “persona políticamente expuesta”, entendida como la persona natural, nacionales o extranjera, que cumple o que en los últimos cinco (5) años ha cumplido funciones públicas destacadas o funciones prominentes en una organización internacional, sea en el territorio nacional o extranjero y cuya circunstancias financieras puedan ser objeto de un interés. Asimismo, se considera como PEP al colaborador directo de la máxima autoridad de la institución.
 
 3.5.2. Si el **USUARIO** no está seguro de si puede utilizar los servicios de **TRISBEE** y en qué condiciones, puede comunicarse con **TRISBEE** en cualquier momento, y verificar sus circunstancias juntamente con **TRISBEE.**
 
