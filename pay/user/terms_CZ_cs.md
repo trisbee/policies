@@ -6,36 +6,48 @@ Obchodní podmínky pro Uživatele
 ------------------------------
 ## 1.1. Uzavření smlouvy s Uživatelem
 
-Tyto obchodní podmínky představují základní obsah smlouvy o poskytování platebních a jiných služeb mezi Trisbee s.r.o., se sídlem Praha 6, Vokovice, K Červenému vrchu 678/1, PSČ 160 00, Česká republika, IČO: 04775660, zapsané v Obchodním rejstříku vedeném u Městského soudu v Praze pod spisovou značkou C 306886 (dále jen jako “Trisbee”) a uživatelem. Smlouva je uzavřena tím, že uživatel využije některou ze služeb poskytovaných Trisbee (dále jen jako “Uživatel”). Práva a povinnosti Trisbee a Uživatele při poskytování služeb se řídí těmito obchodními podmínkami (dále jen jako “Obchodní podmínky”).
+Tyto obchodní podmínky představují základní obsah smlouvy o poskytování platebních a jiných služeb mezi Trisbee s.r.o., se sídlem Praha 6, Vokovice, K Červenému vrchu 678/1, PSČ 160 00, Česká republika, IČO: 04775660, zapsané v Obchodním rejstříku vedeném u Městského soudu v Praze pod spisovou značkou C 306886 (dále jen jako **“Trisbee”**) a uživatelem. Smlouva je uzavřena tím, že uživatel využije některou ze služeb poskytovaných Trisbee (dále jen jako **“Uživatel”**). Práva a povinnosti Trisbee a Uživatele při poskytování služeb se řídí těmito obchodními podmínkami (dále jen jako **“Obchodní podmínky”**).
 
 ## 1.2. Základní pojmy
-1.2.1.	“Trisbee” je společností poskytující služby podle těchto Obchodních podmínek. Trisbee je současně řádně registrovaným poskytovatelem platebních služeb malého rozsahu na základě povolení uděleného Českou národní bankou, se sídlem Na Příkopě 28, 115 03 Praha 1, Česká republika. Česká národní banka je orgánem dohlížejícím nad činností Trisbee při poskytování platebních služeb. 
-1.2.2.	“Registrovaným Uživatelem” se rozumí každý, kdo využívá služby poskytované Trisbee a za účelem uzavření smluvního vztahu poskytl Trisbee své identifikační údaje, vyjádřil souhlas s těmito Obchodními podmínkami, případně splnil další podmínky pro poskytování zvolené služby a Trisbee Uživatele registrovalo k využívání služeb.
-1.2.3.	“Identifikovaným Uživatelem” se rozumí každý, kdo využívá platební nebo jiné služby poskytované Trisbee a za účelem uzavření smluvního vztahu poskytl Trisbee své identifikační údaje, vyjádřil souhlas s těmito Obchodními podmínkami, případně splnil další podmínky stanovené zákonem pro poskytování platebnízvolené služby a, současně, Trisbee Uživatele pro poskytování platebníchpoptávaných služeb ověřilo, a schválilo a registrovalo.
-1.2.4.	“Klientem Obchodníka” se rozumí každý, kdo prostřednictvím platebního systému Trisbee, a to pomocí mobilní nebo webové aplikace Trisbee (dále jen jako “Aplikace”) nebo s využitím přístupu k serveru provozovatele přes rozhraní pro programování (dále jen jako “API”), platí Obchodníkovi za zboží a služby, ale jinak aktivně nevyužívá jiné služby poskytované Trisbee. Aplikace zde slouží jako platební terminál pro Obchodníka. Na Klienta Obchodníka se vztahují tyto Obchodní podmínky přiměřeně.
-1.2.5.	“Uživatelem” se rozumí každý, kdo využívá platební nebo jiné služby poskytované Trisbee, s registrací i bez registrace. Uživatelem se tedy rozumí jak Klient Obchodníka, tak Registrovaný a Identifikovaný Uživatel.
-1.2.6.	“Platebním účtem” se rozumí virtuální účet vedený pro IdentifikovanéhoRegistrovaného Uživatele ze strany Trisbee. Na Platební účet si IdentifikovanýRegistrovaný Uživatel může převádět finanční prostředky ze svého bankovního účtu vedeného u bankovního ústavu formou bankovního převodu anebo prostřednictvím (debetní nebo kreditní) platební karty (dostupnost této služby se může v čase měnit). Finanční prostředky vedené na Platebním účtu může IdentifikovanýRegistrovaný Uživatel používat k odesílání plateb Obchodníkům za zboží nebo služby.
-1.2.7.	“Aplikací” se rozumí mobilní nebo webová aplikace Trisbee sloužící pro odesílání plateb. Mobilní aplikace je ke stažení na App Store nebo Google Play. Webová aplikace je přístupná na pay.trisbee.com nebo na trisbee.app. 
-1.2.8.	“Obchodníkem” se rozumí subjekt, který s Trisbee uzavřel smlouvu o poskytování služeb spočívajících v přijímání bezhotovostních plateb od Uživatelů a dalších služeb a splňuje veškeré smluvní a zákonné podmínky pro poskytování služeb.
+**1.2.1.**	**“Trisbee”** je společností poskytující služby podle těchto Obchodních podmínek. Trisbee je současně řádně registrovaným poskytovatelem platebních služeb malého rozsahu na základě povolení uděleného Českou národní bankou, se sídlem Na Příkopě 28, 115 03 Praha 1, Česká republika. Česká národní banka je orgánem dohlížejícím nad činností Trisbee při poskytování platebních služeb.
+
+**1.2.2.**	**“Registrovaným Uživatelem”** se rozumí **každý, kdo využívá služby poskytované Trisbee** a za účelem uzavření smluvního vztahu poskytl Trisbee své identifikační údaje, vyjádřil souhlas s těmito Obchodními podmínkami, případně splnil další podmínky pro poskytování zvolené služby a Trisbee Uživatele registrovalo k využívání služeb.
+
+**1.2.3.**	**“Identifikovaným Uživatelem”** se rozumí **každý, kdo využívá platební nebo jiné služby poskytované Trisbee** a za účelem uzavření smluvního vztahu poskytl Trisbee své identifikační údaje, vyjádřil souhlas s těmito Obchodními podmínkami, splnil další podmínky stanovené zákonem pro poskytování platební služby a, současně, Trisbee Uživatele pro poskytování platebních služeb ověřilo, schválilo a registrovalo.
+
+**1.2.4.**	**“Klientem Obchodníka”** se rozumí **každý, kdo prostřednictvím platebního systému Trisbee**, a to pomocí mobilní nebo webové aplikace Trisbee (dále jen jako **“Aplikace”**) nebo s využitím přístupu k serveru provozovatele přes rozhraní pro programování (dále jen jako **“API”**), **platí Obchodníkovi** za zboží a služby, ale jinak aktivně nevyužívá jiné služby poskytované Trisbee. Aplikace zde slouží jako platební terminál pro Obchodníka. Na Klienta Obchodníka se vztahují tyto Obchodní podmínky přiměřeně.
+
+**1.2.5.**	**“Uživatelem”** se rozumí **každý, kdo využívá platební nebo jiné služby poskytované Trisbee**, s registrací i bez registrace. Uživatelem se tedy rozumí jak **Klient Obchodníka**, tak **Registrovaný a Identifikovaný Uživatel**.
+
+**1.2.6.**	**“Platebním účtem”** se rozumí virtuální účet vedený pro Identifikovaného Uživatele ze strany Trisbee. Na Platební účet si Identifikovaný Uživatel může převádět finanční prostředky ze svého bankovního účtu vedeného u bankovního ústavu formou bankovního převodu anebo prostřednictvím (debetní nebo kreditní) platební karty (dostupnost této služby se může v čase měnit). Finanční prostředky vedené na Platebním účtu může Identifikovaný Uživatel používat k odesílání plateb Obchodníkům za zboží nebo služby.
+
+**1.2.7.**	**“Aplikací”** se rozumí mobilní nebo webová aplikace Trisbee sloužící pro odesílání plateb. Mobilní aplikace je ke stažení na App Store nebo Google Play. Webová aplikace je přístupná na pay.trisbee.com nebo na trisbee.app.  
+
+**1.2.8.**	**“Obchodníkem”** se rozumí **subjekt, který s Trisbee uzavřel smlouvu o poskytování služeb spočívajících v přijímání bezhotovostních plateb** od Uživatelů a dalších služeb a splňuje veškeré smluvní a zákonné podmínky pro poskytování služeb.
  
 ČÁST 2 – SLUŽBY PRO UŽIVATELE
 -----------------------------
 ## 2.1.	Specifikace služeb pro Uživatele
 
-2.1.1.	Trisbee poskytuje Uživateli tyto služby:
-a)	odesílání plateb 
-pomocí mobilní nebo webové Aplikace nebo 
-pomocí přístupu k serveru Trisbee přes rozhraní pro programování aplikací (API), 
+**2.1.1.**	Trisbee poskytuje Uživateli tyto služby:
 
-b)	vedení Platebního účtu (top-up účet) - virtuální účet vedený pro IdentifikovanéhoRegistrovaného Uživatele, který se rozhodl využívat tuto platební službu Trisbee. Na Platební účet si IdentifikovanýRegistrovaný Uživatel může převádět finanční prostředky ze svého bankovního účtu vedeného u příslušného bankovního ústavu formou bankovního převodu nebo prostřednictvím (debetní nebo kreditní) platební karty. Finanční prostředky vedené na Platebním účtu může IdentifikovanýRegistrovaný Uživatel používat k odesílání plateb Obchodníkům za zboží nebo služby,
+a)	**odesílání plateb** 
+- pomocí mobilní nebo webové Aplikace nebo 
+- pomocí přístupu k serveru Trisbee přes rozhraní pro programování aplikací (API), 
 
-c)	další služby, jejichž poskytování Trisbee aktuálně nabízí Uživateli na svých webových stránkách www.trisbee.com. Podmínky poskytování těchto služeb mohou být na webu Trisbee uvedeny odděleně od těchto Obchodních podmínek, nicméně takové podmínky poskytování služeb se považují za nedílnou součást těchto Obchodních podmínek, a to po celou dobu jejich platnosti.  
+b)	**vedení Platebního účtu (top-up účet)** - virtuální účet vedený pro Identifikovaného Uživatele, který se rozhodl využívat tuto platební službu Trisbee. Na Platební účet si Identifikovaný Uživatel může převádět finanční prostředky ze svého bankovního účtu vedeného u příslušného bankovního ústavu formou bankovního převodu nebo prostřednictvím (debetní nebo kreditní) platební karty. Finanční prostředky vedené na Platebním účtu může Identifikovaný Uživatel používat k odesílání plateb Obchodníkům za zboží nebo služby,
 
-2.1.2.	Uživatel může prostřednictvím Aplikace odesílat platby Obchodníkovi za nákup zboží a služeb. ProvádětOdesílat platby je možné platební kartou anebo z finančních prostředků uložených na Platebním účtu (IdentifikovanýRegistrovaného Uživatel)e anebo (debetní nebo kreditní) platební kartou. Provádět platební transakce prostřednictvím Aplikace lze tedy jak s registrací, tak i bez registrace. Pro poskytování některých služeb je nezbytná registrace (např. platba pomocí uložené platební karty) nebo také identifikace dle čl. 3.3. těchto Obchodních podmínek (např. provádění plateb z Platebního účtu). 
-2.1.3.	Odesílání plateb je možné pouze v rámci platebního systému Trisbee, tzn. platbu nelze odeslat, pokud se nejedná o platbu ve prospěch registrovaného Obchodníka.
-2.1.4.	Odesílání a přijímání plateb je popsáno v čl. 3.5.1. a 3.5.2. těchto Obchodních podmínek a platí obdobně pro všechnyKlienta Obchodníka i Registrovaného Uživatele.
-2.1.5.	Uživateli, který není Identifikovaným Uživatelem,Klientovi Obchodníka neposkytuje Trisbee platební službu v situaci, kdy (neregistrovaný) Klient Obchodníka pomocí Aplikace nebo API platí Obchodníkovi. V tomto případě slouží Aplikace nebo API jako platební terminál Obchodníka.
-2.1.6.	Poskytování služeb Uživateli není nárokovatelné, Trisbee je oprávněno poskytování služby Uživateli neumožnit nebo ji ukončit, a to i v případě, že Uživatel splnil všechny stanovené podmínky.
+c)	**další služby**, jejichž poskytování Trisbee aktuálně nabízí Uživateli na svých webových stránkách [www.trisbee.com](www.trisbee.com). Podmínky poskytování těchto služeb mohou být na webu Trisbee uvedeny odděleně od těchto Obchodních podmínek, nicméně takové podmínky poskytování služeb se považují za nedílnou součást těchto Obchodních podmínek, a to po celou dobu jejich platnosti.  
+
+**2.1.2.**	Uživatel může prostřednictvím Aplikace odesílat platby Obchodníkovi za nákup zboží a služeb. Provádět platby je možné platební kartou anebo z finančních prostředků uložených na Platebním účtu. Provádět platební transakce prostřednictvím Aplikace lze tedy jak s registrací, tak i bez registrace. Pro poskytování některých služeb je nezbytná registrace (např. platba pomocí uložené platební karty) nebo také identifikace dle čl. 3.3. těchto Obchodních podmínek (např. provádění plateb z Platebního účtu).
+
+**2.1.3.**	Odesílání plateb je možné pouze v rámci platebního systému Trisbee, tzn. platbu nelze odeslat, pokud se nejedná o platbu ve prospěch registrovaného Obchodníka.
+
+**2.1.4.**	Odesílání a přijímání plateb je popsáno v čl. 3.5.1. a 3.5.2. těchto Obchodních podmínek a platí obdobně pro všechny Uživatele.
+
+**2.1.5.**	Uživateli, který není Identifikovaným Uživatelem, neposkytuje Trisbee platební službu v situaci, kdy pomocí Aplikace nebo API platí Obchodníkovi. V tomto případě slouží Aplikace nebo API jako platební terminál Obchodníka.
+
+**2.1.6.**	Poskytování služeb Uživateli není nárokovatelné, Trisbee je oprávněno poskytování služby Uživateli neumožnit nebo ji ukončit, a to i v případě, že Uživatel splnil všechny stanovené podmínky.
 
 ## 2.2.	Základní podmínky uzavření smlouvy a registrace Uživatele
 
