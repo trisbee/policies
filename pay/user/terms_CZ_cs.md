@@ -1,9 +1,14 @@
-Všeobecné obchodní podmínky Trisbee 
+Všeobecné obchodní podmínky Trisbee
+===================================
 Obchodní podmínky pro Uživatele
+===============================
 ČÁST 1 – ÚVOD A ZÁKLADNÍ POJMY
-1.1. Uzavření smlouvy s Uživatelem
-Tyto obchodní podmínky představují základní obsah smlouvy o poskytování platebních a jiných služeb mezi Trisbee s.r.o., se sídlem Praha 6, Vokovice, K Červenému vrchu 678/1, PSČ 160 00, Česká republika, IČO: 04775660, zapsané v Obchodním rejstříku vedeném u Městského soudu v Praze pod spisovou značkou C 306886 (dále jen jako “Trisbee”) a uživatelem. Smlouva je uzavřena tím, že uživatel využije některou ze služeb poskytovaných Trisbee (dále jen jako “Uživatel”). Práva a povinnosti Trisbee a Uživatele při poskytování služeb se řídí těmito obchodními podmínkami (dále jen jako “Obchodní podmínky”). 
-1.2. Základní pojmy
+------------------------------
+## 1.1. Uzavření smlouvy s Uživatelem
+
+Tyto obchodní podmínky představují základní obsah smlouvy o poskytování platebních a jiných služeb mezi Trisbee s.r.o., se sídlem Praha 6, Vokovice, K Červenému vrchu 678/1, PSČ 160 00, Česká republika, IČO: 04775660, zapsané v Obchodním rejstříku vedeném u Městského soudu v Praze pod spisovou značkou C 306886 (dále jen jako “Trisbee”) a uživatelem. Smlouva je uzavřena tím, že uživatel využije některou ze služeb poskytovaných Trisbee (dále jen jako “Uživatel”). Práva a povinnosti Trisbee a Uživatele při poskytování služeb se řídí těmito obchodními podmínkami (dále jen jako “Obchodní podmínky”).
+
+## 1.2. Základní pojmy
 1.2.1.	“Trisbee” je společností poskytující služby podle těchto Obchodních podmínek. Trisbee je současně řádně registrovaným poskytovatelem platebních služeb malého rozsahu na základě povolení uděleného Českou národní bankou, se sídlem Na Příkopě 28, 115 03 Praha 1, Česká republika. Česká národní banka je orgánem dohlížejícím nad činností Trisbee při poskytování platebních služeb. 
 1.2.2.	“Registrovaným Uživatelem” se rozumí každý, kdo využívá služby poskytované Trisbee a za účelem uzavření smluvního vztahu poskytl Trisbee své identifikační údaje, vyjádřil souhlas s těmito Obchodními podmínkami, případně splnil další podmínky pro poskytování zvolené služby a Trisbee Uživatele registrovalo k využívání služeb.
 1.2.3.	“Identifikovaným Uživatelem” se rozumí každý, kdo využívá platební nebo jiné služby poskytované Trisbee a za účelem uzavření smluvního vztahu poskytl Trisbee své identifikační údaje, vyjádřil souhlas s těmito Obchodními podmínkami, případně splnil další podmínky stanovené zákonem pro poskytování platebnízvolené služby a, současně, Trisbee Uživatele pro poskytování platebníchpoptávaných služeb ověřilo, a schválilo a registrovalo.
@@ -14,7 +19,9 @@ Tyto obchodní podmínky představují základní obsah smlouvy o poskytování 
 1.2.8.	“Obchodníkem” se rozumí subjekt, který s Trisbee uzavřel smlouvu o poskytování služeb spočívajících v přijímání bezhotovostních plateb od Uživatelů a dalších služeb a splňuje veškeré smluvní a zákonné podmínky pro poskytování služeb.
  
 ČÁST 2 – SLUŽBY PRO UŽIVATELE
-2.1.	Specifikace služeb pro Uživatele
+-----------------------------
+## 2.1.	Specifikace služeb pro Uživatele
+
 2.1.1.	Trisbee poskytuje Uživateli tyto služby:
 a)	odesílání plateb 
 pomocí mobilní nebo webové Aplikace nebo 
@@ -29,7 +36,9 @@ c)	další služby, jejichž poskytování Trisbee aktuálně nabízí Uživatel
 2.1.4.	Odesílání a přijímání plateb je popsáno v čl. 3.5.1. a 3.5.2. těchto Obchodních podmínek a platí obdobně pro všechnyKlienta Obchodníka i Registrovaného Uživatele.
 2.1.5.	Uživateli, který není Identifikovaným Uživatelem,Klientovi Obchodníka neposkytuje Trisbee platební službu v situaci, kdy (neregistrovaný) Klient Obchodníka pomocí Aplikace nebo API platí Obchodníkovi. V tomto případě slouží Aplikace nebo API jako platební terminál Obchodníka.
 2.1.6.	Poskytování služeb Uživateli není nárokovatelné, Trisbee je oprávněno poskytování služby Uživateli neumožnit nebo ji ukončit, a to i v případě, že Uživatel splnil všechny stanovené podmínky.
-2.2.	Základní podmínky uzavření smlouvy a registrace Uživatele
+
+## 2.2.	Základní podmínky uzavření smlouvy a registrace Uživatele
+
 2.2.1.	Uživateli musí být minimálně 18 let a musí mít otevřený bankovní účet vedený na jeho jméno u důvěryhodné bankovní instituce (domácí nebo zahraniční působící na území EHP).
 2.2.2.	Platí, že Trisbee je oprávněno požadovat od Registrovaného a Identifikovaného Uživatele sdělení a doložení jeho identifikačních údajů. Důvodem je vznik smluvního vztahu mezi Registrovaným anebo Identifikovaným Uživatelem a Trisbee, dále též dodržení povinností vyplývajících Trisbee ze smluvních vztahů se subjekty podílejícími se na zabezpečení zprostředkování služeb (např. subjekt poskytující službu platební brány) a současně je důvodem i obecná prevence rizik Trisbee jakožto podnikatele. Trisbee vždy požaduje sdělit a doložit pouze ty údaje, které jsou nezbytně nutné z výše uvedených důvodů, přičemž zpracování a archivace všech údajů o Uživateli vždy probíhá v souladu se zákonnými požadavky na základě přísně nastavených vnitřních předpisů Trisbee. Pokud Trisbee Registrovaného Uživatele požádá z výše uvedených důvodů o sdělení a doložení některých údajů, a to i v průběhu smluvního vztahu, je Registrovaný Uživatel zavázán tyto údaje uvést a doložit. Více o zpracování a uchovávání údajů o Uživateli najdete v Zásadách ochrany soukromí.
 2.2.3.	Trisbee je oprávněno rozhodnout o neschválení registrace a identifikace Uživatele, případně následně využívání platebních nebo jiných služeb těmtoRegistrovanému Uživateliům dočasně zablokovat, ukončit nebo omezit v případě, že 
@@ -45,7 +54,9 @@ c)	další služby, jejichž poskytování Trisbee aktuálně nabízí Uživatel
 Důvody neschválení Uživatele, ukončení poskytování služeb, dočasnou blokaci nebo omezení poskytování služeb již Registrovanému nebo Identifikovanému Uživateli, případně odmítnutí provedení konkrétní služby sdělí Trisbee Uživateli pouze takovým způsobem a v takovém rozsahu, aby Trisbee ochránilo obsah svého ověřovacího procesu za účelem zajištění jeho efektivity.
  
 ČÁST 3 – PLATEBNÍ SLUŽBA A ZPROSTŘEDKOVÁNÍ PLATEBNÍ SLUŽBY
-3.1.	Podmínky používání Aplikace Uživatelem
+----------------------------------------------------------
+## 3.1.	Podmínky používání Aplikace Uživatelem
+
 3.1.1. Trisbee vyvíjí a provozuje Aplikaci, prostřednictvím které může Uživatel provádět platební transakce spočívající v odesílání plateb Obchodníkům. 
 3.1.2. Trisbee uděluje Uživateli nevýhradní, nepřevoditelnou a bezúplatnou licenci, tj. právo k užívání Aplikace, a to v souladu s těmito Obchodními podmínkami, případně v souladu s podmínkami platformy, ze které byla Aplikace stažena. Licence se vztahuje také na všechny pozdější verze Aplikace, které jsou poskytnuty Uživateli, pokud není současně s novou verzí Aplikace poskytována nová licence k užití Aplikace. 
 3.1.3.	Uživatel nesmí samostatně rozšiřovat, vydávat nebo jinak předávat Aplikaci dalším osobám, tato je dostupná ke stažení prostřednictvím Google Play nebo Apple App Store či jako webová aplikace. Uživatel je srozuměn s tím, že Aplikace nebyla vytvořena pro individuální potřeby konkrétního Uživatele, ale že byla vytvořena pro univerzální využití. 
@@ -58,12 +69,16 @@ shromažďovat nebo sbírat informace a/nebo data z Aplikace nebo ze systému Tr
 nahrávat jakýkoliv obsah, který je nebo může být shledán násilným, výhružným, schopným vyvolat rasovou nenávist, porušením důvěrnosti nebo soukromí, diskriminujícím, pomlouvačným, zneužívajícím, nezákonným, pornografickým, obscénním, nešlušným, znesvěcujícím nebo pokud může jinému způsobit obtíže nebo nepohodlí.
 3.1.6.	Trisbee je oprávněno znemožnit Uživateli využívání služeb Trisbee (ukončit poskytování služeb), pokud je Aplikace Uživatelem používána nezákonným nebo nemorálním způsobem
 3.1.7.	V případě ukončení smluvního vztahu mezi Uživatelem a Trisbee doporučuje Trisbee Uživateli z důvodu bezpečnosti a ochrany odstranit Aplikaci ze všech zařízení Uživatele.
-3.2.	Registrace Uživatele, podmínky využívání  platebních služeb Trisbee
+
+## 3.2.	Registrace Uživatele, podmínky využívání  platebních služeb Trisbee
+
  3.2.1.	Registrace Uživatele probíhá při prvním spuštění Aplikace v režimu pro přihlášení Uživatele. Uživatel je povinen zadat požadované základní identifikační údaje a případně další nezbytné údaje (např. stát, ve kterém bude Uživatel Aplikaci používat a měnu, ve které budou prováděny platební transakce). Pro spuštění Aplikace je zapotřebí výslovné potvrzení Uživatele, že se seznámil s těmito Obchodními podmínkami a souhlasí s nimi. Uživatel také potvrzuje, že se seznámil se Zásadami ochrany soukromí. Na volbě Uživatele pak je, zda souhlasí, aby mu Trisbee zasílalo obchodní sdělení a své newslettery. Po ověření telefonního čísla a emailové adresy Uživatele je Aplikace aktivována v režimu pro Registrovaného Uživatele.
 3.2.2.	Zabezpečení Aplikace je provedeno primárně na základě PIN kódu. PIN kód pro vstup do Aplikace si volí sám Uživatel v rámci procesu aktivace Aplikace, při prvním přihlášení do Aplikace. Současně je Uživateli doporučeno zapnout si na svém zařízení funkci biometrického ověření pro vstup do Aplikace (Touch ID, Face ID), pokud je tato funkce v Aplikaci aktuálně dostupná. Uživatel je zodpovědný za zabezpečení svého mobilního zařízení a aktivaci všech bezpečnostních prvků pro vstup do zařízení a Aplikace tak, aby nikdo třetí nemohl bez souhlasu Uživatele získat přístup do Aplikace. Porušení těchto pokynů může mít významný vliv na vyřízení případné reklamace služby poskytované ze strany Trisbee prostřednictvím Aplikace.
 3.2.3.	Registrovaný Uživatel si následně může zřídit Platební účet. V rámci zřízení Platebního účtu jemůže být požadována další identifikace a nahrání identifikačních dokladů Uživatele. Platby z Platebního účtu nemohou být prováděny bez registrace (viz čl. 3.2.1. těchto Obchodních podmínek) a identifikace (viz část 3.3. těchto Obchodních podmínek) Uživatele.
 3.2.4. Před provedením platby z Platebního účtu je IdentifikovanýRegistrovaný Uživatel povinen dobít svůj Platební účet alespoň takovou částkou, aby bylo možné provést zamýšlenou platbu, případně může Registrovaný Uživatel svůj Platební účet dobít libovolnou vyšší částkou. V Aplikaci nelze zadat příkaz k provedení platby ve výši, která přesahuje zůstatek Registrovaného Uživatele na Platebním účtu. Dobití Platebního účtu je popsáno v části 3.4. těchto Obchodních podmínek. 
-3.3.	Identifikace Uživatele 
+
+## 3.3.	Identifikace Uživatele 
+
 3.3.1.	Trisbee je povinno v rámci poskytování platebních služeb (platby prostřednictvím Platebního účtu) shromáždit o Uživateli a zprostředkovaných platebních transakcích informace, které jsou vyžadovány příslušnými zákony, a to zejména zákonem č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu (dále jen “AML zákon”), ale i jinými zákony. Veškeré takto shromážděné informace Trisbee zpracovává a archivuje pouze tak dlouho, jak je to nezbytně nutné a využívá je výlučně pro potřeby plnění zákonných povinností. Více o zpracování a uchovávání údajů o Uživateli najdete v Zásadách ochrany soukromí.
 3.3.2.	Pokud je zákonnou podmínkou poskytnutí platební služby provedení identifikace Uživatele, nemůže Trisbee poskytnout Uživateli platební službu bez ověření jeho totožnosti a bez ověření dalších zákonem stanovených údajů týkajících se Uživatele.
 3.3.3.	Provedení identifikace spočívá v
@@ -73,17 +88,22 @@ nahrávat jakýkoliv obsah, který je nebo může být shledán násilným, výh
 3.3.4.	Identifikačním procesem provede Trisbee Uživatele buďto přímo v Aplikaci, případně prostřednictvím e-mailových zpráv obsahujících příslušné instrukce a pokyny. V případě nejasností týkajících se procesu identifikace může Uživatel využít Trisbee zákaznickou podporu, kontakty jsou uvedeny jak v Aplikaci, tak na webové stránce www.trisbee.com.
 3.3.5.	Identifikaci provádí Trisbee bez zbytečného odkladu poté, co od Uživatele obdrží potřebné údaje a dokumenty. Provedení identifikace je základem procesu registrace Uživatele. Schválení Uživatele po provedené identifikaci je nenárokové a je vždy na uvážení Trisbee, a to na základě konkrétních individuálních okolností každého jednotlivého Uživatele.
 3.3.6.	Trisbee je v odůvodněných případech, na základě novelizace zákonných požadavků nebo v rámci pravidelné nebo náhodné kontroly, oprávněno i v průběhu trvání smluvního vztahu provést identifikaci Uživatele. Uživatel je povinen se v takových případech podrobit provedení další identifikace, přičemž předchozí schválení Uživatele nemá žádný vliv na výsledek další prováděné identifikace.
-3.4. 	Dobití Platebního účtu
+
+## 3.4. 	Dobití Platebního účtu
+
 3.4.1.	Dobití Platebního účtu může IdentifikovanýRegistrovaný Uživatel provést aktuálními dostupnými metodami, které jsou uvedeny přímo v Aplikaci (zejména dobití převodem z bankovního účtu, kreditní nebo debetní platební kartou apod.).
 3.4.2. Jakmile je IdentifikovanýmRegistrovaným Uživatelem zvolená dobíjená částka připsána na bankovní účet Trisbee určený pro poskytování platebních služeb, zajistí Trisbee bez prodlení, nejpozději do následujícího pracovního dne, připsání příslušné částky na Platební účet IdentifikovanéhoRegistrovaného Uživatele. Úspěšné dobití Platebního účtu je oznámeno IdentifikovanémuRegistrovanému Uživateli přímo v Aplikaci a e-mailovou zprávou a současně je IdentifikovanémuRegistrovanému Uživateli navýšen zůstatek Platebního účtu v Aplikaci. 
-3.5.  Provádění plateb v Aplikaci
+
+## 3.5.  Provádění plateb v Aplikaci
+
 3.5.1.	Uživatel zadává v Aplikaci příkazy k provedení platební transakce tak, že zvolí Obchodníka a v dalším kroku zadá částku platby. Zvolit Obchodníka registrovaného u Trisbee je možné buďto naskenováním QR kódu Obchodníka anebo vyhledáním v seznamu Obchodníků. Po zadání částky platby vybere Uživatel platební metodu (Platební účet, platební karta, Apple Pay, Google Pay) a vše potvrdí tlačítkem “Zaplatit”. 
 3.5.2. 	Poté, co Uživatel zadá v Aplikaci příkaz k provedení platby, je transakce zaevidována v systému Trisbee a do několika vteřin je Uživateli v Aplikaci potvrzeno úspěšné zadání příkazu k úhradě anebo nepřijetí tohoto příkazu k úhradě - v takovém případě je uveden i důvod nepřijetí příkazu k úhradě. Potvrzení o zadání příkazu k úhradě je vždy doprovázeno jedinečným kódem transakce. 
 3.5.3.	Přijetí příkazu k úhradě vždy provází prověření transakce z pohledu příslušných ustanovení AML zákona, tj. prověření, zda se nejedná o podezřelou platební transakci, a dále prověření, zda se nejedná o rizikovou transakci z pohledu možného spáchání podvodu, a to na základě dostupných informací o Uživateli a Obchodníkovi, případně dalších informací. Pokud je platební transakce prověřena, přičemž lze dospět k závěru, že nejde o podezřelou nebo rizikovou platbu, je příkaz k úhradě standardním způsobem zpracován, částka zadané platby je odečtena z Platebního nebo bankovního účtu Uživatele a tato částka je následně odesílána ve prospěch zvoleného Obchodníka. V opačném případě, tj. v případě, že platební transakci je na základě ověření nutné považovat za podezřelou nebo rizikovou, postupuje Trisbee dle čl. 3.6. těchto Obchodních podmínek. 
 3.5.4.	Klient Obchodníka je srozuměn s tím, že ho Trisbee může v souvislosti se zadaným platebním příkazem kontaktovat na e-mailovou adresu, kterou získá v rámci poskytnutí služby (e-mailová adresa zadaná ve službě Apple Pay, Google Pay nebo zadaná Klientem Obchodníka v Aplikaci). 
 3.5.5.	Příjemcem platby je Obchodník, kterému Uživatel prostřednictvím Aplikace platí za nabízené zboží nebo služby. V tomto případě je Obchodníkovi formou notifikace v aplikaci pro přijímání plateb Trisbee (“Aplikace Business”) nebo jinou formou (doručením SMS, v dashboardu Obchodníka) ihned poté, co Uživatel v Aplikaci úspěšně zadá příkaz k úhradě, oznámena zaevidovaná platba v částce zadané Uživatelem. Obchodník obdrží totožný jedinečný kód transakce, kterým je identifikován příkaz k úhradě v Aplikaci Uživatele. Obchodníkovi je následně zaslána platba Uživatele.
  
-3.6.	Podezřelé a rizikové transakce
+## 3.6.	Podezřelé a rizikové transakce
+
 3.6.1. V případě, že po ověření platební transakce zadané Uživatelem v Aplikaci (po zadání příkazu k úhradě) v souladu s čl. 3.5.3. Obchodních podmínek lze dospět k závěru, že platební transakce je podezřelá a/nebo riziková (existuje důvodné podezření z páchání podvodu), 
 (i)	je zpracování transakce okamžitě zablokováno a transakce není přijata ke zpracování
 nebo
@@ -100,7 +120,8 @@ anebo
 (ii)	zamítnutí zprostředkování předmětné platební transakce, jestliže na základě dodaných informací a podkladů učinilo Trisbee závěr, že platební transakce je podezřelá a/nebo riziková. Rozhodnutí o zamítnutí zprostředkovat platební transakci oznámí Trisbee bez prodlení Uživateli, případně i Obchodníkovi. Částka zadaná Uživatelem v platebním příkazu a zablokovaná Trisbee pro tuto platební transakci, není Uživateli odečtena z jeho bankovního nebo Platebního účtu.
 3.6.6.	Obdobně dle ust. 3.6.3. a 3.6.4. těchto Obchodních podmínek postupuje Trisbee i v případě, že po zpracování platebního příkazu Uživatele zjistí skutečnosti, na základě kterých je třeba předmětnou platební transakci považovat za podezřelou a/nebo rizikovou. Takto je Trisbee oprávněno postupovat do uplynutí 1 měsíce ode dne zadání platebního příkazu Uživatelem. Pro případ, že bude předmětná platební transakce shledána podezřelou a/nebo rizikovou, provede Trisbee zrušení platební transakce, pokud je to v daném případě možné a nezbytné, a to v souladu s aktuálními podmínkami pro zrušení platební transakce.
  
-3.7.	Reklamace zadaného platebního příkazu nebo přijaté platby, storno a vrácení platby
+## 3.7.	Reklamace zadaného platebního příkazu nebo přijaté platby, storno a vrácení platby
+
 3.7.1.	Trisbee považuje všechny příkazy k provedení platební transakce zadané v Aplikaci za příkazy zadané Uživatelem nebo osobou pověřenou tímto Uživatelem, pokud sám Uživatel neoznámí Trisbee, že tomu tak není. 
 3.7.2.	Pokud má Uživatel za to, že konkrétní platební transakce, která byla provedena na vrub bankovního nebo Platebního účtu Uživatele, nebyla zadána v Aplikaci Uživatelem, ani jím pověřenou osobou, anebo že sice byla zadána v Aplikaci Uživatelem nebo jím pověřenou osobou, avšak byla zadána ve prospěch jiného subjektu nebo v jiné částce platby než byla následně zpracována, může tuto platební transakci u Trisbee reklamovat. 
 3.7.3.	Reklamaci konkrétní platební transakce je Uživatel oprávněn u Trisbee uplatnit bez zbytečného odkladu poté, co se o důvodu reklamace dozvěděl, nejpozději však ve lhůtě do 13 měsíců ode dne, kdy byl platební příkaz Uživateli v Aplikaci potvrzen jako přijatý, nebo, pokud v Aplikaci Uživatele nebylo potvrzeno přijetí příkazu Uživatele k úhradě, a přesto byla taková transakce na vrub bankovního nebo Platebního účtu Uživatele provedena, do 13 měsíců ode dne provedení takové platební transakce. 
@@ -129,11 +150,14 @@ důvod(y), pro které žádá storno platebního příkazu nebo vrácení platby
 3.7.10.Pokud Obchodník se stornem konkrétní platební transakce anebo vrácením platby souhlasí, je zároveň povinen, pokud mu již byla platba připsána na jeho bankovní účet nebo je již na cestě na jeho bankovní účet, postupovat v souladu s podmínkami poskytovatele platební služby, zejména je nezbytné, aby vrátil částku platby, kterou obdržel. Na základě tohoTeprve poté může být předmětná částka platby vrácena zpět na bankovní nebo Platební účet Uživateli.
 3.7.10.Veškeré reklamace týkající se zboží nebo služeb, které Obchodník poskytl Uživateli, je Uživatel povinen řešit přímo s Obchodníkem. V případě, že na základě reklamace zboží a služeb podané Uživatelem má být vrácena cena zboží a služeb (případně i částečně) uhrazená původně prostřednictvím Aplikace, může Trisbee zprostředkovat vrácení příslušné částky dle dohody Uživatele a Obchodníka ve prospěch bankovního nebo Platebního účtu Uživatele, ale pouze v případě jejich oboustranného výslovného souhlasu a současně až poté, co Obchodník vrátí předmětnou částku uznané reklamace (maximálně do výše původní platby) na bankovní účet, ze kterého byla Obchodníkovi původně vyplacena, navýšenou případně o Poplatky účtované Obchodníkovi za tuto službu.
  
-3.8.	Poplatky
+## 3.8.	Poplatky
+
 3.8.1.	Trisbee neúčtuje Uživateli žádné poplatky za poskytované služby.
  
 ČÁST 4 – DALŠÍ PRÁVA A POVINNOSTI
-4.1.	Odpovědnost za újmu
+---------------------------------
+## 4.1.	Odpovědnost za újmu
+
 4.1.1.	Uživatel je plně odpovědný za jakoukoliv újmu (majetkovou i nemajetkovou) způsobenou jeho jednáním Trisbee, osobám spřízněným s Trisbee podílejících se na poskytování služeb, případně i třetím osobám, pokud tuto újmu způsobí Uživatel 
 (i)	úmyslným podvodným jednáním,
 (ii)	nedbalostním jednáním spočívajícím např. v nedostatečném zabezpečení zařízení, v němž je nainstalovaná nebo používaná Aplikace nebo nedostatečném zabezpečení Aplikace tak, že třetí osoba může provádět platební transakce v Aplikaci bez oprávnění uděleného Uživatelem,
@@ -145,32 +169,37 @@ důvod(y), pro které žádá storno platebního příkazu nebo vrácení platby
 (iv)	jednáním Trisbee, které představuje běžný postup při poskytování služeb, kterého si musí být Uživatel vědom na základě seznámení se s obsahem těchto Obchodních podmínek.
 4.1.3.	Trisbee není žádným způsobem odpovědno za bezpečnost, zákonnost, kvalitu nebo jiné vlastnosti zboží nebo služeb, jejichž nákup byl proveden platbou prostřednictvím Trisbee. Uživatel je povinen svá práva týkající se zakoupeného zboží nebo služeb uplatňovat přímo u Obchodníka. V případě, že na základě reklamace zboží a služeb podané Uživatelem u Obchodníka má být vrácena cena zboží a služeb (případně i částečně) uhrazená původně prostřednictvím Aplikace, může Trisbee zprostředkovat vrácení příslušné částky dle dohody Uživatele a Obchodníka ve prospěch bankovního nebo Platebního účtu Uživatele, ale pouze v případě jejich oboustranného výslovného souhlasu a současně až poté, co Obchodník vrátí předmětnou částku uznané reklamace (maximálně do výše původní platby) na bankovní účet, ze kterého byla příjemci původně vyplacena. Za tuto službu mohou být účtovány Uživateli nebo Obchodníkovi poplatky, zejména pokud jsou takové poplatky účtovány subjekty podílejícími se na zajištění předmětné služby.
  
-4.2.	Doručování
+## 4.2.	Doručování
+
 4.2.1.	Za předpokladu, že se Uživatel registruje či identifikuje (čl. 2.2. těchto Obchodních podmínek) nebo uvede v rámci anonymní platby svou e-mailovou adresu, doručuje Trisbee  Uživateli veškerá sdělení, oznámení či písemnosti především na e-mailovou adresu zadanou Uživatelem v Aplikaci, případně na Registrovaným Uživatelem později sdělenou e-mailovou adresu. Registrovanému nebo Identifikovanému Uživateli lze doručovat sdělení nebo oznámení též SMS zprávou nebo zprávou v Aplikaci. Písemnost se považuje za doručenou nejpozději dnem následujícím po jejím odeslání Uživateli.
 4.2.2.	V případě, že záležitost nesnese odkladu (např. ověření podezřelé nebo rizikové transakce) nebo je to vzhledem k situaci běžné a vhodné, bere Registrovaný a Identifikovaný Uživatel na vědomí, že ho Trisbee může kontaktovat také telefonicky, prostřednictvím SMS zprávy na telefonní číslo registrované v Aplikaci či na jiném Registrovaným Uživatelem sděleném kontaktním telefonním čísle, prostřednictvím sociální sítě Facebook, nebo případně i jiným vhodným způsobem.
 4.2.3.	Uživatel může kontaktovat Trisbee prostřednictvím všech dostupných kanálů, které Trisbee uvádí na svých webových stránkách, profilech na sociálních sítích či na jiných komunikačních kanálech spravovaných Trisbee, pokud není pro konkrétní řešení situace v těchto Obchodních podmínkách stanovený konkrétní způsob komunikace a doručování žádostí, sdělení nebo jiných písemností (např. podání reklamace dle čl. 3.7.4. těchto Obchodních podmínek).
  
-4.3.	Změny údajů Registrovaného a Identifikovaného Uživatele
+## 4.3.	Změny údajů Registrovaného a Identifikovaného Uživatele
+
 4.3.1.	Registrovaný a Identifikovaný Uživatel je povinen oznámit Trisbee každou změnu svých identifikačních nebo kontaktních údajů (změnu jména, příjmení, e-mailové adresy atd.). IdentifikovanýRegistrovaný Uživatel je povinen Trisbee v souvislosti s identifikací dle čl. 3.3. Obchodních podmínek  oznámit a případně i relevantním dokumentem doložit veškeré změny dalších skutečností, které Trisbee u Uživatele ověřovalo při identifikaci a které je povinno evidovat o IdentifikovanémRegistrovaném Uživateli z pohledu AML zákona (změnu adresy trvalého bydliště, čísla bankovního účtu, atd.). Pokud byly IdentifikovanémuRegistrovanému Uživateli v mezidobí od provedení identifikace vystaveny nové identifikační průkazy (tj. průkaz totožnosti a druhý podpůrný doklad totožnosti předložený v rámci identifikace), je takovýRegistrovaný Uživatel povinen tyto Trisbee též doložit.
 4.3.2.	Změny údajů je Registrovaný a Identifikovaný Uživatel povinen oznámit a doložit Trisbee nejpozději do 10 pracovních dnů ode dne, kdy došlo ke změně předmětných skutečností.
 
 
-4.4.	Jazyk
+## 4.4.	Jazyk
  
 4.4.1.	Uživatel si může zvolit jazyk, ve kterém chce Aplikaci používat a ve kterém s ním bude Trisbee (případně subjekty jednajícími v zastoupení Trisbee) ve vztahu k poskytovaným službám komunikovat, a to přímo v nastavení Aplikace. Uživatel si může zvolit některý z jazyků těch zemí, ve kterých Trisbee poskytuje své služby. Odsouhlasením těchto Obchodních podmínek Uživatel výslovně potvrzuje, že rozumí jazyku, ve kterém Aplikaci používá a ve kterém s ním Trisbee komunikuje.
 4.4.2.	Uživatel dále výslovně potvrzuje, že  rozumí všem podmínkám poskytování služeb a veškerým právům a povinnostem, které Uživateli vyplývají z využívání Aplikace a případně i dalších služeb Trisbee.
 4.4.3.	Obchodní podmínky jsou vyhotoveny v českém a anglickém jazyce. Všechny ostatní jazykové verze těchto Obchodních podmínek jsou vždy překlady české nebo anglické verze. V případě rozporů nebo nesrovnalostí mezi českou, případně anglickou verzí a jinými jazykovými verzemi, má přednost česká, resp. anglická verze.
  
-4.5. Potvrzení podle AML zákona
+## 4.5. Potvrzení podle AML zákona
+
 4.5.1.	Odsouhlasením těchto Obchodních podmínek Uživatel potvrzuje, že není politicky exponovanou osobou ve smyslu § 4 odst. 5 AML zákona. Politicky exponovanou osobou má zákon na mysli fyzickou osobu, která je nebo byla ve významné veřejné funkci s celostátním nebo regionálním významem a dále také osoby blízké či jinak propojené s takovou osobou.
 4.5.2.	Pokud si Uživatel není jistý, zda a za jakých podmínek může využívat služby Trisbee, může se na Trisbee kdykoliv obrátit s tím, že okolnosti týkající se podmínek stanovených AML zákonem budou Trisbee společně s Uživatelem ověřeny.
  
-4.6.	Dostupnost platebních služeb
+## 4.6.	Dostupnost platebních služeb
+
 4.6.1.	Trisbee tímto výslovně upozorňuje, že neručí za žádný konkrétní rozsah ani dostupnost poskytovaných služeb.
 4.6.2.	Trisbee je v rámci pravidelné údržby Aplikace a jednotlivých platebních metod, jako například při technologických změnách, technických potížích, při napadení systému zpracování platebních transakcí kybernetickým útokem, v případě významného nárůstu neautorizovaných či podvodných plateb nebo významného poklesu poptávky po některé platební metodě nebo službě oprávněno omezit, případně přerušit provoz Aplikace, některé platební metody nebo některé služby. Uživatel nemá právo na náhradu újmy, která by mu mohla vzniknout omezením či přerušením provozu v důsledku popsaných skutečností. 
 4.6.3.	Trisbee učiní vše pro to, aby Uživatele o omezení nebo přerušení provozu Aplikace, některé platební metody nebo některé služby včas a vhodným způsobem informovalo. V případě plánovaných aktualizací systému informuje Trisbee Uživatele v dostatečném časovém předstihu zejména prostřednictvím e-mailové zprávy nebo zprávy v Aplikaci. V případě neočekávaných událostí omezujících provoz Aplikace nebo některých platebních metod se toto ustanovení neuplatní. Trisbee se však zavazuje vynaložit veškeré úsilí na neprodlené řešení vzniklých neočekávaných omezení některých prvků platebního systému Trisbee a současně o nich průběžně vhodným způsobem informovat Uživatele, pokud je to v daném případě možné.
  
-4.7. 	Spory
+## 4.7. 	Spory
+
 4.7.1.	V případě, že Uživatel není spokojený se službami poskytovanými Trisbee v jakémkoliv ohledu, je oprávněn obrátit se se svou stížností přímo na Trisbee, a to zejména e-mailem na support@trisbee.com. Aby se Trisbee mohlo stížností Uživatele zabývat, musí stížnost obsahovat alespoň:
 identifikační údaje Uživatele (zejména jméno a příjmení Uživatele, jeho emailovou adresu a telefonní číslo)
 popis skutečností a důvodů, které jsou předmětem stížnosti a pro které Uživatel stížnost podává, 
@@ -180,7 +209,8 @@ Trisbee potvrdí Uživateli přijetí stížnosti s tím, že tuto obratem proš
 4.7.3.	Uživatel má dále právo obrátit se se stížností na orgán dohledu nad činností Trisbee jakožto poskytovatele platebních služeb, jímž je Česká národní banka, Na Příkopě 864/28, 115 03 Praha 1. Více o činnosti ČNB jako orgánu dohledu naleznete zde: https://www.cnb.cz/cs/dohled-financni-trh/. 
 4.7.4.	Uživatel může rovněž využít platformu pro řešení sporů online, která je zřízena Evropskou komisí na internetové stránce http://ec.europa.eu/consumers/odr/.
  
-4.8. Trvání smlouvy a změny obchodních podmínek
+## 4.8. Trvání smlouvy a změny obchodních podmínek
+
 4.8.1. Uzavřením smlouvy dle čl. 1.1. těchto Obchodních podmínek Uživatel potvrzuje, že mu byly před uzavřením smlouvy k dispozici veškeré potřebné předsmluvní informace důležité pro jeho rozhodnutí uzavřít s Trisbee smlouvu, dále potvrzuje, že se před uzavřením smlouvy seznámil s těmito Obchodními podmínkami  a že rozumí veškerému obsahu smlouvy a těchto Obchodních podmínek, považuje ho za určitý a srozumitelný, a že jsou mu jednotlivá práva a povinnosti plynoucí ze smluvního vztahu s Trisbee zcela zřejmá.
  
 4.8.2.	Smlouva mezi Uživatelem a Trisbee je uzavřena na dobu neurčitou. Trisbee i Uživatel jsou oprávněni smlouvu kdykoliv vypovědět oznámením druhé smluvní straně. Výpovědní lhůta pro Trisbee činí 2 měsíce. Za výpověď Smlouvy se považuje též ukončení provozu platebního systému Trisbee a ukončení poskytování služeb . 
