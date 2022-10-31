@@ -86,6 +86,7 @@ Důvody neschválení Uživatele, ukončení poskytování služeb, dočasnou bl
 **3.1.2.** Trisbee uděluje Uživateli nevýhradní, nepřevoditelnou a bezúplatnou licenci, tj. právo k užívání Aplikace, a to v souladu s těmito Obchodními podmínkami, případně v souladu s podmínkami platformy, ze které byla Aplikace stažena. Licence se vztahuje také na všechny pozdější verze Aplikace, které jsou poskytnuty Uživateli, pokud není současně s novou verzí Aplikace poskytována nová licence k užití Aplikace. 
 
 **3.1.3.**	Uživatel nesmí samostatně rozšiřovat, vydávat nebo jinak předávat Aplikaci dalším osobám, tato je dostupná ke stažení prostřednictvím Google Play nebo Apple App Store či jako webová aplikace. Uživatel je srozuměn s tím, že Aplikace nebyla vytvořena pro individuální potřeby konkrétního Uživatele, ale že byla vytvořena pro univerzální využití. 
+
 **3.1.4.**	Stažením Aplikace, případně využitím webové Aplikace, bere Uživatel na vědomí, že Trisbee tím získává přístup k některým informacím zařízení, na kterém má Uživatel Aplikaci nainstalovanou nebo na kterém Aplikaci používá. Jedná se zejména o informace jako je IP adresa, jméno zařízení, verze operačního systému a geolokace. V některých případech má Trisbee přístup k informacím zařízení jen za předpokladu, že tuto funkci Uživatel v zařízení povolí.
 
 **3.1.5.** Využitím Aplikace Uživatel souhlasí s tím, že nebude:
