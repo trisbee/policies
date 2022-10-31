@@ -6,62 +6,90 @@ SECTION 1 – INTRODUCTION AND BASIC TERMS
 ----------------------------------------
 ## 1.1. Agreement with the User
 
-These terms and conditions constitute basic agreement on the provision of payment and other services between Trisbee s.r.o, with its registered office at Prague 6, Vokovice, K Červeném vrchu 678/1, postal code 160 00, Czech Republic, Company ID No.: 04775660, registered in the Commercial Register maintained by the Municipal Court in Prague, file number C 306886 (hereinafter “Trisbee”) and the user. The agreement is deemed concluded when the user makes use of any of the services provided by Trisbee (hereinafter referred to as the “User”). The rights and obligations of Trisbee and the User in providing of the services are governed by these terms and conditions (hereinafter referred to as the “Terms and Conditions”). 
+These terms and conditions constitute basic agreement on the provision of payment and other services between Trisbee s.r.o, with its registered office at Prague 6, Vokovice, K Červeném vrchu 678/1, postal code 160 00, Czech Republic, Company ID No.: 04775660, registered in the Commercial Register maintained by the Municipal Court in Prague, file number C 306886 (hereinafter **“Trisbee”**) and the user. The agreement is deemed concluded when the user makes use of any of the services provided by Trisbee (hereinafter referred to as the **“User”**). The rights and obligations of Trisbee and the User in providing of the services are governed by these terms and conditions (hereinafter referred to as the **“Terms and Conditions”**). 
 
 ## 1.2. Definitions
 
-1.2.1.	“Trisbee” is the company providing services according to these Terms and Conditions. At the same time, Trisbee is a duly registered small-scale payment service provider licensed by the Czech National Bank, with its registered office at Na Příkopě 28, 115 03 Prague 1, Czech Republic. The Czech National Bank is the authority supervising Trisbee in the provision of payment services thereby. 
-1.2.2.	“Registered User” means any person who uses the services provided by Trisbee and who, in order to enter into a contractual relationship therewith, has provided Trisbee with his/her identification data, has agreed to these Terms and Conditions, and/or has met other conditions stipulated for the provision of the selected service, and who has been registered for provision of the services by Trisbee .
-1.2.3.	“Identified User” means any person who uses the payment or other services provided by Trisbee and who, in order to enter into a contractual relationship therewith, has provided Trisbee with their identification data, has agreed to these Terms and Conditions, has met other conditions stipulated by law for the provision of payment services and, at the same time, who has been verified, approved and registered for provision of payment services by Trisbee.
-1.2.4.	“Merchant’s Customer” means any person using the Trisbee payment system, either by means of the Trisbee mobile or web application (hereinafter referred to as the “Application”) or, using the access to the Operator's server via a programming interface (hereinafter referred to as the “API”), paying to the Merchant for goods and services while otherwise not using actively other services provided by Trisbee. In such cases the Application serves to the Merchant as a payment terminal These Terms and Conditions apply mutatis mutandis to the Merchant’s Customer.
-1.2.5.	“User” means any person using the payment or other services provided by Trisbee, whether the person has registration or not. The User therefore means both the Merchant’s Customer and the Registered and Identified User.
-1.2.6.	“Payment Account” means the virtual account maintained by Trisbee for the Identified User. The Identified User may transfer funds to the Payment Account from their bank account kept at a banking institution, doing so by bank transfer and/or by means of a (debit or credit) payment card (availability of this service is subject to changes over time). The funds kept on the Payment Account may be used by the Identified User to remit payments for goods or services to Merchants.
-1.2.7.	“Application” means the Trisbee mobile or web application serving for payment remittance. The mobile application can be downloaded from the App Store or Google Play.  The web application can be accessed at pay.trisbee.com or at trisbee.app. 
-1.2.8.	“Merchant” means an entity that has entered into an agreement with Trisbee on the provision of services consisting in acceptance of non-cash payments from Users and other services, and that meets all contractual and statutory conditions for the provision of the services.
+**1.2.1.**	**“Trisbee”** is the company providing services according to these Terms and Conditions. At the same time, Trisbee is a duly registered small-scale payment service provider licensed by the Czech National Bank, with its registered office at Na Příkopě 28, 115 03 Prague 1, Czech Republic. The Czech National Bank is the authority supervising Trisbee in the provision of payment services thereby.
+
+**1.2.2.**	**“Registered User”** means **any person who uses the services provided by Trisbee** and who, in order to enter into a contractual relationship therewith, has provided Trisbee with his/her identification data, has agreed to these Terms and Conditions, and/or has met other conditions stipulated for the provision of the selected service, and who has been registered for provision of the services by Trisbee.
+
+**1.2.3.**	**“Identified User”** means **any person who uses the payment or other services provided by Trisbee** and who, in order to enter into a contractual relationship therewith, has provided Trisbee with their identification data, has agreed to these Terms and Conditions, has met other conditions stipulated by law for the provision of payment services and, at the same time, who has been verified, approved and registered for provision of payment services by Trisbee.
+
+**1.2.4.**	**“Merchant’s Customer”** means **any person using the Trisbee payment system**, either by means of the Trisbee mobile or web application (hereinafter referred to as the **“Application”**) or, using the access to the Operator's server via a programming interface (hereinafter referred to as the **“API”**), **paying to the Merchant** for goods and services while otherwise not using actively other services provided by Trisbee. In such cases the Application serves to the Merchant as a payment terminal These Terms and Conditions apply mutatis mutandis to the Merchant’s Customer.
+
+**1.2.5.**	**“User”** means **any person using the payment or other services provided by Trisbee**, whether the person has registration or not. The User therefore means both the **Merchant’s Customer** and the **Registered and Identified User**.
+
+**1.2.6.**	**“Payment Account”** means the virtual account maintained by Trisbee for the Identified User. The Identified User may transfer funds to the Payment Account from their bank account kept at a banking institution, doing so by bank transfer and/or by means of a (debit or credit) payment card (availability of this service is subject to changes over time). The funds kept on the Payment Account may be used by the Identified User to remit payments for goods or services to Merchants.
+
+**1.2.7.**	**“Application”** means the Trisbee mobile or web application serving for payment remittance. The mobile application can be downloaded from the App Store or Google Play.  The web application can be accessed at pay.trisbee.com or at trisbee.app. 
+
+**1.2.8.**	**“Merchant”** means **an entity that has entered into an agreement with Trisbee on the provision of services consisting in acceptance of non-cash payments** from Users and other services, and that meets all contractual and statutory conditions for the provision of the services.
  
 SECTION 2 – SERVICES DESIGNED FOR USERS
 ---------------------------------------
 ## 2.1.	Specification of Services Designed for Users
 
-2.1.1.	Trisbee provides the User with the following services:
-a)	payment remittance 
-with the mobile or web Application, or 
-by accessing the Trisbee server via the application programming interface (API), 
+**2.1.1.**	Trisbee provides the User with the following services:
 
-b)	Payment Account (top-up account) management - a virtual account maintained for a Identified User who has decided to use this Trisbee payment service. The Identified User may transfer funds to the Payment Account from their bank account kept at a relevant banking institution by bank transfer or by means of a (debit or credit) payment card. The funds kept on the Payment Account may be used by the Identified User to remit payments for goods or services to Merchants,
+a)	**payment remittance** 
+- with the mobile or web Application, or 
+- by accessing the Trisbee server via the application programming interface (API), 
 
-c)	other services, the provision of which is currently offered by Trisbee to Users at the website www.trisbee.com. The conditions for the provision of these services may be published on the Trisbee website separately from these Terms and Conditions, however, such terms and conditions for the provision of services are considered an integral part of these Terms and Conditions for the entire duration of their validity.  
+b)	**Payment Account (top-up account) management** - a virtual account maintained for an Identified User who has decided to use this Trisbee payment service. The Identified User may transfer funds to the Payment Account from their bank account kept at a relevant banking institution by bank transfer or by means of a (debit or credit) payment card. The funds kept on the Payment Account may be used by the Identified User to remit payments for goods or services to Merchants,
 
-2.1.2.	The User may remit payments to the Merchant for the purchase of goods and services via the Application. Payments may be made by payment card or from the funds available on the Payment Account. Therefore, payment transactions can be made through the Application both with and without registration. For the provision of certain services is required the registration (e.g. payment with a stored payment card) or identification according to the Article 3.3. hereof (e.g. making payments from the Payment Account). 
-2.1.3.	Payment remittance is possible only within the Trisbee payment system, ie. the payment cannot be sent unless it is a payment in favor of a registered Merchant.
-2.1.4.	Remittance and acceptance of payments is described under Articles 3.5.1. and 3.5.2. of these Terms and Conditions and applies similarly to all  Users.
-2.1.5.	Trisbee does not provide a payment service to the User, who is not identified, in a situation where the User pays the Merchant using the Application or API. In this case, the Application or API serves as the Merchant’s payment terminal.
-2.1.6.	The provision of services to the User is not claimable; Trisbee is entitled to disallow or terminate provision of the service to the User, even if the User has met all the terms and conditions requested.
+c)	**other services**, the provision of which is currently offered by Trisbee to Users at the website www.trisbee.com. The conditions for the provision of these services may be published on the Trisbee website separately from these Terms and Conditions, however, such terms and conditions for the provision of services are considered an integral part of these Terms and Conditions for the entire duration of their validity.  
+
+**2.1.2.**	The User may remit payments to the Merchant for the purchase of goods and services via the Application. Payments may be made by payment card or from the funds available on the Payment Account. Therefore, payment transactions can be made through the Application both with and without registration. For the provision of certain services is required the registration (e.g. payment with a stored payment card) or identification according to the Article 3.3. hereof (e.g. making payments from the Payment Account).
+
+**2.1.3.**	Payment remittance is possible only within the Trisbee payment system, ie. the payment cannot be sent unless it is a payment in favor of a registered Merchant.
+
+**2.1.4.**	Remittance and acceptance of payments is described under Articles 3.5.1. and 3.5.2. of these Terms and Conditions and applies similarly to all  Users.
+
+**2.1.5.**	Trisbee does not provide a payment service to the User, who is not identified, in a situation where the User pays the Merchant using the Application or API. In this case, the Application or API serves as the Merchant’s payment terminal.
+
+**2.1.6.**	The provision of services to the User is not claimable; Trisbee is entitled to disallow or terminate provision of the service to the User, even if the User has met all the terms and conditions requested.
 
 ## 2.2.	Basic Conditions of the Agreement Conclusion and of Users Registration
 
-2.2.1.	The User must be at least 18 years old and must have a bank account held in their name opened with a trusted banking institution (operating in their home country or within the EEA).
-2.2.2.	Trisbee is entitled to request from the Registered and Identified User to communicate and document thereto their identification data. The reason for that consists in the contractual relationship concluded between the Registered or Identified User and Trisbee, in the need for Trisbee to comply with obligations arising from contractual relationships with entities involved in the provision of the services (eg payment gateway provider) and, at the same time, general prevention of risks by Trisbee as an entrepreneur. Trisbee always requires communication and documentation of only those data that are strictly necessary for the above reasons; processing and archiving of all data on the User always takes place in accordance with legal requirements and based on strictly set Trisbee internal rules. If Trisbee asks a User to provide and document thereto any data for the aforementioned reason, including during the contractual relationship, the User is obliged to provide and document such data. For more information about processing and retention of User data see the Privacy Policy.
-2.2.3.	Trisbee is entitled to decide on disapproval of registration and identification of a User, or on subsequent temporary ban on, termination or restriction of the use of payment or other services by those Users, in the event that: 
+**2.2.1.**	The User must be at least 18 years old and must have a bank account held in their name opened with a trusted banking institution (operating in their home country or within the EEA).
+
+**2.2.2.**	Trisbee is entitled to request from the Registered and Identified User to communicate and document thereto their identification data. The reason for that consists in the contractual relationship concluded between the Registered or Identified User and Trisbee, in the need for Trisbee to comply with obligations arising from contractual relationships with entities involved in the provision of the services (eg payment gateway provider) and, at the same time, general prevention of risks by Trisbee as an entrepreneur. Trisbee always requires communication and documentation of only those data that are strictly necessary for the above reasons; processing and archiving of all data on the User always takes place in accordance with legal requirements and based on strictly set Trisbee internal rules. If Trisbee asks a User to provide and document thereto any data for the aforementioned reason, including during the contractual relationship, the User is obliged to provide and document such data. For more information about processing and retention of User data see the [Privacy Policy](https://www.trisbee.com/en/CZ/terms/gdpr).
+
+**2.2.3.**	Trisbee is entitled to decide on disapproval of registration and identification of a User, or on subsequent temporary ban on, termination or restriction of the use of payment or other services by those Users, in the event that:
+
 (i)	the User does not provide the information and documents required for registration to be completed; 
+
 (ii)	the User does not provide the information and documents required for identification by law (Article 3.3 of these Terms and Conditions);
-(iii)	based on the verification of the information and documents provided by the User, Trisbee concludes that the User does not meet the conditions for the provision of the service (in particular pursuant to Article 2.2.1. of these Terms and Conditions); 
+
+(iii)	based on the verification of the information and documents provided by the User, Trisbee concludes that the User does not meet the conditions for the provision of the service (in particular pursuant to Article 2.2.1. of these Terms and Conditions);
+
 (iv)	on the basis of verification of all information and documents provided by the User, there may be reasonable doubts about veracity and authenticity of the facts and documents provided by the User or if Trisbee has reasonable doubts about credibility of the User;
-(v)	the provision of services to the User might potentially cause damage to Trisbee, including both material (risk of financial loss, risk of liability for damage caused to business partners or third party, etc.) and non-material (risk of damage to Trisbee's reputation, risk of damage to business relations of Trisbee with third parties, etc.) harm; 
+
+(v)	the provision of services to the User might potentially cause damage to Trisbee, including both material (risk of financial loss, risk of liability for damage caused to business partners or third party, etc.) and non-material (risk of damage to Trisbee's reputation, risk of damage to business relations of Trisbee with third parties, etc.) harm;
+
 (vi)	the provision of services to the User, or the performance of a specific service (such as a specific payment transaction) is not compatible with the moral, generally human or business values which Trisbee insists on adhering to;
+
 (vii)	the User uses services in an illegal or immoral manner, or uses offensive, obscene, vulgar, disrespectful or defamatory language towards Trisbee or towards any employees or agents acting on behalf of Trisbee; 
+
 (viii)	the User fundamentally violates these Terms and Conditions;
+
 (xi)	the User is declared bankrupt, insolvency or enforcement proceedings are conducted against the User, or the User dies or is declared deceased by the competent authority of the User’s country.
+
 Trisbee shall notify the User of the reasons for the User’s disapproval, for termination of services, temporary blocking or restriction of the provision of services to a User who is already registered, or refusal to perform a specific service only in such a way and to such an extent as to protect the content of Trisbee’s verification procedure and in order to ensure the effectiveness thereof.
  
 SECTION 3 – PAYMENT SERVICE AND BROKERAGE THEREOF
 -------------------------------------------------
 ## 3.1.	Terms of the Application Use by the User
 
-3.1.1. Trisbee develops and operates the Application, through which the User can perform payment transactions consisting in payment remittances to Merchants. 
-3.1.2. Trisbee grants the User a non-exclusive, non-transferable and free-of-charge license, ie. the right to use the Application, in accordance with these Terms and Conditions or, where applicable, in accordance with the terms of the platform that the Application was downloaded from. The license also applies to all later versions of the Application provided to the User, unless a new license to use the Application is provided simultaneously with the new Application version. 
-3.1.3.	The User may not independently distribute, publish or otherwise forward the Application to other persons; the Application is available for download via Google Play or the Apple Appstore or as a web application. The User understands that the Application was not created for individual needs of a particular User but for universal use. 
-3.1.4.	By downloading the Application or by using the web Application, the User acknowledges that Trisbee thereby gains access to certain information of the device on which the User has the Application installed or on which they use the Application. This includes information such as IP address, name of the device, the operating system version, and geolocation. In some cases, Trisbee has access to the device information only if the User enables this feature on the device.
+**3.1.1.** Trisbee develops and operates the Application, through which the User can perform payment transactions consisting in payment remittances to Merchants.
+
+**3.1.2.** Trisbee grants the User a non-exclusive, non-transferable and free-of-charge license, ie. the right to use the Application, in accordance with these Terms and Conditions or, where applicable, in accordance with the terms of the platform that the Application was downloaded from. The license also applies to all later versions of the Application provided to the User, unless a new license to use the Application is provided simultaneously with the new Application version. 
+
+**3.1.3.**	The User may not independently distribute, publish or otherwise forward the Application to other persons; the Application is available for download via Google Play or the Apple App store or as a web application. The User understands that the Application was not created for individual needs of a particular User but for universal use. 
+
+**3.1.4.**	By downloading the Application or by using the web Application, the User acknowledges that Trisbee thereby gains access to certain information of the device on which the User has the Application installed or on which they use the Application. This includes information such as IP address, name of the device, the operating system version, and geolocation. In some cases, Trisbee has access to the device information only if the User enables this feature on the device.
+
 3.1.5. By using the Application, the User agrees to refrain from:
 performing of operations such as translation, adjustment, modification, circumvention, reverse engineering, decomposition, disassembly, creation of derivatives or other interventions into any feature of the Application, or assisting to another person in the above-described interventions;
 using of the Application illegally, for illegal purposes, in a manner that is in violation of these Terms and Conditions, or treating the Application in a fraudulent or deceptive manner, such as hacking, inserting malicious code or malicious data into the Application or into the operating system;
