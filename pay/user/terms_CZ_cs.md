@@ -120,7 +120,9 @@ Důvody neschválení Uživatele, ukončení poskytování služeb, dočasnou bl
 **3.3.3.**	Provedení identifikace spočívá v
 
 (i)	ověření totožnosti Uživatele na základě Uživatelem sdělených údajů a předložených identifikačních dokladů 
+
 (ii)	ověření existence bankovního účtu vedeného na jméno Uživatele a
+
 (iii)	provedení verifikační platby prostřednictvím bankovního účtu Uživatele dle (ii).
 
 **3.3.4.**	Identifikačním procesem provede Trisbee Uživatele buďto přímo v Aplikaci, případně prostřednictvím e-mailových zpráv obsahujících příslušné instrukce a pokyny. V případě nejasností týkajících se procesu identifikace může Uživatel využít Trisbee zákaznickou podporu, kontakty jsou uvedeny jak v Aplikaci, tak na webové stránce [www.trisbee.com](www.trisbee.com).
