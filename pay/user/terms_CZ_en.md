@@ -26,6 +26,7 @@ These terms and conditions constitute basic agreement on the provision of paymen
 
 **1.2.8.**	**“Merchant”** means **an entity that has entered into an agreement with Trisbee on the provision of services consisting in acceptance of non-cash payments** from Users and other services, and that meets all contractual and statutory conditions for the provision of the services.
  
+
 SECTION 2 – SERVICES DESIGNED FOR USERS
 ---------------------------------------
 ## 2.1.	Specification of Services Designed for Users
@@ -78,6 +79,7 @@ c)	**other services**, the provision of which is currently offered by Trisbee to
 
 Trisbee shall notify the User of the reasons for the User’s disapproval, for termination of services, temporary blocking or restriction of the provision of services to a User who is already registered, or refusal to perform a specific service only in such a way and to such an extent as to protect the content of Trisbee’s verification procedure and in order to ensure the effectiveness thereof.
  
+
 SECTION 3 – PAYMENT SERVICE AND BROKERAGE THEREOF
 -------------------------------------------------
 ## 3.1.	Terms of the Application Use by the User
@@ -221,7 +223,7 @@ or
 - **identification data** (the User’s name, surname, telephone number and email); 
 - **identification of the transaction** that the cancellation/refund relates to - indication of the unique transaction code, date and amount of the transaction; 
 - **the reason(s) for requesting cancellation of the payment order or refund of the payment** - the reason can as a rule only be a technical or similar error on Trisbee side (error in the Application) or error made by the User while entering the payment order. In other cases, Trisbee will refer the User to resolve the situation directly with the Merchant as part of their business relationship.
-- 
+
 **A request to cancel** the payment transaction and **a request for a refund** may be submitted no later than 3 months from the date that the User entered the payment order in question. 
 
 The Users submit their requests for cancellation or refund electronically by email to **support@trisbee.com** or in writing to the address: **Trisbee s.r.o., Kamenická 33, Prague 7 - Holešovice, postal code 170 00**, or electronically by personal databox - ID DS Trisbee s.r.o .: **ghwkp68**.
@@ -234,6 +236,7 @@ The Users submit their requests for cancellation or refund electronically by ema
 
 **3.8.1.**	Trisbee does not charge any fees for the provided services to the User.
  
+
 SECTION 4 - FURTHER RIGHTS AND OBLIGATIONS
 ------------------------------------------
 ## 4.1.	Liability
@@ -301,7 +304,7 @@ SECTION 4 - FURTHER RIGHTS AND OBLIGATIONS
 - the User’s identification data (especially the name and surname of the User, their email address and telephone number);
 - description of the facts and reasons which are the subject of the complaint made by the User; 
 - the User’s proposal on resolving of the situation that is the reason for the filed complaint.
-- 
+
 Trisbee shall confirm to the User the receipt of the complaint and shall investigate it immediately, or shall request additional information or documents from the User concerning the filed complaint, and shall notify the User of the result of the investigation no later than 15 days from the date of the complaint receipt. The deadline for investigation of a complaint shall be adequately extended by the time for which Trisbee waited for the delivery of additional information and/or documents that are necessary for the investigation and decision-making about the complaint in question. If the User is not satisfied with the Trisbee’s decision about the complaint, they are entitled to resolve the matter in another available way in accordance with applicable law.
 
 **4.7.2.**	In the event of a dispute between Trisbee and the User concerning the use of Trisbee payment services, the User is entitled, among other things, to contact the Financial Arbitrator of the Czech Republic, with its registered office at Legerova 1581/69, 110 00 Prague 1, website [https://finarbitr.cz/en/](https://finarbitr.cz/en/).
