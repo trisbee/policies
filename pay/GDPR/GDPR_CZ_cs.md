@@ -1,7 +1,5 @@
-**Zásady ochrany soukromí v Trisbee**
+# Zásady ochrany soukromí v Trisbee
 ======================================
-
-## **Zásady ochrany soukromí a nařízení GDPR**
 
 Tento dokument přímo navazuje na Obchodní podmínky Trisbee pro Uživatele
 a Obchodní podmínky Trisbee pro Obchodníky vydané obchodní společností
