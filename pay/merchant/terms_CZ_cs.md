@@ -44,7 +44,7 @@ b) zprostředkování platební služby a
 
 c) další služby podle aktuální zveřejněné nabídky služeb.
 
-**2.1.2.**	Trisbee zřídí Obchodníkovi přístup do  webové aplikace Dashboard Business (https://business.trisbee.com), v níž může Obchodník sledovat veškeré informace spojené se smluvním vztahem s Trisbee. Jakmile je Obchodníkovi přístup k Dashboard Business zřízen, předá mu Trisbee odkaz pro přihlášení, obvykle e-mailovou zprávou.
+**2.1.2.**	Trisbee zřídí Obchodníkovi přístup do  webové aplikace Dashboard Business [www.business.trisbee.com](https://business.trisbee.com), v níž může Obchodník sledovat veškeré informace spojené se smluvním vztahem s Trisbee. Jakmile je Obchodníkovi přístup k Dashboard Business zřízen, předá mu Trisbee odkaz pro přihlášení, obvykle e-mailovou zprávou.
 
 **2.1.3.**	Poskytování služeb Obchodníkovi není nárokovatelné, Trisbee je oprávněno poskytování služby Obchodníkovi neumožnit nebo ji ukončit, a to i v případě, že Obchodník splnil všechny stanovené podmínky.
 
@@ -100,7 +100,7 @@ Ověření totožnosti je prováděno na základě Obchodníkem sdělených úda
 
 (iii)	provedení verifikační platby prostřednictvím bankovního účtu Obchodníka dle (ii).
 
-**2.3.4.**	Procesem ověření a identifikace provede Trisbee Obchodníka v rámci registrace Obchodníka na svých webových stránkách, případně prostřednictvím e-mailových zpráv obsahujících příslušné instrukce a pokyny. Stejným způsobem provede Trisbee Obchodníka i dodáním dalších požadovaných skutečností dle čl. 2.2.3. těchto Obchodních podmínek Business. V případě nejasností týkajících se procesu ověření a identifikace nebo dodání dalších informací a podkladů může Obchodník využít Trisbee zákaznickou podporu, kontakty jsou uvedeny na webové stránce [www.trisbee.com] (www.trisbee.com) i v Aplikaci Business.
+**2.3.4.**	Procesem ověření a identifikace provede Trisbee Obchodníka v rámci registrace Obchodníka na svých webových stránkách, případně prostřednictvím e-mailových zpráv obsahujících příslušné instrukce a pokyny. Stejným způsobem provede Trisbee Obchodníka i dodáním dalších požadovaných skutečností dle čl. 2.2.3. těchto Obchodních podmínek Business. V případě nejasností týkajících se procesu ověření a identifikace nebo dodání dalších informací a podkladů může Obchodník využít Trisbee zákaznickou podporu, kontakty jsou uvedeny na webové stránce [www.trisbee.com](www.trisbee.com) i v Aplikaci Business.
 
 **2.3.5.**	Identifikaci a ověření dalších skutečností dle čl. 2.3.3. a 2.2.3. Obchodních podmínek Business provádí Trisbee bez zbytečného odkladu poté, co od Obchodníka obdrží potřebné údaje a dokumenty. Po provedení identifikace a ověření rozhodne Trisbee o schválení či neschválení Obchodníka. O výsledku je Obchodník informován e-mailovou zprávou. Schválení Obchodníka je nenárokové a je vždy na uvážení Trisbee, a to na základě konkrétních individuálních okolností každého jednotlivého Obchodníka.
 
