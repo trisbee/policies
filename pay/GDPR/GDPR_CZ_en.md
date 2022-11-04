@@ -1,4 +1,4 @@
-**Trisbee Privacy Policy**
+# Trisbee Privacy Policy
 ==========================
 
 This document is directly related to the Trisbee Terms and Conditions -

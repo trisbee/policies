@@ -1,4 +1,4 @@
-**Zásady ochrany soukromí v Trisbee**
+# Zásady ochrany soukromí v Trisbee
 ======================================
 
 Tento dokument přímo navazuje na Obchodní podmínky Trisbee pro Uživatele
