@@ -38,11 +38,11 @@ Tyto obchodní podmínky představují základní obsah smlouvy o poskytování 
 
 **2.1.1.**	Trisbee poskytuje Obchodníkovi 
 
-	a) platební služby,
+a) platební služby,
 
-	b) zprostředkování platební služby a 
+b) zprostředkování platební služby a 
 
-	c) další služby podle aktuální zveřejněné nabídky služeb.
+c) další služby podle aktuální zveřejněné nabídky služeb.
 
 **2.1.2.**	Trisbee zřídí Obchodníkovi přístup do  webové aplikace Dashboard Business [www.business.trisbee.com](https://business.trisbee.com), v níž může Obchodník sledovat veškeré informace spojené se smluvním vztahem s Trisbee. Jakmile je Obchodníkovi přístup k Dashboard Business zřízen, předá mu Trisbee odkaz pro přihlášení, obvykle e-mailovou zprávou.
 
@@ -90,11 +90,11 @@ Důvody neschválení Obchodníka, ukončení poskytování služeb, dočasnou b
 
 (i)	ověření totožnosti Obchodníka 
 
-	- **ověření totožnosti Obchodníka fyzické osoby** z identifikačních dokladů fyzické osoby
+- **ověření totožnosti Obchodníka fyzické osoby** z identifikačních dokladů fyzické osoby
 
-	- **ověření totožnosti Obchodníka právnické osoby** z dokladu o  existenci právnické osoby a současně ověření totožnosti fyzické osoby jednající za Obchodníka 		právnickou osobu (statutární orgán právnické osoby, případně osoba písemně zmocněná k jednání za právnickou osobu), případně je-li statutárním orgánem, jeho 		členem nebo ovládající osobou příslušné právnické osoby jiná právnická osoba, je nezbytné ověřit totožnost (identifikační údaje) této právnické osoby.
+- **ověření totožnosti Obchodníka právnické osoby** z dokladu o  existenci právnické osoby a současně ověření totožnosti fyzické osoby jednající za Obchodníka 	právnickou osobu (statutární orgán právnické osoby, případně osoba písemně zmocněná k jednání za právnickou osobu), případně je-li statutárním orgánem, jeho členem nebo ovládající osobou příslušné právnické osoby jiná právnická osoba, je nezbytné ověřit totožnost (identifikační údaje) této právnické osoby.
 
-	Ověření totožnosti je prováděno na základě Obchodníkem sdělených údajů a předložených identifikačních dokladů a současně na základě veřejně dostupných údajů o 		Obchodníkovi.
+Ověření totožnosti je prováděno na základě Obchodníkem sdělených údajů a předložených identifikačních dokladů a současně na základě veřejně dostupných údajů o 	Obchodníkovi.
  
 (ii)	ověření existence bankovního účtu vedeného na jméno Obchodníka a
 
