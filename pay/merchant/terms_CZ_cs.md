@@ -1,15 +1,14 @@
-Všeobecné obchodní podmínky Trisbee
-===================================
-Obchodní podmínky pro Obchodníky 
-================================
-ČÁST  1 – ÚVOD A ZÁKLADNÍ POJMY
--------------------------------
- 
-# 1.1. Uzavření smlouvy s Obchodníkem
+# Všeobecné obchodní podmínky Trisbee
+
+# Obchodní podmínky pro Obchodníky 
+
+## ČÁST  1 – ÚVOD A ZÁKLADNÍ POJMY
+
+### 1.1. Uzavření smlouvy s Obchodníkem
  
 Tyto obchodní podmínky představují základní obsah smlouvy o poskytování služeb mezi Trisbee s.r.o., se sídlem Praha 6, Vokovice, K Červenému vrchu 678/1, PSČ 160 00, Česká republika, IČO: 04775660, zapsané v Obchodním rejstříku vedeném u Městského soudu v Praze pod spisovou značkou C 306886 (dále jen jako **“Trisbee”**) a obchodníkem. Smlouva je uzavřena tím, že obchodník (dále jen jako **“Obchodník”**) poskytne Trisbee údaje a dokumenty nezbytné pro registraci a zároveň vysloví souhlas s těmito obchodními podmínkami, které upravují práva a povinnosti Trisbee a Obchodníka při poskytování služeb (dále jen jako **“Obchodní podmínky Business”**), a Trisbee následně Obchodníka pro poskytování poptávaných služeb ověří a schválí. Nedílnou součástí Obchodních podmínek Business je ceník služeb (dále jen jako **“Ceník”**) zveřejněný na [https://www.trisbee.com/cs/CZ/cenik](www.trisbee.com/cs/CZ/cenik). Poskytování některých služeb může být podmíněno souhlasem Obchodníka s dalšími obchodními podmínkami upravujícími tyto služby.
  
-# 1.2. Základní pojmy
+### 1.2. Základní pojmy
 
 **1.2.1.**	**“Trisbee”** je společností poskytující služby podle těchto Obchodních podmínek Business. Trisbee je současně řádně registrovaným poskytovatelem platebních služeb malého rozsahu na základě povolení uděleného Českou národní bankou, se sídlem Na Příkopě 28, 115 03 Praha 1, Česká republika. Česká národní banka je orgánem dohlížejícím nad činností Trisbee při poskytování platebních služeb.
 
@@ -31,10 +30,9 @@ Tyto obchodní podmínky představují základní obsah smlouvy o poskytování 
 
 **1.2.10.** **“Dashboardem Business”** se rozumí webová aplikace, v níž může Obchodník sledovat veškeré informace spojené se smluvním vztahem s Trisbee, případně může v této aplikaci také nastavit některé dílčí parametry poskytovaných služeb.
  
-ČÁST 2 - SLUŽBY PRO OBCHODNÍKA
-------------------------------
+## ČÁST 2 - SLUŽBY PRO OBCHODNÍKA
 
-# 2.1.	Specifikace služeb pro Obchodníka
+### 2.1.	Specifikace služeb pro Obchodníka
 
 **2.1.1.**	Trisbee poskytuje Obchodníkovi 
 
@@ -50,7 +48,7 @@ c) další služby podle aktuální zveřejněné nabídky služeb.
 
 **2.1.4.**	Odesílání a příjímání plateb je možné pouze v rámci platebního systému Trisbee, tzn. platbu nelze odeslat, pokud se nejedná o platbu ve prospěch registrovaného Obchodníka nebo Registrovaného či Identifikovaného Uživatele.
 
-# 2.2.	Základní podmínky uzavření smlouvy a registrace Obchodníka
+### 2.2.	Základní podmínky uzavření smlouvy a registrace Obchodníka
 
 **2.2.1.**	Smluvní vztah mezi Trisbee a Obchodníkem vzniká uzavřením smlouvy dle čl. 1.1. těchto Obchodních podmínek Business. 
 
@@ -80,7 +78,7 @@ c) další služby podle aktuální zveřejněné nabídky služeb.
 
 Důvody neschválení Obchodníka, ukončení poskytování služeb, dočasnou blokaci nebo omezení poskytování služeb, případně odmítnutí provedení konkrétní služby sdělí Trisbee Obchodníkovi pouze takovým způsobem a v takovém rozsahu, aby Trisbee ochránilo obsah svého ověřovacího procesu za účelem zajištění jeho efektivity. 
 
-# 2.3.	Ověření a Identifikace Obchodníka 
+### 2.3.	Ověření a Identifikace Obchodníka 
 
 **2.3.1.**	Vzhledem k tomu, že Trisbee, jako registrovaný poskytovatel platebních služeb, poskytuje Obchodníkovi finanční služby, případně tyto služby zprostředkovává, je povinno shromáždit o Obchodníkovi a zprostředkovaných transakcích informace, které jsou vyžadovány příslušnými zákony, a to zejména zákonem č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu (dále jen **“AML zákon”**), ale i jinými zákony. Veškeré takto shromážděné informace Trisbee zpracovává a archivuje pro potřeby plnění zákonných povinností, po dobu stanovenou právními předpisy.
 
@@ -110,9 +108,9 @@ Ověření totožnosti je prováděno na základě Obchodníkem sdělených úda
 
 **2.3.8.**	Trisbee je v odůvodněných případech, na základě novelizace zákonných požadavků nebo v rámci pravidelné nebo náhodné kontroly, oprávněno i v průběhu trvání smluvního vztahu provést identifikaci a kontrolu Obchodníka. Obchodník je povinen se v takových případech podrobit provedení další identifikace a/nebo kontroly, přičemž předchozí schválení nemá žádný vliv na výsledek nové identifikace a kontroly Obchodníka.
  
-ČÁST 3 - PLATEBNÍ SLUŽBA A ZPROSTŘEDKOVÁNÍ PLATEBNÍ SLUŽBY
-----------------------------------------------------------
-# 3.1.	Podmínky používání Aplikace Business a Platebních metod Business Obchodníkem
+## ČÁST 3 - PLATEBNÍ SLUŽBA A ZPROSTŘEDKOVÁNÍ PLATEBNÍ SLUŽBY
+
+### 3.1.	Podmínky používání Aplikace Business a Platebních metod Business Obchodníkem
 
 **3.1.1.**	Trisbee vyvíjí a provozuje software sloužící k přijímání plateb, zejména ve formě Aplikace Business, případně i v jiné formě dohodnuté mezi Trisbee a Obchodníkem (dále jen jako **“Platební metody Business”**). Dále spravuje API, které zpřístupňuje Obchodníkovi a které umožňuje integraci softwaru pro přijímání plateb samotným Obchodníkem. Aplikace Business a Dashboard Business slouží Obchodníkovi jako platební terminál.
 
@@ -133,7 +131,7 @@ Ověření totožnosti je prováděno na základě Obchodníkem sdělených úda
 
 **3.1.7.**	V případě ukončení smluvního vztahu mezi Obchodníkem a Trisbee doporučuje Trisbee Obchodníkovi z důvodu bezpečnosti a ochrany odstranit Aplikaci Business a všechny komponenty Platebních metod Business ze všech zařízení Obchodníka.
 
-# 3.2. Přijímání plateb Obchodníkem
+### 3.2. Přijímání plateb Obchodníkem
 
 **3.2.1.**	Uživatel může zadávat příkazy k úhradě ve prospěch Obchodníka, a to zejména pomocí uživatelské Aplikace, případně jinou metodou kterou Trisbee nabízí k provádění plateb ve prospěch Obchodníka registrovaného u Trisbee. 
 
@@ -151,7 +149,7 @@ a)	Platby Uživatele z Platebního účtu Trisbee (Trisbee je zde poskytovatelem
 
 b)	Pokud Trisbee zprostředkovává platební službu (platby kartou, Apple Pay, Google Pay, nepřímé dání platebního příkazu z bankovního účtu), kdy  tuto službu poskytuje subjekt, se kterým je Trisbee ve smluvním vztahu, pak se zasílání plateb Obchodníkovi řídí obchodními podmínkami daného poskytovatele služby. O aktuálních podmínkách je Obchodník informován při uzavření dohody s Trisbee o zprostředkování platební služby.
  
-# 3.3.	Podezřelé a rizikové transakce
+### 3.3.	Podezřelé a rizikové transakce
 
 **3.3.1.** V případě, že Trisbee a/nebo poskytovatel platební služby po ověření platební transakce zadané ve prospěch Obchodníka v souladu s čl. 3.2.5. těchto Obchodních podmínek Business dospěje k závěru, že platební transakce je podezřelá a/nebo riziková (existuje důvodné podezření z páchání podvodu),
 
@@ -183,7 +181,7 @@ anebo
 
 **3.3.6.**	Obdobně dle ust. 3.3.4. a 3.3.5. těchto Obchodních podmínek Business postupuje Trisbee i v případě, že po zpracování platebního příkazu Uživatele zjistí skutečnosti, na základě kterých je třeba předmětnou platební transakci považovat za podezřelou nebo rizikovou. Takto je Trisbee oprávněno postupovat do uplynutí 1 měsíce ode dne zadání platebního příkazu Uživatelem. Pro případ, že bude předmětná platební transakce shledána podezřelou nebo rizikovou, provede Trisbee zrušení platební transakce, pokud je to možné a nezbytné, a to v souladu s podmínkami poskytovatele platební služby.
  
-# 3.4.	Reklamace platební transakce, storno a vrácení platby
+### 3.4.	Reklamace platební transakce, storno a vrácení platby
 
 **3.4.1.**	Pokud má Obchodník za to, že konkrétní platba, která byla připsána na jeho bankovní účet není v souladu s příkazem k úhradě zadaným Uživatelem a zaslanou notifikací, anebo v případě, že Obchodník neobdržel platbu zadanou Uživatelem, která mu byla notifikována, případně, že neobdržel ani notifikaci platby, o které je přesvědčen, že byla Uživatelem zadána k úhradě, může tuto platební transakci u Trisbee reklamovat. 
 
@@ -225,15 +223,15 @@ nebo
 
 **3.4.7.**	Veškeré reklamace týkající se zboží nebo služeb, které Obchodník poskytl Uživateli, je Obchodník povinen řešit přímo s Uživatelem. 
  
-# 3.5. Poplatky
+### 3.5. Poplatky
 
 **3.5.1.**	Trisbee účtuje Obchodníkovi poplatek za služby (dále jen jako “Poplatek”) v závislosti na Obchodníkem zvolených službách a dle podmínek zvolené služby. Vybrané služby poskytuje Trisbee za stanovených podmínek zdarma. Výše Poplatku se vždy řídí aktuálním ceníkem Trisbee dostupným na webových stránkách [https://www.trisbee.com/cs/CZ/cenik](https://www.trisbee.com/cs/CZ/cenik). 
 
 **3.5.2.**	Poplatek je splatný a Obchodník ho hradí ve prospěch Trisbee dle vyúčtování zaslaného Obchodníkovi e-mailovou zprávou. 
  
-ČÁST 4 – DALŠÍ PRÁVA A POVINNOSTI
----------------------------------
-# 4.1.	Označení využívání platebních služeb Trisbee
+## ČÁST 4 – DALŠÍ PRÁVA A POVINNOSTI
+
+### 4.1.	Označení využívání platebních služeb Trisbee
 
 **4.1.1.**	Obchodník se zavazuje označit viditelně využívání platebních služeb Trisbee:
 
@@ -249,7 +247,7 @@ nebo
 
 **4.1.5.** V případě, že Obchodník poruší některou z povinností  uvedených  v čl. 4.1.1., 4.1.3. a 4.1.4. těchto Obchodních podmínek Business, je Trisbee oprávněno okamžitě pozastavit a následně též případně ukončit poskytování služeb Obchodníkovi. Rozhodnutí je vždy na uvážení Trisbee. Pro případ, že Trisbee pozastaví nebo ukončí poskytování služeb Obchodníkovi, sdělí mu bez prodlení tuto skutečnost, a to včetně důvodu takového rozhodnutí. 
 
-# 4.2.	Další povinnosti Obchodníka
+### 4.2.	Další povinnosti Obchodníka
 
 **4.2.1.**	**Obchodník je při využívání služeb Trisbee povinen dodržovat, kromě jiných, i následující povinnosti:**
 
@@ -261,7 +259,7 @@ nebo
 - Obchodník je povinen si počínat při každé jednotlivé obchodní transakci uskutečněné pomocí jakékoli Platební metody Business, případně i pomocí jiných nástrojů sloužících pro využívání služeb poskytovaných Trisbee, náležitě obezřetně a v případě podezření na jakékoli významně nestandardní nebo podvodné jednání ze strany Uživatele nebo jiné třetí osoby, které by mohlo znamenat újmu na straně Trisbee nebo i Obchodníka samotného, se zavazuje obchodní transakci nahlásit Trisbee a tuto nezprocesovat. I v případě, že obchodní transakci neodmítne provést, je vždy povinen bez prodlení oznámit podezření na podvodné jednání Trisbee e-mailem na [support@trisbee.com](support@trisbee.com), případně jiným vhodným způsobem. 
 - Obchodník je povinen poskytnout řádnou a včasnou součinnost, jestliže Trisbee nebo jeho obchodní partner poskytující platební službu vyhodnotí konkrétně specifikované platební transakce ve prospěch Obchodníka jako podezřelé a rizikové (bez ohledu na povahu tohoto podezření) nebo v případě, že Uživatel požádá prostřednictvím své banky o vrácení platby, a Trisbee z toho důvodu požádá Obchodníka o sdělení informací týkajících se konkrétních transakcí a předložení dokumentů vztahujících se k předmětným transakcím.
 
-# 4.3.	Odpovědnost za újmu
+### 4.3.	Odpovědnost za újmu
 
 **4.3.1.**	Obchodník je plně odpovědný za jakoukoliv újmu (majetkovou i nemajetkovou) způsobenou jeho jednáním Trisbee, osobám spřízněným s Trisbee podílejících se na zprostředkování platebních a dalších služeb, případně i Uživatelům, pokud tuto újmu způsobí Obchodník 
 
@@ -283,7 +281,7 @@ nebo
 
 **4.3.3.**	Trisbee není žádným způsobem odpovědno za bezpečnost, zákonnost, kvalitu nebo jiné vlastnosti zboží nebo služeb Obchodníka, jejichž nákup byl proveden s využitím služby Trisbee. 
 
-# 4.4.	Doručování
+### 4.4.	Doručování
 
 **4.4.1.**	Trisbee doručuje Obchodníkovi veškerá sdělení, oznámení či písemnosti především na e-mailovou adresu zadanou Obchodníkem při registraci, případně na Obchodníkem později sdělenou e-mailovou adresu, dále v Aplikaci Business nebo prostřednictvím Dashboard Business.
 
@@ -291,13 +289,13 @@ nebo
 
 **4.4.3.**	Obchodník může kontaktovat Trisbee prostřednictvím všech dostupných kanálů, které Trisbee uvádí na svých webových stránkách, profilech na sociálních sítích či na jiných komunikačních kanálech spravovaných Trisbee, pokud není pro konkrétní řešení situace v těchto Obchodních podmínkách Business nebo dalších obchodních podmínkách poskytovaných služeb stanovený konkrétní způsob komunikace a doručování žádostí, sdělení nebo jiných písemností (např. podání reklamace dle čl. 3.4.3. těchto Obchodních podmínek Business).
  
-# 4.5.	Změny údajů Obchodníka
+### 4.5.	Změny údajů Obchodníka
 
 **4.5.1.**	Obchodník je povinen oznámit Trisbee každou změnu svých identifikačních nebo kontaktních údajů (změnu jména, příjmení, obchodní firmy, e-mailové adresy atd.), stejně jako změnu veškerých skutečností týkajících se jeho podnikatelské činnosti, pokud mají vliv na poskytování služeb Obchodníkovi (změny v předmětu podnikatelské činnosti, změna sídla podnikání, změny týkající se provozovny Obchodníka, prohlášení úpadku, vstup do likvidace, změny týkající se oprávnění k provozování podnikatelské činnosti, apod.). Současně je Obchodník povinen oznámit a případně i relevantním dokumentem doložit Trisbee veškeré změny dalších skutečností, které Trisbee u Obchodníka ověřovalo v rámci identifikace a které je povinno evidovat o Obchodníkovi v rámci poskytování platebních služeb z pohledu AML zákona (změna adresy trvalého bydliště Obchodníka/jednatele Obchodníka, změna čísla bankovního účtu Obchodníka, atd.). Pokud byly Obchodníkovi/jednateli Obchodníka v mezidobí od provedení identifikace vystaveny nové identifikační průkazy (tj. průkaz totožnosti a druhý podpůrný doklad totožnosti předložený Obchodníkem/jednatelem Obchodníka v rámci identifikace), je Obchodník povinen tyto Trisbee též doložit.
 
 **4.5.2.**	Změny údajů je Obchodník povinen oznámit a doložit Trisbee nejpozději do 10 pracovních dnů ode dne, kdy došlo ke změně předmětných skutečností.
  
-# 4.6.	Jazyk
+### 4.6.	Jazyk
  
 **4.6.1.**	Obchodník tímto bere na vědomí, že komunikačním jazykem mezi ním a Trisbee je primárně jazyk, který si Obchodník zvolí  v rámci registrace, pokud se jedná o jazyk země, ve které Trisbee poskytuje své služby. Obchodník odsouhlasením těchto Obchodních podmínek Business výslovně potvrzuje, že rozumí jazyku, který si zvolil v rámci procesu registrace a ve kterém s ním Trisbee komunikuje.
 
@@ -305,19 +303,19 @@ nebo
 
 **4.6.3.**	Obchodní podmínky Business jsou vyhotoveny v českém a anglickém jazyce. Všechny ostatní jazykové verze těchto Obchodních podmínek Business jsou vždy pouze překlady české nebo anglické verze. V případě rozporů nebo nesrovnalostí mezi českou, případně anglickou verzí a jinými jazykovými verzemi, má přednost česká, resp. anglická verze.
 
-# 4.7. Potvrzení podle AML zákona
+### 4.7. Potvrzení podle AML zákona
  
 **4.7.1.**	Odsouhlasením těchto Obchodních podmínek Business Obchodník potvrzuje, že **není politicky exponovanou osobou** ve smyslu § 4 odst. 5 AML zákona. Politicky exponovanou osobou má zákon na mysli fyzickou osobu, která je nebo byla ve významné veřejné funkci s celostátním nebo regionálním významem a dále také osoby blízké či jinak propojené s takovou osobou.
 
 **4.7.2.**	Pokud si Obchodník není jistý, zda a za jakých podmínek může využívat služby Trisbee, může se na Trisbee kdykoliv obrátit s tím, že okolnosti týkající se podmínek stanovených AML zákonem budou Trisbee společně s Obchodníkem ověřeny.
  
-# 4.8.	Technické požadavky
+### 4.8.	Technické požadavky
 
 **4.8.1.**	Trisbee může stanovit technické požadavky, které je Obchodník povinen dodržet při implementaci a používání Platebních metod Business a jiných nástrojů sloužících pro využití služeb Trisbee. Tyto požadavky se mohou v čase měnit. Může jít zejména o technické požadavky na konkrétní technické řešení pro napojení systému Obchodníka na API. 
 
 **4.8.2.**	Obchodník je povinen vyhovět stanoveným technickým požadavkům bez zbytečného odkladu poté, co ho o nich Trisbee informuje, nejpozději ve lhůtě oznámené Trisbee spolu se stanovenými (novými) technickými požadavky. Pokud Obchodník technické požadavky nenaplní, není oprávněn (nadále) využívat konkrétní služby nebo nástroje pro používání služeb, pro které jsou tyto požadavky stanoveny. Pokud pro Obchodníka (nové) technické požadavky představují podstatné ztížení nebo omezení využívání služeb, je Obchodník oprávněn kdykoliv jednostranně vypovědět smlouvu o poskytování služeb.
  
-# 4.9.	Dostupnost služeb
+### 4.9.	Dostupnost služeb
 
 **4.9.1.**	Trisbee tímto výslovně upozorňuje, že neručí za žádný konkrétní rozsah ani dostupnost služeb Trisbee, které jsou poskytovány Obchodníkovi bezplatně. Trisbee však odpovídá Obchodníkovi za konkrétní smluvený obsah, rozsah a dostupnost služeb, které jsou poskytovány Obchodníkovi za úplatu.
 
@@ -325,7 +323,7 @@ nebo
 
 **4.9.3.**	Trisbee vždy učiní vše pro to, aby Obchodníka o omezení nebo přerušení provozu některých služeb včas a vhodným způsobem informovalo. V případě plánovaných aktualizací systému informuje Trisbee Obchodníka v dostatečném časovém předstihu zejména prostřednictvím e-mailové zprávy nebo zprávy v Aplikaci Business, případně v Dashboard Business. V případě náhlých a neočekávaných událostí omezujících provoz aplikací nebo některých jiných služeb se toto ustanovení neuplatní. Trisbee se však zavazuje vynaložit veškeré úsilí na neprodlené řešení vzniklých neočekávaných omezení některých prvků systému Trisbee a současně se zavazuje o nich průběžně vhodným způsobem informovat Obchodníka, pokud je to v daném případě možné.
  
-# 4.10. Spory
+### 4.10. Spory
 
 **4.10.1.** V případě, že Obchodník není spokojený se službami poskytovanými Trisbee v jakémkoliv ohledu, je oprávněn obrátit se se svou stížností přímo na Trisbee, a to zejména e-mailem na [support@trisbee.com](support@trisbee.com). Aby se Trisbee mohlo stížností Obchodníka zabývat, musí stížnost obsahovat alespoň:
 
@@ -337,7 +335,7 @@ Trisbee potvrdí Obchodníkovi přijetí stížnosti s tím, že tuto obratem pr
 
 **4.10.2.** V případě poskytovaných platebních služeb (platby prostřednictvím Platebního účtu Uživatele) má Obchodník také právo obrátit se se stížností na orgán dohledu nad činností Trisbee jako poskytovatele platebních služeb, jímž je Česká národní banka, Na Příkopě 864/28, 115 03 Praha 1. Více o činnosti ČNB jako orgánu dohledu naleznete zde: [https://www.cnb.cz/cs/dohled-financni-trh/](https://www.cnb.cz/cs/dohled-financni-trh/). 
  
-# 4.11. Trvání smlouvy a změny obchodních podmínek
+### 4.11. Trvání smlouvy a změny obchodních podmínek
 
 **4.11.1.** Uzavřením smlouvy dle čl. 1.1. těchto Obchodních podmínek Business, případně dalších obchodních podmínek vztahujících se na služby Trisbee, Obchodník potvrzuje, že mu byly před jejím uzavřením poskytnuty veškeré potřebné informace důležité pro jeho rozhodnutí uzavřít s Trisbee smlouvu. Dále potvrzuje, že se s těmito Obchodními podmínkami Business, případně dalšími obchodními podmínkami upravujícími práva a povinnosti ve vztahu k dalším službám Trisbee, s dostatečným předstihem před uzavřením smlouvy seznámil, že rozumí veškerému obsahu smlouvy, považuje ho za určitý a srozumitelný, a že jsou mu jednotlivá práva a povinnosti plynoucí ze smluvního vztahu s Trisbee zcela zřejmá.
  
