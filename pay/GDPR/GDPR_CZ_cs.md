@@ -1,5 +1,5 @@
 # Zásady ochrany soukromí v Trisbee
-======================================
+
 
 Tento dokument přímo navazuje na Obchodní podmínky Trisbee pro Uživatele
 a Obchodní podmínky Trisbee pro Obchodníky vydané obchodní společností
@@ -23,43 +23,27 @@ Obchodník (dále jen jako “**Služba**”), anebo
 \(b) pokud Vám někdo odešle platbu přes Trisbee Službu.
 
 V případě jakýchkoliv dotazů nebo nejasností můžete Trisbee kontaktovat
-telefonicky na tel. +420 774 140 044, písemně e-mailem na
-[*podpora@trisbee.com*](mailto:podpora@trisbee.com) či na adrese
-kanceláře Kamenická 33, 170 00 Praha 7, případně elektronicky datovou
+telefonicky na **tel. +420 774 140 044**, písemně e-mailem na
+[podpora@trisbee.com](mailto:podpora@trisbee.com) či na adrese
+kanceláře **Kamenická 33, 170 00 Praha 7**, případně elektronicky datovou
 schránkou - ID DS Trisbee s.r.o.: **ghwkp68**.
 
-**(1) S jakými osobními údaji pracujeme?**
-------------------------------------------
+## **(1) S jakými osobními údaji pracujeme?**
 
-„**Osobním údajem**“ je jakákoliv informace týkající se identifikované
+**"Osobním údajem"** je jakákoliv informace týkající se identifikované
 nebo identifikovatelné osoby.
 
 Trisbee shromažďuje následující kategorie osobních údajů:
 
--   Informace o uskutečněných transakcích, jako je datum transakce,
-    > celková částka transakce, číslo platebního a bankovního účtu, v
-    > případě, že platební systém umožňuje platby prostřednictvím
-    > platební karty, pak je to unikátní náhradní identifikace platební
-    > karty Uživatele (takzvaný token), dále informace doprovázející
-    > platební transakci, jako je jméno a adresa Obchodníka nebo
-    > Uživatele, telefonní číslo nebo e-mailová adresa.
+-   Informace o uskutečněných transakcích, jako je datum transakce, celková částka transakce, číslo platebního a bankovního účtu, v případě, že platební systém umožňuje platby prostřednictvím platební karty, pak je to unikátní náhradní identifikace platební karty Uživatele (takzvaný token), dále informace doprovázející platební transakci, jako je jméno a adresa Obchodníka nebo Uživatele, telefonní číslo nebo e-mailová adresa.
 
--   Informace poskytnuté Obchodníkem nebo Uživatelem při registraci k
-    > Službám Trisbee nebo v souvislosti s jejich využíváním či při
-    > identifikaci podle zákona č. 253/2008 Sb., o některých opatřeních
-    > proti legalizaci výnosů z trestné činnosti a financování
-    > terorismu, ve znění pozdějších předpisů, případně jakékoli
-    > informace sdělené Obchodníkem nebo Uživatelem dobrovolně.
+-   Informace poskytnuté Obchodníkem nebo Uživatelem při registraci k Službám Trisbee nebo v souvislosti s jejich využíváním či při identifikaci podle zákona č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu, ve znění pozdějších předpisů, případně jakékoli informace sdělené Obchodníkem nebo Uživatelem dobrovolně.
 
--   Informace o využívání webových stránek, zařízení a mobilních
-    > aplikací a podobné informace shromážděné pomocí automatizovaných
-    > prostředků, jako jsou soubory cookies a podobné technologie.
+-   Informace o využívání webových stránek, zařízení a mobilních aplikací a podobné informace shromážděné pomocí automatizovaných prostředků, jako jsou soubory cookies a podobné technologie.
 
--   Informace o Klientech Obchodníka v takovém rozsahu, aby bylo možné
-    > zpracování platby a odeslání platby Obchodníkovi.
+-   Informace o Klientech Obchodníka v takovém rozsahu, aby bylo možné zpracování platby a odeslání platby Obchodníkovi.
 
-**(2) Kdo s vašimi údaji pracuje?**
------------------------------------
+## **(2) Kdo s vašimi údaji pracuje?**
 
 S vašimi údaji pracuje především Trisbee jako poskytovatel Služby a
 správce těchto osobních údajů. V některých případech je ovšem nutné
@@ -69,8 +53,7 @@ splnění veškerých smluvních a zákonných povinností Trisbee vůči Vám,
 státním institucím či jiným subjektům vyplývající z činnosti Trisbee
 nebo jako prevence a ochrana před podvodnými platebními transakcemi.
 
-**(3) Proč s vašimi údaji pracujeme?**
---------------------------------------
+## **(3) Proč s vašimi údaji pracujeme?**
 
 A.  Abychom Vám mohli poskytnout Služby, které jste si objednali.
 Například když Vám vedeme platební účet, pracujeme s údaji o
@@ -100,8 +83,7 @@ identifikace uživatele platebních služeb jako prevenci a ochranu
 před podvodnými platebními transakcemi nebo abychom splnili své
 účetní a daňové povinnosti.
 
-**(4) Jak dlouho budeme s údaji pracovat?**
--------------------------------------------
+## **(4) Jak dlouho budeme s údaji pracovat?**
 
 S údaji k účelu (A.) budeme pracovat, dokud nepřestanete Službu
 používat. S údaji k účelu (B.) budeme pracovat po dobu nutnou k
@@ -114,8 +96,7 @@ nebo od vašeho posledního využití Služby, případně od přijetí platby
 přes Službu. S údaji k účelu (E.) budeme pracovat, dokud trvá právní
 povinnost.
 
-**(5) Kde s vašimi údaji pracujeme?**
--------------------------------------
+## **(5) Kde s vašimi údaji pracujeme?**
 
 V rámci EU. Pokud jsme nuceni údaje, v nezbytně nutném rozsahu, a to pro
 zajištění našich smluvních i právních povinností, předat mimo EU, bude
@@ -124,8 +105,7 @@ režimu programu Privacy Shield (program spolupráce s USA) – bližší
 informace naleznete na stránkách Evropské komise nebo Úřadu pro ochranu
 osobních údajů.
 
-**(6) Vaše práva**
-------------------
+## **(6) Vaše práva**
 
 Právní předpisy na ochranu osobních údajů (zejména zák. č. 101/2000 Sb.,
 o ochraně osobních údajů, v platném znění a dále Nařízení Evropského
@@ -165,7 +145,7 @@ různá práva v oblasti ochrany osobních údajů.
 Pro uplatnění jakéhokoliv z práv stanovených příslušnými právními
 předpisy nás můžete kontaktovat prostřednictvím výše uvedených
 kontaktních údajů – nejjednodušší je poslat nám e-mail na
-[*podpora@trisbee.com*](mailto:podpora@trisbee.com) a my Vám rádi
+[podpora@trisbee.com](mailto:podpora@trisbee.com) a my Vám rádi
 poradíme a pomůžeme s uplatněním vašich práv. Pokud byste se domnívali,
 že zpracováním vašich osobních údajů porušujeme právní předpisy, máte
 právo podat stížnost u národního dozorového úřadu (Pro ČR - Úřad pro
