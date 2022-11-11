@@ -1,15 +1,14 @@
-Trisbee General Terms and Conditions 
-====================================
-Merchant’s Terms and Conditions 
-===============================
-SECTION 1 – INTRODUCTION AND BASIC TERMS
-----------------------------------------
- 
-# 1.1. Agreement with the Merchant
+# Trisbee General Terms and Conditions 
+
+# Merchant’s Terms and Conditions 
+
+## SECTION 1 – INTRODUCTION AND BASIC TERMS
+
+### 1.1. Agreement with the Merchant
  
 These Terms and Conditions constitute basic agreement on the provision of services between Trisbee s.r.o, with its registered office at Prague 6, Vokovice, K Červeném vrchu 678/1, postal code 160 00, Czech Republic, Company ID No.: 04775660, registered in the Commercial Register maintained by the Municipal Court in Prague, file number C 306886 (hereinafter **“Trisbee”**) and the merchant. The agreement is deemed concluded once that the merchant (hereinafter referred to as the **“Merchant”**) provides Trisbee with the data and documents necessary for registration and, at the same time, expresses their agreement to these terms and conditions, which regulate the rights and obligations of Trisbee and the Merchant in respect with services provision (hereinafter referred to as the **“Business Terms and Conditions"**), and once Trisbee subsequently verifies and approves the Merchant for the provision of the requested services. An integral part of the Business Terms and Conditions is the price list of services (hereinafter referred to as the **“Price List”**) available at [https://www.trisbee.com/it/IT/prezzi](https://www.trisbee.com/it/IT/prezzi). Provision of certain services may be subject to the Merchant’s consent to other terms and conditions governing these services.
  
-# 1.2. Definitions
+### 1.2. Definitions
 
 **1.2.1.**	**“Trisbee”** is the company providing services according to these Business Terms and Conditions. At the same time, Trisbee is a duly registered small-scale payment service provider licensed by the Czech National Bank, with its registered office at Na Příkopě 28, 115 03 Prague 1, Czech Republic. The Czech National Bank is the authority supervising Trisbee in the provision of payment services thereby.
 
@@ -31,10 +30,9 @@ These Terms and Conditions constitute basic agreement on the provision of servic
 
 **1.2.10.** **“Business Dashboard”** means a web application in which the Merchant can monitor all information related to the contractual relationship with Trisbee, or can set certain sub-parameters of the services provided.
  
-SECTION 2 – SERVICES DESIGNED FOR MERCHANTS
--------------------------------------------
+## SECTION 2 – SERVICES DESIGNED FOR MERCHANTS
 
-# 2.1.	Specification of Services Designed for Merchants
+### 2.1.	Specification of Services Designed for Merchants
 
 **2.1.1.**	Trisbee provides Merchants with: 
 
@@ -50,7 +48,7 @@ SECTION 2 – SERVICES DESIGNED FOR MERCHANTS
 
 **2.1.4.**	Payment remittance and acceptance is possible only within the Trisbee payment system, ie. the payment cannot be sent unless it is a payment in favor of a registered Merchant or a Registered User.
 
-# 2.2.	Basic Conditions of the Agreement Conclusion and of Merchants Registration
+### 2.2.	Basic Conditions of the Agreement Conclusion and of Merchants Registration
 
 **2.2.1.**	The contractual relationship between Trisbee and the Merchant is established by the conclusion of the agreement according to Article 1.1. hereof. 
 
@@ -80,7 +78,7 @@ SECTION 2 – SERVICES DESIGNED FOR MERCHANTS
 
 Trisbee shall notify the Merchant of the reasons for the Merchant’s disapproval, for termination of services, temporary blocking or restriction of the provision of services, or refusal to perform a specific service only in such a way and to such an extent as to protect the content of Trisbee’s verification procedure and in order to ensure the effectiveness thereof. 
 
-# 2.3.	Merchants verification and identification 
+### 2.3.	Merchants verification and identification 
 
 **2.3.1.**	As a registered provider of payment services providing the Merchant with financial services or mediating these services thereto, Trisbee is obliged to collect data on the Merchant and on the mediated transactions to the extent required by law, in particular Act No. 253/2008 Coll., on legitimization of proceeds of crime and financing of terrorism, as amended (hereinafter the **“AML Act”**), as well as other laws. Trisbee processes and retains all the information collected only for the purpose of meeting legal obligations and for the period of time required by law.
 
@@ -108,9 +106,9 @@ Verification of identity is performed based on the data communicated by the Merc
 
 **2.3.8.**	In justified cases, based on amendments to statutory requirements or as part of a regular or random inspection, Trisbee shall be entitled to perform identification and checking of the Merchant during the term of the contractual relationship. In such cases, the Merchant shall be obliged to undergo the repeated identification and/or checking, while the prior approval has no effect on the result of the present identification and checking of the Merchant.
  
-SECTION 3 – PAYMENT SERVICE AND BROKERAGE THEREOF 
--------------------------------------------------
-# 3.1.	Terms of Use of Business Application and of Business Payment Methods by Merchant
+## SECTION 3 – PAYMENT SERVICE AND BROKERAGE THEREOF 
+
+### 3.1.	Terms of Use of Business Application and of Business Payment Methods by Merchant
 
 **3.1.1.**	Trisbee develops and operates software serving to payments acceptance, especially in the form of the Business Application, or in another form agreed between Trisbee and the Merchant (hereinafter referred to as **“Business Payment Methods”**). Trisbee also manages an API made available to the Merchant and enabling integration of software for payments acceptance by the Merchant. The Business Application and Business Dashboard serve the Merchant as a payment terminal.
 
@@ -131,7 +129,7 @@ SECTION 3 – PAYMENT SERVICE AND BROKERAGE THEREOF
 
 **3.1.7.**	In the event that the contractual relationship between the Merchant and Trisbee is terminated, Trisbee recommends to the Merchant to remove the Business Application and all components of the Business Payment Methods from all the Merchant’s devices for security and protection reasons.
 
-# 3.2. Acceptance of Payments by the Merchant
+### 3.2. Acceptance of Payments by the Merchant
 
 **3.2.1.**	The User may enter payment orders in favor of the Merchant, in particular using the User Application or another method offered by Trisbee to remit payments to the Merchant registered with Trisbee. 
 
@@ -149,7 +147,7 @@ a)	The User’s payments from Trisbee Payment Account (where Trisbee is the paym
 
 b)	If Trisbee mediates a payment service (payments with a card, via Apple Pay, Google Pay, indirect entering of a payment order from a bank account), where the service in question is provided by an entity being in a contractual relationship with Trisbee, then the payments remittance to the Merchant is governed by the terms and conditions of the service provider. The Merchant is informed of the current terms and conditions when concluding an agreement on the mediation of the payment service with Trisbee.
  
-# 3.3.	Suspicious and Risky Transactions
+### 3.3.	Suspicious and Risky Transactions
 
 **3.3.1.**	In the event that Trisbee and/or the payment service provider, based on verification of a payment transaction entered in favor of the Merchant in accordance with Article 3.2.5. herein, concludes that the payment transaction is suspicious and/or risky (if there is a justified suspicion of fraud), 
 
@@ -181,7 +179,7 @@ or
 
 **3.3.6.**	Trisbee proceeds similarly, mutatis mutandis with Articles 3.3.4. and 3.3.5. hereof, if after processing the User’s payment order it discovers facts providing grounds for considering of the payment transaction in question suspicious or risky. Trisbee is entitled to proceed as set in the previous sentence for 1 month upon the date that the User entered the payment order in question. In the event that the payment transaction in question is found to be suspicious or risky, Trisbee will cancel the payment transaction (chargeback) - if possible and necessary - doing so in accordance with the terms and conditions of the payment service provider.
  
-# 3.4.	Complaints about Payment Transactions, Cancellations and Refunds
+### 3.4.	Complaints about Payment Transactions, Cancellations and Refunds
 
 **3.4.1.**	If the Merchant thinks that a specific payment credited to the Merchant’s bank account does not correspond with the payment order entered by the User and with the sent notification, or that the Merchant has not received the payment entered by the User even though notified thereto, or that the Merchant has not received not even the notification of the payment they are persuaded the User entered for payment, the Merchant may complain about the payment transaction with Trisbee. 
 
@@ -223,15 +221,15 @@ The Merchants submit their requests for cancellation or refund electronically by
 
 **3.4.7.**	The Merchant is obliged to resolve all complaints regarding goods or services provided by the Merchant to the User directly with the User. 
 
-# 3.5. Charges
+### 3.5. Charges
 
 **3.5.1.**	Trisbee charges the Merchant a service fee (hereinafter referred to as the “Fee”) depending on the services selected by the Merchant and according to the selected service conditions. Certain services are under the set conditions provided by Trisbee free of charge. The amount of the Fee is always governed by the current Trisbee price list available on the website [https://www.trisbee.com/it/IT/prezzi](https://www.trisbee.com/it/IT/prezzi). 
 
 **3.5.2.**	The fee is due and the Merchant pays it in favor of Trisbee according to the invoice sent to the Merchant by email. 
  
-SECTION 4 - FURTHER RIGHTS AND OBLIGATIONS
-------------------------------------------
-# 4.1.	Indication of the Use of Trisbee Payment Services
+## SECTION 4 - FURTHER RIGHTS AND OBLIGATIONS
+
+### 4.1.	Indication of the Use of Trisbee Payment Services
 
 **4.1.1.**	The Merchant undertakes to visibly indicate the use of Trisbee payment services:
 
@@ -247,7 +245,7 @@ SECTION 4 - FURTHER RIGHTS AND OBLIGATIONS
 
 **4.1.5.** If the Merchant breaches any of the obligations set in Articles 4.1.1. and 4.1.3. and 4.1.4. of these Business Terms and Conditions, Trisbee is entitled to immediately suspend and/or subsequently terminate provision of services to the Merchant. The decision is always at the discretion of Trisbee. In the event that Trisbee suspends or terminates provision of services to the Merchant, Trisbee shall notify the Merchant thereof without delay, thus including the reasons for the decision. 
 
-# 4.2.	Other Obligations of the Merchant
+### 4.2.	Other Obligations of the Merchant
 
 **4.2.1.**	**When using the Trisbee services, the Merchant is obliged to meet, among others, the following obligations:**
 
@@ -259,7 +257,7 @@ SECTION 4 - FURTHER RIGHTS AND OBLIGATIONS
 - The Merchant is obliged to treat each individual business transaction made using any of the Business Payment Methods or by means of other tools serving for use of services provided by Trisbee with due care and, in case the Merchant suspects any significant non-standard or fraudulent conduct on the part of the User or a third party, which could incur harm to Trisbee or the Merchant itself, the Merchant undertakes to report the business transaction to Trisbee and not to process it. Even if the Merchant does not reject to perform the business transaction, they are always obliged to report the suspected fraud to Trisbee without delay by email to [support@trisbee.com](mailto:support@trisbee.com), or by any other appropriate means. 
 - The Merchant is obliged to provide proper and timely cooperation if Trisbee or any of its business partners providing a payment service evaluates specific payment transactions in favor of the Merchant as suspicious and risky (regardless of the nature of such suspicion) or if the User seeks refund through their bank, and for that reason Trisbee shall ask the Merchant to provide information regarding specific transactions and submit documents related to the transactions in question.
 
-# 4.3.	Liability
+### 4.3.	Liability
 
 **4.3.1.**	The Merchant is fully liable for any damage (both material and non-material) caused by their actions to Trisbee, persons related to Trisbee involved in mediation of payment and other services, or Users, if the damage is inflicted by the Merchant in any of the following way: 
 
@@ -281,7 +279,7 @@ SECTION 4 - FURTHER RIGHTS AND OBLIGATIONS
 
 **4.3.3.**	Trisbee is in no way responsible for the security, legality, quality or other properties of the Merchant’s goods or services purchased using a service provided by Trisbee. 
 	
-# 4.4.	Notices
+### 4.4.	Notices
 
 **4.4.1.**	All and any communications, notices or documents sent by Trisbee to the Merchant shall be primarily served to the e-mail address entered by the Merchant within the scope of their registration, or to the e-mail address notified by the Merchant, or by means of the Business Application, or by means of Business Dashboard. 
 
@@ -289,13 +287,13 @@ SECTION 4 - FURTHER RIGHTS AND OBLIGATIONS
 
 **4.4.3.**	The Merchant may contact Trisbee through all available channels indicated by Trisbee on the website, social media profiles or other communication channels managed by Trisbee, unless a specific method of communication and delivery of requests, communications or other documents is set out for a specific circumstance in these Business Terms and Conditions or other terms and conditions of the provided services (eg filing of a complaint according to Art. 3.4.3. of these Business Terms and Conditions).
  
-# 4.5.	Changes to Merchant Data
+### 4.5.	Changes to Merchant Data
 
 **4.5.1.**	The Merchant is obliged to notify Trisbee of any change in their identification data or contact details (change of name, surname, trade name, e-mail address, etc.) as well as any change to their business activities, if those affect granting of services to the Merchant (changes in the subject of business activity, change of registered office, changes concerning the Merchant’s business premises, declaration of insolvency, commencement of liquidation, changes concerning the authorization to conduct business activities, etc.). At the same time, the Merchant is obliged to notify Trisbee and, if necessary, to document to Trisbee all changes to other facts which Trisbee verified with the Merchant within the identification and which Trisbee is obliged to register about the Merchant within the scope of the payment services provision pursuant to the AML Act (change of permanent address of the Merchant/ Merchant’s CEO, change of the merchant’s bank account number, etc.).If new identity documents (ie the identity card and the second supporting identity document submitted by the Merchant/ Merchant’s CEO as part of the identification) have been issued to the Merchant/ Merchant’s CEO in the meantime since the identification, the Merchant/ Merchant’s CEO is obliged to provide these to Trisbee too.
 
 **4.5.2.**	The Merchant is obliged to notify Trisbee of and to document the changes of these data no later than 10 working days from the day that the change of the given fact(s) occurred.
  
-# 4.6.	Language
+### 4.6.	Language
  
 **4.6.1.**	The Merchant hereby acknowledges that the communication language between thereby and Trisbee primarily is the language that the Merchant selects within the scope of their registration, if the language is an official language of the country in which Trisbee provides its services. By agreeing to these Business Terms and Conditions, the Merchant expressly confirms that they understand the language selected within the scope of their registration and in which Trisbee communicates therewith.
 
@@ -303,19 +301,19 @@ SECTION 4 - FURTHER RIGHTS AND OBLIGATIONS
 
 **4.6.3.**	The Business Terms and Conditions are drawn up in Czech and English. All other language versions of these Business Terms and Conditions are mere translations of the Czech or English version. In case of discrepancies or conflicts between the Czech or English version and other language versions, the Czech or, as the case may be, English version prevails.
 
-# 4.7.	Confirmation under the AML Act
+### 4.7.	Confirmation under the AML Act
  
 **4.7.1.**	By agreeing to these Business Terms and Conditions, the Merchant confirms that they **are not a politically exposed person** in the sense of Section 4 (5) of the AML Act. By politically exposed person, the AML Act means a natural person who holds or held significant public office of national or regional significance, as well as persons closely related to or otherwise connected with such a person.
 
 **4.7.2.**	If the Merchant is unsure whether and under what conditions they can use the Trisbee services they may contact Trisbee at any time, and the circumstances concerning the conditions stipulated by the AML Act shall be jointly verified by Trisbee and the Merchant.
  
-# 4.8.	Technical Requirements
+### 4.8.	Technical Requirements
 
 **4.8.1.**	Trisbee may set technical requirements that the Merchant is required to comply with when implementing and using the Business Payment Methods and other tools serving to usage of Trisbee services. These requirements may change over time. These may be, in particular, technical requirements for a specific technical solution of the Merchant’s system connection to the API. 
 
 **4.8.2.**	The Merchant is obliged to comply with the specified technical requirements without undue delay after being notified by Trisbee thereof, no later than by the deadline announced by Trisbee together with the specified (new) technical requirements. If the Merchant does not meet the technical requirements, they are not entitled (to continue) to use the specific services or tools designed for the services use subjected to these requirements. If the (new) technical requirements represent a significant difficulty or restriction for the Merchant’s use of the services, the Merchant is entitled to terminate the agreement on the services provision unilaterally at any time.
  
-# 4.9.	Services Availability
+### 4.9.	Services Availability
 
 **4.9.1.**	Trisbee hereby expressly warns that it does not guarantee a specific scope or availability of the Trisbee services provided to the Merchant free of charge. However, Trisbee is responsible to the Merchant for the specific contracted content, scope and availability of services that are provided to the Merchant for a fee.
 
@@ -323,7 +321,7 @@ SECTION 4 - FURTHER RIGHTS AND OBLIGATIONS
 
 **4.9.3.**	Trisbee shall always make every effort to inform the Merchant of a restriction or interruption of operation of certain services in a timely and appropriate manner. In the case of planned updates to the system, Trisbee informs the Merchant well in advance, in particular via an email message, a message in the Business Application or by means of Business Dashboard. In the event of sudden and unexpected events restricting operation of applications or of some other services, this provision shall not apply. However, Trisbee undertakes to make every effort to immediately resolve any unexpected restrictions of certain features of the Trisbee system and, at the same time, undertakes to inform the Merchant thereof in an appropriate manner, if the case in question enables to do so.
  
-# 4.10.	Disputes
+### 4.10.	Disputes
 
 **4.10.1.** In the event that the Merchant is not in any respect satisfied with the services provided by Trisbee, they are entitled to address their complaint directly to Trisbee, in particular by email to [support@trisbee.com](support@trisbee.com). In order for Trisbee to deal with a Merchant’s complaint, the complaint must contain at least:
 
@@ -335,7 +333,7 @@ Trisbee shall confirm to the Merchant the receipt of the complaint and shall inv
 
 **4.10.2.** In the case of provided payment services (payment via the User’s Payment Account), the Merchant also has the right to file a complaint with the authority supervising over Trisbee’s activities as a payment service provider, which is the Czech National Bank, Na Příkopě 864/28, 115 03 Prague 1. For more information about the CNB’s activities as a supervisory authority, see: [https://www.cnb.cz/en/supervision-financial-market/](https://www.cnb.cz/en/supervision-financial-market/).  
  
-# 4.11.	Duration of the Agreement and Amendments to the Terms and Conditions
+### 4.11.	Duration of the Agreement and Amendments to the Terms and Conditions
 
 **4.11.1.** By concluding the agreement according to Article 1.1. hereof or, as case may be, according to other terms and conditions applicable to Trisbee services, the Merchant confirms that they were provided with all the necessary information relevant to their decision on entering into the agreement with Trisbee prior to the conclusion thereof. They further confirm that they have got familiarized with these Business Terms and Conditions or other business terms and conditions governing rights and obligations in relation to other Trisbee services well in advance of concluding the agreement, that they understand the entire content of the agreement, consider it specific and understandable, and that the rights and obligations arising from the contractual relationship with Trisbee are completely clear thereto.
  
