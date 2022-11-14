@@ -41,7 +41,7 @@ Sección 2 – Derechos y Obligaciones 
 2.1. Condiciones de uso de la Aplicación por el USUARIO
 --------------------------------------------------------------
 
-2.1.1. **TRISBEE** desarrolla y opera la Aplicación, a través de la cual el **USUARIO** puede realizar transacciones de pago en un **NEGOCIO** registrado, pagar a otros contactos registrados en **TRISBEE** o pagar cualquier otro servicio ofrecido en las plataformas de **TRISBEE**. En el caso de pagos a otros usuarios, dichas órdenes no constituyen transferencias sino pagos que resultan de la contraprestación por la provisión de bienes y/o servicios.
+2.1.1. **TRISBEE** desarrolla y opera la Aplicación, a través de la cual el **USUARIO** puede realizar transacciones de pago en un **NEGOCIO** registrado por la provisión de bienes y/o servicios.
 
 2.1.2. **TRISBEE** otorga al **USUARIO** una licencia de uso, no exclusiva, no transferible y gratuita sobre la Aplicación (por ejemplo, el derecho a usar la Aplicación), en concordancia con estos Términos y Condiciones del Usuario o, de ser aplicable, de acuerdo con los términos de la plataforma a través de la cual la Aplicación fue descargada. La licencia también se aplica a todas las versiones posteriores de la Aplicación proporcionadas al **USUARIO**, a menos que se proporcione una nueva licencia para usar la Aplicación simultáneamente con la nueva versión de la Aplicación.
 
