@@ -26,9 +26,8 @@ Los presentes Términos y Condiciones constituyen parte integrante del contrato 
 
 **a) Remisión de pagos**
 
-     *   Utilizando la Aplicación móvil o web (a través de la red móvil pública); o
-
-     *   Accediendo al servidor de **TRISBEE** a través de un Interfaz de programación (“**API”**)
+- Utilizando la Aplicación móvil o web (a través de la red móvil pública); o
+- Accediendo al servidor de **TRISBEE** a través de un Interfaz de programación (“**API”**)
 
 El **USUARIO** puede remitir pagos al **NEGOCIO** por la compra de bienes y servicios a través de **TRISBEE**. La remisión de pagos solo es posible dentro del         sistema de pago **TRISBEE**, por ejemplo, el pago no se puede enviar a menos que sea un pago a favor de un **NEGOCIO** registrado.
 
