@@ -1,5 +1,4 @@
-Política de Privacidad (app)
-============================
+# Política de Privacidad (app)
 
 **TRISBEE PERÚ S.A.C.** (o simplemente “**TRISBEE”**), con número de RUC **20606944617**, domiciliada en Calle Los Tulipanes 147, Interior 106, Urb. Lima Polo Hunt, Santiago de Surco, pone a disposición de los **Clientes**―Usuarios y Negocios**―**su Política de Privacidad, de conformidad con la Ley 29733, Ley de Protección de Datos Personales (en adelante, “LPDP”), su Reglamento, aprobado por Decreto Supremo 003-2013-JUS (en adelante, “Reglamento”), y sus normas ampliatorias y conexas.
 
@@ -7,8 +6,7 @@ A continuación, se señalan los tipos de datos personales que recopilamos, las 
 
 Prestar tu consentimiento voluntario, previo, expreso e informado a esta Política de Privacidad es un requisito esencial para poder contratar y/o tener cualquier tipo de relación con **TRISBEE**. En tal sentido, el **Cliente** declara haber leído y aceptado de manera previa y expresa este documento sujetándose a sus disposiciones y alcances.
 
-¿Qué datos personales recopilamos?
-----------------------------------
+## ¿Qué datos personales recopilamos?
 
 **TRISBEE**, a través de su app, recopila de los **Clientes** sus nombres y apellidos, correo electrónico, DNI, número de teléfono móvil y dirección domiciliaria, número de cuenta de pago a la que se hace mención en los Términos y Condiciones del Usuario o cuenta bancaria, fotografía del DNI, Carne de Extranjería, Pasaporte o Carne de Conducir o imágenes obtenidas por canales digitales. Esta información será almacenada en nuestro Banco de Datos Personales “**Clientes**”, hasta que el titular de los datos personales revoque su consentimiento para el tratamiento de su información, mientras persista la obligación legal impuesta a **TRISBEE** de mantener dichos datos o el mantenimiento de dichos datos resulte necesario para los fines de la relación existente entre **TRISBEE** y sus **Clientes**. El **Cliente** da su consentimiento expreso para la inclusión de su información en dicho Banco de Datos.
 
@@ -16,15 +14,13 @@ Prestar tu consentimiento voluntario, previo, expreso e informado a esta Políti
 
 Adicionalmente, con la aceptación de esta Política de Privacidad, declaras que los datos personales que has proporcionado a **TRISBEE** son verdaderos, completos y exactos. Cada **Cliente**, de acuerdo con lo señalado en los Términos y Condiciones del Usuario y los Términos y Condiciones del Negocio, es responsable por la veracidad, exactitud, vigencia y autenticidad de los datos personales suministrados; y se compromete a mantenerlos debidamente actualizados.
 
-¿Cómo protegemos sus datos personales?
---------------------------------------
+## ¿Cómo protegemos sus datos personales?
 
 **TRISBEE** ha adoptado medidas técnicas, legales y organizacionales necesarias, establecidas en la LPDP y su Reglamento, para garantizar la seguridad y el adecuado procesamiento de los datos personales de los **Clientes**, así como para evitar cualquier manipulación indebida, pérdida accidental, destrucción o acceso no autorizado de terceros. En ese orden de ideas, **TRISBEE** utilizará los estándares de la industria en materia de protección de la confidencialidad de la información de sus **Clientes**.
 
 **TRISBEE** hace de conocimiento que la información de los **Clientes** no será comercializada, transferida ni compartida sin su autorización y, menos aún, para finalidades ajenas a las que se describen a continuación. No obstante, en la actualidad, ningún sistema es completamente seguro o libre de ataques de cualquier tipo, no siendo posible evitar totalmente la pérdida, mal uso, alteración, acceso no autorizado y robo o hurto de los datos personales o de la información confidencial proporcionada; en tanto ello sea resultado de un hecho o evento no imputable a **TRISBEE**, quien, pese a una actuación diligente, no puede prevenir y/o contrarrestar su impacto.
 
-¿Para qué finalidades utilizamos sus datos personales?
-------------------------------------------------------
+## Para qué finalidades utilizamos sus datos personales?
 
 Los datos personales que los **Clientes** nos proporcionen a través de la app serán utilizados para las siguientes finalidades:
 
@@ -43,8 +39,7 @@ El **Cliente** manifiesta que ha sido debidamente informado de todas las finalid
 
 La utilización de tus datos para cualquier otra finalidad que no sea compatible con las detalladas previamente te será comunicada antes de que procedamos a su tratamiento.
 
-¿Quién puede acceder a sus datos personales?
---------------------------------------------
+## ¿Quién puede acceder a sus datos personales?
 
 Para cumplir con las finalidades antes indicadas, **TRISBEE** podrá transferir y encargar el tratamiento de los datos personales de los **Clientes** a terceros, que podrán estar ubicados dentro o fuera del territorio nacional. En estos casos, **TRISBEE** garantizará que el tratamiento de tales datos personales se limite a las finalidades antes autorizadas, se mantenga confidencial y se implementen las medidas de seguridad adecuadas prescritas en la LPDP y su Reglamento.
 
@@ -54,8 +49,7 @@ Si **TRISBEE** decidiese compartir los datos personales con terceros distintos a
 
 Asimismo, prestas tu consentimiento expreso e informado para que **TRISBEE** ceda, transmita o transfiera tus datos personales a los terceros destinatarios detallados en este documento.
 
-¿Cómo puede ejercer los derechos que la Ley le otorga sobre sus datos personales?
----------------------------------------------------------------------------------
+## ¿Cómo puede ejercer los derechos que la Ley le otorga sobre sus datos personales?
 
 **TRISBEE** reconoce y garantiza el ejercicio del derecho de información y de los derechos de acceso, rectificación, cancelación y oposición (derechos “ARCO”) que, a los **Clientes**, como titulares de sus datos personales, les asisten. Se entiende por:
 
