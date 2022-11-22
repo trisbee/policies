@@ -1,6 +1,6 @@
 # Trisbee General Terms and Conditions 
 
-# Merchant’s Terms and Conditions 
+Merchant’s Terms and Conditions 
 
 ## SECTION 1 – INTRODUCTION AND BASIC TERMS
 
