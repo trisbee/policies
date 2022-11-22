@@ -1,6 +1,6 @@
 # Trisbee General Terms and Conditions
 
-# User’s Terms and Conditions
+User’s Terms and Conditions
 
 ## SECTION 1 – INTRODUCTION AND BASIC TERMS
 
@@ -25,11 +25,10 @@ These terms and conditions constitute basic agreement on the provision of paymen
 **1.2.7.**	**“Application”** means the Trisbee mobile or web application serving for payment remittance. The mobile application can be downloaded from the App Store or Google Play.  The web application can be accessed at pay.trisbee.com or at trisbee.app. 
 
 **1.2.8.**	**“Merchant”** means **an entity that has entered into an agreement with Trisbee on the provision of services consisting in acceptance of non-cash payments** from Users and other services, and that meets all contractual and statutory conditions for the provision of the services.
- 
 
 ## SECTION 2 – SERVICES DESIGNED FOR USERS
 
-### 2.1.	Specification of Services Designed for Users
+### 2.1. Specification of Services Designed for Users
 
 **2.1.1.**	Trisbee provides the User with the following services:
 
@@ -51,7 +50,7 @@ c)	**other services**, the provision of which is currently offered by Trisbee to
 
 **2.1.6.**	The provision of services to the User is not claimable; Trisbee is entitled to disallow or terminate provision of the service to the User, even if the User has met all the terms and conditions requested.
 
-### 2.2.	Basic Conditions of the Agreement Conclusion and of Users Registration
+### 2.2. Basic Conditions of the Agreement Conclusion and of Users Registration
 
 **2.2.1.**	The User must be at least 18 years old and must have a bank account held in their name opened with a trusted banking institution (operating in their home country or within the EEA).
 
@@ -78,11 +77,10 @@ c)	**other services**, the provision of which is currently offered by Trisbee to
 (xi)	the User is declared bankrupt, insolvency or enforcement proceedings are conducted against the User, or the User dies or is declared deceased by the competent authority of the User’s country.
 
 Trisbee shall notify the User of the reasons for the User’s disapproval, for termination of services, temporary blocking or restriction of the provision of services to a User who is already registered, or refusal to perform a specific service only in such a way and to such an extent as to protect the content of Trisbee’s verification procedure and in order to ensure the effectiveness thereof.
- 
 
 ## SECTION 3 – PAYMENT SERVICE AND BROKERAGE THEREOF
 
-### 3.1.	Terms of the Application Use by the User
+### 3.1. Terms of the Application Use by the User
 
 **3.1.1.** Trisbee develops and operates the Application, through which the User can perform payment transactions consisting in payment remittances to Merchants.
 
@@ -103,8 +101,8 @@ Trisbee shall notify the User of the reasons for the User’s disapproval, for t
 **3.1.6.**	Trisbee is entitled to prevent the User from using Trisbee services (i.e. to terminate the provision of services) if the Application is used by the User in an illegal or immoral manner.
 
 **3.1.7.**	In the event of termination of the contractual relationship between the User and Trisbee, Trisbee recommends the User to remove the Application from all of the User’s devices for security and protection reasons.
- 
-### 3.2.	Registration of Users and Terms of Using Trisbee Payment Services
+
+### 3.2. Registration of Users and Terms of Using Trisbee Payment Services
 
 **3.2.1.**	User registration takes place when the Application is first started in the User login mode. The User is obliged to enter the required basic identification data and/or other necessary information (e.g. the country in which the User intends to use the Application and the currency that the payment transactions will be performed in). To start the Application, the User needs to confirm explicitly that they have read and agree with these Terms and Conditions. The User also confirms that they have read the Privacy Policy. The User may decide whether to give consent with sending thereto Trisbee commercial communications and newsletters. After verification of the User’s phone number and email address, the Application is activated in the mode designed for Registered Users.
 
@@ -114,7 +112,7 @@ Trisbee shall notify the User of the reasons for the User’s disapproval, for t
 
 **3.2.4.** Before carrying out a payment from the Payment Account, the Identified User is obliged to top up their Payment Account with at least the amount enabling performance of the intended payment transaction or with funds of any higher amount. The Application does not enable entering of a payment order in an amount exceeding Payment Account balance. Topping up of a Payment Account is described in Section 3.4 herein. 
 
-### 3.3.	User’s Identification 
+### 3.3. User’s Identification 
 
 **3.3.1.**	Within the scope of the provision of payment services (payment transactions via Payment account), Trisbee is obliged to collect data on the User and on the mediated payment transactions to the extent required by law, in particular Act No. 253/2008 Coll., on legitimization of proceeds of crime and financing of terrorism, as amended (hereinafter the **“AML Act”**), as well as other laws. Trisbee processes and retains all the information collected only for as long as is strictly necessary and uses it exclusively for the purpose of meeting legal obligations thereof. For more information about processing and retention of User data see the [Privacy Policy](https://www.trisbee.com/en/CZ/terms/gdpr).
 
@@ -134,13 +132,13 @@ Trisbee shall notify the User of the reasons for the User’s disapproval, for t
 
 **3.3.6.**	In justified cases, based on amendments to statutory requirements or as part of a regular or random inspection, Trisbee shall be entitled to perform the User’s identification during the term of the contractual relationship. In such cases, the User shall be obliged to undergo the repeated identification, while the prior approval of the User has no effect on the result of the present identification.
 
-### 3.4. 	Top-Up of Payment Account
+### 3.4. Top-Up of Payment Account
 
 **3.4.1.**	The Identified User can top-up the Payment Account using the currently available techniques, which are listed directly in the Application (in particular top-up by transfer from a bank account, credit or debit card, etc.).
 
 **3.4.2.** As soon as the topped-up amount selected by the Identified User is credited to the Trisbee’s bank account designated for the provision of payment services, Trisbee shall ensure that the relevant amount is credited to the Identified User’s Payment Account without undue delay, no later than the next business day. Successful topping-up of the Payment Account is notified to the Identified User directly in the Application and via an email message and, at the same time, the balance of the Identified User’s Payment Account is increased in the Application. 
 
-### 3.5.  Payments in the Application
+### 3.5. Payments in the Application
 
 **3.5.1.**	The User enters orders to execute a payment transaction in the Application by selecting the Merchant and by entering the amount of the transaction in the next step. Selection of a Merchant registered with Trisbee is possible either by scanning the Merchant’s QR code or by searching thereof in the list of Merchants. After the payment amount is entered, the User selects a payment method (Payment Account, payment card, Apple Pay, Google Pay) and confirms t¨he transaction with the “Pay” button.
 
@@ -151,8 +149,8 @@ Trisbee shall notify the User of the reasons for the User’s disapproval, for t
 **3.5.4.**	The Merchant’s Customers understand that they may be contacted by Trisbee in connection with an entered payment order at the email address obtained as part of the service provision (email address entered in Apple Pay, Google Pay or in the Application - where entered by the Merchant’s Customer). 
 
 **3.5.5.**	The payee is the Merchant to whom the User pays through the Application for offered goods or services. In this case, upon the User’s successful entering of a payment order in the Application, the Merchant is notified through notification in the Trisbee Payment Acceptance Application (the “Business Application”) or in another way (such as text message or Merchant’s dashboard) of the registered payment in the amount entered by the User. The Merchant receives the same unique transaction code that identifies the payment order in the User’s Application. The User’s payment is subsequently sent to the Merchant.
- 
-### 3.6.	Suspicious and Risky Transactions
+
+### 3.6. Suspicious and Risky Transactions
 
 **3.6.1.** In the event that the verification of a payment transaction entered by the User in the Application (after entering a payment order) in accordance with Article 3.5.3. herein suggests that the payment transaction is suspicious and/or risky (if there is a justified suspicion of fraud),
 
@@ -183,8 +181,8 @@ or
 (ii)	**to refuse mediation of the payment transaction in question** if, based on the information and supporting documents provided, Trisbee concludes that the payment transaction is suspicious and/or risky. The decision on refusal of the payment transaction mediation by Trisbee shall be notified without delay to the User and/or the Merchant. The amount entered by the User into the payment order and blocked by Trisbee for settlement of the payment transaction in question is not deducted from the User’s bank account or Payment Account.
 
 **3.6.6.**	Trisbee proceeds similarly, mutatis mutandis with Articles 3.6.3. and 3.6.4. hereof, if after processing the User’s payment order it discovers facts providing grounds for considering of the payment transaction in question suspicious and/or risky. Trisbee is entitled to proceed as set in the previous sentence for 1 month upon the date that the User entered the payment order in question. In the event that the payment transaction in question is found to be suspicious and/or risky, Trisbee will cancel the payment transaction (chargeback) - if possible and necessary in the given case - doing so in accordance with the conditions for cancellation of payment transactions currently in effect.
- 
-### 3.7.	Complaints about Entered Payment Order or Received Payment, Cancellations and Refunds
+
+### 3.7. Complaints about Entered Payment Order or Received Payment, Cancellations and Refunds
 
 **3.7.1.**	Trisbee considers all the payment orders entered into the Application as the orders entered by the User or a person authorized thereby, unless the User specifically notifies Trisbee that this is not the case.
 
@@ -230,16 +228,15 @@ The Users submit their requests for cancellation or refund electronically by ema
 
 **3.7.9.**	Trisbee is entitled to check the request for cancellation of the payment transaction or refund of the payment and verify the reasons thereof with the Merchant entered in the payment order. If the Merchant agrees to cancellation of a specific payment transaction or refund of the payment, they are also obliged, if the payment has already been credited to their bank account or is already on its way to their bank account, to proceed in accordance with the terms and conditions of the payment service provider and to return the amount of the payment received. Based on this the payment amount in question can be returned to the User.
 
-**3.7.10.** The User is obliged to resolve all complaints regarding goods or services provided by the Merchant to the User directly with the Merchant. 
- 
-### 3.8.	Charges
+**3.7.10.** The User is obliged to resolve all complaints regarding goods or services provided by the Merchant to the User directly with the Merchant.
+
+### 3.8. Charges
 
 **3.8.1.**	Trisbee does not charge any fees for the provided services to the User.
- 
 
 ## SECTION 4 - FURTHER RIGHTS AND OBLIGATIONS
 
-### 4.1.	Liability
+### 4.1. Liability
 
 **4.1.1.**	The User is fully liable for any damage (both material and non-material) caused by their actions to Trisbee, persons related to Trisbee involved in provision of the services, or third parties, if the damage is inflicted by the User: 
 
@@ -261,43 +258,43 @@ The Users submit their requests for cancellation or refund electronically by ema
 
 **4.1.3.**	Trisbee is in no way responsible for the security, legality, quality or other properties of the goods or services purchased through payment by means of Trisbee. The User is obliged to exercise his/her rights regarding the purchased goods or services directly with the Merchant.
 
-### 4.2.	Notices
+### 4.2. Notices
 
 **4.2.1.**	Provided that the User gets registered and/or identified (see Article 2.2. of these Terms and Conditions) or provides their email address as part of an anonymous payment, Trisbee delivers all communications, notices or documents to the User primarily to the email address entered thereby in the Application, or to the email address provided by the User on later occasion. Messages or notifications can also be delivered to the Registered and Identified User via SMS or a message in the Application. A document is deemed served no later than a day after its dispatch to the User.
 
 **4.2.2.**	If the matter allows no delay (eg verification of a suspicious or risky transaction) or if it is common and appropriate in view of the specific situation, the Registered and Identified User acknowledges that they may also be contacted by Trisbee by phone, via SMS to the phone number registered in the Application or to another contact telephone number communicated by the User, via Facebook social network, or in another suitable way.
 
 **4.2.3.**	The User may contact Trisbee through all available channels indicated by Trisbee on the website, social media profiles or other communication channels managed by Trisbee, unless a specific method of communication and delivery of requests, communications or other documents is set out for a specific circumstance in these Terms and Conditions (eg filing of a complaint according to Art. 3.7.4. of these Terms and Conditions).
- 
-### 4.3.	Change of the Registered and Identified User’s Data
+
+### 4.3. Change of the Registered and Identified User’s Data
 
 **4.3.1.**	Registered and Identified Users are obliged to notify Trisbee of any change in their identification data or contact details (change of name, of surname, of email address, etc.). In connection with identification according to Article 3.3. herein, Identified Users are obliged to notify Trisbee and, if necessary, to document any changes to other facts which Trisbee verified therewith within the scope of their identification and which Trisbee is obliged to register about Identified Users pursuant to the AML Act (change of permanent address, of bank account number, etc.). If new identity documents (i.e. the identity card and the second supporting identity document submitted by the Identified User as part of the identification) have been issued to the Identified User in the meantime since the identification, the Identified User is also obliged to provide these to Trisbee.
 
 **4.3.2.**	Registered and Identified Users are obliged to notify Trisbee of and to document the changes to these data no later than 10 working days from the day that the change of the given fact(s) occurred.
 
-### 4.4.	Language
+### 4.4. Language
  
 **4.4.1.**	Users can choose the language in which they want to use the Application and in which Trisbee (or entities acting on behalf of Trisbee) will communicate therewith in relation to the services provided, doing so directly in the Application settings. Users can choose one of the languages ​​of the countries where Trisbee provides its services. By agreeing to these Terms and Conditions, Users expressly confirm that they understand the language in which they use the Application and in which Trisbee communicates therewith.
 
 **4.4.2.**	Furthermore, Users expressly confirm that they understand all the conditions of the services provision and all the rights and obligations implied thereto from the use of the Application and/or other Trisbee services.
 
 **4.4.3.**	Business conditions are drawn up in Czech and English. All other language versions of these Terms and Conditions are mere translations of the Czech or English version. In case of discrepancies or conflicts between the Czech or English version and other language versions, the Czech or, as the case may be, English version prevails.
- 
+
 ### 4.5. Confirmation under the AML Act
 
 **4.5.1.**	By agreeing to these Terms and Conditions, the User confirms that they **are not a politically exposed person** in the sense of Section 4 (5) of the AML Act. By politically exposed person, the AML Act means a natural person who holds or held significant public office of national or regional significance, as well as persons closely related to or otherwise connected with such a person.
 
 **4.5.2.**	If the User is unsure whether and under what conditions they can use the Trisbee services they may contact Trisbee at any time, and the circumstances concerning the conditions stipulated by the AML Act shall be jointly verified by Trisbee and the User.
- 
-### 4.6.	Availability of Payment Services
+
+### 4.6. Availability of Payment Services
 
 **4.6.1.**	Trisbee hereby expressly warns that it does not guarantee a specific scope or availability of the services provided.
 
 **4.6.2.**	As part of regular maintenance of the Application and individual payment methods, including but not limited to technology alterations, technical problems, cyber attacks to the system of payment transactions processing, substantial increase in number of unauthorized or fraudulent payments or significant decrease in demand for a certain payment method or service, Trisbee is entitled to reduce or discontinue operation of the Application or of a certain payment method/service. The User shall not have right to compensation for damage potentially arisen thereto from the restriction or discontinuation of operation(s) as a result of the described facts.
 
 **4.6.3.**	Trisbee shall make every effort to inform the User of the restriction or discontinuation of operation of the Application or certain payment method/service in a timely and appropriate manner. In the case of planned updates to the system, Trisbee informs the User well in advance, in particular via an email message or a message in the Application. In the event of unexpected events restricting operation of the Application or certain payment methods, this provision shall not apply. However, Trisbee undertakes to make every effort to immediately resolve any unexpected restrictions of certain features of the Trisbee payment system and, at the same time, to inform the User thereof in an appropriate manner, if the case in question enables to do so.
- 
-### 4.7. 	Disputes
+
+### 4.7. Disputes
 
 **4.7.1.** In the event that the User is not in any respect satisfied with the services provided by Trisbee, they are entitled to address their complaint directly to Trisbee, in particular by email to [support@trisbee.com](mailto:support@trisbee.com). In order for Trisbee to deal with a User’s complaint, the complaint must contain at least:
 
@@ -312,8 +309,8 @@ Trisbee shall confirm to the User the receipt of the complaint and shall investi
 **4.7.3.**	The User also has the right to file a complaint with the supervisory authority of Trisbee as the payment services provider, which is the Czech National Bank, Na Příkopě 864/28, 115 03 Prague 1. For more information about the CNB’s activities as a supervisory authority, see:[https://www.cnb.cz/en/supervision-financial-market/](https://www.cnb.cz/en/supervision-financial-market/). 
 
 **4.7.4.**	The User may also take advantage of the European Online Dispute Resolution Platform at [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/) set up by the European Commission.
- 
-### 4.8.	Duration of the Agreement and Amendments to the Terms and Conditions
+
+### 4.8. Duration of the Agreement and Amendments to the Terms and Conditions
 
 **4.8.1.** By concluding the agreement according to Article 1.1. hereof, the User confirms that they had available all necessary pre-contractual information relevant for their decision-making about entering into an agreement with Trisbee before actual conclusion of the contractual relationship; furthermore, the User confirms that they have read these Terms and Conditions prior to the the agreement conclusion, that they understand the entire contents of the Terms and Conditions, that they perceive the Terms and Conditions as specific and comprehensible, and that the individual rights and obligations arising from the contractual relationship with Trisbee are quite clear thereto.
  

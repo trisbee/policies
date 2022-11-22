@@ -1,6 +1,6 @@
 # Všeobecné obchodní podmínky Trisbee
 
-# Obchodní podmínky pro Obchodníky 
+Obchodní podmínky pro Obchodníky 
 
 ## ČÁST  1 – ÚVOD A ZÁKLADNÍ POJMY
 
