@@ -1,11 +1,8 @@
-Términos y Condiciones del Negocio
-==================================
+# Términos y Condiciones del Negocio
 
-Sección 1 – Introducción y Definiciones
----------------------------------------
+## Sección 1 – Introducción y Definiciones
 
-1.1. Contrato con el NEGOCIO
-----------------------------
+### 1.1. Contrato con el NEGOCIO
 
 1.1.1. Los presentes Términos y Condiciones constituyen parte integrante del contrato de servicios de pago celebrado entre **TRISBEE PERÚ S.A.C. (“TRISBEE”)** y el **NEGOCIO**, los cuales deberán ser aceptados conjuntamente cuando este entregue a **TRISBEE** la información requerida para su correcta identificación u otra documentación solicitada. Estos Términos y Condiciones regulan los derechos y obligaciones de las partes respecto de la prestación de servicios de pago (“**Términos y Condiciones del Negocio**”).
 
@@ -13,8 +10,7 @@ Sección 1 – Introducción y Definiciones
 
 1.2.3. Si el **NEGOCIO** no acepta en forma absoluta y completa estos Términos y Condiciones del Negocio, no podrá acceder a la Plataforma de **TRISBEE** o los servicios incluidos en ella, y deberá abstenerse del uso de la Plataforma. Por consiguiente, todo acceso o uso de la Plataforma, constituye una aceptación tácita de los presentes Términos y Condiciones del Negocio.
 
-1.2. Definiciones
------------------
+### 1.2. Definiciones
 
 1.2.1. **TRISBEE:** empresa proveedora de servicios de pago a pequeña escala, identificada con RUC N° **20606944617** y domiciliada en Calle Los Tulipanes 147, Interior 106, Urb. Lima Polo Hunt, Santiago de Surco.
 
@@ -36,8 +32,7 @@ Sección 1 – Introducción y Definiciones
 
 1.2.10. **PERSONAS RELACIONADAS A TRISBEE:** Aquellas que se encuentran involucradas en la mediación de los servicios de remisión pago brindados por **TRISBEE**.
 
-1.3. El servicio de pago de TRISBEE diseñado para el NEGOCIO
----------------------------------------------------------------
+### 1.3. El servicio de pago de TRISBEE diseñado para el NEGOCIO
 
 1.3.1. **TRISBEE** provee un servicio de pago para el **NEGOCIO** que permite aceptar pagos electrónicos por parte de los **USUARIOS** y **CLIENTES** del **NEGOCIO** por concepto de sus bienes y servicios a través de:
 
@@ -53,11 +48,9 @@ Sección 1 – Introducción y Definiciones
 
 1.3.3. En caso el **NEGOCIO** cumpla ciertas condiciones establecidas por **TRISBEE**, se le podrá dar acceso a una aplicación web a través de la cual podrá monitorear los pagos realizados a su favor, si es que el servicio se encuentra disponible (“**Panel del Negocio**”). Las condiciones de acceso al Panel del Negocio y los términos de uso de dicho servicio se encuentran publicados en [www.trisbee.pe](http://www.trisbee.pe)
 
-**Sección 2 – Derechos y Obligaciones** 
-----------------------------------------
+## Sección 2 – Derechos y Obligaciones
 
-2.1. Términos de uso de la Aplicación por parte del NEGOCIO
---------------------------------------------------------------
+### 2.1. Términos de uso de la Aplicación por parte del NEGOCIO
 
 2.1.1. **TRISBEE** desarrolla y opera softwares para la remisión de pagos, en particular en la forma de la Aplicación o en cualquier otra forma acordada con el **NEGOCIO**. Asimismo, administra y otorga acceso al **NEGOCIO** a la API que permite la integración del software para la aceptación de pagos por el propio **NEGOCIO** (numeral 1.3.1). La forma específica del Método de Pago del Negocio siempre es determinada a través del acuerdo entre **TRISBEE** y el **NEGOCIO** al inicio o en el curso de su relación contractual. A menos que haya sido estipulado de otra forma en el contrato, **TRISBEE** provee al **NEGOCIO** la Aplicación para propósitos de aceptación de pagos. La Aplicación sirve como una terminal de pago permitiendo la aceptación rápida y efectiva de los bienes y/o servicios ofrecidos por el **NEGOCIO**.
 
@@ -83,8 +76,7 @@ Sección 1 – Introducción y Definiciones
 
 2.1.10. El **NEGOCIO** es responsable por la seguridad de todos sus dispositivos y por activar todas las funciones de seguridad a su acceso. Sin el consentimiento del **NEGOCIO**, ningún tercero puede acceder a los Métodos de Pago del Negocio (incluyendo la Aplicación y el Panel del Negocio), a información confidencial relacionada a los servicios de pago y a información sobre transacciones individuales a favor del **NEGOCIO**. El incumplimiento de estas instrucciones impactará significativamente la resolución de cualquier queja relacionada a algún servicio de pago o transacción específica que podría presentar el **NEGOCIO**. Cualquier acción de una persona autorizada por el **NEGOCIO** a utilizar los Métodos de Pago del Negocio será considerada una acción del **NEGOCIO**.
 
-2.2. Registro del NEGOCIO 
---------------------------
+### 2.2. Registro del NEGOCIO
 
 2.2.1. **TRISBEE** requiere información sobre el **NEGOCIO** y sobre las transacciones que realizaría a través de los Métodos de Pago del Negocio, la cual es procesada para cumplir con las obligaciones contractuales y legales existentes. Para dichos efectos, el **NEGOCIO** deberá proporcionar a **TRISBEE** datos e información válida, exacta, precisa y verdadera. Para más información sobre el tratamiento de los datos personales del **NEGOCIO**, consultar nuestra [Política de Privacidad.](/terms/privacy). El **NEGOCIO** garantiza y responde, en cualquier caso, por la veracidad, exactitud, integridad, vigencia y autenticidad de los datos e información proporcionada a **TRISBEE**.
 
@@ -124,8 +116,7 @@ Sección 1 – Introducción y Definiciones
 
 **TRISBEE** notificará al **NEGOCIO** los motivos de su desaprobación, la terminación de los servicios de pago, el bloqueo temporal o la restricción de la prestación de los servicios de pago, o la negativa a realizar una transacción de pago específica de tal manera y en la medida que proteja el contenido del procedimiento de verificación de **TRISBEE** y con el fin de garantizar su eficacia.
 
-2.3. Instalación y Activación de la Aplicación y Condiciones para usar los servicios de pago de TRISBEE 
------------------------------------------------------------------------------------------------------------
+### 2.3. Instalación y Activación de la Aplicación y Condiciones para usar los servicios de pago de TRISBEE
 
 2.3.1. **TRISBEE** permite la descarga de la Aplicación a través de Google Play (para Android) y App Store (para iOS). La instalación de la Aplicación está condicionada a la posesión de un dispositivo móvil con un sistema operativo compatible, una tarjeta SIM de un operador de telefonía móvil que preste servicios dentro del Perú y conexión a Internet. El **NEGOCIO**, de ser persona natural, deberá tener al menos 18 años y deberá tener una cuenta bancaria abierta a su nombre en una entidad financiera de confianza.
 
@@ -135,8 +126,7 @@ Sección 1 – Introducción y Definiciones
 
 2.3.4. En caso de olvido o pérdida de la contraseña vinculada con la Aplicación, el **NEGOCIO** podrá recuperar su contraseña reiniciando el proceso de validación, en el cual se enviará al **NEGOCIO** un código seguro a través de SMS para que pueda iniciar sesión nuevamente y cambiar su contraseña.
 
-2.4. Aceptación de pagos por el NEGOCIO
--------------------------------------------
+### 2.4. Aceptación de pagos por el NEGOCIO
 
 2.4.1. El **CLIENTE** del **NEGOCIO** y el **USUARIO** pueden ingresar órdenes de pago a favor del **NEGOCIO**, en particular utilizando la Aplicación u otro método ofrecido por **TRISBEE** para remitir pagos al **NEGOCIO** registrado.
 
@@ -156,8 +146,7 @@ Sección 1 – Introducción y Definiciones
 
 En ese orden de ideas, **TRISBEE** no será responsable ni garantizará el cumplimiento de las obligaciones que hubiesen asumido los **CLIENTES** y/o **USUARIOS** con  los **NEGOCIOS** en relación con los pagos a recibir a través de los Métodos de Pago del Negocio. El **CLIENTE** y/o **USUARIO** reconoce y acepta que al realizar transacciones con los **NEGOCIOS** lo hace por su propia voluntad, prestando su consentimiento libremente y bajo su propio riesgo y responsabilidad.
 
-2.5. Transacciones sospechosas y riesgosas
-----------------------------------------------
+### 2.5. Transacciones sospechosas y riesgosas
 
 2.5.1. En el caso de que **TRISBEE**, en base en la verificación de una transacción de pago realizada a favor del **NEGOCIO** de conformidad con el numeral 2.4.5, concluye que la transacción de pago es sospechosa y/ o riesgosa (si existe una sospecha justificada de fraude):
 
@@ -175,8 +164,7 @@ El **NEGOCIO** reconoce y comprende que **TRISBEE** tiene derecho a solicitar al
 
 (ii) rechazar la instrucción pago en cuestión si, con base en la información y los documentos de respaldo proporcionados, **TRISBEE** concluye que la transacción de pago es sospechosa y/o riesgosa. El rechazo de la transacción por parte de **TRISBEE** se notificará sin demora al **USUARIO** y/o al **NEGOCIO**, siendo que el pago no se remitirá al **NEGOCIO**.
 
-2.6. Quejas sobre transacciones de pago, cancelaciones y reembolsos
------------------------------------------------------------------------
+### 2.6. Quejas sobre transacciones de pago, cancelaciones y reembolsos
 
 2.6.1. Si el **NEGOCIO** considera que un pago específico acreditado a su cuenta bancaria no se corresponde con la orden de pago ingresada por el **USUARIO** y con la notificación en la Aplicación, o que el **NEGOCIO** no ha recibido el pago ingresado por el **USUARIO** y notificado en la Aplicación, o que el **NEGOCIO** no ha recibido ni siquiera la notificación del pago, que el **USUARIO** alega haber ingresado, el **NEGOCIO** podrá quejarse de la transacción de pago ante **TRISBEE**.
 
@@ -212,8 +200,7 @@ Una solicitud de cancelación de una transacción de pago solo puede presentarse
 
 2.6.7. **TRISBEE** cancelará una transacción de pago o reembolsará un pago a solicitud del **NEGOCIO** solo con el consentimiento expreso del **USUARIO**. Si el **USUARIO** está de acuerdo con la cancelación de una determinada transacción de pago o con la devolución de un pago, el **NEGOCIO** estará obligado, si el pago ya ha sido acreditado en su cuenta bancaria, a devolver el monto del pago en cuestión a la cuenta bancaria de **TRISBEE** de la que recibieron el pago. Al devolver el pago, **TRISBEE** abonará el monto del pago en cuestión a la cuenta de pago del **USUARIO** \[o a la cuenta bancaria que dicho **USUARIO** haya registrado ante **TRISBEE**\], a más tardar al día hábil siguiente de que el pago devuelto por el **NEGOCIO** se haya acreditado en la cuenta bancaria de **TRISBEE**.
 
-2.7. Comisiones
---------------
+### 2.7. Comisiones
 
 2.7.1. **TRISBEE** podrá cobrar una comisión por las transacciones que el **NEGOCIO** realice a cambio de proveerle los Servicios. (You can find more information regarding our fees on this link.)
 
@@ -226,8 +213,7 @@ Las comisiones funcionarán de la siguiente manera:
 
 Esto significa que el **NEGOCIO** pagará la misma comisión por una transacción de S/ 15.00, que por una de S/ 250.00.)
 
-2.8. Otras obligaciones del NEGOCIO
-----------------------------------
+### 2.8. Otras obligaciones del NEGOCIO
 
 2.8.1. Al utilizar los servicios de pago de **TRISBEE**, el **NEGOCIO** está obligado a cumplir, entre otras, con las siguientes obligaciones:
 
@@ -253,11 +239,9 @@ Esto significa que el **NEGOCIO** pagará la misma comisión por una transacció
 
 2.8.3. Si el **NEGOCIO** incumple cualquiera de las obligaciones anteriores (numerales 2.8.1 y 2.8.2), **TRISBEE** tiene derecho a suspender inmediatamente y/o terminar definitivamente la prestación de servicios de pago al **NEGOCIO**. En caso de que **TRISBEE** suspenda el uso de los servicios de pago al **NEGOCIO**, le notificará los motivos de la suspensión de la prestación de los servicios de pago y se le invitará a rectificar o explicar las deficiencias dentro de un período específico. Solo si, dentro del límite de tiempo establecido, las deficiencias no son subsanadas por el **NEGOCIO**, sus acciones no se explican de ninguna manera o la explicación es insuficiente o no justifica las acciones del **NEGOCIO** que conducen al incumplimiento de sus obligaciones, **TRISBEE** dará por terminada la prestación de servicios de pago al **NEGOCIO** y lo notificará de esta decisión.
 
-SECCIÓN 3 – OTROS ACUERDOS
---------------------------
+## SECCIÓN 3 – OTROS ACUERDOS
 
-3.1. Responsabilidades
----------------------
+### 3.1. Responsabilidades
 
 3.1.1. El **NEGOCIO** es totalmente responsable de cualquier daño (tanto material como no material) causado por sus acciones a **TRISBEE**, a personas relacionadas con **TRISBEE**, involucradas en la mediación de los servicios de pago, o a los **CLIENTES** y **USUARIOS DEL NEGOCIO**, si el **NEGOCIO** inflige el daño:
 
@@ -279,8 +263,7 @@ SECCIÓN 3 – OTROS ACUERDOS
 
 3.1.3. **TRISBEE** no es de ninguna manera responsable de la seguridad, legalidad, calidad u otras propiedades de los bienes o servicios del **NEGOCIO** o adquiridos mediante pago mediante **TRISBEE**. El **NEGOCIO** está obligado a resolver todas las quejas directamente con el **CLIENTE** o con el **USUARIO**. En el caso de que, con base en una queja sobre bienes y/o servicios presentada por el **CLIENTE** o por el **USUARIO**, el precio de los bienes y/o servicios pagados originalmente a través de un Método de Pago del Negocio deba ser reembolsado (total o parcialmente), **TRISBEE** puede mediar en el reembolso del monto correspondiente conforme al acuerdo entre el **USUARIO** y el **NEGOCIO** a favor de la cuenta bancaria/de pago del **USUARIO**, pero solo en el caso de su mutuo consentimiento expreso y, siempre después de que el **NEGOCIO** devuelva el monto del reclamo reconocido (hasta el monto del pago original) incrementado por cualquier Tarifa cobrada al **NEGOCIO** por el servicio de pago (las Tarifas pertenecen a **TRISBEE** incluso en el caso de una queja) a la cuenta bancaria de **TRISBEE** desde la que originalmente se pagó al **NEGOCIO**.
 
-3.2. Avisos
---------------
+### 3.2. Avisos
 
 3.2.1. Las comunicaciones, avisos o documentos de **TRISBEE** al **NEGOCIO** se enviarán principalmente a su dirección de correo electrónico, registrado vía la Aplicación o por medio del Panel del Negocio (si el **NEGOCIO** cuenta con uno).
 
@@ -288,15 +271,13 @@ SECCIÓN 3 – OTROS ACUERDOS
 
 3.2.3. El **NEGOCIO** podrá contactar a **TRISBEE** a través de todos los canales disponibles indicados en su sitio web, perfiles de redes sociales u otros canales de comunicación administrados, a menos que se establezca un método específico de comunicación y entrega de solicitudes, comunicaciones u otros documentos para una circunstancia específica en estos Términos y Condiciones del Negocio (por ejemplo, presentación de una queja de acuerdo con el numeral 2.6.3).
 
-3.3. Cambios en la información del NEGOCIO
----------------------------------------------
+### 3.3. Cambios en la información del NEGOCIO
 
 3.3.1. El **NEGOCIO** está obligado a notificar a **TRISBEE** sobre cualquier cambio en sus datos identificativos o de contacto (nombre, apellidos, razón social, dirección de correo electrónico, etc.), así como cualquier cambio en sus actividades comerciales, si estas afectan la concesión de servicios de pago (actividad comercial, domicilio social, en el local comercial, declaración de insolvencia, inicio de liquidación, cambios en la autorización para realizar actividades comerciales, etc.).
 
 3.3.2. El **NEGOCIO** está obligado a notificar a **TRISBEE** y a documentar los cambios de estos datos a más tardar en diez (10) días hábiles a partir del día en que ocurrió el cambio de los hechos indicados.
 
-3.4. Idioma
---------------
+### 3.4. Idioma
 
 3.4.1. Por la presente, el **NEGOCIO** reconoce que su idioma de comunicación con **TRISBEE** es principalmente el idioma en el que ha configurado el dispositivo con la Aplicación descargada, si el idioma es un idioma oficial del país en el que **TRISBEE** brinda sus servicios. Si el dispositivo del **NEGOCIO** está configurado en otro idioma, el idioma de comunicación entre **TRISBEE** y el **NEGOCIO** será el castellano. Al aceptar estos Términos y Condiciones del Negocio, el **NEGOCIO** confirma expresamente que comprende el idioma en el que ha descargado la Aplicación y en el que **TRISBEE** se comunica.
 
@@ -304,22 +285,19 @@ SECCIÓN 3 – OTROS ACUERDOS
 
 3.4.3. Los Términos y Condiciones del Negocio están redactados en castellano.
 
-3.5. Confirmación de no ser una Persona Expuesta Políticamente
---------------------------------------------------------------------
+### 3.5. Confirmación de no ser una Persona Expuesta Políticamente
 
 3.5.1. Al aceptar estos Términos y Condiciones del Negocio, el **NEGOCIO** confirma que no es una “Persona Expuesta Políticamente", entendida como persona natural, nacional o extranjera, que cumple o que en los últimos cinco (5) años ha cumplido funciones públicas destacadas o funciones prominentes en una organización internacional, sea en el territorio nacional o extranjero y cuya circunstancias financieras puedan ser objeto de un interés. Asimismo, se considera como PEP al colaborador directo de la máxima autoridad de la institución.
 
 3.5.2. Si el **NEGOCIO** no está seguro de si puede utilizar los servicios de **TRISBEE** y en qué condiciones, puede comunicarse con **TRISBEE** en cualquier momento, y verificar sus circunstancias juntamente con **TRISBEE.**
 
-3.6. Requisitos técnicos
----------------------------
+### 3.6. Requisitos técnicos
 
 3.6.1. **TRISBEE** puede establecer requisitos técnicos que el **NEGOCIO** debe cumplir al implementar y utilizar los Métodos de Pago del Negocio. Estos requisitos pueden cambiar de vez en cuando. Estos pueden ser, en particular, requisitos técnicos para una solución técnica específica de la conexión del sistema del **NEGOCIO** a la API.
 
 3.6.2. El **NEGOCIO** está obligado a cumplir con los requisitos técnicos especificados sin demoras indebidas después de haber sido notificado por **TRISBEE**, a más tardar en el plazo anunciado por **TRISBEE** junto con los (nuevos) requisitos técnicos especificados. Si el **NEGOCIO** no cumple con los requisitos técnicos, no tiene derecho a continuar con la utilización de los Métodos de Pago del Negocio específicos para los que se establecen estos requisitos. Si los (nuevos) requisitos técnicos representan una dificultad o restricción significativa para el uso de los Métodos de pago del Negocio por parte del **NEGOCIO**, este tiene derecho a resolver el contrato de servicios de pago unilateralmente en cualquier momento.
 
-3.7. Disponibilidad de los servicios de pago
------------------------------------------------
+### 3.7. Disponibilidad de los servicios de pago
 
 3.7.1. **TRISBEE** no garantiza un alcance o disponibilidad específicos de los servicios de pago de **TRISBEE** o un Método de Pago del Negocio específico.
 
@@ -327,16 +305,15 @@ SECCIÓN 3 – OTROS ACUERDOS
 
 3.7.3. **TRISBEE** hará todo lo posible por informar al **NEGOCIO** de la restricción o interrupción del funcionamiento de la Aplicación o de otro Método de pago del Negocio de manera oportuna y adecuada.
 
-3.8. Resolución de controversias
-------------------------------------
+### 3.8. Resolución de controversias
+
 3.8.1. En caso el NEGOCIO no esté satisfecho con los servicios de pago proporcionados por TRISBEE, tiene derecho a dirigir su queja por correo electrónico a [ayuda@trisbee.pe](ayuda@trisbee.pe). Para la presentación de la queja se aplicará lo indicado en los numerales 2.6.3 al 2.6.5.
 
 3.8.2. Los presentes Términos y Condiciones del Negocio se regirán e interpretarán de conformidad con las disposiciones normativas vigentes y aplicables en la República del Perú a las operaciones que involucran los servicios de **TRISBEE**.
 
 3.8.3. Para cualquier controversia o disputa surgida con motivo de la interpretación y/o ejecución de los servicios, el **NEGOCIO** acepta, al igual que **TRISBEE**, someterse a la jurisdicción de los Jueces y Tribunales competentes del Distrito Judicial de la ciudad de Lima. El **NEGOCIO** expresamente renuncia a cualquier otra jurisdicción que pudiera corresponderle debido a su domicilio presente.
 
-3.9. Duración del contrato y enmiendas a los Términos y Condiciones del Negocio 
------------------------------------------------------------------------------------
+### 3.9. Duración del contrato y enmiendas a los Términos y Condiciones del Negocio
 
 3.9.1. La aceptación de los Términos y Condiciones del Negocio confirma que se le ha proporcionado al **NEGOCIO** toda la información necesaria relevante para la toma de decisiones sobre la celebración de un contrato con **TRISBEE** antes de la conclusión real de la relación contractual. Además, confirma haber leído todas las condiciones establecidas en este documento y demás políticas incorporadas por referencia antes de la celebración del contrato, comprender todo su contenido y entenderlos como específicos y comprensibles, así como los derechos individuales y obligaciones derivadas de la relación contractual con **TRISBEE** como totalmente claras.
 
@@ -352,13 +329,11 @@ SECCIÓN 3 – OTROS ACUERDOS
 
 3.9.7. El **NEGOCIO** reconoce que **TRISBEE** es la única parte que tiene derecho a ceder a otra entidad sus derechos y obligaciones derivados de la relación contractual. **TRISBEE** está facultada a realizar dicha cesión en cualquier momento, estando obligado a notificar al **NEGOCIO** previamente, y a garantizar que esteconservará todos sus derechos y obligaciones con la nueva entidad. En dicho caso, el **NEGOCIO** tendrá derecho a resolver el contrato antes de la fecha de entrada en vigor de la cesión de derechos y obligaciones a la nueva entidad.
 
-3.10. Consultas, quejas y reclamos
----------------------------------
+### 3.10. Consultas, quejas y reclamos
 
 3.10.1. **TRISBEE** busca brinda un servicio de la más alta calidad y para ello cuenta con un espacio en su Plataforma para la absolución de consultas, adicionalmente a ello, el **NEGOCIO** puede escribir un correo a [ayuda@trisbee.pe](ayuda@trisbee.pe) para obtener más información y solicitar una atención personalizada. \[Asimismo, tratándose de consumidores, es posible presentar quejas y reclamos en el Libro de Reclamaciones Virtual cuando lo estime conveniente\].
 
-3.11. Propiedad intelectual
-------------------------------
+### 3.11. Propiedad intelectual
 
 3.11.1. **TRISBEE** se esfuerza constantemente en la mejora e innovación de sus servicios, por todos los derechos de propiedad intelectual contenidos en sus plataformas son de su titularidad. Se encuentra totalmente prohibido el uso de cualquier nombre, signo o elemento en general que haya sido difundido a través de nuestras distintas plataformas sin contar con el consentimiento previo, expreso y por escrito de **TRISBEE**.
 

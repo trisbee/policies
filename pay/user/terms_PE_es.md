@@ -1,13 +1,12 @@
-Términos y Condiciones del Usuario
-==================================
+# Términos y Condiciones del Usuario
 
-1.1. Contrato con el USUARIO
------------------------
+## Sección 1
+
+### 1.1. Contrato con el USUARIO
 
 Los presentes Términos y Condiciones constituyen parte integrante del contrato de servicios de pago celebrado entre **TRISBEE PERÚ S.A.C.** (“**TRISBEE”**) y el **USUARIO**, los cuales deberán ser aceptados conjuntamente cuando este entregue a **TRISBEE** la información requerida para su correcta identificación u otra documentación solicitada. Estos Términos y Condiciones regulan los derechos y obligaciones de las partes respecto de la prestación de servicios de pago (“**Términos y Condiciones del Usuario**”).
 
-1.2. Definiciones
------------------
+##@ 1.2. Definiciones
 
 1.2.1. **TRISBEE:** empresa proveedora de servicios de pago a pequeña escala, identificada con RUC N° **20606944617** y domiciliada en Calle Los Tulipanes 147, Interior 106, Urb. Lima Polo Hunt, Santiago de Surco.
 
@@ -19,8 +18,7 @@ Los presentes Términos y Condiciones constituyen parte integrante del contrato 
 
 1.2.5 **CUENTA DE PAGO**: Cuenta virtual mantenida para un **USUARIO** que ha decidido utilizar el servicio de pago de **TRISBEE.**
 
-1.3. El servicio de pago de TRISBEE
------------------------------------
+### 1.3. El servicio de pago de TRISBEE
 
 1.3.1. **TRISBEE** brinda al **USUARIO** los siguientes servicios:
 
@@ -35,11 +33,9 @@ El **USUARIO** puede remitir pagos al **NEGOCIO** por la compra de bienes y serv
 
 1.3.2. En el supuesto que el **USUARIO** —con una Cuenta de Pago con **TRISBEE**— y/o el **CLIENTE** del **NEGOCIO** realicen su pago al **NEGOCIO** a través de la Aplicación o la API, la Aplicación o la API sirven solo como terminal de pago del **NEGOCIO**.
 
-Sección 2 – Derechos y Obligaciones 
-------------------------------------
+## Sección 2 – Derechos y Obligaciones
 
-2.1. Condiciones de uso de la Aplicación por el USUARIO
---------------------------------------------------------------
+### 2.1. Condiciones de uso de la Aplicación por el USUARIO
 
 2.1.1. **TRISBEE** desarrolla y opera la Aplicación, a través de la cual el **USUARIO** puede realizar transacciones de pago en un **NEGOCIO** registrado por la provisión de bienes y/o servicios.
 
@@ -65,8 +61,7 @@ Sección 2 – Derechos y Obligaciones 
 
 2.1.9. La Aplicación está protegida principalmente por un código PIN. El código PIN utilizado para abrir la Aplicación es seleccionado por el **USUARIO** durante la activación de la Aplicación de acuerdo con el numeral 2.2 de estos Términos y Condiciones del Usuario. De igual manera, se recomienda al **USUARIO** que active la función de verificación biométrica en su dispositivo para abrir la Aplicación (Touch ID, Face ID). El **USUARIO** es responsable de proteger su dispositivo móvil y de activar todas las funciones de seguridad para el acceso al dispositivo y a la Aplicación, de modo de que ningún tercero pueda acceder a la Aplicación sin el consentimiento del **USUARIO**. El incumplimiento de estas instrucciones impactará significativamente la resolución de cualquier queja relacionada a algún servicio de pago o transacción específica que podría presentar el **USUARIO**.
 
-2.2. Instalación de la Aplicación y Condiciones para el uso del servicio de pago de TRISBEE
-----------------------------------------------------------------------------------------------
+### 2.2. Instalación de la Aplicación y Condiciones para el uso del servicio de pago de TRISBEE
 
 2.2.1. **TRISBEE** permite la descarga de la Aplicación a través de Google Play (para Android) y App Store (para iOS). La instalación de la Aplicación está condicionada a la posesión de un dispositivo móvil con un sistema operativo compatible, una tarjeta SIM de un operador de telefonía móvil que preste servicios dentro del Perú y conexión a Internet. El **USUARIO** deberá tener al menos 18 años.
 
@@ -84,8 +79,7 @@ Sección 2 – Derechos y Obligaciones 
 
 2.2.8. En caso de olvido o pérdida de la contraseña vinculada con la Aplicación, el **USUARIO** podrá recuperar su contraseña reiniciando el proceso de validación, en el cual se enviará al **USUARIO** un código seguro a través de SMS para que pueda iniciar sesión nuevamente y cambiar su contraseña.
 
-2.3. Identificación del USUARIO
-----------------------------------
+### 2.3. Identificación del USUARIO
 
 2.3.1. **TRISBEE** requiere información sobre el **USUARIO** y sobre las transacciones que realizaría a través de **TRISBEE**, la cual es procesada para cumplir con las obligaciones contractuales y legales existentes. Para dichos efectos, el **USUARIO** deberá proporcionar a **TRISBEE** datos e información válida, exacta, precisa y verdadera. Para más información sobre el tratamiento de los datos personales del **USUARIO**, consultar nuestra Política de Privacidad. El **USUARIO** garantiza y responde, en cualquier caso, por la veracidad, exactitud, integridad, vigencia y autenticidad de los datos e información proporcionada a **TRISBEE**.
 
@@ -113,8 +107,7 @@ Sección 2 – Derechos y Obligaciones 
 
 **TRISBEE** notificará al **USUARIO** los motivos de su desaprobación, la terminación de los servicios de pago, el bloqueo temporal o la restricción de la prestación de los servicios de pago, o la negativa a realizar una transacción de pago específica de tal manera y en la medida que proteja el contenido del procedimiento de verificación de **TRISBEE** y con el fin de garantizar su eficacia.
 
-2.4. Recarga de la Cuenta de Pago y ejecución de transacciones en la Aplicación
-----------------------------------------------------------------------------------
+### 2.4. Recarga de la Cuenta de Pago y ejecución de transacciones en la Aplicación
 
 2.4.1. Para recargar la Cuenta de Pago utilizada para los pagos ingresados por el **USUARIO** en la Aplicación, el **USUARIO** primero debe configurar el método de recarga en la Aplicación. El **USUARIO** puede recargar la Cuenta de Pago de la siguiente manera:
 
@@ -142,8 +135,7 @@ En todos los casos, el **USUARIO** realiza todos los pasos de recarga de la Cuen
 
 2.4.9. El **USUARIO** es el exclusivo responsable por las órdenes de pago y sus consecuencias. **TRISBEE** no verificará la causa u obligación que originó la instrucción de pago, ni las demás circunstancias relativas a la instrucción de pago (unless there is reasonable suspicion that the transaction is fraudulent and/or risky). En ese orden de ideas, **TRISBEE** no será responsable ni garantizará el cumplimiento de las obligaciones que hubiesen asumido los **USUARIOS** con los **NEGOCIOS** en relación con los pagos a efectuar a través de **TRISBEE**. El **USUARIO** reconoce y acepta que al realizar transacciones con los **NEGOCIOS** lo hace por su propia voluntad, prestando su consentimiento libremente y bajo su propio riesgo y responsabilidad.
 
-2.5. Transacciones sospechosas y riesgosas
------------------------------------------
+### 2.5. Transacciones sospechosas y riesgosas
 
 2.5.1. En el caso de que **TRISBEE**, en base en la verificación de una transacción de pago realizada por el **USUARIO** a través de la Aplicación de conformidad con el numeral 2.4.7., concluye que la transacción de pago es sospechosa y/ o riesgosa (si existe una sospecha justificada de fraude):
 
@@ -161,8 +153,7 @@ En todos los casos, el **USUARIO** realiza todos los pasos de recarga de la Cuen
 
 (ii) rechazar la instrucción de pago en cuestión si, con base en la información y los documentos de respaldo proporcionados, **TRISBEE** concluye que la transacción de pago es sospechosa y/o riesgosa. El rechazo de la transacción por parte de **TRISBEE** se notificará sin demora al **USUARIO** y/o al **NEGOCIO**, siendo que el pago no se remitirá a este último.
 
-2.6. Quejas sobre órdenes de pago ingresadas o pagos recibidos, cancelaciones y reembolsos
----------------------------------------------------------------------------------------------
+### 2.6. Quejas sobre órdenes de pago ingresadas o pagos recibidos, cancelaciones y reembolsos
 
 2.6.1. **TRISBEE** considera todas las órdenes de pago ingresadas en la Aplicación como las órdenes ingresadas por el **USUARIO** o una persona autorizada por este, a menos que el **USUARIO** notifique específicamente a **TRISBEE** que este no sea el caso. En efecto, el **USUARIO** se compromete a notificar a **TRISBEE** en forma inmediata y por medio idóneo, de cualquier uso no autorizado de su Cuenta de Pago, así como del ingreso o de intentos de ingreso por terceros no autorizados a la misma.
 
@@ -204,16 +195,13 @@ Una solicitud de cancelación de una transacción de pago solo puede presentarse
 
 2.6.10. **TRISBEE** cancelará una transacción de pago o reembolsará un pago a solicitud del **USUARIO** solo con el consentimiento expreso del **NEGOCIO**. Si el **NEGOCIO** está de acuerdo con la cancelación de una determinada transacción de pago o con la devolución de un pago, el **NEGOCIO** estará obligado, si el pago ya ha sido acreditado en su cuenta bancaria, a devolver el monto del pago en cuestión a la cuenta bancaria de **TRISBEE** de la que recibieron el pago. Al devolver el pago, **TRISBEE** abonará el monto del pago en cuestión a la Cuenta de pago del **USUARIO**, a más tardar al día siguiente de que el pago devuelto por el **NEGOCIO** se haya acreditado en la cuenta bancaria de **TRISBEE**.
 
-2.7. Comisiones
---------------
+### 2.7. Comisiones
 
 2.7.1. **TRISBEE** no cobra ninguna comisión por los servicios de pago proporcionados al **USUARIO**.
 
-SECCIÓN 3 – OTROS ACUERDOS
---------------------------
+## SECCIÓN 3 – OTROS ACUERDOS
 
-3.1. Responsabilidades
----------------------
+### 3.1. Responsabilidades
 
 3.1.1. El **USUARIO** es totalmente responsable de cualquier daño (tanto material como no material) causado por sus acciones a **TRISBEE**, a personas relacionadas con **TRISBEE**, involucradas en la mediación de los servicios de pago, o al **NEGOCIO** si inflige el daño:
 
@@ -235,8 +223,7 @@ SECCIÓN 3 – OTROS ACUERDOS
 
 3.1.3. **TRISBEE** no es de ninguna manera responsable de la seguridad, legalidad, calidad u otras propiedades de los bienes o servicios adquiridos mediante pago mediante **TRISBEE.** En el caso de que el precio (o una parte de este) de los bienes y/o servicios pagados originalmente a través de la Aplicación debiera ser reembolsado en base a una queja sobre los bienes y servicios presentada por el **USUARIO** con el **NEGOCIO**, **TRISBEE** puede mediar en el reembolso a favor de la cuenta bancaria/de pago del **USUARIO** del monto correspondiente conforme al acuerdo entre el **USUARIO** y el **NEGOCIO**, pero solo en el caso de su mutuo consentimiento expreso y, siempre después de que el **NEGOCIO** devuelva el monto del reclamo reconocido (hasta el monto del pago original) a la cuenta bancaria de **TRISBEE** desde la que originalmente se pagó al **NEGOCIO**.
 
-3.2. Avisos
-----------
+### 3.2. Avisos
 
 3.2.1. Las comunicaciones, avisos o documentos de **TRISBEE** al **USUARIO** se enviarán principalmente a su dirección de correo electrónico, registrado vía la Aplicación, o a la dirección de correo electrónico notificada posteriormente y/o mediante un mensaje en la Aplicación. Un documento se considera notificado a más tardes un (1) día después de su envío al **USUARIO**.
 
@@ -244,15 +231,13 @@ SECCIÓN 3 – OTROS ACUERDOS
 
 3.2.3. El **USUARIO** podrá contactar a **TRISBEE** a través de todos los canales disponibles indicados en su sitio web, perfiles de redes sociales u otros canales de comunicación administrados, a menos que se establezca un método específico de comunicación y entrega de solicitudes, comunicaciones u otros documentos para una circunstancia específica en estos Términos y Condiciones del Usuario (por ejemplo, presentación de una queja de acuerdo con el numeral 2.6.4.).
 
-3.3. Cambios en la información del USUARIO
------------------------------------------
+### 3.3. Cambios en la información del USUARIO
 
 3.3.1. El **USUARIO** está obligado a notificar a **TRISBEE** sobre cualquier cambio en sus datos identificativos o de contacto (nombre, apellidos, dirección de correo electrónico, etc.). Si desde la identificación se le han emitido nuevos documentos de identidad al **USUARIO**, este está obligado a proporcionárselos a **TRISBEE**. 
 
 3.3.2. El **USUARIO** está obligado a notificar a **TRISBEE** y a documentar los cambios de estos datos a más tardar en diez (10) días hábiles a partir del día en que ocurrió el cambio de los hechos indicados.
 
-3.4. Idioma
------------
+### 3.4. Idioma
 
 3.4.1. El **USUARIO** reconoce que su idioma de comunicación con **TRISBEE** es principalmente el idioma en el que ha configurado el dispositivo con la Aplicación descargada, si el idioma es un idioma oficial del país en el que **TRISBEE** brinda sus servicios. Si el dispositivo del **USUARIO** está configurado en otro idioma, el idioma de comunicación entre **TRISBEE** y el **USUARIO** será el castellano. Al aceptar estos Términos y Condiciones del Usuario, el **USUARIO** confirma expresamente que comprende el idioma en el que ha descargado la Aplicación y en el que **TRISBEE** se comunica.
 
@@ -260,15 +245,13 @@ SECCIÓN 3 – OTROS ACUERDOS
 
 3.4.3. Los Términos y Condiciones del Usuario están redactados en castellano.
 
-3.5. Confirmación de no ser una “persona expuesta políticamente”
----------------------------------------------------------------
+### 3.5. Confirmación de no ser una “persona expuesta políticamente”
 
 3.5.1. Al aceptar estos Términos y Condiciones del Usuario, el **USUARIO** confirma que no es una “persona políticamente expuesta”, entendida como la persona natural, nacionales o extranjera, que cumple o que en los últimos cinco (5) años ha cumplido funciones públicas destacadas o funciones prominentes en una organización internacional, sea en el territorio nacional o extranjero y cuya circunstancias financieras puedan ser objeto de un interés. Asimismo, se considera como PEP al colaborador directo de la máxima autoridad de la institución.
 
 3.5.2. Si el **USUARIO** no está seguro de si puede utilizar los servicios de **TRISBEE** y en qué condiciones, puede comunicarse con **TRISBEE** en cualquier momento, y verificar sus circunstancias juntamente con **TRISBEE.**
 
-3.6. Disponibilidad de los servicios de pago
--------------------------------------------
+### 3.6. Disponibilidad de los servicios de pago
 
 3.6.1. **TRISBEE** no garantiza un alcance o disponibilidad específicos de los servicios de pago de **TRISBEE** o un Método de Pago del Negocio específico.
 
@@ -276,8 +259,7 @@ SECCIÓN 3 – OTROS ACUERDOS
 
 3.6.3. **TRISBEE** hará todo lo posible por informar al **USUARIO** de la restricción o interrupción del funcionamiento de la Aplicación o de otro Método de pago del Negocio de manera oportuna y adecuada.
 
-3.7. Resolución de controversias
---------------------------------
+### 3.7. Resolución de controversias
 
 3.7.1. En caso el **USUARIO** no esté satisfecho con los servicios de pago proporcionados por **TRISBEE**, tiene derecho a dirigir su queja por correo electrónico a [ayuda@trisbee.pe](mailto:ayuda@trisbee.pe). Para la presentación de la queja se aplicará lo indicado en los numerales 2.6.3. al 2.6.5.
 
@@ -287,8 +269,7 @@ SECCIÓN 3 – OTROS ACUERDOS
 
 3.7.4. Para cualquier controversia o disputa surgida con motivo de la interpretación y/o ejecución de los servicios, el **USUARIO** acepta, al igual que **TRISBEE**, someterse a la jurisdicción de los Jueces y Tribunales competentes del Distrito Judicial de la ciudad de Lima. El **USUARIO** expresamente renuncia a cualquier otra jurisdicción que pudiera corresponderle debido a su domicilio presente.
 
-3.8. Duración del contrato y enmiendas a los Términos y Condiciones
-------------------------------------------------------------------
+### 3.8. Duración del contrato y enmiendas a los Términos y Condiciones
 
 3.8.1. La aceptación de los Términos y Condiciones del Usuario confirma que se ha proporcionado al **USUARIO** toda la información necesaria relevante para la toma de decisiones sobre la celebración de un contrato con **TRISBEE** antes de la conclusión real de la relación contractual. Además, el **USUARIO** confirma haber leído todas las condiciones establecidas en este documento y demás políticas incorporadas por referencia antes de la celebración del contrato, comprender todo su contenido y entenderlos como específicos y comprensibles, así como los derechos individuales y obligaciones derivadas de la relación contractual con **TRISBEE** como totalmente claras.
 
@@ -304,8 +285,7 @@ SECCIÓN 3 – OTROS ACUERDOS
 
 3.8.7. El **USUARIO** reconoce que **TRISBEE** es la única parte que tiene derecho a ceder a otra entidad sus derechos y obligaciones derivados de la relación contractual . **TRISBEE** está facultada a realizar dicha cesión en cualquier momento, estando obligado a notificar al **USUARIO** previamente, y a garantizar que esteconservará todos sus derechos y obligaciones con la nueva entidad. En dicho caso, el **USUARIO** tendrá derecho a resolver el contrato antes de la fecha de entrada en vigor de la cesión de derechos y obligaciones a la nueva entidad.
 
-3.9. Propiedad intelectual
--------------------------
+### 3.9. Propiedad intelectual
 
 3.9.1. **TRISBEE** se esfuerza constantemente en la mejora e innovación de sus servicios, por todos los derechos de propiedad intelectual contenidos en sus plataformas son de su titularidad. Se encuentra totalmente prohibido el uso de cualquier nombre, signo o elemento en general que haya sido difundido a través de nuestras distintas plataformas sin contar con el consentimiento previo, expreso y por escrito de **TRISBEE**.
 
