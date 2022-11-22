@@ -71,22 +71,13 @@ sensitive or personal data therein.**
 **(3) Why do we process cookies?**
 ----------------------------------
 
-1.  **To ensure full functionality and usability of our website** -
-    > cookies required to ensure the full functionality and usability of
-    > our website (so-called technical cookies).
+1.  **To ensure full functionality and usability of our website** - cookies required to ensure the full functionality and usability of our website (so-called technical cookies).
 
-2.  **To facilitate browsing of our website** – cookies that are not
-    > absolutely necessary for the full functioning of the website,
-    > nevertheless improving the users’ experience.
+2.  **To facilitate browsing of our website** – cookies that are not absolutely necessary for the full functioning of the website, nevertheless improving the users’ experience.
 
-3.  **In our legitimate interest** - using cookies, we measure traffic
-    > and keep statistics about your behavior on the website. We can
-    > monitor and improve the functionality and security of our website,
-    > application and other services.
+3.  **In our legitimate interest** - using cookies, we measure traffic and keep statistics about your behavior on the website. We can monitor and improve the functionality and security of our website, application and other services.
 
-4.  **To customize advertising and marketing messages** - we tailor
-    > advertising and its targeting to your needs or use cookies
-    > for retargeting.
+4.  **To customize advertising and marketing messages** - we tailor advertising and its targeting to your needs or use cookies for retargeting.
 
 In order to prevent unauthorized access to our cookies and similar
 technologies, we have security measures in place wherever necessary. The
