@@ -2,6 +2,13 @@
 
 inspired by https://github.com/basecamp/policies
 
+## Checklist
+- [ ] All the steps bellow should be approved by Lenka (Legal & Compliance Manager)
+- [ ] Create new TCs and keep in mind changing the date of validity.
+- [ ] Prepare a notification e-mail and define who should receive it. (e.g. https://app.hubspot.com/email/8435474/edit/92797583531/settings )
+- [ ] Make changes on the web according to the new TCs.
+- [ ] Send a notification e-mail and publish web changes on the same date.
+- [ ] When the new TCs are "active", move the old TCs to the Archive.
 
 ## Contributing
 
