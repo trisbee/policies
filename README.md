@@ -11,7 +11,7 @@ All the steps bellow should be approved by [Lenka](https://github.com/BubbleB7) 
 - [ ] Create new TCs and keep in mind changing the date of validity
 - [ ] Prepare a [notification e-mail](https://app.hubspot.com/email/8435474/edit/92797583531/settings) and define who should receive it
 - [ ] Make changes [on the web](https://www.trisbee.com/terms) according to the new TCs
-- [ ] Send a notification e-mail and publish web changes on the same date
+- [ ] Send a notification e-mail (⚠️two months before the start of validity) and publish web changes on the same date
 - [ ] When the new TCs are "active", move the old TCs to the Archive (links to github commits [on the website](https://www.trisbee.com/terms))
 
 ### Best practice
