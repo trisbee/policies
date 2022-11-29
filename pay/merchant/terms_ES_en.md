@@ -351,4 +351,4 @@ Trisbee shall confirm to the Merchant the receipt of the complaint and shall inv
  
  
  
-These Terms and Conditions enter into force and take effect on 1 January 2023.
+These Terms and Conditions enter into force and take effect on 29 January 2023.

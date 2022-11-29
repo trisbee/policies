@@ -328,4 +328,4 @@ Trisbee potvrdí Uživateli přijetí stížnosti s tím, že tuto obratem proš
  
  
  
-Tyto obchodní podmínky vstupují v platnost a jsou účinné od 1. ledna 2023.
+Tyto obchodní podmínky vstupují v platnost a jsou účinné od 29. ledna 2023.

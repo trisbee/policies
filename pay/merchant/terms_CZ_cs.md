@@ -352,4 +352,4 @@ Trisbee potvrdí Obchodníkovi přijetí stížnosti s tím, že tuto obratem pr
 **4.11.7.** Obchodník je srozuměn s tím, že Trisbee je oprávněno kdykoli převést svá práva a povinnosti vyplývající ze smluvního vztahu s Obchodníkem na jiný subjekt. V takovém případě je Trisbee povinno tuto skutečnost oznámit Obchodníkovi předem, přičemž platí, že Obchodníkovi zůstanou i vůči novému subjektu plně zachována všechna jeho práva a povinnosti. Obchodník má v této souvislosti právo smlouvu vypovědět, a to až do dne účinnosti přechodu práv a povinností na nový subjekt.
  
 
-Tyto obchodní podmínky vstupují v platnost a jsou účinné od 1. ledna 2023.
+Tyto obchodní podmínky vstupují v platnost a jsou účinné od 29. ledna 2023.
