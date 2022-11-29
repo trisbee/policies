@@ -1,5 +1,5 @@
 # CASHBACK - Terms of Service for Users (PERU)
-(valid and in effect on the date of ……@todo…… 2022)
+(valid and in effect on the date of 15.11.2022)
 
 **TRISBEE PERÚ S.A.C.**, with its registered office at Calle los Tulipanes No. 147, Interior 106, Urbanización Lima Polo Hunt, distrito de Santiago de Surco, provincia y departamento de Lima, RUC No. 20606944617
 (hereinafter referred to as "**Trisbee**")
