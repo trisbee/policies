@@ -12,7 +12,7 @@ El Usuario no está autorizado a realizar ninguna operación de pago en nombre d
 
 Las presentes Condiciones de Cashback están directamente vinculadas a los Términos y Condiciones del Usuario y estarán en vigencia hasta que Trisbee notifique la finalización de la prestación del servicio. Al mismo tiempo, Trisbee se reserva el derecho de modificar unilateralmente los Términos y Condiciones del servicio prestado con efecto a partir del día siguiente a la publicación de la modificación de los Términos y Condiciones en la página web de Trisbee o en la Aplicación de Trisbee.
 
-## Definitions
+## Definiciones
 
 **(1) Por Usuario** se entiende cualquier persona que utilice los servicios de pago prestados por Trisbee y que, para entablar una relación contractual con los mismos, haya facilitado a Trisbee sus datos de identificación y haya aceptado los Términos y Condiciones de los servicios de pago de Trisbee, y/o haya cumplido todos los requisitos contractuales y legales para la prestación de los servicios seleccionados. El Usuario debe ser mayor de 18 años. Para más información, consulte https://www.trisbee.pe/terms/users.
 
@@ -20,7 +20,7 @@ Las presentes Condiciones de Cashback están directamente vinculadas a los Térm
 
 ## Límites de Cashback
 
-| Type                                                      | Value      |
+| Tipo                                                      | Valor      |
 |-----------------------------------------------------------|------------|
 | Porcentaje por transacción                                | 10.00 %    |
 | Límite de cashback por día (calendario) y por Usuario     | 40.00 SOL  |
