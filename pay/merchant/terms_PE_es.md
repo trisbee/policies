@@ -178,7 +178,7 @@ El **NEGOCIO** reconoce y comprende que **TRISBEE** tiene derecho a solicitar al
 *   La descripción de las circunstancias sobre la transacción de pago reclamada.
 *   La medida correctiva que busca el **NEGOCIO**.
 
-El **NEGOCIO** puede enviar su queja electrónicamente por correo electrónico a [ayuda@trisbee.pe](mailto:ayuda@trisbee.pe)
+El **NEGOCIO** puede enviar su queja electrónicamente por correo electrónico a [soporte@trisbee.pe](mailto:soporte@trisbee.pe)
 
 2.6.4. Si la reclamación presentada por el **NEGOCIO** contiene todos los datos necesarios para que **TRISBEE** la verifique (numeral 2.6.3), esta se compromete a resolver la reclamación en un plazo máximo de treinta (30) días calendario, el cual podrá ser prorrogado por un plazo similar si las circunstancias lo ameritan, situación que será notificada oportunamente al **NEGOCIO**. Si una queja presentada por el **NEGOCIO** careciera de los datos necesarios para la verificación de la transacción de pago reclamada, o si es necesario que el **NEGOCIO** aclare ciertos hechos o presente documentos relevantes, **TRISBEE** se comunicará con él para asegurarse de que se completen dichos hechos y documentos. En caso **TRISBEE** no tenga respuesta del **NEGOCIO** dará por terminado el procedimiento de queja y se lo notificará por el mismo canal por el que haya sido presentado el reclamo. 2.6.5.
 
@@ -196,7 +196,7 @@ Después de examinar todos los hechos y documentos, **TRISBEE** decidirá sobre 
 *   La identificación de la transacción a la que se refiere la cancelación o reembolso, indicación del código de transacción único, la fecha y el monto de la transacción;
 *   El motivo para solicitar la cancelación o el reembolso.
 
-Una solicitud de cancelación de una transacción de pago solo puede presentarse dentro del día del ingreso de la transacción de pago en cuestión por parte del **USUARIO**; sin embargo, si el día siguiente es un día no laborable, la cancelación de la transacción de pago podrá solicitarse al final del día hábil siguiente. Se puede presentar una solicitud de reembolso, a más tardar, tres (3) meses a partir de la fecha en que el **USUARIO** envió la orden de pago a favor del **NEGOCIO** en cuestión. El **NEGOCIO** puede enviar su solicitud de cancelación o reembolso por correo electrónico a [ayuda@trisbee.pe](mailto:ayuda@trisbee.pe)
+Una solicitud de cancelación de una transacción de pago solo puede presentarse dentro del día del ingreso de la transacción de pago en cuestión por parte del **USUARIO**; sin embargo, si el día siguiente es un día no laborable, la cancelación de la transacción de pago podrá solicitarse al final del día hábil siguiente. Se puede presentar una solicitud de reembolso, a más tardar, tres (3) meses a partir de la fecha en que el **USUARIO** envió la orden de pago a favor del **NEGOCIO** en cuestión. El **NEGOCIO** puede enviar su solicitud de cancelación o reembolso por correo electrónico a [soporte@trisbee.pe](mailto:soporte@trisbee.pe)
 
 2.6.7. **TRISBEE** cancelará una transacción de pago o reembolsará un pago a solicitud del **NEGOCIO** solo con el consentimiento expreso del **USUARIO**. Si el **USUARIO** está de acuerdo con la cancelación de una determinada transacción de pago o con la devolución de un pago, el **NEGOCIO** estará obligado, si el pago ya ha sido acreditado en su cuenta bancaria, a devolver el monto del pago en cuestión a la cuenta bancaria de **TRISBEE** de la que recibieron el pago. Al devolver el pago, **TRISBEE** abonará el monto del pago en cuestión a la cuenta de pago del **USUARIO** \[o a la cuenta bancaria que dicho **USUARIO** haya registrado ante **TRISBEE**\], a más tardar al día hábil siguiente de que el pago devuelto por el **NEGOCIO** se haya acreditado en la cuenta bancaria de **TRISBEE**.
 
@@ -220,10 +220,10 @@ Esto significa que el **NEGOCIO** pagará la misma comisión por una transacció
 *   El **NEGOCIO** solo puede utilizar los Métodos de Pago del Negocio para aceptar pagos por las transacciones por sus bienes o servicios.
 *   El **NEGOCIO** no puede, bajo ninguna circunstancia, permitir al **USUARIO** el retiro de efectivo (Cash out).
 *   El **NEGOCIO** no puede utilizar los Métodos de Pago del Negocio para proporcionar servicios de pago a otras personas.
-*   Si el **NEGOCIO** acepta, utilizando los Métodos de Pago del Negocio, una transacción que genera sospechas de que podría constituir lavado de dinero o financiamiento del terrorismo, informará inmediatamente ello a **TRISBEE** por correo electrónico a [ayuda@trisbee.pe](mailto:ayuda@trisbee.pe), o por cualquier otro medio apropiado que sea puesto a su disposición por **TRISBEE**.
+*   Si el **NEGOCIO** acepta, utilizando los Métodos de Pago del Negocio, una transacción que genera sospechas de que podría constituir lavado de dinero o financiamiento del terrorismo, informará inmediatamente ello a **TRISBEE** por correo electrónico a [soporte@trisbee.pe](mailto:soporte@trisbee.pe), o por cualquier otro medio apropiado que sea puesto a su disposición por **TRISBEE**.
 *   Previa solicitud, el **NEGOCIO** está obligado a proporcionar a **TRISBEE** y a sus socios comerciales involucrados en la prestación de los servicios de pago y, cuando corresponda, a las autoridades e instituciones gubernamentales pertinentes, toda la cooperación necesaria en el análisis de los clientes o las transacciones de pago, en la medida que sea requerida por **TRISBEE** o sus socios comerciales por la ley aplicable.
 *   El **NEGOCIO** se compromete a no realizar ninguna actividad que pueda permitirle a este o a terceros alterar o hacer un mal uso del sistema de servicios de pago de **TRISBEE**.
-*   El **NEGOCIO** está obligado a tratar cada transacción individual realizada utilizando cualquiera de los Métodos de Pago del Negocio con el debido cuidado y en caso de que sospeche de alguna conducta significativa no estándar o fraudulenta por parte del **CLIENTE** o del **USUARIO**, que podría ocasionar daños a **TRISBEE**, a terceros o al propio **NEGOCIO**, se compromete a informar la transacción de pago a **TRISBEE** y a no aceptarla (por ejemplo, en forma de una solicitud de cancelación de la transacción de pago o una solicitud de reembolso). Incluso si el **NEGOCIO** no rechaza la transacción de pago, está obligado a reportar la sospecha de fraude a **TRISBEE** sin demora por correo electrónico a [ayuda@trisbee.pe](ayuda@trisbee.pe), o por cualquier otro medio apropiado.
+*   El **NEGOCIO** está obligado a tratar cada transacción individual realizada utilizando cualquiera de los Métodos de Pago del Negocio con el debido cuidado y en caso de que sospeche de alguna conducta significativa no estándar o fraudulenta por parte del **CLIENTE** o del **USUARIO**, que podría ocasionar daños a **TRISBEE**, a terceros o al propio **NEGOCIO**, se compromete a informar la transacción de pago a **TRISBEE** y a no aceptarla (por ejemplo, en forma de una solicitud de cancelación de la transacción de pago o una solicitud de reembolso). Incluso si el **NEGOCIO** no rechaza la transacción de pago, está obligado a reportar la sospecha de fraude a **TRISBEE** sin demora por correo electrónico a [soporte@trisbee.pe](soporte@trisbee.pe), o por cualquier otro medio apropiado.
 *   El **NEGOCIO** está obligado a brindar cooperación adecuada y oportuna a **TRISBEE** cuando esta evalúa transacciones de pago identificadas a favor del **NEGOCIO** como sospechosas y riesgosas (independientemente de la naturaleza de dicha sospecha).
 
 2.8.2. **Indicación del uso de los servicios de pago de TRISBEE**
@@ -307,7 +307,7 @@ Esto significa que el **NEGOCIO** pagará la misma comisión por una transacció
 
 ### 3.8. Resolución de controversias
 
-3.8.1. En caso el NEGOCIO no esté satisfecho con los servicios de pago proporcionados por TRISBEE, tiene derecho a dirigir su queja por correo electrónico a [ayuda@trisbee.pe](ayuda@trisbee.pe). Para la presentación de la queja se aplicará lo indicado en los numerales 2.6.3 al 2.6.5.
+3.8.1. En caso el NEGOCIO no esté satisfecho con los servicios de pago proporcionados por TRISBEE, tiene derecho a dirigir su queja por correo electrónico a [soporte@trisbee.pe](soporte@trisbee.pe). Para la presentación de la queja se aplicará lo indicado en los numerales 2.6.3 al 2.6.5.
 
 3.8.2. Los presentes Términos y Condiciones del Negocio se regirán e interpretarán de conformidad con las disposiciones normativas vigentes y aplicables en la República del Perú a las operaciones que involucran los servicios de **TRISBEE**.
 
@@ -331,7 +331,7 @@ Esto significa que el **NEGOCIO** pagará la misma comisión por una transacció
 
 ### 3.10. Consultas, quejas y reclamos
 
-3.10.1. **TRISBEE** busca brinda un servicio de la más alta calidad y para ello cuenta con un espacio en su Plataforma para la absolución de consultas, adicionalmente a ello, el **NEGOCIO** puede escribir un correo a [ayuda@trisbee.pe](ayuda@trisbee.pe) para obtener más información y solicitar una atención personalizada. \[Asimismo, tratándose de consumidores, es posible presentar quejas y reclamos en el Libro de Reclamaciones Virtual cuando lo estime conveniente\].
+3.10.1. **TRISBEE** busca brinda un servicio de la más alta calidad y para ello cuenta con un espacio en su Plataforma para la absolución de consultas, adicionalmente a ello, el **NEGOCIO** puede escribir un correo a [soporte@trisbee.pe](soporte@trisbee.pe) para obtener más información y solicitar una atención personalizada. \[Asimismo, tratándose de consumidores, es posible presentar quejas y reclamos en el Libro de Reclamaciones Virtual cuando lo estime conveniente\].
 
 ### 3.11. Propiedad intelectual
 

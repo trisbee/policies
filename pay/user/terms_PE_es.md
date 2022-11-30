@@ -169,7 +169,7 @@ En todos los casos, el **USUARIO** realiza todos los pasos de recarga de la Cuen
   *   La descripción de las circunstancias sobre la transacción de pago reclamada.
   *   La medida correctiva que busca el **USUARIO**.
 
-  El **USUARIO** puede enviar su queja electrónicamente por correo electrónico a [ayuda@trisbee.pe](mailto:ayuda@trisbee.pe)
+  El **USUARIO** puede enviar su queja electrónicamente por correo electrónico a [soporte@trisbee.pe](mailto:soporte@trisbee.pe)
 
 2.6.5. Si la reclamación presentada por el **USUARIO** contiene todos los datos necesarios para que **TRISBEE** la verifique (numeral 2.6.4), esta se compromete a resolver la reclamación en un plazo máximo de treinta (30) días calendario, el cual podrá ser prorrogado por un plazo similar si las circunstancias lo ameritan, situación que será notificada oportunamente al **USUARIO**. Si una queja presentada por el **USUARIO** careciera de los datos necesarios para la verificación de la transacción de pago reclamada, o si es necesario que el **USUARIO** aclare ciertos hechos o presente documentos relevantes, **TRISBEE** se comunicará con él para asegurarse de que se completen dichos hechos y documentos. En caso **TRISBEE** no tenga respuesta del **USUARIO** dará por terminado el procedimiento de queja y se lo notificará por el mismo canal por el que haya sido presentado el reclamo.
 
@@ -189,7 +189,7 @@ En todos los casos, el **USUARIO** realiza todos los pasos de recarga de la Cuen
   *   La identificación de la transacción a la que se refiere la cancelación o reembolso, indicación del código de transacción único, la fecha y el monto de la               transacción;
   *   El motivo para solicitar la cancelación o el reembolso.
 
-Una solicitud de cancelación de una transacción de pago solo puede presentarse dentro del día del ingreso de la transacción de pago en cuestión por parte del **USUARIO**; sin embargo, si el día siguiente es un día no laborable, la cancelación de la transacción de pago podrá solicitarse al final del día hábil siguiente. Se puede presentar una solicitud de reembolso, a más tardar, tres (3) meses a partir de la fecha en que el **USUARIO** envió la orden de pago a favor del **NEGOCIO** en cuestión. El **USUARIO** puede enviar su solicitud de cancelación o reembolso por correo electrónico a [ayuda@trisbee.pe](mailto:ayuda@trisbee.pe)
+Una solicitud de cancelación de una transacción de pago solo puede presentarse dentro del día del ingreso de la transacción de pago en cuestión por parte del **USUARIO**; sin embargo, si el día siguiente es un día no laborable, la cancelación de la transacción de pago podrá solicitarse al final del día hábil siguiente. Se puede presentar una solicitud de reembolso, a más tardar, tres (3) meses a partir de la fecha en que el **USUARIO** envió la orden de pago a favor del **NEGOCIO** en cuestión. El **USUARIO** puede enviar su solicitud de cancelación o reembolso por correo electrónico a [soporte@trisbee.pe](mailto:soporte@trisbee.pe)
 
 2.6.9. En tal caso, **TRISBEE** tiene derecho a verificar la solicitud de cancelación de la transacción de pago o reembolso del pago y verificar las razones de esta con el **NEGOCIO** ingresado en la orden de pago. Si el **NEGOCIO** no está de acuerdo con la cancelación o devolución en cuestión y, al mismo tiempo, comunica los hechos o aporta documentos cuya valoración inicial dé motivo para considerar justificada su disconformidad, **TRISBEE** no cancelará la operación de pago ni reembolsará el pago ingresado por el **USUARIO**. Asimismo, **TRISBEE** no cancelará la transacción de pago ni reembolsará el pago a solicitud del **USUARIO** si el **NEGOCIO** no responde a la solicitud de consentimiento para la cancelación de la transacción de pago o el reembolso del pago dentro de los tres (3) días posteriores a la fecha en que se le envió la solicitud. En tal caso, se aconseja al **USUARIO** que resuelva el asunto con el **NEGOCIO**.
 
@@ -261,7 +261,7 @@ Una solicitud de cancelación de una transacción de pago solo puede presentarse
 
 ### 3.7. Resolución de controversias
 
-3.7.1. En caso el **USUARIO** no esté satisfecho con los servicios de pago proporcionados por **TRISBEE**, tiene derecho a dirigir su queja por correo electrónico a [ayuda@trisbee.pe](mailto:ayuda@trisbee.pe). Para la presentación de la queja se aplicará lo indicado en los numerales 2.6.3. al 2.6.5.
+3.7.1. En caso el **USUARIO** no esté satisfecho con los servicios de pago proporcionados por **TRISBEE**, tiene derecho a dirigir su queja por correo electrónico a [soporte@trisbee.pe](mailto:soporte@trisbee.pe). Para la presentación de la queja se aplicará lo indicado en los numerales 2.6.3. al 2.6.5.
 
 3.7.2. El **USUARIO** podrá acudir también al INDECOPI, a fin de presentar su reclamo, queja o denuncia administrativa.
 

@@ -20,7 +20,7 @@ Las cookies se pueden dividir en dos categorías **según su vida útil:**
 
 Además, **TRISBEE** usa, en particular, las herramientas de la compañía Google, tales como **Google Analytics, Google Adwords, Google Tag Manager p.ej. (cookies propias y a largo plazo)** para recopilar datos y generar estadísticas sobre el comportamiento de los usuarios para adaptar mejor nuestros servicios. Los datos se evalúan en forma colectiva y, por tanto, de forma anónima, lo que no permite identificar a los usuarios.
 
-También los aplicativos pueden ser utilizados en un modo que no permitan recopilar los datos de información sobre el comportamiento de los usuarios. Lo que se debe hacer es configurar de tal forma su navegador u oponerse a la recopilación de datos, para lo cual podrá enviar su solicitud a nuestro correo electrónico: [ayuda@trisbee.pe](mailto:ayuda@trisbee.pe).
+También los aplicativos pueden ser utilizados en un modo que no permitan recopilar los datos de información sobre el comportamiento de los usuarios. Lo que se debe hacer es configurar de tal forma su navegador u oponerse a la recopilación de datos, para lo cual podrá enviar su solicitud a nuestro correo electrónico: [soporte@trisbee.pe](mailto:soporte@trisbee.pe).
 
 Sin embargo, si los usuarios se oponen al procesamiento de cookies técnicas indispensables para el funcionamiento del sitio web o de la aplicación, **TRISBEE** no podrá garantizar su plena funcionalidad y compatibilidad.
 
@@ -46,7 +46,7 @@ La información detallada sobre la configuración para almacenar las cookies en 
 
 ## ¿Cuánto tiempo serán procesados los datos?
 
-Los datos de las cookies, utilizados para medir el tráfico y el funcionamiento del sitio web o la aplicación, se almacenan solo durante el tiempo estrictamente necesario para el funcionamiento del sitio web o la aplicación y también para las estadísticas. Los tiempos de almacenamiento y procesamiento individuales de las cookies (incluido el marketing) se rigen por las condiciones comerciales del respectivo servicio utilizado (ver siguiente acápite). El consentimiento para el uso de las cookies puede ser retirado en cualquier momento, cambiando simplemente la configuración del navegador web, o contactándonos al siguiente correo electrónico: [ayuda@trisbee.pe](mailto:ayuda@trisbee.pe).
+Los datos de las cookies, utilizados para medir el tráfico y el funcionamiento del sitio web o la aplicación, se almacenan solo durante el tiempo estrictamente necesario para el funcionamiento del sitio web o la aplicación y también para las estadísticas. Los tiempos de almacenamiento y procesamiento individuales de las cookies (incluido el marketing) se rigen por las condiciones comerciales del respectivo servicio utilizado (ver siguiente acápite). El consentimiento para el uso de las cookies puede ser retirado en cualquier momento, cambiando simplemente la configuración del navegador web, o contactándonos al siguiente correo electrónico: [soporte@trisbee.pe](mailto:soporte@trisbee.pe).
 
 ## ¿Quién puede acceder a los datos de las cookies?
 

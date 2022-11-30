@@ -58,7 +58,7 @@ Asimismo, prestas tu consentimiento expreso e informado para que **TRISBEE** ced
 3.  Derecho de Cancelación: permite al **Cliente** suprimir sus datos personales cuando estos ya no sean necesarios para la finalidad para la cual hayan sido recopilados.
 4.  Derecho de Oposición: permite al **Cliente** oponerse, por un motivo legítimo y fundado, a una situación personal concreta, a figurar en un banco de datos personales o a su tratamiento, siempre que por una ley no se disponga lo contrario.
 
-Para ello, el titular de los datos personales deberá dirigir su solicitud ante **TRISBEE** a través de la siguiente dirección de correo electrónico: [ayuda@trisbee.pe](mailto:ayuda@trisbee.com).
+Para ello, el titular de los datos personales deberá dirigir su solicitud ante **TRISBEE** a través de la siguiente dirección de correo electrónico: [soporte@trisbee.pe](mailto:soporte@trisbee.com).
 
 La solicitud deberá contener, al menos, lo siguiente: (i) nombres y apellidos del titular de los datos personales; (ii) petición concreta; (iii) descripción clara del dato personal vinculado al ejercicio del derecho de información y/o de los derechos ARCO y la manifestación expresa del derecho que pretende ejercer; (iv) documentos que sustenten la petición; (v) correo electrónico a donde **TRISBEE** realizará las comunicaciones que correspondan; y, (vi) fecha y firma.
 
@@ -78,6 +78,6 @@ Con motivo de la mejora continua de nuestros procesos, **TRISBEE** podrá modifi
 
 La presente Política de Privacidad se regirá e interpretará de conformidad con las leyes de la República del Perú. Cualquier controversia relacionada con la interpretación, validez, celebración o cumplimiento de la presente Política de Privacidad será dirimida en los tribunales ordinarios de la ciudad de Lima. El **Cliente** expresamente renuncia a cualquier otra jurisdicción que pudiera corresponderle debido a su domicilio presente.
 
-Si existiera alguna consulta o duda con respecto a la presente Política, por favor comunicarse al siguiente correo electrónico [ayuda@trisbee.pe](mailto:ayuda@trisbee.com), el cual será dirigido al área encargada de absolver consultas.
+Si existiera alguna consulta o duda con respecto a la presente Política, por favor comunicarse al siguiente correo electrónico [soporte@trisbee.pe](mailto:soporte@trisbee.com), el cual será dirigido al área encargada de absolver consultas.
 
 La presente Política de Privacidad entrará en vigor y será efectiva el 5 de Mayo de 2021.
