@@ -97,7 +97,7 @@ Verification of identity is performed based on the data communicated by the Merc
 
 (iii)	performing of a verification payment through the Merchant’s bank account as specified under (ii) above.
 
-**2.3.4.**	Trisbee will guide the Merchant through the verification and identification procedure either as part of the Merchant’s registration on the Trisbee website or via e-mail messages containing relevant instructions and guidelines. Similarly, Trisbee will guide the Merchant through the provision of further required facts according to Article 2.2.3 of these Business Terms and Conditions. In case of any confusion regarding the verification and identification procedure or the provision of further information and/or materials, the Merchant may use Trisbee customer support; the contacts are listed both on [www.trisbee.com](www.trisbee.com) and in the Business Application.
+**2.3.4.**	Trisbee will guide the Merchant through the verification and identification procedure either as part of the Merchant’s registration on the Trisbee website or via e-mail messages containing relevant instructions and guidelines. Similarly, Trisbee will guide the Merchant through the provision of further required facts according to Article 2.2.3 of these Business Terms and Conditions. In case of any confusion regarding the verification and identification procedure or the provision of further information and/or materials, the Merchant may use Trisbee customer support; the contacts are listed both on [www.trisbee.com](https://www.trisbee.com) and in the Business Application.
 
 **2.3.5.**	Trisbee carries out identification and verification of further facts according to Article 2.3.3. and 2.2.3. of the Business Terms and Conditions without undue delay upon receiving of the necessary data and documents from the Merchant.  Once the identification and verification are completed, Trisbee shall decide whether the Merchant shall be approved or not. The Merchant is notified about the decision by email. The Merchant’s approval is non-compulsory and is always at the discretion of Trisbee, according to the specific circumstances of each individual Merchant.
 
@@ -324,7 +324,7 @@ The Merchants submit their requests for cancellation or refund electronically by
  
 ### 4.10.	Disputes
 
-**4.10.1.** In the event that the Merchant is not in any respect satisfied with the services provided by Trisbee, they are entitled to address their complaint directly to Trisbee, in particular by email to [support@trisbee.com](support@trisbee.com). In order for Trisbee to deal with a Merchant’s complaint, the complaint must contain at least:
+**4.10.1.** In the event that the Merchant is not in any respect satisfied with the services provided by Trisbee, they are entitled to address their complaint directly to Trisbee, in particular by email to [support@trisbee.com](mailto:support@trisbee.com). In order for Trisbee to deal with a Merchant’s complaint, the complaint must contain at least:
 
 - the Merchant’s identification data (in particular the Merchant’s name and surname/ trade name, Commercial Registration No., e-mail address and telephone number);
 - description of the facts and reasons which are the subject of the complaint made by the Merchant; 
@@ -352,5 +352,5 @@ Trisbee shall confirm to the Merchant the receipt of the complaint and shall inv
  
  
  
-These Terms and Conditions enter into force and take effect on 29 January 2023.
+These Terms and Conditions enter into force and take effect on 5 February 2023.
 

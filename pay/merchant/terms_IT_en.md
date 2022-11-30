@@ -323,7 +323,7 @@ The Merchants submit their requests for cancellation or refund electronically by
  
 ### 4.10.	Disputes
 
-**4.10.1.** In the event that the Merchant is not in any respect satisfied with the services provided by Trisbee, they are entitled to address their complaint directly to Trisbee, in particular by email to [support@trisbee.com](support@trisbee.com). In order for Trisbee to deal with a Merchant’s complaint, the complaint must contain at least:
+**4.10.1.** In the event that the Merchant is not in any respect satisfied with the services provided by Trisbee, they are entitled to address their complaint directly to Trisbee, in particular by email to [support@trisbee.com](mailto:support@trisbee.com). In order for Trisbee to deal with a Merchant’s complaint, the complaint must contain at least:
 
 - the Merchant’s identification data (in particular the Merchant’s name and surname/ trade name, Commercial Registration No., e-mail address and telephone number);
 - description of the facts and reasons which are the subject of the complaint made by the Merchant; 
@@ -351,4 +351,4 @@ Trisbee shall confirm to the Merchant the receipt of the complaint and shall inv
  
  
  
-These Terms and Conditions enter into force and take effect on 29 January 2023.
+These Terms and Conditions enter into force and take effect on 5 February 2023.
