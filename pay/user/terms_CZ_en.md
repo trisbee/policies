@@ -328,6 +328,6 @@ Trisbee shall confirm to the User the receipt of the complaint and shall investi
  
  
  
-These Terms and Conditions enter into force and take effect on 5 February 2023.
+These Terms and Conditions enter into force and take effect on 12 February 2023.
 
 
