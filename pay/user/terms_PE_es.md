@@ -6,21 +6,21 @@
 
 Los presentes Términos y Condiciones constituyen parte integrante del contrato de servicios de pago celebrado entre **TRISBEE PERÚ S.A.C.** (“**TRISBEE”**) y el **USUARIO**, los cuales deberán ser aceptados conjuntamente cuando este entregue a **TRISBEE** la información requerida para su correcta identificación u otra documentación solicitada. Estos Términos y Condiciones regulan los derechos y obligaciones de las partes respecto de la prestación de servicios de pago (“**Términos y Condiciones del Usuario**”).
 
-##@ 1.2. Definiciones
+### 1.2. Definiciones
 
-1.2.1. **TRISBEE:** empresa proveedora de servicios de pago a pequeña escala, identificada con RUC N° **20606944617** y domiciliada en Calle Los Tulipanes 147, Interior 106, Urb. Lima Polo Hunt, Santiago de Surco.
+**1.2.1. TRISBEE:** empresa proveedora de servicios de pago, identificada con RUC N° **20606944617** y domiciliada en Calle Los Tulipanes 147, Interior 106, Urb. Lima Polo Hunt, Santiago de Surco.
 
-1.2.2. **USUARIO:** cualquier persona natural que usa los servicios de pago de **TRISBEE** y que, con el objetivo de entrar en una relación contractual, ha otorgado a **TRISBEE** información sobre su identificación y que ha aceptado los Términos y Condiciones del Usuario y/o ha cumplido con otras condiciones estipuladas por ley con respecto a los servicios de pago correspondientes.
+**1.2.2. USUARIO:** cualquier persona natural que usa los servicios de pago de **TRISBEE** y que, con el objetivo de entrar en una relación contractual, ha otorgado a **TRISBEE** información sobre su identificación y que ha aceptado los Términos y Condiciones del Usuario y/o ha cumplido con otras condiciones estipuladas por ley con respecto a los servicios de pago correspondientes.
 
-1.2.3. **NEGOCIO:** persona natural o jurídica que ha celebrado un contrato con **TRISBEE** respecto de la prestación de servicios de pago consistente en la aceptación de pagos electrónicos por parte de tercerosy que ha cumplido con todas las condiciones legales y contractuales con respecto a dichos servicios.
+**1.2.3. NEGOCIO:** persona natural o jurídica que ha celebrado un contrato con **TRISBEE** respecto de la prestación de servicios de pago consistente en la aceptación de pagos electrónicos por parte de terceros y que ha cumplido con todas las condiciones legales y contractuales con respecto a dichos servicios.
 
-1.2.4. **CLIENTE** (del **NEGOCIO**)**:** cualquier que usa los servicios del sistema de pago de **TRISBEE**, sea por aplicación móvil o web (**“Aplicación”**) o, mediante el acceso al operador a través de un Interfaz de programación (“**API**”), realizando pagos al **NEGOCIO** por bienes o servicios sin utilizar de forma activa otros servicios de pago provistos por **TRISBEE.** En estos casos la Aplicación funciona para el **NEGOCIO** como un medio de aceptación de pagos.
+**1.2.4. CLIENTE** (del **NEGOCIO**)**:** cualquier que usa los servicios del sistema de pago de **TRISBEE**, sea por aplicación móvil o web (**“Aplicación”**) o, mediante el acceso al operador a través de un Interfaz de programación (“**API**”), realizando pagos al **NEGOCIO** por bienes o servicios sin utilizar de forma activa otros servicios de pago provistos por **TRISBEE.** En estos casos la Aplicación funciona para el **NEGOCIO** como un medio de aceptación de pagos.
 
-1.2.5 **CUENTA DE PAGO**: Cuenta virtual mantenida para un **USUARIO** que ha decidido utilizar el servicio de pago de **TRISBEE.**
+**1.2.5 CUENTA DE PAGO:** Cuenta virtual mantenida para un **USUARIO** que ha decidido utilizar el servicio de pago de **TRISBEE**.
 
 ### 1.3. El servicio de pago de TRISBEE
 
-1.3.1. **TRISBEE** brinda al **USUARIO** los siguientes servicios:
+**1.3.1. TRISBEE** brinda al **USUARIO** los siguientes servicios:
 
 **a) Remisión de pagos**
 
@@ -29,15 +29,24 @@ Los presentes Términos y Condiciones constituyen parte integrante del contrato 
 
 El **USUARIO** puede remitir pagos al **NEGOCIO** por la compra de bienes y servicios a través de **TRISBEE**. La remisión de pagos solo es posible dentro del         sistema de pago **TRISBEE**, por ejemplo, el pago no se puede enviar a menos que sea un pago a favor de un **NEGOCIO** registrado.
 
-**b) Gestión de la Cuenta de pago**: El **USUARIO** puede transferir fondos a la Cuenta de Pago (by making cash top-up at a designated cash agent), desde su cuenta bancaria de una institución bancaria de confianza mediante transferencia bancaria, transferencia desde billetera de dinero electrónico, o mediante una tarjeta (débito o crédito)). Los fondos guardados en la Cuenta de Pago pueden ser utilizados por el **USUARIO** para remitir pagos de bienes o servicios a los **NEGOCIOS**.
+**b) Gestión de la Cuenta de pago**
 
-1.3.2. En el supuesto que el **USUARIO** —con una Cuenta de Pago con **TRISBEE**— y/o el **CLIENTE** del **NEGOCIO** realicen su pago al **NEGOCIO** a través de la Aplicación o la API, la Aplicación o la API sirven solo como terminal de pago del **NEGOCIO**.
+El **USUARIO** puede transferir fondos a la Cuenta de Pago
+- haciendo una recarga de efectivo en un agente de efectivo designado, 
+- desde su cuenta bancaria de una institución bancaria de confianza mediante transferencia bancaria, 
+- transferencia desde billetera de dinero electrónico, 
+- o mediante una tarjeta (débito o crédito). 
+(no todos los metódos de transferencias de fondos deben estar activos - más información puede encontrar en el sitio web www.trisbee.pe)
+
+Los fondos guardados en la Cuenta de Pago pueden ser utilizados por el **USUARIO** para remitir pagos de bienes o servicios a los **NEGOCIOS**.
+
+**1.3.2.** En el supuesto que el **USUARIO** — con una Cuenta de Pago con **TRISBEE** — y/o el **CLIENTE** del **NEGOCIO** realicen su pago al **NEGOCIO** a través de la Aplicación o la API, la Aplicación o la API sirven solo como terminal de pago del **NEGOCIO**.
 
 ## Sección 2 – Derechos y Obligaciones
 
 ### 2.1. Condiciones de uso de la Aplicación por el USUARIO
 
-2.1.1. **TRISBEE** desarrolla y opera la Aplicación, a través de la cual el **USUARIO** puede realizar transacciones de pago en un **NEGOCIO** registrado por la provisión de bienes y/o servicios.
+**2.1.1. TRISBEE** desarrolla y opera la Aplicación, a través de la cual el **USUARIO** puede realizar transacciones de pago en un **NEGOCIO** registrado por la provisión de bienes y/o servicios.
 
 2.1.2. **TRISBEE** otorga al **USUARIO** una licencia de uso, no exclusiva, no transferible y gratuita sobre la Aplicación (por ejemplo, el derecho a usar la Aplicación), en concordancia con estos Términos y Condiciones del Usuario o, de ser aplicable, de acuerdo con los términos de la plataforma a través de la cual la Aplicación fue descargada. La licencia también se aplica a todas las versiones posteriores de la Aplicación proporcionadas al **USUARIO**, a menos que se proporcione una nueva licencia para usar la Aplicación simultáneamente con la nueva versión de la Aplicación.
 
