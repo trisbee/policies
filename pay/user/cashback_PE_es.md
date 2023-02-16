@@ -1,7 +1,7 @@
 # Cashback - Condiciones de servicio para los usuarios (PERÚ)
-(válidos y vigentes a la fecha de 15.11.2022)
+(válidos y vigentes a la fecha de 09.01.2023)
 
-**TRISBEE PERÚ S.A.C.**, con domicilio fiscal  en Calle los Tulipanes Nº 147, Interior 106, Urbanización Lima Polo Hunt, distrito de Santiago de Surco, provincia y departamento de Lima, RUC Nº 20606944617 
+**TRISBEE PERÚ S.A.C.**, con domicilio fiscal en Calle los Tulipanes Nº 147, Interior 106, Urbanización Lima Polo Hunt, distrito de Santiago de Surco, provincia y departamento de Lima, RUC Nº 20606944617 
 (en adelante "**Trisbee**")
 
 pone a disposición de los Usuarios un servicio de cashback o devolución (en adelante "**Cashback**"), si el Usuario, a través de la Aplicación Trisbee, adquiere bienes y servicios de los Negocios registrados. El Cashback equivale a un porcentaje específico del precio de compra de los bienes y servicios y el porcentaje específico puede estar sujeto a otras condiciones, mientras que la cantidad máxima de Cashback dentro de una sola compra también se establece - [ver los límites en la tabla de abajo](#límites-de-cashback). El Cashback se muestra al Usuario en la Aplicación Trisbee. La prestación del servicio de Cashback no es reclamable, siempre que la decisión de que el Usuario ha cumplido las condiciones del servicio quede a la entera discreción de Trisbee.
@@ -14,14 +14,15 @@ Las presentes Condiciones de Cashback están directamente vinculadas a los Térm
 
 ## Definiciones
 
-**(1) Por Usuario** se entiende cualquier persona que utilice los servicios de pago prestados por Trisbee y que, para entablar una relación contractual con los mismos, haya facilitado a Trisbee sus datos de identificación y haya aceptado los Términos y Condiciones de los servicios de pago de Trisbee, y/o haya cumplido todos los requisitos contractuales y legales para la prestación de los servicios seleccionados. El Usuario debe ser mayor de 18 años. Para más información, consulte https://www.trisbee.pe/terms/users.
+**(1) Por Usuario** se entiende cualquier persona que utilice los servicios de pago prestados por Trisbee como usuario final de bienes y servicios adquiridos (cliente minorista) y que, para entablar una relación contractual con los mismos, haya facilitado a Trisbee sus datos de identificación y haya aceptado los Términos y Condiciones de los servicios de pago de Trisbee, y/o haya cumplido todos los requisitos contractuales y legales para la prestación de los servicios seleccionados. El Usuario debe ser mayor de 18 años. Para más información, consulte https://www.trisbee.pe/terms/users.
 
-**(2) El Negocio** es una entidad que ha celebrado un contrato con Trisbee - directamente o a través de RED DIGITAL DEL PERÚ S.A.C, RUC Nº 20566598389, con dirección para estos efectos en Avenida 28 de Julio Nº. 1044, Piso 9, distrito de Miraflores, provincia y departamento de Lima - en la prestación de servicios de pago consistentes en la aceptación de pagos sin efectivo de terceros - los clientes del negocio y servicio de recarga de saldo de la billetera Trisbee y ha cumplido con todos los requisitos contractuales y legales para la prestación del servicio.
+**(2) El Negocio** es una entidad que ha celebrado un contrato con Trisbee - directamente o a través de RED DIGITAL DEL PERÚ S.A.C, RUC Nº 20566598389, con dirección para estos efectos en Avenida 28 de Julio Nº. 1044, Piso 9, distrito de Miraflores, provincia y departamento de Lima - en la prestación de servicios de pago consistentes en la aceptación de pagos sin efectivo de terceros - los clientes del negocio, y servicio de recarga de saldo de la billetera Trisbee y ha cumplido con todos los requisitos contractuales y legales para la prestación del servicio.
 
 ## Límites de Cashback
 
-| Tipo                                                      | Valor      |
-|-----------------------------------------------------------|------------|
-| Porcentaje por transacción                                | 10.00 %    |
-| Límite de cashback por día (calendario) y por Usuario     | 40.00 SOL  |
-| Límite de cashback por mes  y por Usuario                 | 300.00 SOL |
+| Tipo                                                      	| Valor      	|
+|-------------------------------------------------------------|-------------|
+| Porcentaje por transacción                 			            | 10.00 %    	|
+| Límite de cashback por día (calendario) y por Usuario     	| 40.00 SOL  	|
+| Límite de cashback por mes  y por Usuario                 	| 300.00 SOL 	|
+
