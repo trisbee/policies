@@ -1,8 +1,6 @@
-**Cookies**
-===========
+# Cookies
 
-**(1) Co jsou cookies?**
-------------------------
+## (1) Co jsou cookies?
 
 Soubory cookies jsou malé datové soubory umísťované do paměti vašeho
 prohlížeče nebo zařízení při prohlížení webové stránky. Ve vašem
@@ -35,8 +33,7 @@ základní funkčnosti webu či aplikace.
 **Cookies třetích stran (third party cookies)** jsou nejčastěji cookies
 reklamních systémů, widgetu sociálních sítí nebo vložených videí.
 
-**(2) Jaké cookies využíváme?**
--------------------------------
+## (2) Jaké cookies využíváme?
 
 **Využíváme především technické cookies (první strany, krátkodobé)**,
 které jsou nezbytné pro zajištění elementární funkce webových stránek,
@@ -67,8 +64,7 @@ kompatibilitu našeho webu.
 **Cookies nikdy nepoužíváme k tomu, abychom vás osobně identifikovali, a
 nikdy do nich neumisťujeme citlivá nebo osobní data.**
 
-**(3) Proč cookies zpracováváme?**
-----------------------------------
+## (3) Proč cookies zpracováváme?
 
 1.  **Plná funkčnost využívání našich webových stránek** - soubory
     cookies vyžadované pro zajištění plné funkčnosti využívání našich
@@ -97,8 +93,7 @@ získaném formou jednoznačného sdělení zobrazeného na našich webových
 stránkách při vaší první návštěvě. Tento souhlas můžete odvolat v
 nastavení vašeho prohlížeče.
 
-**(4) Jak lze upravit využívání cookies?**
-------------------------------------------
+## (4) Jak lze upravit využívání cookies?
 
 Všechny cookies, které už na vašem zařízení jsou, můžete vymazat.
 Většina prohlížečů také nabízí možnost blokace umisťování cookies na
@@ -112,8 +107,7 @@ tom, jak si nastavit svůj prohlížeč a omezit nebo povolit zpracování
 cookies, najdete například
 [*zde*](https://www.whatismybrowser.com/guides/how-to-enable-cookies/).
 
-**(5) Jak dlouho budeme údaje zpracovávat?**
---------------------------------------------
+## (5) Jak dlouho budeme údaje zpracovávat?
 
 Data z cookies pro měření návštěvnosti a fungování webu nebo aplikace
 jsou uchovány pouze na dobu nezbytně nutnou pro fungování webu a dále
@@ -123,8 +117,7 @@ marketingových) se řídí obchodními podmínkami konkrétně využité služb
 stačí, když změníte nastavení svého webového prohlížeče, nebo se nám
 ozvete na **podpora@trisbee.com**.
 
-**(6) Kdo může mít k údajům z cookies přístup?**
-------------------------------------------------
+## (6) Kdo může mít k údajům z cookies přístup?
 
 Shromážděné cookies soubory jsou zpracovány dalšími zpracovateli:
 

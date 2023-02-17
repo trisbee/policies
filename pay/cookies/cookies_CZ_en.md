@@ -1,8 +1,6 @@
-**Cookies**
-===========
+# Cookies
 
-**(1) What are cookies?**
--------------------------
+## (1) What are cookies?**
 
 Cookies are small data files stored in the memory of your browser or
 device while browsing a website. They are stored in your browser by the
@@ -36,8 +34,7 @@ of the website or application.
 **Third party cookies** are most often those of advertising systems,
 social network widgets or embedded videos.
 
-**(2) What cookies do we use?**
--------------------------------
+## (2) What cookies do we use?
 
 **We mainly use technical cookies** **(first party and session
 cookies)** that are necessary to ensure basic functionalities of the
@@ -90,8 +87,7 @@ for in the form of an explicit message displayed on our website on your
 first visit. The consent may be revoked in your browser settings
 anytime.
 
-**(4) How to adjust the use of cookies?**
------------------------------------------
+## (4) How to adjust the use of cookies?
 
 You can delete all cookies previously stored in your device. Most
 browsers also offer the option of blocking the placement of cookies into
@@ -104,8 +100,7 @@ how to set up your browser and restrict or enable processing of cookies
 can be for instance found
 [*here*](https://www.whatismybrowser.com/guides/how-to-enable-cookies/).
 
-**(5) How long will we process the data?**
-------------------------------------------
+## (5) How long will we process the data?
 
 Data from cookies intended for the traffic measuring and for operation
 of the website or application are stored only for the time strictly
@@ -117,8 +112,7 @@ withdraw your consent to the use of cookies at any time by simply
 changing the settings of your web browser, or by contacting us at
 **support@trisbee.com**.
 
-**(6) Who is authorized to access cookies data?**
--------------------------------------------------
+## (6) Who is authorized to access cookies data?
 
 The collected cookies are processed by the following data processors:
 

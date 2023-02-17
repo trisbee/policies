@@ -1,6 +1,5 @@
 # Zásady ochrany soukromí v Trisbee
 
-
 Tento dokument přímo navazuje na Obchodní podmínky Trisbee pro Uživatele
 a Obchodní podmínky Trisbee pro Obchodníky vydané obchodní společností
 
@@ -28,7 +27,7 @@ telefonicky na **tel. +420 774 140 044**, písemně e-mailem na
 kanceláře **Kamenická 33, 170 00 Praha 7**, případně elektronicky datovou
 schránkou - ID DS Trisbee s.r.o.: **ghwkp68**.
 
-## **(1) S jakými osobními údaji pracujeme?**
+## (1) S jakými osobními údaji pracujeme?
 
 **"Osobním údajem"** je jakákoliv informace týkající se identifikované
 nebo identifikovatelné osoby.
@@ -43,7 +42,7 @@ Trisbee shromažďuje následující kategorie osobních údajů:
 
 -   Informace o Klientech Obchodníka v takovém rozsahu, aby bylo možné zpracování platby a odeslání platby Obchodníkovi.
 
-## **(2) Kdo s vašimi údaji pracuje?**
+## (2) Kdo s vašimi údaji pracuje?
 
 S vašimi údaji pracuje především Trisbee jako poskytovatel Služby a
 správce těchto osobních údajů. V některých případech je ovšem nutné
@@ -53,7 +52,7 @@ splnění veškerých smluvních a zákonných povinností Trisbee vůči Vám,
 státním institucím či jiným subjektům vyplývající z činnosti Trisbee
 nebo jako prevence a ochrana před podvodnými platebními transakcemi.
 
-## **(3) Proč s vašimi údaji pracujeme?**
+## (3) Proč s vašimi údaji pracujeme?
 
 A.  Abychom Vám mohli poskytnout Služby, které jste si objednali.
 Například když Vám vedeme platební účet, pracujeme s údaji o
@@ -83,7 +82,7 @@ identifikace uživatele platebních služeb jako prevenci a ochranu
 před podvodnými platebními transakcemi nebo abychom splnili své
 účetní a daňové povinnosti.
 
-## **(4) Jak dlouho budeme s údaji pracovat?**
+## (4) Jak dlouho budeme s údaji pracovat?
 
 S údaji k účelu (A.) budeme pracovat, dokud nepřestanete Službu
 používat. S údaji k účelu (B.) budeme pracovat po dobu nutnou k
@@ -96,7 +95,7 @@ nebo od vašeho posledního využití Služby, případně od přijetí platby
 přes Službu. S údaji k účelu (E.) budeme pracovat, dokud trvá právní
 povinnost.
 
-## **(5) Kde s vašimi údaji pracujeme?**
+## (5) Kde s vašimi údaji pracujeme?
 
 V rámci EU. Pokud jsme nuceni údaje, v nezbytně nutném rozsahu, a to pro
 zajištění našich smluvních i právních povinností, předat mimo EU, bude
@@ -105,7 +104,7 @@ režimu programu Privacy Shield (program spolupráce s USA) – bližší
 informace naleznete na stránkách Evropské komise nebo Úřadu pro ochranu
 osobních údajů.
 
-## **(6) Vaše práva**
+## (6) Vaše práva
 
 Právní předpisy na ochranu osobních údajů (zejména zák. č. 101/2000 Sb.,
 o ochraně osobních údajů, v platném znění a dále Nařízení Evropského

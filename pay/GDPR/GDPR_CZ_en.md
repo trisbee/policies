@@ -1,4 +1,5 @@
 # Trisbee Privacy Policy
+==========================
 
 This document is directly related to the Trisbee Terms and Conditions -
 User Terms and Conditions and Merchant Terms and Conditions issued by
@@ -46,7 +47,7 @@ Trisbee processing the following categories of personal data:
 
 <a name="who"></a>
 
-## **(2) Who processes your personal data?**
+## (2) Who processes your personal data?
 
 Your personal data are primarily processed by Us as a Service provider
 and administrator of personal data. In some cases, however, it is
@@ -102,7 +103,7 @@ last communication with Trisbee or from your last use of the Service, or
 from receiving payment through the Service. We process the data for the
 purpose (E.) as long as the legal obligation persists.
 
-## **(5) Where do We process your data?**
+## (5) Where do We process your data?
 
 Within the EU. If We are forced to transmit data outside the EU, to the
 extent necessary to ensure our contractual and legal obligations, their
@@ -111,7 +112,7 @@ under the Privacy Shield Program (program for cooperation between EU and
 USA) - for more information, see European Commission website or the
 Office for Personal Data Protection website.
 
-## **(6) Your rights**
+## (6) Your rights
 
 Laws regarding the protection of personal data (especially Act No.
 101/2000 Coll., on the protection of personal data, as amended, and

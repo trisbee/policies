@@ -293,4 +293,4 @@ Una solicitud de cancelación de una transacción de pago solo puede presentarse
 
 3.9.3. **Signos distintivos e invenciones:** todos los signos distintivos (marcas de productos y de servicios, lemas y nombres comerciales) y diseños que se muestran en nuestras plataformas son propiedad de **TRISBEE**. Se encuentra prohibido su uso o solicitud de registro ante cualquier autoridad gubernamental.
 
-Estos Términos y Condiciones entrarán en vigor y serán efectivos el 5 de Mayo de 2021.
+Estos Términos y Condiciones entrarán en vigor y serán efectivos el 12 de Mayo de 2021.
