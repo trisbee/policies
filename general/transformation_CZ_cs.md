@@ -29,7 +29,7 @@ Společníci Zúčastněných společností mají podle Zákona o přeměnách z
 - práva podat návrh na určení neplatnosti projektu přeměny...
 
 
-<br />
+---
 
 
 Trisbee s.r.o  
